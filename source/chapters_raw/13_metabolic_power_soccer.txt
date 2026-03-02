@@ -1,0 +1,699 @@
+# Chapter 13: Metabolic Power and Oxygen Consumption in Soccer
+
+
+<!-- Page 298 -->
+Chapter 13
+Metabolic Power and Oxygen
+Consumption in Soccer: Facts
+and Theories
+Cristian Osgnach and Pietro E. di Prampero
+Abstract After a brief overview of the principles underlying the assessment of the
+energy cost of accelerated/decelerated running on ﬂat terrain, as obtained from the
+biomechanical equivalence between this last and uphill/downhill running at con-
+stant speed, metabolic power and actual O2 consumption ( _VO2) will be estimated
+during a typical training drill and during a brief period of a soccer match. This
+exercise will show that: (i) _VO2, as estimated from metabolic power assuming
+mono-exponential _VO2 on/off responses with a time constant of 20 s at the muscle
+level, is essentially equal to that directly measured by means of a metabolic cart.
+Hence, (ii) the fractions of the overall energy expenditure derived from aerobic and
+anaerobic sources can also be estimated, provided that the individual _VO2max is
+also known. Furthermore, the metabolic power approach will be updated to make it
+possible to estimate energy cost and metabolic power also during walking episodes.
+Indeed, whereas for any given incline the energy cost of running is independent of
+the speed, the energy cost of walking reaches a minimum at an optimal speed above
+and below which it increases. With increasing the incline of the terrain, the curve
+relating energy cost to walking speed retains this general U shape, but is shifted to a
+higher level, the optimum speed decreasing towards lower values. In addition, for
+any given incline there exists a “transition speed” at which the energy cost of
+walking becomes greater than that of running, and which corresponds to the speed
+at which the subject spontaneously adopts the running gait. Hence the updated
+algorithms detect this transition speed, as a function of the equivalent slope, and
+utilise the appropriate energy cost of walking or running in the subsequent calcu-
+lations. The concluding paragraphs are devoted to a critical discussion of the
+principal assumptions underlying the metabolic power approach. Speciﬁcally, we
+will stress that the approach as such can be meaningfully applied only to forward
+walking or running. Thus, whereas other speciﬁc sport activities such as jumping,
+C. Osgnach (&)  P. E. di Prampero
+Department of Sport Sciences, Exelio srl, 33100 Udine, Italy
+e-mail: cristian.osgnach@gmail.com
+P. E. di Prampero
+Department of Medical Sciences, University of Udine, 33100 Udine, Italy
+© Springer International Publishing AG 2018
+J.-B. Morin and P. Samozino (eds.), Biomechanics of Training and Testing,
+https://doi.org/10.1007/978-3-319-05633-3_13
+299
+
+
+<!-- Page 299 -->
+moving backwards, laterally, or with the ball, may be taken into account, at least in
+a broad sense, assuming appropriate correction factors (possibly on the bases of
+actual experimental data), other activities, such as those occurring in rugby, of
+American football, need entirely different approaches, a fact that, all too often, does
+not seem to be appropriately considered.
+13.1
+Introduction
+Soccer, as well as many other team sports, is characterised by frequent episodes of
+accelerated and decelerated running. These bring about a substantial increase of the
+overall energy cost of any given fraction of a soccer drill or match, as compared to a
+similar period of running on ﬂat terrain at an equal average speed. Nevertheless, the
+assessment of the work load in soccer has traditionally been based on speed and
+distance (Carling et al. 2008; Sarmento et al. 2014) regardless of the time course of
+the intervening speed changes, thus obviously neglecting the frequent occurrence of
+sudden transitions between low and high exercise intensities and vice versa
+(Osgnach et al. 2010). In recent years, however, thanks to the advances in GPS
+technology, on the one side, and in our understanding of the energetics of accel-
+erated and decelerated running, on the other, it has become possible: (i) to estimate
+the time course of the instantaneous metabolic power requirement of any given
+player and (ii) to infer therefrom the time course of the actual O2 consumption
+( _VO2) (di Prampero et al. 2015).
+The present chapter is devoted to review the basic assumptions underlying the
+estimate of metabolic power, as well as its physiological meaning and its rela-
+tionships with the actual _VO2, with the aim of arriving at a clear-cut picture of the
+overall energy expenditure, and of its partition into aerobic and anaerobic fractions,
+during any given time period of the match, or training session. In addition, we will
+also update our previous approach, with the aim of taking into account separately
+the running or walking episodes during any given time period of the match or
+training session.
+However, before proceeding further into these matters it seems useful to sum-
+marise the main principles underlying the estimate of metabolic power, the reader
+being referred to Chap. 12 for a more detailed discussion.
+13.2
+Theory
+Direct measurements of metabolic power during accelerated/decelerated running is
+rather problematic because of the short duration and high intensity of any such
+events that, on the one side, preclude the attainment of the steady state and, on the
+other, imply a metabolic power requirement that may greatly surpass the subjects’
+_VO2max.
+300
+C. Osgnach and P. E. di Prampero
+
+
+<!-- Page 300 -->
+An alternative approach is to estimate metabolic power from the product of the
+energy cost of running (estimated) and the speed (measured) (see Sect. 13.3). In
+turn, the energy cost of running can be estimated assuming that accelerated/
+decelerated running on ﬂat terrain is biomechanically equivalent to uphill/downhill
+running at constant speed.
+The theory underlying the analogy mentioned above is summarised graphically
+in Fig. 13.1, as from the original papers by our group (di Prampero et al. 2005;
+Osgnach et al. 2010); it has been recently reviewed by di Prampero et al. (2015) and
+is brieﬂy sketched below as well as in Chap. 12, the interested reader being referred
+to the original papers. Figure 13.1 shows that accelerated running on ﬂat terrain and
+running uphill at constant speed can be considered biomechanically equivalent,
+provided that the angle (a) between the mean body axis and the terrain is equal in
+both conditions. It necessarily follows that the slope of the terrain, as given by the
+angle between the terrain and the horizontal, is proportional to the complement of a
+(90 −a) that, as shown in Fig. 13.1, increases with the forward acceleration (af).
+Furthermore, the incline of the terrain is generally expressed as the tangent of the
+angle 90 −a; as such it can easily be obtained from the ratio between the forward
+acceleration (af) and the acceleration of gravity (g) (Fig. 13.1):
+af =g ¼ tan ð90 aÞ ¼ ES
+ð13:1Þ
+As calculated, ES is the tangent of the angle that makes accelerated running
+biomechanically equivalent to running at constant speed up a corresponding slope,
+hence the deﬁnition of “Equivalent Slope” (ES).
+In addition to being equivalent to running uphill, accelerated running is char-
+acterised by yet another difference, as compared to constant speed running. Indeed,
+the average force that the runner must develop throughout a whole stride, in the
+former case is given by the product of the runner’s body mass and the vectorial sum
+of the forward acceleration and the acceleration of gravity
+g0 ¼
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+a2
+f þ g2
+
+
+q
+
+
+. As
+such it is greater than that exerted when running uphill at constant speed, in which
+case the force developed by the runner is given by the product of the body mass and
+the acceleration of gravity (see Fig. 13.1). Thus, to take into account this effect, the
+runner’s body mass must be multiplied by a factor here deﬁned “equivalent body
+mass” (EM) as described by:
+EM ¼
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+a2
+f þ g2
+
+
+q
+= g ¼
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+a2
+f = g2
+
+
+þ 1
+r
+ð13:2Þ
+Substituting Eq. (13.1) into Eq. (13.2):
+EM ¼
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+a2
+f = g2
+
+
+þ 1
+r
+¼
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+ES2 þ 1
+p
+ð13:3Þ
+13
+Metabolic Power and VO2 in Soccer: Facts and Theories
+301
+
+
+<!-- Page 301 -->
+It must also be pointed out that during decelerated running, which is equivalent
+to downhill running, and in which case the equivalent slope (ES) is negative, EM
+will nevertheless assume a positive value because ES in Eq. (13.3) is raised to the
+power of 2.
+The Equivalent Slope (ES) and Mass (EM), as obtained from Eqs. (13.1) and
+(13.3), do not take into account the effects of the air resistance. Indeed, to overcome
+this last, during acceleration the runner must lean forward to a greater extent than
+required by the forward acceleration per se. Conversely, during deceleration the air
+resistance “helps” the runner’s braking action, so that he/she leans backwards to a
+lesser extent that required by the (negative) forward acceleration. These effects,
+albeit small, can be taken into account as follows. The air resistance (R) increases
+with the square of the air velocity (v) as described by (di Prampero 2015):
+R ¼ k  v2
+ð13:4Þ
+where k is a constant, the value of which, per kg body mass and when expressing v
+in m s−1, ranges from 0.0025 to 0.0048 (J s2 kg−1 m−3) (Pugh 1970; Tam et al.
+2012; di Prampero et al. 2015). Dimensionally, R is the mechanical work per unit
+body mass and distance (J kg−1 m−1) performed against the air drag. Since the
+numerator of this quantity is work (= mass  acceleration  distance), mass and
+distance cancel out; hence, numerically and dimensionally R = acceleration
+(m s−2). Therefore, to take into account the (small) effects of the air resistance, both
+ES and EM can be calculated replacing af/g in Eqs. (13.1) and (13.3) with the
+quantity af + R. If this is so:
+Fig. 13.1 The subject is accelerating forward while running on ﬂat terrain (left panel) or running
+uphill at constant speed (right panel). COM, subject’s centre of mass; af, forward acceleration; g,
+acceleration of gravity; g0 ¼
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+a2
+f þ g2
+
+
+q
+, vectorial sum of af plus g; T, terrain; H, horizontal; a,
+angle between the runner’s mean body axis throughout the stride and T; 90 −a, angle between T
+and H. Simple geometry shows that the angle A – COM – B is equal to 90 −a. Hence, since the
+length of the segment AB is equal to af, the tangent of the angle 90 −a is given by the ratio AB/
+g = af/g. See text for details. (Modiﬁed after Osgnach et al. 2010)
+302
+C. Osgnach and P. E. di Prampero
+
+
+<!-- Page 302 -->
+ES ¼
+af þ R
+
+
+=g
+ð13:5Þ
+and
+EM ¼
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+ES2 þ 1
+ð
+Þ
+p
+ð13:6Þ
+where the asterisk indicates that the appropriate quantities have been corrected for
+the air resistance. Incidentally, Eq. (13.5) allows one to estimate that running at
+20 km h−1 (5.55 m s−1) on ﬂat terrain in the absence of wind is equivalent to
+running uphill on a treadmill at an incline of about 1% (ES*  (0.0037  5.552) /
+9.81 = 0.0115). This is consistent with the common practice of having the subjects
+run on the treadmill at a slope of 1% to simulate the air resistance encountered in
+the aerobic speed range.
+It can be concluded that, if the time course of the velocity during accelerated/
+decelerated
+running
+is
+determined,
+and
+the
+corresponding
+instantaneous
+accelerations/decelerations calculated, Eqs. (13.5) and (13.6) allow one to obtain
+the appropriate ES* and EM* values, thus converting accelerated/decelerated
+running into the equivalent constant speed uphill/downhill running. Indeed, the
+energy cost of this last (Cr), as a function of the incline (i) in the range between
+i = −0.45 to i = + 0.45, is described by Minetti et al. (2002):
+Cr ¼ 155:4  i5 30:4  i4 43:3  i3 þ 46:3  i2 þ 19:5  i þ 3:6
+ð13:7Þ
+Substituting i with the equivalent slope (ES*), denoting C0 the energy cost of
+constant speed level running, and multiplying by the equivalent body mass (EM*),
+the corresponding energy cost of accelerated/decelerated running can be easily
+obtained:
+Cr ¼ ð155:4  ES5 30:4  ES4 43:3  ES3 þ 46:3  ES2 þ 19:5  ES þ C0Þ
+ EM
+ð13:8Þ
+For a more detailed discussion the reader is referred to Chap. 12.2, as well as to
+the original papers.
+13.3
+Metabolic Power and Oxygen Consumption
+In running, as well as in any other form of locomotion, the product of the instan-
+taneous velocity (v, m s−1) and the corresponding energy cost per unit body mass
+and distance (Cr, J kg−1 m−1) yields the instantaneous metabolic power (E
+
+, W kg-1)
+necessary to proceed at the speed in question:
+13
+Metabolic Power and VO2 in Soccer: Facts and Theories
+303
+
+
+<!-- Page 303 -->
+E
+ ¼ v  Cr
+ð13:9Þ
+As such, the metabolic power is a measure of the overall amount of energy
+required, per unit of time, to reconstitute the ATP utilised for work performance.
+We would like to point out also that Cr in Eq. (13.9) is the value applying at the
+very moment at which v is determined. Therefore, whereas at constant speed, be it
+on ﬂat terrain or up (down) a constant slope, both Cr and v (and hence E
+
+) are
+constant, this is not the case when either the slope of the terrain (and hence the
+corresponding Cr), and/or the speed, vary. It should be noted that, in this latter case,
+the speed changes have a twofold effect on metabolic power: on the one side
+because of the direct role of v in setting E
+
+, on the other because in the acceleration
+(or deceleration) phase Cr is increased (or decreased) in direct proportion to the
+acceleration (deceleration) itself.
+It should also be noted that the preceding considerations, as well as Eq. (13.9) as
+written, apply to running. In soccer, however, several walking periods are inter-
+spersed among running episodes. Since the energy cost of walking (Cw) is sub-
+stantially less than that of running, in order to estimate correctly the metabolic
+power, these events must be clearly identiﬁed and the appropriate energy cost
+values applied, as discussed in detail below (Sect. 13.4).
+At variance with the metabolic power, the actual oxygen consumption ( _VO2) is a
+measure of the amount of ATP actually resynthesized at the expense of the
+oxidative processes. As such, at any given time, _VO2 may be equal, greater, or
+smaller than the metabolic power because:
+i. The oxidative processes are rather sluggish as compared to the rate of change of
+the work intensity, in so far as they adapt to the required metabolic power
+following an exponential process, the time constant of which at the muscle level
+is on the order of 20 s;
+ii. During strenuous exercise bouts of short duration, a common feature in soccer,
+the metabolic power requirement can attain values greatly surpassing the
+subject’s maximal O2 consumption ( _VO2max).
+These considerations show that, whereas in a typical “square wave” aerobic
+exercise, after about 3 min, actual _VO2 and metabolic power coincide, in soccer, as
+well as in many other team sports, because of the occurrence of several high
+intensity bouts of short duration, interspersed among low intensity periods, the time
+course of _VO2 is markedly different than that of metabolic power requirement.
+Hence, at any given time during a match, or a training drill, in the course of which
+the intensity (metabolic power) changes rapidly (Fig. 13.2), the actual _VO2 can be
+smaller, equal or greater that the instantaneous metabolic power, depending on:
+(i) the time proﬁle of the metabolic power requirement and (ii) the subject’s
+_VO2max.
+As discussed in detail elsewhere (di Prampero et al. 2015), knowledge of the
+time course of the metabolic power requirement allows one to estimate the
+304
+C. Osgnach and P. E. di Prampero
+
+
+<!-- Page 304 -->
+corresponding time course of _VO2, assuming a mean time constant of the _VO2
+kinetics during metabolic transients, as from literature data, on the basis of the
+individual _VO2max. The so obtained estimated _VO2 values turned out to be
+essentially equal to the actually measured ones in a group of 9 subjects who
+performed a series of shuttle runs over 25 m distance in 5 s. Each bout was
+immediately followed by an equal run in the opposite direction (again 25 m in 5 s).
+A 20 s interval was interposed between any two bouts, and the whole cycle was
+repeated 10 times (for a total running distance of 500 m). The running speed, the
+corresponding instantaneous acceleration, energy cost and metabolic power were
+then calculated by means of the same set of equations as implemented in a GPS
+system (GPEXE ®, Exelio, Udine, Italy1) and described in detail elsewhere (di
+Prampero et al. 2005, 2015; Osgnach et al. 2010). This allowed us to compare the
+overall amount of O2 consumed, calculated from the integral of the _VO2 time
+course estimated as described above, to the corresponding values obtained by
+means of a portable metabolic cart (K4, Cosmed, Rome, Italy) yielding the actual
+_VO2 consumption on a single breath basis.
+The so obtained data are represented for a typical subject in Fig. 13.3 that reports
+the time integral of:
+Fig. 13.2 Metabolic power (E
+
+, red line, sharp peaks) and O2 consumption ( _VO2, blue line,
+smooth peaks) (W kg−1) as a function of time (s) during a series of shuttle runs (25 m + 25 m in
+5 s + 5 s) followed by a 20 s interval, in one subject. Each cycle was repeated 10 times for a total
+running distance of 500 m. Red areas (above _VO2 and below Ė) and blue areas (below _VO2)
+indicate the anaerobic and aerobic energy yield during the exercise bouts, respectively. Green areas
+(below _VO2 and above Ė) indicate the amount of O2 consumed in the recovery between bouts for
+phosphocreatine resynthesis (alactic O2 debt payment). See text for details (Colour ﬁgure online)
+1For information and further details on the system GPEXE ® (Udine, Italy) the reader is referred to
+www.gpexe.com.
+13
+Metabolic Power and VO2 in Soccer: Facts and Theories
+305
+
+
+<!-- Page 305 -->
+i. Metabolic power requirement (E
+
+, red line, upper);
+ii. _VO2 estimated on the basis of a time constant of 20 s at the muscle level (blue
+line, middle);
+iii. Actually measured _VO2 (green line, lower).
+Inspection of this ﬁgure shows that:
+i. Cumulated _VO2 values (estimated or measured) are very close;
+ii. They follow fairly well the time course of the total energy expenditure (i.e. of
+the time integral of the metabolic power requirement);
+iii. The time constant of the _VO2 kinetics, as given by the horizontal time dif-
+ference between the two functions (measured or estimated _VO2, and metabolic
+power) turns out longer (35 s) at the measuring site (the upper airways) than
+that assumed to hold at the muscle level (20 s).
+These considerations lend experimental support to the approach brieﬂy described
+above. Speciﬁcally, this approach allows one to assess: (i) the area below the _VO2
+curve (see Fig. 13.2), thus yielding the overall amount of energy actually derived
+from aerobic sources, as well as (ii) the area comprised between the curve reporting
+the time course of the metabolic power and that reporting the time course of _VO2. It
+must be pointed out that the physiological signiﬁcance of the area between these
+two curves depends crucially on their relative position. Indeed, when the metabolic
+power is greater than _VO2 the corresponding area is a measure of the amount of
+Fig. 13.3 Time integral (J kg−1) as a function of time (s) of: (i) metabolic power requirement (red,
+upper), as determined by GPS (GPEXE ®, Exelio, Udine, Italy); (ii) _VO2 estimated on the basis of
+a time constant of 20 s (blue, middle); and (iii) _VO2 actually measured by means of a portable
+metabolic cart (K4, Cosmed, Rome, Italy) (green, lower), during the same training drill and in the
+same subject as in Fig. 13.2. See text for details. (Modiﬁed after di Prampero et al. 2015) (Colour
+ﬁgure online)
+306
+C. Osgnach and P. E. di Prampero
+
+
+<!-- Page 306 -->
+energy derived from anaerobic sources. When, on the contrary the metabolic power
+is smaller than _VO2, the corresponding area indicates the amount of energy derived
+from aerobic sources to “pay the alactic O2 debt”, i.e. to resynthesize a certain
+amount of phosphocreatine (PCr) split in the preceding phase of the exercise. This
+state of affairs allows one to draw a complete energy balance of any given period of
+a match or of a training drill. Indeed, if the overall time integral (recovery periods
+included) of the _VO2 curve is equal to that of the metabolic power curve, it can be
+concluded that the energy sources utilised throughout the entire exercise cycle were
+completely aerobic, in so far that the amount of PCr split during the high intensity
+bouts was completely reconstituted in the recovery periods between bouts. On the
+contrary, if the time integral of the metabolic power curve is greater than that of the
+_VO2 curve, it can be concluded that a certain amount of energy was derived from
+net lactate accumulation.
+A practical example of the application of this approach to the ﬁrst minutes of an
+actual soccer match is reported in Fig. 13.4. In this speciﬁc case, throughout the
+selected time window, the metabolic power was substantially greater than the
+player’s _VO2max and, in view of the relatively long duration of this high metabolic
+power phases, the actual _VO2 did attain the player’s _VO2max. In addition in the
+subsequent period characterised by a milder metabolic power (i.e. below _VO2max),
+the actual _VO2 remained at the maximal level for several seconds. Because of this
+state of affairs, the actual overall anaerobic energy yield, as given by the sum of all
+red areas (above _VO2 and below Ė), was greater than the overall aerobic yield, as
+given by the areas below the actual _VO2 during the high intensity exercise phases
+plus the areas corresponding to the alactic O2 debt payment. The ﬁnal outcome of
+this state of affairs is that a certain amount of Lactate must have been produced to
+cover the difference between the overall energy requirement (area below the
+metabolic power curve) and the overall aerobic energy yield (area underneath the
+_VO2 curve).
+It can be concluded that the approach brieﬂy described above, and graphically
+illustrated in Fig. 13.4, allows one to draw a reasonably accurate overall energy
+balance of any deﬁned time interval of a training period or of a match, provided that
+the subject’s _VO2max is also known.
+13.4
+The Role of the Energy Cost in Setting Metabolic
+Power Estimates
+At variance with the data reported in Fig. 13.3, several recent studies reported
+substantial underestimates of the metabolic power obtained from GPS data, as
+compared to the actual O2 consumption, as determined by portable metabolic carts
+(Buchheit et al. 2015; Brown et al. 2016; Highton et al. 2016; Stevens et al. 2015).
+However, apart from some inconsistencies in the data collection and analysis brieﬂy
+discussed elsewhere (Osgnach et al. 2016), close inspection of these studies shows
+13
+Metabolic Power and VO2 in Soccer: Facts and Theories
+307
+
+
+<!-- Page 307 -->
+that all too often, the metabolic power approach was “stretched” to include activ-
+ities such as training drills with the ball along winding paths, isometric efforts in
+rugby, or any other situations that cannot be easily reconciled with the theoretical
+pillars on which the metabolic power approach is based. In addition, in some of
+these studies the effects of the terrain and of the inter-individual variability in the
+energy cost of running are often neglected or only marginally discussed or are
+limited to rather low acceleration/deceleration values. Indeed, Stevens et al. (2015)
+recently reported that the average estimated energy cost of shuttle running turned
+out to be about 15% smaller than the directly measured values (i.e. 4.95–5.73, as
+compared to 5.73–6.71 J kg−1 m−1). This difference, albeit not marginal, may well
+be due to individual difference of the shuttle running technique. In addition, this
+study investigated a relatively small range of accelerations/decelerations (which can
+be estimated to be <1 m s−2) and hence of the corresponding ES* values lying in a
+range where the effects of the acceleration (upslope) are very nearly equal and
+opposite to those of the deceleration (downslope).
+In view of these discrepancies, the aim of the paragraphs that follow is to review
+the basic assumptions underlying metabolic power estimates as obtained from GPS
+data, as well as to point out the limits of this approach.
+As discussed at length in the original papers, to which the reader is referred for
+further details, the choice of the energy cost for constant speed running (C0) on ﬂat
+terrain is pivotal in setting the energy cost of accelerated/decelerated running, and,
+as such, the corresponding metabolic power. Its net value (above resting)
+(J kg−1 m−1) ranges from 3.6 as determined on the treadmill by Minetti et al.
+Fig. 13.4 Metabolic power (E
+
+, red line, sharp peaks) and estimated O2 consumption ( _VO2, blue
+line, smooth peaks) (W kg−1) as a function of time (s) during the ﬁrst minutes of an actual soccer
+match in one player, whose _VO2max above resting (18 W kg−1  52 ml O2 kg−1 min−1) is
+indicated by the broken horizontal line. See text for detail and Fig. 13.3 for the meaning of the
+coloured areas (Colour ﬁgure online)
+308
+C. Osgnach and P. E. di Prampero
+
+
+<!-- Page 308 -->
+(2002), to 4.32 ± 0.42 on the treadmill and to 4.18 ± 0.34 on the terrain, as
+determined more recently by Minetti et al. (2012) at 11 km h−1, to 4.39 ± 0.43
+(n = 65), as determined by Buglione and di Prampero (2013) during treadmill
+running at 10 km h−1, the great majority of data clustering around a value of
+4 J kg−1 m−1 (Lacour and Bourdin 2015). Thus, whereas on the one side it would
+be advisable to determine C0 on each subject, on the other it is often convenient to
+assume a unique value on the order of 4 J kg−1 m−1.
+It should also be pointed out that, apart from the inter-individual variability of
+C0, its value depends also on the type of terrain (e.g.: artiﬁcial vs. natural grass,
+compact vs. soft surface, etc.), so that once again, its numerical value must be
+selected with a pinch of salt. Furthermore, it should also be stressed that the
+obtained estimates of energy cost and metabolic power apply to forwards running,
+so that the metabolic cost of other speciﬁc situations arising during a match or a
+training drill in soccer or in other sports, such as backwards running, running with
+or without the ball, sudden jumps, changes of direction, tackles, etc., inevitably
+introduces a certain degree of uncertainty and must be treated accordingly.
+However, at the present stage, among the clear-cut scientiﬁc data available in the
+literature, none allow one to take into account with reasonable accuracy this state of
+affairs. As such, rather than relying on dubious corrections and assumptions, we
+deem it advisable to live with this uncertainty, inevitably built in the system’s
+algorithms. This is particularly relevant in team sports such as rugby or American
+football in which the energetics of the numerous episodes in which the players
+collide violently or push forcefully against each other is not easily amenable to that
+of forwards running.
+It should ﬁnally be pointed out that these general considerations apply also to the
+approaches based on speed and/or acceleration which cannot (and do not) yield any
+information on the sport speciﬁc activities mentioned above (Polgalze et al. 2015).
+Furthermore, even when applied to forward running these approaches overlook the
+inter-individual variability of the energy cost of running as well as the effects of the
+type of the terrain there-upon.
+Another point to be considered when dealing with the energy cost and metabolic
+power of running is the fact that the equivalence between accelerated/decelerated
+and uphill/downhill running is based on the data obtained by Minetti et al. (2002) in
+a range of inclines between −0.45 and +0.45. For inclines outside this range, our
+approach relies on linear extrapolations of Minetti et al.’s data (see Giovanelli et al.,
+2016), rather than on the authors’ polynomial equation which, obviously enough,
+cannot be extended beyond the experimental range of observations [see Eq. (13.7)].
+However, the occurrence of such high values of acceleration/deceleration is rather
+infrequent so that this approximation cannot be expected to lead to any substantial
+errors.
+These considerations apply to running; however, during a typical soccer match
+several walking episodes are interspersed among running bouts, a fact that may
+have indeed contributed to some of the above mentioned discrepancies between
+estimated metabolic power and measured O2 consumption. Indeed, whereas for any
+given incline the energy cost of running at constant speed is independent of the
+13
+Metabolic Power and VO2 in Soccer: Facts and Theories
+309
+
+
+<!-- Page 309 -->
+speed itself, the energy cost of walking reaches a minimum at an optimal speed
+above and below which it increases. As reported in Fig. 13.5:
+i. For level walking Cw attains a minimum of about 2 J kg−1 m−1 (i.e. about half
+the value of constant speed level running) at about 4.5 km h−1 (1.25 m s−1);
+ii. At higher speeds Cw increases to reach a value about equal to that of level
+running (4 J kg−1 m−1) at a speed on the order of 8 km h−1 (2.22 m s−1);
+iii. With increasing the incline of the terrain, the curve Cw vs. speed retains a
+general U shape, but is shifted to a higher level, the optimum speed decreasing
+towards lower values;
+iv. When walking downhill, until a slope of about –20%, the trend is reversed: at
+any given speed Cw is lower, whereas the optimum speed increases;
+v. For slopes steeper than −20%, the Cw vs. speed curved is shifted again
+upwards and tends to become ﬂatter so that the optimum speed is difﬁcult to
+identify precisely.
+As reported by Minetti et al. (2002), the relationship between the minimum
+energy cost of walking (Cwmin, J kg−1 m−1) and the incline of the terrain (i) can be
+appropriately described by the following 5th order polynomial equation:
+Cwmin ¼ 280:5  i5 58:7  i4 76:8  i3 þ 51:9  i2 þ 19:6  i þ 2:5
+ð13:10Þ
+where the last term (2.5 J kg−1 m−1) is the energy cost of walking at the optimal
+speed on ﬂat terrain. It should also be pointed out that for very steep slopes (>
+± 0.50), this equation yields Cwmin values rather close to those obtained from the
+5th order polynomial equation describing the relationship between the energy cost
+of running and the incline [Eq. (13.7)]. According to the authors, this suggests that
+at these very high slopes walking and running “lose the pendulum like and
+bouncing ball mechanisms”, so that at this steep slopes it may not be legitimate to
+speak of “walking” or “running” as different gaits. Be this as it may, it seems
+interesting to point out that, whereas the energy cost of running is independent of
+the speed, in walking (at least in the range of slopes between 0 and ± 0.40, where it
+is legitimate to speak of walking vs. running), as mentioned above, this is not the
+case. Indeed, within this range of slopes there exists a speed, here deﬁned “tran-
+sition speed”, at which the subjects spontaneously change their gait from walking to
+running (dots in Fig. 13.5). On ﬂat terrain, the transition speed is on the order of
+8 km h−1 (2.22 m s−1), essentially equal to that at which walking become more
+expensive than running, in terms of energy cost. Incidentally, this state of affairs is
+even more elaborate in dogs and horses, who, thanks to their quadrupedal loco-
+motion, can adopt three types of gait: pace, trot and gallop. The spontaneously
+adopted gait corresponding always to the more economical one (in terms of energy
+cost). It can be reasonably assumed that also when walking or running uphill or
+downhill, the transition speed corresponds to that at which the energy cost of the
+two forms of locomotion become equal. The data reported in Fig. 13.5 allowed us
+to estimate the transition speed (vtr, m s−1) for any given incline (or ES*) between
+−0.30 and +0.40, as described by:
+310
+C. Osgnach and P. E. di Prampero
+
+
+<!-- Page 310 -->
+vtr ¼ 107:1  ES5 þ 113:1  ES4 1:1  ES3 15:8  ES2 1:7  ES þ 2:3
+ð13:11Þ
+It should be noted that this equation applies only within the range of inclines or
+ES* values indicated above. Indeed, for slopes steeper than +0.40, the minimum
+energy cost of walking is equal to that of running whereas, for slopes steeper that
+Fig. 13.5 Energy cost of walking (J kg−1 m−1) as a function of the speed (m s−1) at the indicated
+incline (i). The open dots indicate the “transition” speed, i.e. the speed at which the energy cost of
+walking and running are equal (see text). (Modiﬁed after Margaria 1938)
+13
+Metabolic Power and VO2 in Soccer: Facts and Theories
+311
+
+
+<!-- Page 311 -->
+−0.30, it becomes difﬁcult to identify a clear-cut transition speed (see Fig. 13.5).
+Thus, for any given ES* within the range from −0.30 to +0.40 the energy cost
+utilised in the metabolic power calculations was that pertaining to walking or
+running depending on whether the speed was below or above the transition
+threshold described by the above equation. For steeper slopes the selected energy
+cost was, in any case, that pertaining to running. It should also be pointed out that
+this set of calculations is based on the implicit assumption that the analogy between
+accelerated/decelerated running on ﬂat terrain, on the one side, and constant speed
+uphill/downhill running, on the other, can be applied to walking, and hence that the
+procedures to estimate the equivalent slope and mass are the same in the two forms
+of locomotion.
+13.5
+The Limits of Metabolic Power Assessment
+The model summarized above is based on several additional assumptions brieﬂy
+reported below, the interested reader being referred to the original papers for further
+details (di Prampero et al. 2005, 2015; Osgnach et al. 2010):
+i. The overall mass of the runner is condensed in his/her centre of mass. This
+necessarily implies that the energy expenditure due to internal work perfor-
+mance (such as that required for moving the upper and lower limbs in respect
+to the centre of mass) is the same during accelerated running and during uphill
+running at constant speed up the same equivalent slope (ES*);
+ii. Assumption (i) implies also that the stride frequency of accelerated running,
+for any given ES* value, is equal to that of constant speed (uphill/downhill
+running) over the corresponding incline;
+iii. For any given ES*, the efﬁciency of metabolic to mechanical energy trans-
+formation during accelerated running is equal to that of constant speed running
+over the corresponding incline. This also implies that the biomechanics of
+running, in terms of joint angles and torques, etc. is the same in the two
+conditions;
+iv. The calculate ES* values are assumed to be in excess of those observed during
+constant speed running on ﬂat terrain in which case the runner is lining slightly
+forwards. This, however, cannot be expected to introduce large errors, since in
+all cases the reference value is the energy cost of constant speed running on
+ﬂat terrain (C0).
+312
+C. Osgnach and P. E. di Prampero
+
+
+<!-- Page 312 -->
+13.6
+Conclusions
+We would like to stress the fact that the technology for data collection must be
+appropriately selected. Indeed, since we deal with accelerations, any sampling
+frequency below 10 Hz is highly questionable. In addition, also the ﬁltering of the
+signal to smooth the accelerations/decelerations of the centre of mass synchronous
+with the stride frequency must be appropriately considered in order to reduce the
+noise, without losing information. Finally, the often proposed utilisation of
+mechanical quantities obtained by inertial sensors is dubious, because of the
+absence, so far, of any convincing experimental data linking the observed
+mechanical variables with the corresponding energy expenditure.
+In concluding, we strongly support the general validity of the proposed model,
+albeit within the limits discussed above, and provided that the actual investigated
+sport activities consist mainly of (or are reasonably amenable to) forward running or
+walking.
+Acknowledgements Financial support of the “Lions Club Udine Duomo” is gratefully
+acknowledged.
+References
+Brown DM, Dwyer DB, Robertson SJ, Gastin PB (2016) Metabolic power method underestimates
+energy expenditure in ﬁeld sport movements using a GPS tracking system. Int J Sports Physiol
+Perform 11:1067–1073
+Buchheit M, Manouvrier C, Cassirame J, Morin JB (2015) Monitoring locomotor load in soccer: is
+metabolic power, powerful? Int J Sports Med 36:1149–1155
+Buglione A, di Prampero PE (2013) The energy cost of shuttle running. Eur J Appl Physiol
+113:1535–1543
+Carling C, Bloomﬁeld J, Nelsen L, Reilly T (2008) The role of motion analysis in elite soccer:
+contemporary performance measurements techniques and work rate data. Sports Med 38:839–
+862
+di Prampero PE (2015) La Locomozione umana su Terra, in Acqua, in Aria. Fatti e Teorie.
+Edi-Ermes, Milano, Italy, 221 + IX. pp 108–112
+di Prampero PE, Fusi S, Sepulcri L, Morin JB, Belli A, Antonutto G (2005) Sprint running: a new
+energetic approach. J Exp Biol 208:2809–2816
+di Prampero PE, Botter A, Osgnach C (2015) The energy cost of sprint running and the role of
+metabolic power in setting top performances. Eur J Appl Physiol 115:451–469
+Giovanelli N, Ryan Ortiz AL, Henninger K, Kram R (2016) Energetics of vertical kilometer foot
+races; is steeper cheaper? J Appl Physiol 120:370–375
+Highton J, Mullen T, Norris J, Oxendale C, Twist C (2016) Energy expenditure derived from
+micro-technology is not suitable for assessing internal load in collision-based activities. Int J
+Sports Physiol Perform 20:957–961
+Lacour JR, Bourdin M (2015) Factors affecting the energy cost of level running at submaximal
+speed. Eur J Appl Physiol 115:651–673
+Margaria R (1938) Sulla ﬁsiologia e specialmente sul consumo energetico della marcia e della
+corsa a varia velocità ed inclinazione del terreno. Atti Acc Naz Lincei. 6:299–368
+13
+Metabolic Power and VO2 in Soccer: Facts and Theories
+313
+
+
+<!-- Page 313 -->
+Minetti AE, Moia C, Roi GS, Susta D, Ferretti G (2002) Energy cost of walking and running at
+extreme uphill and downhill slopes. J Appl Physiol 93:1039–1046
+Minetti AE, Gaudino P, Seminati E, Cazzola D (2012) The cost of transport of human running is
+not affected, as in walking, by wide acceleration/deceleration cycles. J Appl Physiol 114:498–
+503
+Osgnach C, Poser S, Bernardini R, Rinaldo R, di Prampero PE (2010) Energy cost and metabolic
+power in elite soccer: a new match analysis approach. Med Sci Sports Exerc 42:170–178
+Osgnach C, Paolini E, Roberti V, Vettor M, di Prampero PE (2016) Metabolic power and oxygen
+consumption in team sports: a brief response to Buchheit et al.. Int J Sports Med. 37:77–81
+Polglaze T, Dawson B, Peeling P (2015) Gold standard or fool’s gold? The efﬁcacy of
+displacement variables as indicators of energy expenditure in team sports. Sports Med 46:657–
+670
+Pugh LG (1970) Oxygen intake in track and treadmill running with observations on the effect of air
+resistance. J Physiol 207:823–835
+Sarmento H, Marcelino R, Anguera MT, Campaniço J, Matos N, Leitão JC (2014) Match analysis
+in football: a systematic review. J Sports Sci 32:1831–1843
+Stevens TG, De Ruiter CJ, Van Maurik D, Van Lierop CJ, Savelsbergh GJ, Beek PJ (2015)
+Measured and estimated energy cost of constant and shuttle running in soccer players. Med Sci
+Sports Exerc 47:1219–1224
+Tam E, Rossi H, Moia C, Berardelli C, Rosa G, Capelli C, Ferretti G (2012) Energetics of running
+in top-level marathon runners from Kenya. Eur J Appl Physiol 112:3797–3806
+314
+C. Osgnach and P. E. di Prampero
+

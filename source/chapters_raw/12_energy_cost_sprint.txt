@@ -1,0 +1,1342 @@
+# Chapter 12: The Energy Cost of Sprint Running and Energy Balance
+
+
+<!-- Page 269 -->
+Chapter 12
+The Energy Cost of Sprint Running
+and the Energy Balance of Current World
+Records from 100 to 5000 m
+Pietro E. di Prampero and Cristian Osgnach
+Abstract The time course of metabolic power during 100–400 m top running
+performances in world class athletes was estimated assuming that accelerated
+running on ﬂat terrain is biomechanically equivalent to uphill running at constant
+speed, the slope being dictated by the forward acceleration. Hence, since the energy
+cost of running uphill is known, energy cost and metabolic power of accelerated
+running can be obtained, provided that the time course of the speed is determined.
+Peak metabolic power during the 100 and 200 m current world records (9.58 and
+19.19 s) and during a 400 m top performance (44.06 s) amounted to 163, 99 and
+75 W kg−1, respectively. Average metabolic power and overall energy expenditure
+during 100–5000 m current world records in running were also estimated as fol-
+lows. The energy spent in the acceleration phase, as calculated from mechanical
+kinetic energy (obtained from average speed) and assuming 25% efﬁciency for the
+transformation of metabolic into mechanical energy, was added to the energy spent
+for constant speed running (air resistance included). In turn, this was estimated as:
+(3.8 + k′ v2)  d, where 3.8 J kg−1 m−1 is the energy cost of treadmill running,
+k′ = 0.01 J s2 kg−1 m−3, v is the average speed (m s−1) and d (m) the overall
+distance. Average metabolic power decreased from 73.8 to 28.1 W kg−1 with
+increasing distance from 100 to 5000 m. For the three shorter distances (100, 200
+and 400 m), this approach yielded results rather close to mean metabolic power
+values obtained from the more reﬁned analysis described above. For distances
+between 1000 and 5000 m the overall energy expenditure increases linearly with
+the corresponding world record time. The slope and intercept of the regression are
+assumed to yield maximal aerobic power and maximal amount of energy derived
+from anaerobic stores in current world records holders; they amount to 27 W kg−1
+(corresponding to a maximal O2 consumption of 77.5 ml O2 kg−1 min−1 above
+resting) and 1.6 kJ kg−1 (76.5 ml O2 kg−1). This last value is on the same order of
+the maximal amount of energy that can be derived from complete utilisation of
+P. E. di Prampero (&)
+Department of Medical Sciences, University of Udine, 33100 Udine, Italy
+e-mail: pietro.prampero@uniud.it
+C. Osgnach
+Department of Sport Sciences, Exelio srl, 33100 Udine, Italy
+© Springer International Publishing AG 2018
+J.-B. Morin and P. Samozino (eds.), Biomechanics of Training and Testing,
+https://doi.org/10.1007/978-3-319-05633-3_12
+269
+
+
+<!-- Page 270 -->
+phosphocreatine in the active muscle mass and from maximal tolerable blood
+lactate accumulation. The anaerobic energy yield has also been estimated,
+throughout the overall set of distances (100–5000 m), assuming that, at work onset,
+the rate of O2 consumption increases with a time constant of 20 s tending to the
+appropriate metabolic power, but stops increasing once the maximal O2 con-
+sumption is attained. Hence the overall energy expenditure can be partitioned into
+its aerobic and anaerobic components. This last increases from about 0.6 kJ kg−1
+for the shortest distance (100 m) to a maximum close to that estimated above
+(1.6 kJ kg−1) for distances of 1500 m or longer.
+12.1
+Introduction
+Since the beginning of the last century, the analysis of world records has fascinated
+scientists dealing with muscle and exercise physiology (e.g. Hill 1925) because, on
+one side, world records represent the best possible performances in any given sport
+event in any speciﬁc point in time; on the other, the assessment of world record
+times and speeds is by several order of magnitude more accurate than any possible
+laboratory measurement. Following this time honoured tradition, we will here
+present an energetic analysis of the current world records in running from 100 to
+5000 m. Necessary prerequisite of the matter at stake will be the discussion of a
+recently developed approach to estimate the energy cost of sprint running, an
+obviously crucial requirement when dealing with the shorter distances.
+Hence, the present chapter is organised as follows.
+We will ﬁrst describe a model proposed by di Prampero et al. (2005) wherein
+accelerated/decelerated running on ﬂat terrain is considered biomechanically
+equivalent to uphill/downhill running at constant speed, the slope being dictated by
+the forward acceleration. If this is so, since the energy cost of uphill/downhill
+running at constant speed is fairly well know, it is a rather straightforward matter to
+estimate the energy cost of accelerated/decelerated running, once the acceleration is
+determined. This will allow us to estimate peak metabolic power and overall energy
+expenditure during top running performances over 100–400 m distances.
+We will then discuss a model to estimate the overall energy spent over 100–
+5000 m covered at current world record speed, based on a simpliﬁed assessment of
+the energy spent to accelerate the runner’s body in the initial part of the race. We
+will show that, for the three shorter distances (100, 200 and 400 m), wherein,
+thanks to the availability of the time course of the speed throughout the race, the
+more reﬁned analysis described above can be applied, the two approaches yield
+rather close estimates of overall energy expenditure and mean metabolic power.
+The so obtained overall energy expenditure over distances between 100 and
+5000 m will then be plotted as a function of the corresponding world record time.
+The slope and intercept of the resulting straight line regression, as obtained for the
+ﬁve longer distances (1000–5000 m) will be interpreted to yield an estimate of the
+270
+P. E. di Prampero and C. Osgnach
+
+
+<!-- Page 271 -->
+maximal aerobic power and of the maximal amount of energy derived from
+anaerobic stores in the current world records holders over these distances.
+The resulting values turn out to be 27 W kg−1 (corresponding to a maximal O2
+consumption of 77.5 ml O2 kg−1 min−1 above resting) and to
+1.6 kJ kg−1
+(76.5 ml O2 kg−1). It is fair to point out here that this approach is conceptually
+similar to that proposed by B. B. Lloyd in 1966 for assessing the maximal aerobic
+speed and the maximal distance covered at the expense of anaerobic energy.
+The anaerobic energy yield will also be estimated, throughout the overall set of
+investigated distances (100–5000 m), assuming that, at work onset, the rate of O2
+consumption increases with a time constant of 20 s tending to the appropriate
+metabolic power, but stops increasing once the maximal O2 consumption is
+attained. This will allow us to estimate the overall amount of energy derived from
+aerobic sources wherefrom, since the overall energy spent over the corresponding
+distance is known, the energy yield from the anaerobic sources is easily obtained; it
+increases from about 0.6 kJ kg−1 for the shortest distance (100 m) to attain a
+maximal value close to that estimated above (1.6 kJ kg−1) for distances of 1500 m
+or longer (1 mile, 2000, 3000 and 5000 m).
+It can therefore be concluded that the maximal capacity of the anaerobic stores in
+world class athletes is on the order of 1.6 kJ kg−1. This is compatible with the
+maximal amount of energy that can be derived from complete utilisation of
+phosphocreatine in the active muscle mass and from maximal tolerable blood
+lactate accumulation.
+12.2
+The Energy Cost of Sprint Running
+Direct measurements of energy expenditure during sprint running are rather prob-
+lematic because of the massive utilization of anaerobic sources and because of the
+resulting short duration of any such events that prevents the attainment of a steady
+state. Indeed, so far the energetics of sprint running has mainly been estimated
+indirectly from biomechanical analyses, on the bases of assumed overall efﬁciencies
+of metabolic to mechanical energy transformation (Cavagna et al. 1971; Fenn
+1930a, b; Kersting 1998; Mero et al. 1992; Murase et al. 1976; Plamondon and Roy
+1984), or else assessed by means of rather indirect procedures (Arsac 2002; Arsac
+and Locatelli 2002; di Prampero et al. 1993; Summers 1997; van Ingen Schenau
+et al. 1991, 1994; Ward-Smith and Radford 2000).
+An alternative approach is to assume that sprint running on ﬂat terrain, during
+the acceleration phase is biomechanically equivalent to uphill running at constant
+speed, the slope being dictated by the forward acceleration and that, conversely,
+during the deceleration phase it is biomechanically equivalent to running downhill.
+If this is so, since the energy cost of uphill (downhill) running at constant speed is
+rather well know over a fairly large range of inclines, it is a rather straightforward
+matter to estimate the energy cost of accelerated (decelerated) running, once the
+acceleration (deceleration) is known.
+12
+The Energy Balance of Current World Records from 100 to 5000 m
+271
+
+
+<!-- Page 272 -->
+12.3
+Theory
+The theory underlying the analogy mentioned above is summarised graphically in
+Fig. 12.1, as from the original paper by di Prampero et al. (2005); it has been
+recently reviewed by di Prampero et al. (2015) and is brieﬂy sketched below, the
+interested reader being referred to the original papers.
+Figure 12.1 (left panel) shows that a runner accelerating on ﬂat terrain must lean
+forward in such a way that the angle a between his/her mean body axis and the
+terrain is smaller the greater the forward acceleration (af). This state of affairs is
+analogous to running uphill at constant speed, provided that the angle a between
+mean body axis and terrain is unchanged (Fig. 12.1, right panel). It necessarily
+follows that the complement of a, i.e. the angle between the terrain and the hori-
+zontal (90  a), increases with af.
+The incline of the terrain is generally expressed by the tangent of the angle
+between the terrain and the horizontal (90  a). As shown in Fig. 12.1 (left panel),
+this is the ratio of the segment AB to the acceleration of gravity (g):
+tanð90aÞ ¼ AB=g
+ð12:1Þ
+In turn since the length of the segment AB is equal to af, Eq. (12.1) can be
+rewritten as:
+tanð90aÞ ¼ af =g ¼ ES
+ð12:2Þ
+where ES is the tangent of the angle which makes accelerated running (Fig. 12.1,
+left panel) biomechanically equivalent to running at constant speed up a corre-
+sponding slope (Fig. 12.1, right panel), hence the deﬁnition Equivalent Slope (ES).
+Fig. 12.1 The subject is accelerating forward while running on ﬂat terrain (left) or running uphill
+at constant speed (right). COM, subject’s centre of mass; af, forward acceleration; g, acceleration
+of gravity; g0 ¼ pða2
+f þ g2Þ, vectorial sum of af plus g; T, terrain; H, horizontal; a, angle between
+the runner’s mean body axis throughout the stride and T; 90  a, angle between T and H. See text
+for details
+272
+P. E. di Prampero and C. Osgnach
+
+
+<!-- Page 273 -->
+Inspection of Fig. 12.1 also shows that, in addition to being equivalent to run-
+ning uphill, accelerated running is characterised by yet another difference, as
+compared to constant speed running. Indeed, the force that the runner must develop
+(average throughout a whole stride), as given by the product of the body mass and
+the acceleration, is greater in the former case (= M  g′) as compared to the latter
+one (= M  g), because g′ > g (Fig. 12.1, left panel). Thus, accelerated running is
+equivalent to uphill running wherein, however, the body mass is increased in direct
+proportion to the ratio g′/g. Since g0 ¼ pða2
+f þ g2Þ, this ratio, which will here be
+deﬁned “equivalent body mass” (EM) is described by:
+EM ¼ M  g0=M  g ¼ pða2
+f þ g2Þ=g ¼ p½ða2
+f =g2Þ þ 1
+ð12:3Þ
+Substituting Eq. (12.2) into Eq. (12.3), one obtains:
+EM ¼ p½ða2
+f =g2Þ þ 1 ¼ pðES2 þ 1Þ
+ð12:4Þ
+It must also be pointed out that during decelerated running, which is equivalent
+to downhill running, and in which case the equivalent slope (ES) is negative, EM
+will nevertheless assume a positive value because ES in Eq. (12.4) is raised to the
+power of 2. It can be concluded that, if the time course of the velocity during
+accelerated/decelerated running is determined, and the corresponding instantaneous
+accelerations/decelerations calculated, Eqs. (12.2) and (12.4) allow one to obtain
+the appropriate ES and EM values, thus converting accelerated/decelerated running
+into the equivalent constant speed uphill/downhill running. Hence, if the energy
+cost of this last is also known, the corresponding energy cost of accelerated/
+decelerated running can be easily obtained.
+The energetics of running at constant speed, on the level, uphill or downhill, has
+been extensively investigated since the second half of the XIX century (for refer-
+ences see Margaria 1938; di Prampero 1986). Minetti et al. (2002) determined the
+energy cost of running at constant speed over the widest range of inclines studied so
+far (at least to our knowledge): from −0.45 to +0.45 and showed that throughout
+this whole range of inclines the energy cost of running per unit body mass and
+distance (Cr) is independent of the speed and is described by the polynomial
+equation that follows (Fig. 12.2):
+Cr ¼ 155:4  i530:4  i443:3  i3 þ 46:3  i2 þ 19:5  i þ 3:6
+ð12:5Þ
+where Cr is expressed in J kg−1 m−1, i is the incline of the terrain, i.e. the tangent of
+the angle between the terrain and the horizontal, and the last term (3.6 J kg−1 m−1)
+is the energy cost of constant speed running on compact ﬂat terrain. Thus, sub-
+stituting i with the equivalent slope (ES), denoting C0 the energy cost of constant
+speed level running, and multiplying by the equivalent body mass (EM), Eq. (12.5)
+can be rewritten as:
+12
+The Energy Balance of Current World Records from 100 to 5000 m
+273
+
+
+<!-- Page 274 -->
+Fig. 12.2 Energy cost of running at constant speed, Cr (J kg−1 m−1), as a function of the incline
+(i) of the terrain. The function interpolating the full dots is described by Eq. (12.5). Straight lines
+irradiating from the origin indicate net efﬁciency of work against gravity, the values of which are
+indicated in the inset. Open dots and diamonds are data from previous studies (from Minetti et al.
+2002)
+Cr ¼ ð155:4  ES530:4  ES443:3  ES3 þ 46:3  ES2 þ 19:5  ES þ C0Þ  EM
+ð12:6Þ
+Equation (12.6) allows one to estimate the energy cost of accelerated running
+provided that the instantaneous velocity, the corresponding acceleration values, and
+hence ES and EM, are known. Strictly speaking the individual value of C0 should
+also be known; however, in view of its relatively minor interindividual variation
+(Lacour and Bourdin 2015), it is often convenient to utilise an average value from
+the literature, a fact that it is not likely to greatly affect the ﬁnal outcome.
+This approach was originally proposed by di Prampero et al. (2005) and applied
+to 12 medium level sprinters [best performance time over 100 m: 11.30 s (±0.35,
+SD)]. It was then utilised by Osgnach et al. (2010) to determine metabolic power
+and energy expenditure in elite soccer players during ofﬁcial games and it was
+recently extended to evaluate Usain Bolt’s 100 m world record performance
+(9.58 s, Berlin, 2009) (di Prampero et al. 2015). Throughout these studies, the
+energy cost of running was obtained by means of Eq. (12.6), wherefrom the
+metabolic power, as given by the product of Cr and speed, was obtained.
+However, it should be noted that Eq. (12.6) applies only within the range of
+inclines actually studied by Minetti et al. (2002). Indeed, whenever the calculated
+ES is far from the maximal (+0.45) or minimal (−0.45) inclines on which the
+equation was based the obtained values of Cr become unreasonably high, or even
+274
+P. E. di Prampero and C. Osgnach
+
+
+<!-- Page 275 -->
+negative (in the case of large down-slopes). This state of affairs is not likely to affect
+greatly the data obtained on medium level sprinters or in soccer players in which
+cases the maximal values of ES very rarely exceed 0.50 and even when they do the
+corresponding duration is substantially less than 1 s. In the case of Bolt’s 100 m
+record, however, the maximal value of ES attained at the very beginning of the race
+was on the order of 0.85 and, even if it reached the canonical values within the ﬁrst
+second (di Prampero et al. 2015), as pointed out in the paper, it led to an aston-
+ishingly high value of Cr and of maximal metabolic power.
+In view of these considerations, the aim of the section that follows is to recalculate
+the values of Cr and of metabolic power throughout a 100 m dash on medium level
+sprinter and on Usain Bolt, utilising a more conservative approach, but still based on
+the data obtained by Minetti et al. (2002) during uphill running at constant speed.
+Speciﬁcally, Eq. (12.6), will be used to estimate Cr whenever the calculated ES lies
+within the range of inclines on which the equation was based (−0.45  ES 
++0.45); for ES > 0.45 Cr will be estimated on the basis of the equation that follow:
+Cr ¼ ð55:65  ES5:61Þ  EM
+ð12:7Þ
+In turn this equation describes the tangent to the Cr versus incline data reported
+in Fig. 12.2 for i = +0.45.
+This same approach will also be applied to calculate the time course of the
+metabolic power for the 200 m world record of Usain Bolt (19.19 s, Berlin, 2009)
+and of the top 400 m performance of L. S. Merritt (44.06 s) at the 2009 IAAF
+World Championship in Berlin.
+12.4
+Methods
+In all cases, the velocity was assumed to increase exponentially during the accel-
+eration phase, as described by:
+vðtÞ ¼ vðf Þ  ð1et=sÞ
+ð12:8Þ
+where v(t) is velocity at time t, v(f) the peak velocity, and s the appropriate time
+constant, the values of which are reported in Table 12.1, together with the corre-
+sponding v(f).
+In turn the values of s reported in Table 12.1 for the 100 m (MLS and U. Bolt)
+were calculated interpolating the velocity data obtained by a radar system, (di
+Prampero et al. 2005; Hernandez Gomez et al. 2013). For the 200 and 400 m (U.
+Bolt and L. S. Merritt) the velocity values utilised for estimating s were those
+reported over 50 m intervals by Graubner and Nixdorf (2011), up to the attainment
+of the highest speed. The speed values, as calculated from Eq. (12.8) and
+Table 12.1, are reported in Fig. 12.3 for Bolt’s and Merritt’s performances, together
+with the actually measured ones.
+12
+The Energy Balance of Current World Records from 100 to 5000 m
+275
+
+
+<!-- Page 276 -->
+Table 12.1 Peak velocity (v(f), m s−1) over the indicated distances (m), together with the
+corresponding time constants (s) are reported for U. Bolt’s 100 and 200 m current world records,
+L. S. Merritt’s 400 m top performance (44.04 s, Berlin, 2009) and for 12 medium level sprinters
+(MLS) (best time over 100 m = 11.30 s ± 0.30)
+Distance (m)
+Athlete
+s (s)
+v(f) (m s−1)
+100
+MLS
+1.42
+9.46
+100
+Bolt
+1.25
+12.35
+200
+Bolt
+1.60
+11.57
+400
+Merritt
+1.51
+9.88
+Fig. 12.3 Time course of the speed during the 100 and 200 m world records by U. Bolt (panels A
+and B) and the 400 m top performance by L. S. Merritt (panel C) (Berlin, 2009), as calculated with
+the aid of Eq. (12.8) from the s and v(f) values reported in Table 12.1 (continuous line). Full dots:
+actually measured speed. After the attainment of v(f) actual speed data were linearly interpolated.
+See text for details and references
+276
+P. E. di Prampero and C. Osgnach
+
+
+<!-- Page 277 -->
+The time course of the acceleration was then obtained from the ﬁrst derivative of
+Eq. (12.8):
+aðtÞ ¼ ðvðf Þ  vðtÞÞ=s ¼ ½vðf Þvðf Þ  ð1et=sÞ=s
+ð12:9Þ
+where a(t) is the acceleration at time t and all other terms have been deﬁned above.
+Equations (12.8) and (12.9) allowed us to estimate energy cost of running [as
+from Eqs. (12.6) and (12.7)], and hence the instantaneous metabolic power (as
+given by the product of energy cost and speed) during the acceleration phase. In the
+case of the 200 and 400 m performances, for times greater than that corresponding
+to peak speed, the energy cost of running was assumed to be equal to C0, that, in
+this latter case as well as in Eq. (12.6), was assumed to be 3.8 J kg−1 m−1. In all
+cases the so obtained values of Cr were corrected for the energy spent against the air
+resistance (per unit body mass and distance, J kg−1 m−1), as given by: 0.01  v(t)2,
+where v(t) is expressed in m s−1 (Pugh 1970; di Prampero 1986).
+12.5
+Metabolic Power and Overall Energy Expenditure
+The time course of the metabolic power is reported in Fig. 12.4 for Bolt’s (100 and
+200 m) current world records and Merritt’s 400 m top performance, together with
+the average for Medium Level Sprinters (MLS) over 100 m, as estimated from the
+data by di Prampero et al. (2005). The time integral of the so obtained metabolic
+power reported in Fig. 12.4 allowed us to estimate the overall energy expenditure
+(air resistance included) to cover the distances in question as well as the corre-
+sponding average power; they are reported in Table 12.2, together with peak power
+values.
+The peak metabolic power reported in Table 12.2 for U. Bolt 100 m world
+record is essentially equal to the calculated for Bolt himself by Beneke and Taylor
+(2010) and by di Prampero et al. (2005) for C. Lewis, winner of the gold medal over
+same distance, with 9.92 s, at the 1988 Olympic Games in Seoul. It is, however,
+substantially less than that estimated in a previous study by di Prampero et al.
+(2015) which amounted to 197 W kg−1. Indeed, this last value was obtained on the
+basis of Minetti et al.’s polynomial Eq. (12.6) which, as mentioned in the paper
+itself and brieﬂy discussed above, overestimates the energy cost of accelerated
+running for equivalent slopes (ES) greater than 0.5, whereas in this study, for
+ES > 0.45 the energy cost of running was obtained by means of Eq. (12.7). It is
+also interesting to note that the peak power of medium level sprinters at the onset of
+a 100 m dash is about 50% of Bolt’s value (see Fig. 12.4) for an average perfor-
+mance time over the same distance of 11.3 s, corresponding to an average speed
+only about 15% slower than Bolt’s record. This highlights the fact that top per-
+formances over short distances require large accelerations in the initial phase of the
+run, a prerequisite for achieving this feat, in addition to the appropriate anthropo-
+metric and biomechanical characteristics (Charles and Bejan 2009; Maćkała and
+12
+The Energy Balance of Current World Records from 100 to 5000 m
+277
+
+
+<!-- Page 278 -->
+Fig. 12.4 Time course of metabolic power during the 100 and 200 m world records by U. Bolt
+(panels a and b) and the 400 m top performance by L. S. Merritt (panel c). The lower curve in
+Panel a is the average time course of metabolic power during the ﬁrst 6 s of a 100 m dash in 12
+medium level sprinters. See text for details and references
+Mero 2013; Taylor and Beneke 2012), being the capability to develop very large
+metabolic power outputs in the shortest possible time.
+The procedure to estimate total energy expenditure and average metabolic power
+values reported in Table 12.2 requires knowledge of the time course of the speed
+and hence of the acceleration. These data are not always available, nor are they easy
+to obtain. The paragraphs that follow are therefore devoted to utilise an alternative
+approach based on the average speed only, as originally proposed by di Prampero
+et al. (1993) (see also Hautier et al. 2010; Rittweger et al. 2009). It will be shown
+that this approach yields total energy expenditure and average metabolic power
+values rather close to those estimated (for the 100–400 m distances) on the basis of
+the more rigorous procedure described above.
+278
+P. E. di Prampero and C. Osgnach
+
+
+<!-- Page 279 -->
+Table 12.2 Overall energy expenditure (Etot*, kJ kg−1), peak and average metabolic power (Pmet, W kg−1 or ml O2 kg−1 min−1 over the indicated distances
+covered at (or close to) world record speed, as obtained from the time integral of the metabolic power curves reported in Fig. 12.4)
+Distance (m)
+Time (s)
+Athlete
+Etot* (kJ kg−1)
+Metabolic powera
+Average
+Peak
+(W kg−1)
+(ml O2 kg−1 min−1)
+(W kg−1)
+(ml O2 kg−1 min−1)
+100
+9.58
+Bolt
+0.757
+79.0
+226.8
+163.0
+467.9
+200
+19.19
+Bolt
+1.143
+59.6
+171.1
+99.9
+286.8
+400
+44.06
+Merritt
+1.885
+43.6
+125.2
+74.9
+215.0
+aAbove resting
+12
+The Energy Balance of Current World Records from 100 to 5000 m
+279
+
+
+<!-- Page 280 -->
+It will be assumed that the additional energy spent in the acceleration phase
+(Eacc), over and above that for constant speed running, is described by:
+Eacc ¼ M v2
+mean=ð2  gÞ
+ð12:10Þ
+where M is the subject’s body mass, vmean the average speed and g the efﬁciency of
+converting metabolic into mechanical energy. Thus, expressing Eacc per unit body
+mass and assuming g ¼ 0:25 (Cavagna and Kaneko 1977; Cavagna et al. 1971),
+Eq. (12.10) can be rewritten as:
+Eacc=M ¼ v2
+mean=0:5 ¼ Eaccsp
+ð12:11Þ
+If this is so, the overall energy spent to cover any given distance (d) from a still
+start, per unit body mass, is given by:
+Etot ¼ ðC0 þ k0v2
+meanÞ  d þ Eaccsp ¼ ðC0 þ k0v2
+meanÞ  d þ v2
+mean=0:5
+ð12:12Þ
+The so obtained values (above resting), for C0 = 3.8 (J kg−1 m−1) and k′ = 0.01
+(J s2 kg−1 m−3), are shown in Table 12.3, where the last column reports the Etot
+values obtained replacing, in the last term of Eq. (12.12), average with peak speed
+(vpeak):
+Etot ¼ ðC0 þ k0v2
+meanÞ  d þ Eaccsp ¼ ðC0 þ k0v2
+meanÞ  d þ v2
+peak=0:5
+ð12:120Þ
+Table 12.3 shows that the ratio between the Etot values obtained from the time
+integral of the metabolic power curve and those estimated from the simpliﬁed
+procedures described above for the 100–400 m range from 1.07 to 0.93 if Etot is
+calculated from the mean speed (Eq. 12.12) or from 0.89 to 0.99 if it is calculated
+from the peak speed (Eq. 12.12′). In view of the fact that the mean speed is easily
+available, whereas this is not always the case for peak speed, we will use the
+simpliﬁed procedure described by Eq. (12.12) to estimate the overall energy spent,
+as well as the mean metabolic power requirement, for the current world records
+over distances from 100 to 5000 m; they are reported in Table 12.4.
+Table 12.3 Overall energy expenditure (Etot, kJ kg−1) over the indicated distances covered at (or
+close to) current world record velocity in running as from Table 12.2 (Etot*) is indicated together
+with the corresponding values obtained via the simpliﬁed procedure described in the text [Etot°, as
+from Eq. (12.12); Etot^, as from Eq. (12.12′)]
+Distance (m)
+Athlete
+Etot* (kJ kg−1)
+Etot° (kJ kg−1)
+Etot^ (Eq. 12.12′) (kJ kg−1)
+100
+Bolt
+0.757
+0.707
+0.794
+200
+Bolt
+1.143
+1.195
+1.246
+400
+Merritt
+1.885
+2.035
+2.059
+*Time integral of metabolic power; ° from Eq. (12.12); ^ from Eq. (12.12′)
+280
+P. E. di Prampero and C. Osgnach
+
+
+<!-- Page 281 -->
+12.6
+Aerobic Versus Anaerobic Energy Expenditure
+The last two columns of Table 12.4 report the mean _VO2 throughout the entire
+competition calculated as described in detail elsewhere (di Prampero et al. 2015).
+Sufﬁce it here to say that _VO2 at the start of the race was assumed to increase
+exponentially with a time constant of 20 s, tending to the average power require-
+ment, without increasing any further once _VO2max had been attained (Margaria
+et al. 1965). This procedure allowed us to estimate the average _VO2 throughout the
+race for any given _VO2max value (see Table 12.4 and Fig. 12.5). The difference
+between the average values of metabolic power and of _VO2 must be fulﬁlled by the
+anaerobic stores, the overall energetic contribution of which can therefore be easily
+obtained from the product of this difference and the time of the race; it is reported in
+Fig. 12.6 for the two selected _VO2max values of 22 and 27 W kg−1.
+The average _VO2 throughout the 100–400 m world records has also been cal-
+culated as described above, but replacing the average metabolic power with its
+actual time course, as reported in Fig. 12.4. For these three distances, therefore, the
+contribution of the anaerobic stores to the overall energy requirement could also be
+calculated from the difference between the time integrals of the metabolic power
+and the estimated _VO2 curves; they are not substantially different than those
+obtained by the simpliﬁed procedure described in the preceding paragraphs.
+Figure 12.6 shows that the anaerobic contribution to the overall energy require-
+ment, for _VO2max on the order of 26–27 W kg−1 (74.6–77.5 ml O2 kg−1 min−1
+Table 12.4 Overall energy expenditure (Etot, kJ kg−1), as obtained according to the simpliﬁed
+procedure (Eq. 12.12) for the indicated distances covered in current world record (WR) times
+(s) are reported together with corresponding mean metabolic power (Pmet, W kg−1)
+Distance
+(m)
+Etot
+(kJ kg−1)
+WR
+time
+(s)
+Mean power
+(W kg−1)
+Mean _VO2(W kg−1)
+For _VO2max
+22 W kg−1*
+For _VO2max
+27 W kg−1**
+100
+0.707
+9.58
+73.8
+14.5
+15.1
+200
+1.195
+19.19
+62.2
+17.3
+19.8
+400
+2.035
+43.18
+47.1
+19.1
+22.4
+800
+3.669
+100.91
+36.3
+20.3
+24.2
+1000
+4.489
+131.96
+34.0
+20.6
+24.6
+1500
+6.599
+206.00
+32.0
+21.0
+25.3
+1 mile
+7.057
+223.13
+31.6
+21.1
+25.4
+2000
+8.685
+284.79
+30.5
+21.2
+25.6
+3000
+12.883
+446.67
+29.2
+21.5
+26.0
+5000
+21.266
+757.35
+28.1
+21.7
+26.4
+Last two columns are the mean O2 consumption above resting (W kg−1) estimated as described in
+the text for the indicated _VO2max values
+*63.2 ml O2 kg−1 min−1
+above
+resting;
+**77.5 ml O2 kg−1 min−1
+above
+resting.
+1 mile = 1609.35 m
+12
+The Energy Balance of Current World Records from 100 to 5000 m
+281
+
+
+<!-- Page 282 -->
+Fig. 12.5 Average metabolic power (mean power, W kg−1) as a function of the current world
+record time (s) over 100–5000 m distance (blue line and dots). Diamonds and red line, triangles
+and green line are mean _VO2 calculated as described in the text, for _VO2 max of 27 (red line and
+diamonds) or 22 (green line and triangles) W kg−1. See also Table 12.4 (Color ﬁgure online)
+above resting) tends to a plateau of about 1.6 kJ kg−1, whereas for smaller _VO2max
+values it keeps increasing without reaching an asymptote. This suggests that the
+maximal capacity of the anaerobic stores in world class male runners competing over
+distances between 100 and 5000 m is on the order of 1.6 kJ kg−1 (76.5 ml O2 kg−1).
+The maximal capacity of the anaerobic stores (AnSmax) can also be assessed
+from a different approach, essentially equal to that proposed by Lloyd (1966) for
+estimating “maximal aerobic speed” and “anaerobic distance” for the running world
+records. Indeed, Lloyd proposed to plot the distance covered as a function of the
+world record time and showed that, for distances greater than 1000 m the regression
+becomes a straight line with a positive intercept on the y axis (Fig. 12.7, left panel).
+He therefore suggested that the slope of the so obtained straight line yields the
+aerobic speed, i.e. the speed sustained solely on the basis of _VO2max, whereas the y
+intercept of the regression represents the distance covered at the expense of the
+anaerobic stores. It should be pointed out that Lloyd’s interpretation is correct only
+if the slope of the straight line is calculated within the range of distances allowing
+_VO2max to be attained and maintained at the 100% level throughout the compe-
+tition, i.e., for world class athletes between 1000 and 5000 m (131.96–757.35 s).
+282
+P. E. di Prampero and C. Osgnach
+
+
+<!-- Page 283 -->
+Lloyd’s approach can be applied to the overall energy expenditure, as calculated
+above (see Table 12.4) rather that to the distance covered. Also in this case, for
+distances between 1000 and 5000 m, the regression becomes a straight line with a
+positive intercept on the y axis (Fig. 12.7, right panel), as described by:
+Etot ¼ 1:06 þ 0:027  t
+ð12:13Þ
+for Etot in kJ kg−1 and t in s. Along the lines propose by Lloyd, the slope of this
+regression can be interpreted as the average _VO2max of the athletes competing in
+these events, that amounts then to 27 W kg−1, whereas its y intercept is an index for
+the anaerobic stores capacity, as discussed in some detail below.
+The overall energy (Etot) spent during a supramaximal effort to exhaustion is the
+sum of the energy derived from aerobic and anaerobic stores, as described by:
+Etot ¼ AnS þ _VO2max  te _VO2max  ð1  ete=sÞ  s
+ð12:14Þ
+where te is the time to exhaustion and s is the time constant of the _VO2 kinetics at
+work onset (Scherrer and Monod 1960; Wilkie 1980). The third term of Eq. (12.14)
+Fig. 12.6 Anaerobic contribution to overall energy requirement (AnS, kJ kg−1) as a function of
+the current world record time (s) over 100–5000 m distance, calculated as described in the text for
+the indicated values of _VO2max
+12
+The Energy Balance of Current World Records from 100 to 5000 m
+283
+
+
+<!-- Page 284 -->
+takes into account the fact that _VO2max is not attained at the very onset of the
+exercise, but it is reached following an exponential function with the time constant
+s. As such, to yield the correct amount of aerobic energy, the quantity _VO2max  te
+must be reduced accordingly.
+This equation becomes particularly useful if the effort duration to exhaustion is
+comprised between the minimum necessary for complete utilisation of the anaer-
+obic stores (high energy phosphate breakdown and lactate accumulation) and the
+maximum allowing for _VO2max to be maintained at the 100% level throughout the
+effort duration (50 s  te  15 min) (Wilkie 1980; di Prampero et al. 1993; di
+Prampero 2003). If this is indeed the case, both AnS and _VO2max can be safely
+assumed to be constant and maximal. Furthermore, since s  20 s (di Prampero
+et al. 1993; di Prampero 2003), if te is greater than about 100 s the quantity ete=s
+becomes vanishingly small; therefore, under these conditions, also the third term of
+Eq. (12.14) becomes constant ð _VO2 max sÞ. Thus, rearranging Eq. (12.14):
+Etot ¼ ½AnSmax _VO2max  s þ _VO2max  te ¼ Constant þ _VO2max  te ð12:15Þ
+The regression of Fig. 12.7, right panel, was calculated for world record times
+over distances between 1000 and 5000 m, i.e. within the above mentioned time
+range (131.96–757.35 s). If the additional simplifying assumptions are also made
+that: (1) world class athletes competing over these distances are characterised by an
+Fig. 12.7 Distance (km, left panel) and overall energy expenditure (kJ kg−1, right panel) as a
+function of the corresponding world record time (s) in running (100–5000 m). The regressions, as
+calculated from 1000 to 5000 m and reported in the ﬁgures, show that, for world class athletes:
+a the maximal aerobic speed amounts to 6.4 m s−1 (23.04 km h−1); and b the maximal aerobic
+power to 27 W kg−1 (77.5 ml O2 kg−1 min−1) above resting. The intercept on the y axis of the
+regression of the lower panel (1.06 kJ kg−1) allows one to estimate the maximal anaerobic
+capacity in these athletes. See text for details
+284
+P. E. di Prampero and C. Osgnach
+
+
+<!-- Page 285 -->
+equal
+_VO2max and (2) world record times can be identiﬁed with te, from
+Eqs. (12.13) to (12.15):
+½AnSmax _VO2max  s ¼ 1:06
+ð12:16Þ
+Thus, setting _VO2max = 0.027 (kW kg−1) and s ¼ 20 s, one obtains:
+AnSmax ¼ 1:06 þ 0:027  20 ¼ 1:6ðkJ kg1Þ
+ð12:17Þ
+a value astonishingly close to that estimated from Fig. 12.6 for _VO2max of 26–
+27 W kg−1.1
+These considerations can not be applied to shorter distances because: (i) the
+corresponding points in Fig. 12.7 (right panel) tend to fall below the regression
+calculated between 1000 and 5000 m, and (ii) it can not be reasonably assumed that
+_VO2max in these athletes is equal to that of the athletes competing over the longer
+distances. Nor can they be applied to longer distances, in which case it cannot be
+safely assumed that _VO2max is maintained to the 100% level throughout the entire
+duration of the race. Indeed, the slope of the regression between distance and record
+time, as calculated between 5000 and 10,000 m decreases to 6.09 m s−1, and to
+5.61 m s−1 for distances between 10,000 m and the marathon. The corresponding
+_VO2 values (for C0 = 3.8 J kg−1 m−1) and k′ = 0.01 (J s2 kg−1 m−3) become then
+25.4 and 23.1 W kg−1, to be compared to a “maximal aerobic speed” of 6.34 m s−1
+and a _VO2 of 27 W kg−1 (assumed to yield _VO2max) for distances between 1000
+and 5000 m, Fig. 12.7.
+The fraction of the overall energy expenditure (Etot, see Table 12.4) derived
+from anaerobic sources (FAnS) has been estimated over all distances between 100
+and 5000 m for the current world record times for two _VO2max values (22 and
+27 W kg−1). As mentioned above, in all cases it was assumed that, at the start of the
+race, _VO2 increases with a time constant of 20 s tending to the appropriate mean
+1The estimate of AnS, as from Eq. (12.14) is based on the simplifying assumption that the _VO2
+kinetics at the onset of square wave supramaximal exercise (as is necessarily the case for world
+record performances over the distances in question) increases exponentially with a time constant
+s (20 s) towards _VO2max. However, it seems more realistic to assume that at work onset, _VO2
+increase exponentially with the same time constant towards the metabolic power requirement
+(Ė), but stops increasing abruptly once _VO2max is attained (Margaria et al. 1965). If this is the
+case, a more rigorous approach for estimating AnS, as derived from ﬁrst principles in the
+Appendix (Eq. 12.32), is as follows:
+AnS ¼ ð _E  _VO2maxÞ  te þ _VO2max  s  ½ln(1 _VO2max= _E)  s  ð _E  _VO2maxÞ
+ð12:32Þ
+The values of AnS calculated on the basis of this equation are not far from those reported in
+Fig. 12.6; for world record performances from 1000 to 5000 m, assuming _VO2max = 27 W kg−1,
+they amount on the average to 1.35 kJ kg−1 (range: 1.28–1.41), to be compared to a value of
+1.6 kJ kg−1, as calculated from Eqs. (12.14) and (12.17). Thus, on the basis of this approach the
+maximal capacity of the anaerobic stores would turn out to be about 15% lower than that
+estimated above.
+12
+The Energy Balance of Current World Records from 100 to 5000 m
+285
+
+
+<!-- Page 286 -->
+power requirement (see Table 12.4), but stops increasing once _VO2max is attained.
+FAnS is reported in Table 12.5, together with the time to reach _VO2max. As shown
+in this Table, this is shorter the higher the metabolic power requirement, and, for a
+given metabolic power, is longer the higher _VO2max. It should be pointed out that,
+whereas for distances  1000 m it can be reasonably assumed that _VO2max
+amounts to 27 W kg−1, for the shorter distances the FAnS values estimated for the
+two smaller _VO2max values (22 W kg−1) are probably closer to the “truth”.
+12.7
+Discussion
+The preceding sections of this chapter were devoted to an analysis of the energetics
+of current world records in running over distances from 100 to 5000 m. This was
+carried out along two different lines, as follows.
+For the three shorter distances (100, 200 and 400 m) the time course of the
+metabolic power was estimated according to the model proposed by di Prampero
+et al. (2005) wherein accelerated running on ﬂat terrain is considered analogous to
+uphill running at constant speed, the incline of the terrain being dictated by the
+forward acceleration. The time integral of the so obtained metabolic power curves
+allowed us to assess the overall energy spent to cover the distances in question. This
+approach can be performed only if the time course of the speed throughout the run
+is known, as such it could not be applied for distances longer that 400 m, in which
+case these data are not available. Indeed, even in the case of the 400 m, speed data
+Table 12.5 Fraction of the overall energy derived from anaerobic sources (FAnS) for distances of
+100–5000 m covered in current world record times (s) for the two indicated _VO2max values
+Distance (m)
+For _VO2max 22 W kg−1*
+For _VO2max 27 W kg−1**
+t @ _VO2max (s)
+FAnS
+t @ _VO2max (s)
+FAnS
+100
+7.1
+0.803
+9.1
+0.795
+200
+8.7
+0.722
+11.4
+0.681
+400
+12.6
+0.597
+17.1
+0.527
+800
+18.6
+0.441
+27.2
+0.333
+1000
+20.8
+0.394
+31.5
+0.276
+1500
+23.3
+0.344
+37.3
+0.209
+1 mile
+24.0
+0.332
+38.5
+0.196
+2000
+25.5
+0.305
+43.2
+0.161
+3000
+28.0
+0.264
+52.0
+0.110
+5000
+30.5
+0.228
+64.7
+0.060
+The time (s) necessary to reach the appropriate _VO2max (t @ _VO2max) is also reported. The
+absolute values of the anaerobic contribution to the overall energy requirement are reported in
+Fig. 12.6
+*63.2 ml O2 kg−1 min−1
+above
+resting;
+**77.5 ml O2 kg−1 min−1
+above
+resting.
+1 mile = 1609.35 m
+286
+P. E. di Prampero and C. Osgnach
+
+
+<!-- Page 287 -->
+were available only over discrete 50 m intervals, thus weakening the time resolu-
+tion of the metabolic power curve.
+Therefore, for the longer distances (800–5000 m), a different approach was
+followed, [see Sect. 12.5 and Eqs. (12.12), and (12.12′)]. This, while taking care of
+the overall energy spent in the acceleration phase, did not allow us to estimate the
+time course of the metabolic power throughout the race, but only its average values.
+Even so, when applying this simpliﬁed procedure to the 100–400 m distances, the
+resulting overall energy expenditure turned out fairly close (at least for the 200 and
+400 m distances) to that estimated from the time integral of the metabolic power
+time course (see Table 12.3).
+The anaerobic contribution to the overall energy expenditure was then estimated
+as follows. As described in detail elsewhere (di Prampero et al. 2015), it was
+assumed that the rate of O2 consumption at the onset of the run increases expo-
+nentially with a time constant of 20 s, tending to the metabolic power requirement,
+but stops abruptly once _VO2max is attained (Margaria et al. 1965). In turn, for the
+distances between 1000 and 5000 m, this was assumed to be 27 W kg−1 above
+resting (see Fig. 12.7). For the shorter distances, however, this assumption does not
+seem reasonable; as a consequence the rate of _VO2 at work onset was estimated also
+for a smaller _VO2max value (22 W kg−1).
+The time integral of the so obtained _VO2 kinetics was then subtracted from the
+total energy expenditure to estimate the overall anaerobic yield over the distances in
+question, for the appropriate metabolic power and _VO2max values. It is reported in
+Table 12.5 for the investigated world records as a fraction of the overall energy
+expenditure.
+As shown in Fig. 12.6, the maximal capacity of the anaerobic stores for world
+class athletes competing over distances between 1000 and 5000 m and assumed to
+be characterised by a _VO2max of 26–27 W kg−1 turned out to be on the order of
+1.6 kJ kg−1.
+The maximal capacity of the anaerobic stores was also assessed according to a
+different approach, essentially equal to that proposed by Lloyd (1966) for esti-
+mating “maximal aerobic speed” and “anaerobic distance” for the running world
+records. Brieﬂy, the overall energy expenditure over distances between 100 and
+5000 m has been plotted as a function of the current world record time (see
+Table 12.4). The resulting regression, for distances between 1000 and 5000 m turns
+out to be linear (Fig. 12.7), its slope yielding the mean maximal aerobic power of
+the current world record holders over these distances, which amounted to
+27 W kg−1 (77.5 ml O2 kg−1 min−1) above resting. In turn, the y intercept of this
+same regression allowed us to estimate the maximal capacity of the anaerobic stores
+that, for a _VO2max of 27 W kg−1, turned out to be 1.6 kJ kg−1, essentially equal to
+that estimated from the data of Fig. 12.6 for athletes whose _VO2max is on the order
+of 26–27 W kg−1.
+It can therefore be concluded that, for high calibre world class athletes, the
+maximal capacity of the anaerobic stores is indeed on the order of 1.6 kJ kg−1
+(76.5 ml O2 kg−1).
+12
+The Energy Balance of Current World Records from 100 to 5000 m
+287
+
+
+<!-- Page 288 -->
+This is consistent with the considerations that follow. (i) The capacity of the
+anaerobic stores is the sum of the maximal amount of energy that can be obtained
+from high energy phosphates (ATP + phosphocreatine (PCr)) splitting and from
+lactate (La) accumulation. (ii) When competing over the distances in question at
+world record speed, the maximally exercising muscles in world class athletes
+constitute 20–25% of the body mass. (iii) In resting muscles the ATP and PCr
+concentrations amount to about 6 and 20 m-mol kg−1 fresh tissue, respectively (e.g.
+see Francescato et al. 2003, 2008), and since (iv) ATP can not decrease substan-
+tially without greatly compromising muscle power production (di Prampero and
+Piiper 2003), only about 20 m-mol kg−1 of PCr can be utilised from rest to
+exhaustion, i.e. 4–5 m-mol PCr kg−1 body mass (see point ii above). (v) Hence,
+assuming a P/O2 ratio of 6 (mol/mol), the amount of O2 “spared” thanks to the
+splitting of PCr in the transition from rest to exhaustion corresponds to 0.67–
+0.83 m-mol O2 kg−1 body mass. (vi) Assuming further an energy equivalent of
+20.9 J ml−1 O2, and since 1 m-mol O2 = 22.4 ml, the maximal amount of energy
+derived from PCr splitting can be estimated in the range 0.31–0.39 kJ kg−1 body
+mass. (vii) The maximal blood La concentration attained at the end of competitions
+at maximal speed over the distances  400 m is on the order of 15–20 mM above
+resting (Arcelli et al. 2014; Hanon et al. 1994; Hautier et al. 2010); and since (viii)
+the accumulation of 1 mM La yields an amount of energy equal to the consumption
+of about 3 ml O2 kg−1 body mass (di Prampero 1981; di Prampero and Ferretti
+1999), on the basis of an energetic equivalent of O2 of 20.9 J ml−1, this corresponds
+to a maximal energy release from La accumulation of 0.94–1.25 kJ kg−1.
+Hence the maximal capacity of the anaerobic stores, as given by the maximal
+amount of energy that can be obtained from PCr splitting and from La accumulation
+can be estimated in the range of 1.25 (0.31 + 0.94) to 1.64 (0.39 + 1.25) kJ kg−1
+body mass, a value rather close to that calculated as described above (see Figs. 12.6
+and 12.7).
+12.8
+Critique of Methods
+The two procedures underlying the energetic analysis of the world records
+described above are based on several simplifying assumptions that have been
+discussed elsewhere (di Prampero et al. 1993, 2005, 2015 and by Rittweger et al.,
+2009) and that are brieﬂy summarised below, the interested reader being referred to
+the original papers.
+The assessment of the time course of the metabolic power in the three shorter
+distances, as based on the analogy between accelerated running on ﬂat terrain and
+uphill running at constant speed (see Fig. 12.1), entails what follows.
+(i)
+The overall mass of the runner is condensed in his/her centre of mass. This
+necessarily implies that the stride frequency, and hence the energy expen-
+diture due to internal work performance (for moving the upper and lower
+288
+P. E. di Prampero and C. Osgnach
+
+
+<!-- Page 289 -->
+limbs in respect to the centre of mass) is the same during accelerated running
+and during uphill running at constant speed up the same equivalent slope
+(ES).
+(ii)
+For any given ES, the efﬁciency of metabolic to mechanical energy trans-
+formation during accelerated running is equal to that of constant speed
+running over the corresponding incline. This also implies that the biome-
+chanics of running, in terms of joint angles and torques, is the same in the
+two conditions.
+(iii)
+The highest ES values attained at the onset of the 100 and 200 m runs are
+substantially larger than the highest inclines actually studied by Minetti et al.
+(2002); hence the implicit assumption is also made that for ES > 0.45, the
+relationship between Cr and the incline is as described by Eq. (12.7).
+However, even for Bolt’s 100 m world record, after about 6 m the actual ES
+values become <0.45, so that the assumption on which Eq. (12.7) was
+constructed is not likely to greatly affect the overall estimate of the energy
+expenditure, even if it may indeed affect the corresponding time course in the
+very initial phase of the run.
+(iv)
+The calculated ES values are assumed to be in excess of those observed
+during constant speed running on ﬂat terrain in which case the runner is
+lining slightly forward. This, however, cannot be expected to introduce large
+errors, since our reference value was the measured energy cost of constant
+speed running on ﬂat terrain (C0).
+As concerns the simpliﬁed approach to estimate the average metabolic power,
+the energy spent in the acceleration phase over and above that for constant speed
+running was calculated as summarised below.
+(v) The metabolic energy spent (per kg body mass) to accelerate the runner’s body
+from zero to the mean (or peak speed) was estimated from the mechanical
+kinetic energy (0.5  v2, where v is the mean, or peak, speed), assuming that the
+efﬁciency of converting metabolic into mechanical energy ðgÞ amounts to 0.25
+(Eqs. 12.10–12.12). This is consistent with the analogy between accelerated
+running on ﬂat terrain and uphill running at constant speed, since in the latter
+case, for inclines between 20 and 40% g is on the order of 0.22–0.26 (see
+Fig. 12.2).
+In addition, for all distances, the following two assumptions were also made,
+independently of the model utilised.
+(vi)
+The energy expenditure against the air resistance, per unit body mass and
+distance, was assumed to be described by: k′  v2, where v (m s−1) is the air
+velocity, the constant k′ (J s2 kg−1 m−3) assumed throughout this study
+amounting to 0.01 (Pugh 1970; di Prampero 1986), a value lower than that
+which can be calculated from Arsac and Locatelli (2002) biomechanical data,
+and than that reported by Tam et al. (2012) which amount to 0.017 and
+0.019, respectively.
+12
+The Energy Balance of Current World Records from 100 to 5000 m
+289
+
+
+<!-- Page 290 -->
+(vii)
+The energy cost, per unit body mass and distance, for constant speed running
+on ﬂat compact terrain neglecting the air resistance (C0) was assumed to be
+=3.8 J kg−1 m−1. The corresponding values reported in the literature range
+from 3.6 as determined on the treadmill by Minetti et al. (2002), to
+4.32 ± 0.42 on the treadmill and to 4.18 ± 0.34 on the terrain, as deter-
+mined more recently by Minetti et al. (2012) at 11 km h−1, to 4.39 ± 0.43
+(n = 65), as determined by Buglione and di Prampero (2013) during tread-
+mill running at 10 km h−1, the great majority of data clustering around a
+value of 4 J kg−1 m−1 (Lacour and Bourdin 2015). Thus, whereas on the one
+side it would be ideal to know the individual C0 of each athlete, a rather
+unrealistic possibility when dealing with world records holders, on the other,
+the assumption of a common value of 3.8 J kg−1 m−1 does not seem to
+greatly bias the obtained results.
+Finally the overall metabolic energy expenditure was partitioned into its aerobic
+and anaerobic fractions as follows.
+(viii)
+The kinetics of O2 consumption at work onset was calculated as described
+above, thus allowing us to estimate the mean _VO2 throughout the run and
+hence the aerobic and anaerobic fractions of the total energy expenditure.
+This approach is supported by a recent series of experiments (di Prampero
+et al. 2015) in which the actual O2 consumption was determined by means
+of a portable metabolic cart in 8 subjects during a series of shuttle runs over
+25 m, each bout being performed in 5 s. The speed was continuously
+assessed by means of a radar system, thus allowing us to estimate the
+instantaneous energy cost and hence the metabolic power, as given by the
+product of this last and the speed. The actual O2 consumption was then
+compared to that estimated as described above from the metabolic power
+curve and the subjects’ _VO2max. The two sets of data turned out to be
+rather close, thus supporting the approach used in this study to estimate the
+anaerobic and aerobic contribution to the overall energy expenditure.
+12.9
+Conclusions and Practical Remarks
+Mathematical modelling of training and performance is becoming increasingly
+important in a number of professions ranging from health and physical training to
+rehabilitation from disease or injury, not to mention athletic performance (Clarke
+and Skiba 2013). Therefore, we deemed it important to condense the preceding
+analyses into a simple set of rules to estimate: (1) the overall energy expenditure,
+and (2) the aerobic and anaerobic contributions thereof, in running at speeds greater
+than the maximal aerobic one, provided that the subject’s _VO2max, the distance
+covered (d) and the running time (te) are known.
+290
+P. E. di Prampero and C. Osgnach
+
+
+<!-- Page 291 -->
+Equation (12.12) shows that the overall energy expenditure (Etot) can be esti-
+mated with reasonable accuracy, if the energy cost of constant speed running (C0),
+the constant relating the energy expenditure against the wind to the square of the
+speed (k′) and the efﬁciency of metabolic to mechanical energy transformation in
+the acceleration phase ðgÞ are known. Thus, replacing vmean with the quantity d/
+te (where te is the performance time), Eq. (12.12) can be rewritten as:
+Etot ¼ ½C0 þ k0  ðd=teÞ2  d þ ðd=teÞ2ð2gÞ1
+ð12:18Þ
+In turn, the ratio of Eq. (12.18) to the performance time yields the average
+metabolic power ( _E) throughout the distance in question:
+_E ¼ Etot=te ¼ ½C0 þ k0  ðd=teÞ2  d=te þ ½ðd=teÞ2ð2gÞ1=te
+ð12:19Þ
+wherefrom the corresponding anaerobic energy yield (AnS) can be obtained thanks
+to Eq. (12.20), as derived from ﬁrst principles in the Appendix:
+AnS ¼ ð _E  _VO2maxÞ  te þ _VO2max  s½ lnð1 _VO2max= _EÞ  s  ð _E
+ _VO2maxÞ
+ð12:20Þ
+Thus, if _VO2max and s are known, it is an easy task to estimate both the aerobic
+and anaerobic components of Etot.
+As concerns the present study, the relevant quantities utilised in the calculations
+were
+as
+follows:
+C0 = 3.8 J kg−1 m−1,
+k′ = 0.01 J s2 kg−1 m−3;
+g ¼ 0:25;
+s ¼ 20 s; d and te were the 100–5000 m running distances and the current world
+records times, and _VO2max 22 or 27 W kg−1, as indicated. It goes without saying
+that the choice of these quantities is somewhat arbitrary and can be replaced by
+more accurate estimates, if available.
+Finally, whereas this simpliﬁed approach was constructed for running on the
+level on smooth terrain in the absence of wind, any other condition can be easily
+incorporated, assigning the appropriate values to C0, k′, g, etc., provided that, over
+the considered distance and time these quantities can be assumed to be constant.
+In closing, and in spite of the inevitable limits of this brief review on sprint
+running and on world records, we do hope that the readers may consider it a
+stimulus and a challenge to further investigate this fascinating ﬁeld.
+Acknowledgements The ﬁnancial support of the “Fondo Bianca e Chiara Badoglio” is gratefully
+acknowledged.
+12
+The Energy Balance of Current World Records from 100 to 5000 m
+291
+
+
+<!-- Page 292 -->
+Appendix2
+In a preceding section of this chapter (12.6) it was assumed that the overall energy
+(Etot) spent during a supramaximal effort to exhaustion can be described by:
+Etot ¼ AnS þ _VO2max  te _VO2max  ð1  ete=sÞ  s
+ð12:21Þ
+where AnS is the amount of energy derived from anaerobic sources, te is the time to
+exhaustion and sð 20 sÞ is the time constant of the _VO2 kinetics at work onset.
+The third term of this equation takes into account the fact that _VO2max is not
+attained at the very onset of the exercise, but it is reached following an exponential
+function with the time constant s (Wilkie 1980). Thus:
+AnS ¼ Etot  _VO2max  te þ _VO2max  ð1  ete=sÞ  s
+ð12:22Þ
+Furthermore, if te is sufﬁciently long (i.e.  4s), the quantity ete=s becomes
+vanishingly small and the third term of the equation reduces to _VO2max  s. In this
+range of exhaustion times therefore, AnS can be easily estimates as:
+AnS ¼ Etot  _VO2max  te þ _VO2max  s
+ð12:220Þ
+Equations (12.21) and (12.22) are based on the implicit assumption that the _VO2
+kinetics is a continuous exponential function from the value prevailing at work
+onset to _VO2max. However, as discussed in detail elsewhere (di Prampero et al.
+2015), at the onset of supramaximal exercise [in which case the metabolic power
+requirement (Ė) is greater than the subject’s _VO2max] _VO2 increases exponentially
+towards Ė with the same time constant ðs  20 sÞ, but stops abruptly at the very
+moment (t1) when _VO2max is attained (Margaria et al. 1965). This is shown
+graphically in Fig. 12.8, where Ė (red horizontal line) and _VO2max (blue horizontal
+line) are indicated as a function of the exercise time, together with the time course
+of _VO2 before the attainment of _VO2max (blue continuous curve) and with the
+hypothetical time course of _VO2 above _VO2max, were Ė = _VO2max (green broken
+curve). Inspection of this ﬁgure makes it immediately apparent that, whereas
+Eq. (12.22) is correct for Ė = _VO2max, whenever Ė > _VO2max it leads to an
+overestimate of AnS, the more so, the greater the difference between Ė and
+_VO2max.
+The aim of the paragraphs that follow is to describe an approach yielding a more
+accurate estimate of the anaerobic energy yield (AnS) in running at supramaximal
+constant metabolic power (Ė), provided the subject’s _VO2max, the exercise dura-
+tion (te) and s are known. Indeed, on the one side, this set of data allows one to
+estimate Ė, as described by Eq. (12.18):
+2The equations appearing in this Appendix are numbered (12.21)–(12.33), even if some of them
+have previously been mentioned in the text.
+292
+P. E. di Prampero and C. Osgnach
+
+
+<!-- Page 293 -->
+_E ¼ Etot=te ¼ f½C0 þ k0  ðd=teÞ2  d þ ðd=teÞ2ð2gÞ1g=te
+ð12:23Þ
+where all terms have been previously deﬁned (see Sect. 12.6). On the other, if
+_VO2max, s and te are also known, Fig. 12.8 allows one to appreciate graphically
+that the anaerobic contribution to the overall energy expenditure is represented by
+the area delimited by Ė and the _VO2 −_VO2max curve, i.e. by the sum of the areas
+1, 2, 3 and 3′, whereas the sum of the two areas 4 and 5, below the _VO2 −_VO2max
+curve, represents the aerobic energy yield.
+What follows is devoted to assess quantitatively the anaerobic energy yield as
+given by the sum of the areas deﬁned above, indicated numerically as in the
+Fig. 12.8.
+Fig. 12.8 Overall metabolic power requirement (red horizontal line, Ė) as a function of time
+(t) during square wave exercise of constant intensity and duration te. Subject’s maximal O2
+consumption ( _VO2max) is indicated by blue horizontal line. At work onset, _VO2 increases
+exponentially towards Ė, but stops abruptly at t1, i.e. when _VO2max is attained. Actual _VO2 before
+t1 is indicated by continuous blue curve, whereas after t1 _VO2 = _VO2max. Green broken curve
+denotes hypothetical _VO2 time course, were Ė  _VO2max. Anaerobic energy yield is given by
+the sum of areas 1 + 2 + 3 + 3′ (red); aerobic yield by the sum of areas 4 + 5 (blue). See text for
+details and calculations (Color ﬁgure online)
+12
+The Energy Balance of Current World Records from 100 to 5000 m
+293
+
+
+<!-- Page 294 -->
+The _VO2 kinetics at work onset is described by:
+_VO2ðtÞ ¼ _E  ð1  et=sÞ
+ð12:24Þ
+However, as shown in Fig. 12.8, _VO2 stops increasing abruptly at time t1, i.e.
+when _VO2max is attained. Thus at t1:
+_VO2ðtÞ ¼ _E  ð1  et1=sÞ ¼ _VO2max
+ð12:25Þ
+Rearranging Eq. (12.25), one obtains:
+1 _VO2max= _E ¼ et1=s
+ð12:26Þ
+or:
+lnð1 _VO2max= _EÞ ¼  t1=s
+ð12:27Þ
+where from t1 can be ﬁnally obtained as:
+t1 ¼  lnð1 _VO2max= _EÞ  s
+ð12:28Þ
+It can therefore be concluded that Eq. (12.28) allows one to estimate the time
+necessary to attain _VO2max, provided that _VO2max itself, together with Ė and s are
+known.
+It is now possible to estimate the anaerobic energy yield proceeding as follows.
+The area of the rectangle ð2 þ 3 þ 30Þ in Fig. 12.8 can be easily calculated as:
+2 þ 3 þ 30 ¼ ð _E  _VO2maxÞ  te
+ð12:29Þ
+The area corresponding to the O2 deﬁcit incurred once _VO2max is attained
+(1 + 2) can be estimated as:
+1 þ 2 ¼ _VO2max  s
+ð12:30Þ
+Finally the area of the rectangle 2 is given by the product of the time t1
+(Eq. 12.28) and the vertical distance between Ė and _VO2max:
+2 ¼ t1  ð _E  _VO2maxÞ ¼  lnð1 _VO2max= _EÞ  s  ð _E  _VO2maxÞ
+ð12:31Þ
+The overall amount of energy derived from anaerobic stores (AnS) is ﬁnally
+expressed by the algebraic sum of the Eqs. (12.29), (12.30) and (12.31):
+294
+P. E. di Prampero and C. Osgnach
+
+
+<!-- Page 295 -->
+AnS ¼ 2 þ 3 þ 30 þ 1 þ 2  2
+¼ ð _E  _VO2maxÞ  te þ _VO2max  s  ½ lnð1 _VO2max= _EÞ  s  ð _E _VO2maxÞ
+ð12:32Þ
+It should ﬁnally be pointed out that Eq. (12.32) deﬁnes the anaerobic energy
+yield whenever the exercise duration is greater that that necessary for _VO2max to be
+attained (te > t1). Whenever te  t1, things become much simpler, since in this
+speciﬁc case the only energy derived from anaerobic stores (AnS′) corresponds to
+the O2 deﬁcit incurred, as given by the product of the _VO2 attained at the very end
+of the exercise, ð¼ _E  ð1  ete=sÞÞ, Eq. (12.24) and the time constant of the _VO2
+kinetics (s):
+AnS0 ¼ _E  ð1  ete=sÞ  s
+ð12:33Þ
+It should ﬁnally be pointed out that, whenever Ė = _VO2max, Eqs. (12.32) and
+(12.33) reduce to Eq. (12.22) or (12.22′) depending whether, or not, te is sufﬁciently
+long for _VO2max to be attained.
+It can be concluded that the anaerobic energy yield in running at supramaximal
+constant intensity can be easily estimated (Eqs. 12.32 and 12.33), provided that the
+metabolic power requirement (Eq. 12.23), together with the subject’s VO2max, the
+exercise duration (te) and the time constant of the _VO2 kinetics at work onset (s) are
+known.
+References
+Arcelli E, Cavaggioni L, Alberti G (2014) Il lattato ematico nelle corse dai 100 ai 1.500 metri.
+Confronto tra uomo e donna. Scienza & Sport 21:48–53
+Arsac LM (2002) Effects of altitude on the energetics of human best performances in 100 m
+running: a theoretical analysis. Eur J Appl Physiol 87:78–84
+Arsac LM, Locatelli E (2002) Modelling the energetics of 100-m running by using speed curves of
+world champions. J Appl Physiol 92:1781–1788
+Beneke R, Taylor MJD (2010) What gives Bolt the edge—A.V. Hill knew it already. J Biomech
+43:2241–2243
+Buglione A, di Prampero PE (2013) The energy cost of shuttle running. Eur J Appl Physiol
+113:1535–1543
+Cavagna GA, Kaneko M (1977) Mechanical work and efﬁciency in level walking and running.
+J Physiol 268:467–481
+Cavagna GA, Komarek L, Mazzoleni S (1971) The mechanics of sprint running. J Physiol
+217:709–721
+Charles JD, Bejan A (2009) The evolution of speed, size and shape in modern athletics. J Exp Biol
+212:2419–2425
+Clarke DC, Skiba PF (2013) Rationale and resources for teaching the mathematical modelling of
+athletic training and performance. Adv Physiol Educ 37:134–152
+12
+The Energy Balance of Current World Records from 100 to 5000 m
+295
+
+
+<!-- Page 296 -->
+di Prampero PE (1981) Energetics of muscular exercise. Rev Physiol Biochem Pharmacol 89:143–
+222
+di Prampero PE (1986) The energy cost of human locomotion on land and in water. Int J Sports
+Med 7:55–72
+di Prampero PE (2003) Factors limiting maximal performance in humans. Eur J Appl Physiol
+90:420–429
+di Prampero PE, Ferretti G (1999) The energetics of anaerobic muscle metabolism: a reappraisal of
+older and recent concepts. Respir Physiol 118:103–115
+di Prampero PE, Piiper J (2003) Effects of shortening velocity and of oxygen consumption on
+efﬁciency of contraction in dog gastrocnemius. Eur J Appl Physiol 90:270–274
+di Prampero PE, Capelli C, Pagliaro P, Antonutto G, Girardis M, Zamparo P, Soule RG (1993)
+Energetics of best performances in middle-distance running. J Appl Physiol 74:2318–2324
+di Prampero PE, Fusi S, Sepulcri L, Morin JB, Belli A, Antonutto G (2005) Sprint running: a new
+energetic approach. J Exp Biol 208:2809–2816
+di Prampero PE, Botter A, Osgnach C (2015) The energy cost of sprint running and the role of
+metabolic power in setting top performances. Eur J Appl Physiol 115:451–469
+Fenn WO (1930a) Frictional and kinetic factors in the work of sprint running. Am J Physiol
+92:583–611
+Fenn WO (1930b) Work against gravity and work due to velocity changes in running. Am J
+Physiol 93:433–462
+Francescato MP, Cettolo V, di Prampero PE (2003) Relationship between mechanical power, O2
+consumption, O2 deﬁcit and high Energy phosphates during calf exercise in humans. Pﬂügers
+Arch 93:433–462
+Francescato MP, Cettolo V, di Prampero PE (2008) Inﬂuence of phosphagen concentration on
+phosphocreatine breakdown kinetics. Data from human gastrocnemius muscle. J Appl Physiol
+105:158–164
+Graubner R, Nixdorf E (2011) Biomechanical analysis of the sprint and hurdles events at the 2009
+IAAF World Championship in Athletics. NSA (New Stud Athletics) 26(1/2):19–53
+Hanon C, Lepretre P-M, Bishop D, Thomas C (1994) Oxygen uptake and blood metabolic
+responses to a 400-m. Eur J Appl Physiol 109:233–240
+Hautier CA, Wouassi D, Arsac LM, Bitanga E, Thiriet P, Lacour JR (2010) Relationship between
+postcompetition blood lactate concentration and average running velocity over 100-m and
+200-m races. Eur J Appl Physiol 68:508–513
+Hernandez Gomez JJ, Marquina V, Gomez RW (2013) On the performance of Usain Bolt in the
+100 m sprint. Eur J Phys 34:1227–1233
+Hill AV (1925) The physiological basis of athletic records. Nature 116:544–548
+Kersting UG (1998) Biomechanical analysis of the sprinting events. In: Brüggemann G-P,
+Kszewski D, Müller H (eds) Biomechanical research project Athens 1997. Final report. Meyer
+& Meyer Sport, Oxford, pp 12–61
+Lacour JR, Bourdin M (2015) Factors affecting the energy cost of level running at submaximal
+speed. Eur J Appl Physiol 115:651–673
+Lloyd BB (1966) The energetics of running: an analysis of word records. Adv Sci 22:515–530
+Maćkała K, Mero A (2013) A kinematics analysis of three best 100 m performances ever. J Hum
+Kinet 36(Section III—Sports Training):149–160
+Margaria R (1938) Sulla ﬁsiologia e specialmente sul consumo energetico della marcia e della
+corsa a varia velocità ed inclinazione del terreno. Atti Acc Naz Lincei 6:299–368
+Margaria R, Mangili F, Cuttica F, Cerretelli P (1965) The kinetics of the oxygen consumption at
+the onset of muscular exercise in man. Ergonomics 8:49–54
+Mero A, Komi PV, Gregor RJ (1992) Biomechanics of sprint running. A review. Sports Med
+13:376–392
+Minetti AE, Moia C, Roi GS, Susta D, Ferretti G (2002) Energy cost of walking and running at
+extreme uphill and downhill slopes. J Appl Physiol 93:1039–1046
+296
+P. E. di Prampero and C. Osgnach
+
+
+<!-- Page 297 -->
+Minetti AE, Gaudino P, Seminati E, Cazzola D (2012) The cost of transport of human running is
+not affected, as in walking, by wide acceleration/deceleration cycles. J Appl Physiol 114:498–
+503
+Murase Y, Hoshikawa T, Yasuda N, Ikegami Y, Matsui H (1976) Analysis of the changes in
+progressive speed during 100-meter dash. In: Komi PV (ed) Biomechanics V-B. University
+Park Press, Baltimore, pp 200–207
+Osgnach C, Poser S, Bernardini R, Rinaldo R, di Prampero PE (2010) Energy cost and metabolic
+power in elite soccer: a new match analysis approach. Med Sci Sports Exerc 42:170–178
+Plamondon A, Roy B (1984) Cinématique et cinétique de la course accélérée. Can J Appl Sport Sci
+9:42–52
+Pugh LGCE (1970) Oxygen intake in track and treadmill running with observations on the effect of
+air resistance. J Physiol Lond 207:823–835
+Rittweger J, di Prampero PE, Maffulli N, Narici MV (2009) Sprint and endurance power and
+ageing: an analysis of master athletic world records. Proc R Soc B 276:683–689
+Scherrer J, Monod H (1960) Le travail musculaire local et la fatigue chez l’homme. J Physiol Paris
+52:419–501
+Summers RL (1997) Physiology and biophysics of 100-m sprint. News Physiol Sci 12:131–136
+Tam E, Rossi H, Moia C, Berardelli C, Rosa G, Capelli C, Ferretti G (2012) Energetics of running
+in top-level marathon runners from Kenya. Eur J Appl Physiol. https://doi.org/10.1007/s00421-
+012-2357-1
+Taylor MJD, Beneke R (2012) Spring mass characteristics of the fastest men on Earth. Int J Sports
+Med 33:667–670
+van Ingen Schenau GJ, Jacobs R, de Koning JJ (1991) Can cycle power predict sprint running
+performance? Eur J Appl Physiol 445:622–628
+van Ingen Schenau GJ, de Koning JJ, de Groot G (1994) Optimization of sprinting performance in
+running, cycling and speed skating. Sports Med 17:259–275
+Ward-Smith AJ, Radford PF (2000) Investigation of the kinetics of anaerobic metabolism by
+analysis of the performance of elite sprinters. J Biomech 33:997–1004
+Wilkie DR (1980). Equations describing power input by humans as a function of duration of
+exercise. In: Cerretelli P, Whipp BJ (eds) Exercise bioenergetics and gas exchange. Elsevier.
+Amsterdam, pp 75–80
+12
+The Energy Balance of Current World Records from 100 to 5000 m
+297
+

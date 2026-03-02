@@ -1,0 +1,167 @@
+# Chapter 1: Introduction
+
+
+<!-- Page 8 -->
+Chapter 1
+Introduction
+Jean-Benoit Morin and Pierre Samozino
+Everything should be made as simple as possible, but not simpler.
+Albert Einstein (1879–1955)
+Although it is a “young” scientiﬁc discipline, locomotion and sport biome-
+chanics has taken an important place in the daily routine of many practitioners of
+sports training, medicine and rehabilitation. It allows both a better understanding of
+human locomotion and performance and a better design of sports training and injury
+prevention programs. In these processes, the testing of athletes is crucial, and the
+quality and quantity of variables analysed will directly inﬂuence the effectiveness of
+coaches, physiotherapists and other practitioners’ interventions.
+This book presents a state of the art of innovative methods, and for most of them,
+gives direct and practical insights into how practitioners may beneﬁt from using
+them in their everyday practice. It also details how to interpret the data measured,
+and the underlying neuromuscular and biomechanical factors related to sport
+performances.
+Written and edited by the same researchers who proposed and validated these
+methods and concepts, the aim of this book is to both present innovative methods
+and concepts for an effective and accurate training and testing process (most of
+them being based on very simple technology and data processing methods), and
+discuss the associated underlying knowledge. Before presenting in details the
+theoretical basis and practical applications of these methods and concepts in the
+J.-B. Morin (&)
+Laboratory of Human Motricity, Education Sport and Health,
+Université Côte D’Azur, 261 Route de Grenoble, 06205 Nice, France
+e-mail: jean-benoit.morin@unice.fr
+P. Samozino (&)
+Laboratoire Inter-universitaire de Biologie de la Motricité, Université de Savoie Mont Blanc,
+Campus Scientiﬁque, 73000 Le Bourget du Lac, Chambéry, France
+e-mail: pierre.samozino@univ-smb.fr
+© Springer International Publishing AG 2018
+J.-B. Morin and P. Samozino (eds.), Biomechanics of Training and Testing,
+https://doi.org/10.1007/978-3-319-05633-3_1
+1
+
+
+<!-- Page 9 -->
+following chapters, this introduction section will focus on the speciﬁcities of
+the overall approach the authors of this book used as sport scientists to bring some
+new insights in human performances.
+1.1
+Optimizing Sport Performance Is like Cooking
+A good dish is the result of the optimal combination of different ingredients. A head
+cooking chief chooses the best ingredients and mixes them in the optimal way.
+Similar processes happen in sports. Performance is a complex integration of dif-
+ferent qualities, abilities and skills. The head cooking chief is the coach, or the
+strength and conditioning coach if we focus on physical qualities. He has the genius
+of training to mix at best the different ingredients required to reach high levels of
+performance. To improve athlete’s performance, one needs to know the different
+ingredients well, and how they can interact, to achieve the best mix possible. Both
+of the latter can come from empirical experience, but also, from evidence and data
+brought by sport sciences. Sport scientists do not aim to propose take-away recipes
+to sport practitioners, but only to bring some insights about ingredients, effects of
+their combinations and how to accurately taste/test them. This book presents some
+of these “ingredients” related to running, jumping, throwing and cycling perfor-
+mance, notably innovative methods and concepts to test and quantify some of these
+ingredients for each athlete, most of these methods being easily usable out of
+laboratories.
+In the same way that only one ingredient cannot be not responsible of the
+success of a delicious dish, the performance in sport does not depend on only one or
+two factors. However, to better understand the effect of one speciﬁc physical,
+technical, psychological or tactical quality on the ﬁnal performance, the sport sci-
+entist is forced to isolate each of them and to study their effect on only one part of
+the performance. This does not mean that he neglects the other factors also con-
+tributing to performance, but increasing the knowledge about a speciﬁc factor
+necessary goes by playing with this factor and considering the others as stable
+(ceteris paribus). For instance, explosive movements and sprint accelerations are
+key factors in soccer. While a good sprinter would not be necessarily a good soccer
+player since many other speciﬁc qualities and skills are needed, a soccer player who
+jumps higher, accelerates more and runs faster than his opponent, all other qualities
+being equal, will take a certain advantage in the game. So, increasing the under-
+standing and evaluation of individual capabilities determining explosive perfor-
+mances is of great interest, yet not sufﬁcient, to optimize soccer performance. In a
+delicious dish, each ingredient is indispensable, even not enough to explain the ﬁnal
+ﬂavor. This book will present theoretical and practical insights about biomechanical
+factors determining the ability to run or pedal faster, to jump higher or to throw
+further, which can be interesting to improve performance in some sports, keeping in
+mind that they are only some ingredients of the success. Sport practitioners should
+be aware about these factors and how to evaluate and train them, but they have to
+2
+J.-B. Morin and P. Samozino
+
+
+<!-- Page 10 -->
+integrate and associate them at best with the other ingredients involved in the
+targeted performance. Coaches are and remain the head cooking chiefs and sport
+sciences an indispensable tool.
+1.2
+See the Big Picture First
+You can’t see the forest for the tree
+When aiming at understanding and contributing to improve sport performance, a
+scientiﬁc approach going from macroscopic to microscopic levels is of great
+interest. It consists in starting the analyses from the performance itself, its different
+integrative biomechanical factors (when focusing on physical qualities) to then
+study the biological or neurophysiological underlying mechanisms. This allows a
+clear understanding, in a logical order, of the relationships between performance,
+the mechanical requirements of the underlying tasks and the associated mechanical
+outputs, the various athlete’s individual intrinsic qualities involved and in ﬁne, the
+corresponding biological features. In the ﬁeld of applied sport sciences, this implies
+to use a back-and-forth approach between ﬁelds of practice and laboratory. Most of
+time, the initial basic questions come from sport practitioners on the ﬁeld regarding
+what they need to better know to improve performance. Some of these interroga-
+tions require laboratory approaches using standardized experimental protocols,
+biomechanical or physiological models, mathematics, physics, and statistics. This
+inevitably puts some distance between research and the actual performance on the
+ﬁeld, but this makes possible to ﬁnd some answers which have then direct practical
+applications for performance optimization and training. This book will thus present
+some theoretical approaches, mainly based on biomechanical models, which bring
+some new insights contributing, at least in part, to answer practical issues for sport
+practitioners. These theoretical answers are associated to validation by comparison
+to experimental data and practical applications supporting their relevance and
+interest in training and testing.
+1.3
+Simple Models, Simple Methods
+The simpler the model, the clearer it is which of its characteristics are essential to the
+observed effect
+Alexander (2003)
+The originality of the biomechanical models presented in this book and asso-
+ciated to the above-mentioned macroscopic approaches, is to correctly explain
+human performance from the fewest variables possible. This philosophy of such
+models is well illustrated by the words of Robert McNeill Alexander in an interview
+presented in the “Questions and Answers” section of Current Biology journal in
+1
+Introduction
+3
+
+
+<!-- Page 11 -->
+2006 (Alexander 2006): “Use simple mathematical models for clarifying arguments
+and generating hypotheses. Don’t try to make your model as complex as the animal
+it represents: you will never succeed, and the effort may be counterproductive
+because it is often not apparent which features of a complex model are responsible
+for the effects it shows. On the other hand, if a model is simple enough, you can tell
+what caused the effect. I have found optimization models particularly useful —
+models that seek the best possible structure or behaviour. For example, if a model
+tells me that a particular pattern of behaviour is the best possible in given cir-
+cumstances, and if real animals do something quite different, that suggests that I
+may have failed to understand the issues at stake”. Such biomechanical models do
+not aim at representing all the biological structures forming human body, but rather
+at characterizing in the simplest way possible1 the actual mechanical behavior of the
+different part of the body acting in sport performance. These models allow sport
+scientists and practitioners to better identify and understand the different integrative
+biomechanical factors affecting human performances (dynamics approach). When
+using these models in the opposite way, i.e. the model’s input is the performance
+and the outputs are the underlying mechanical properties (inverse dynamics
+approach), they can be used to develop simple methods to evaluate some individual
+mechanical properties without any speciﬁc dynamometers or other laboratory
+devices. This book will present both ways to use such biomechanical models. First,
+it will present some models that led to some original concepts to better understand
+the biomechanical factors affecting sport performances. Second, this book will
+present simple methods to assess, easily and out of labs, mechanical properties of an
+athlete’s neuromuscular system or biomechanical features of human locomotion.
+Theoretical background, validation against “gold standard” methods and practical
+applications in training will be detailed in the following chapters.
+References
+Alexander RM (2003) Modelling approaches in biomechanics. Philos Trans R Soc Lond B Biol
+Sci 358(1437):1429–1435
+Alexander RM (2006) R. McNeill Alexander. Curr Biol 16(14):R519–R520
+1The simplest as possible in respect of the initial question at which the model is used to answer.
+4
+J.-B. Morin and P. Samozino
+

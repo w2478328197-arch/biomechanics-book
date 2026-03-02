@@ -1,0 +1,927 @@
+# Chapter 6: A Simple Method for Measuring Lower Limb Stiffness in Hopping
+
+
+<!-- Page 124 -->
+Chapter 6
+A Simple Method for Measuring Lower
+Limb Stiffness in Hopping
+Teddy Caderby and Georges Dalleau
+Abstract Lower limb stiffness is of great of interest to the scientiﬁc and sporting
+communities, given its implication in sporting performance and in musculoskeletal
+injury risk. In the literature, lower limb stiffness has been extensively studied during
+hopping, as it constitutes a simple bouncing gait. Characterization of lower limb
+stiffness in hopping is commonly based on a biomechanical model called the
+“spring-mass model”. This model assimilates the whole-body to an oscillating
+system consisting of a mass supported by a single spring, which represents the
+mechanical behaviour of the lower limbs during the ground contact phase of
+hopping. The stiffness of the spring, referred to as “leg spring”, represents an
+overall stiffness of the musculoskeletal system of the lower limbs. In this chapter,
+we will describe the biomechanical aspects related to this concept of leg stiffness in
+hopping and we will present a simple method for measuring it. This method enables
+the calculation of leg stiffness from just the body mass of the individual and the
+contact and ﬂight times during hopping, both of which may be obtained with simple
+technical equipment. This simple method may be particularly advantageous for
+assessing leg stiffness in a ﬁeld environment, as well as in laboratory conditions.
+6.1
+Introduction
+Jump tests are commonly used in the sporting ﬁeld for assessing athletes’ physical
+qualities and in particular for determining the mechanical characteristics of their
+lower extremities (Joyce and Lewindon 2016). The most popular jump tests are
+probably vertical jumps - such as the counter movement jump, squat jump or drop
+jump—which consist of athletes raising their centre of mass as high as possible
+above the ground. Since it requires the production of a high force level over a very
+T. Caderby  G. Dalleau (&)
+Department of Physical Activity and Sports Science - IRISSE EA4075,
+University of La Réunion, 117 Rue Du Général Ailleret,
+97430 Le Tampon, La Réunion, France
+e-mail: georges.dalleau@univ-reunion.fr
+© Springer International Publishing AG 2018
+J.-B. Morin and P. Samozino (eds.), Biomechanics of Training and Testing,
+https://doi.org/10.1007/978-3-319-05633-3_6
+121
+
+
+<!-- Page 125 -->
+short time interval, the vertical jump is considered to be one of the most explosive
+tasks (Samozino et al. 2008). So, the vertical jump has been widely used for
+assessing the mechanical power of the lower extremities and various methods have
+been proposed in the literature to measure it in a ﬁeld environment (e.g. Bosco et al.
+1983; Gray et al. 1962; Samozino et al. 2008, see Chaps. 4 and 5).
+Another jump test frequently used for evaluating the mechanical properties of
+the lower limbs is vertical hopping. Vertical hopping, hereinafter referred to as
+“hopping”, consists of bouncing repeatedly in place on both legs1 by minimizing
+the angular displacements at the leg joints, i.e. the hip, knee and ankle joints
+(Lamontagne and Kennedy 2013). Given the high jump frequency, approximately
+double compared with the repeated counter-movement jump tests (Bosco 1999), the
+lower limbs remain more rigid in hopping that during other jumps. This makes it a
+relevant task for assessing the stiffness of the lower limbs (Kuitunen et al. 2011).
+Stiffness, which is classically deﬁned as the ability of a body to resist deformation
+(Serpell et al. 2012), characterizes the elastic behaviour of a structure. It is usually
+associated with the body’s ability to store and return the elastic strain energy, which
+is a factor that potentially inﬂuences the efﬁciency and performance of human
+movement (Cavanagh and Kram 1985; Komi and Bosco 1978). There is indeed a
+growing body of evidence suggesting that lower limb stiffness is implicated in
+sporting performance (for reviews, see Brazier et al. 2014; Butler et al. 2003;
+McMahon et al. 2012). For example, it has been found that lower limb stiffness is
+related to performance in endurance running (Dalleau et al. 1998; Dutto and Smith
+2002; Heise and Martin 1998; Kerdok et al. 2002; McMahon et al. 1987), in sprint
+running (Bret et al. 2002; Chelly and Denis 2001), as well as the long jump
+(Seyfarth et al. 1999, 2000). Although there is no clear consensus on the topic, it
+seems that there may be an optimal level of leg stiffness to maximize athletic
+performance (Arampatzis et al. 2001; McMahon et al. 2012; Pearson and McMahon
+2012; Seyfarth et al. 1999). Too much or too little stiffness may be detrimental and
+possibly induce musculoskeletal injuries (Butler et al. 2003; Flanagan et al. 2008;
+Williams et al. 2001). Given its implication in sporting performance and injury risk,
+lower limb stiffness is an important topic in scientiﬁc and sporting communities.
+In this chapter, we will ﬁrst present the biomechanical aspects related to the
+concept and assessment of lower limb stiffness in hopping. Within this context, we
+will describe the biomechanical model classically used for studying lower limb
+stiffness, the reference measurement methods, and their limitations. Secondly, we
+will introduce a simple method for measuring lower limb stiffness in hopping and
+discuss the application, and limitations, of this method.
+1Although vertical hopping may also be performed on one leg, we will only address aspects related
+to two-legged hopping in this chapter.
+122
+T. Caderby and G. Dalleau
+
+
+<!-- Page 126 -->
+6.2
+Lower Limb Stiffness in Hopping
+6.2.1
+The Mechanical Deﬁnition of Stiffness
+From a mechanical point of view, stiffness refers to the ability of a body to resist
+changes in length. For an elastic body,2 such as a spring, stiffness may be deter-
+mined from the relationship that exists between the force applied to the body and
+the change in length produced. This is known as Hooke’s law. According to this
+law, the force needed to deform an elastic body (e.g. for stretching or compressing
+it) is proportional to the resulting deformation—i.e. the change in length—and the
+body stiffness. That is:
+F ¼ K  DL
+ð6:1Þ
+where F is the force applied (in newtons), K is the stiffness (in newton-metres−1)
+and DL is the change in length (in metres).
+Thus, stiffness represents the ratio of the force to the change in length:
+K ¼ F
+DL
+ð6:2Þ
+According to this principle, the higher the stiffness, the higher the required force
+to deform the body.
+6.2.2
+Spring-Like Leg Behaviour in Human Hopping
+Human hopping is frequently described using a spring-mass model (Blickhan 1989;
+McMahon and Cheng 1990). This model assimilates the whole-body to an oscil-
+lating system that consists of a mass, equivalent to the body mass, supported by a
+single mass-less spring characterising the behaviour of the lower limbs. At each
+hop, the spring compresses during the ﬁrst half of the ground contact phase (as leg
+joints ﬂex) and lengthens during the second half of the ground contact phase (as leg
+joints extend), before the subsequent ﬂight phase (Fig. 6.1). The stiffness of the
+spring, typically referred to as “leg spring”, thus reﬂects the ability of the lower
+limbs to resist a change in length.
+Although the spring-mass model is in appearance a quite simple model, it
+describes and predicts the mechanics of human bouncing gaits, such as hopping and
+running, remarkably well (e.g. Blickhan 1989; Farley and Gonzalez 1996; He et al.
+1991; McMahon and Cheng 1990). The experimental validation of this model for
+2An elastic body refers to a deformable material body that returns to its original shape and size
+when the forces causing the deformation are removed.
+6
+A Simple Method for Measuring Lower Limb …
+123
+
+
+<!-- Page 127 -->
+hopping has been accomplished mainly through force platform measurements
+during hopping (Blickhan 1989; Farley et al. 1991; McMahon and Cheng 1990).
+A force platform is a device that measures the reaction force supplied by the
+ground, i.e. the ground reaction force. From force platform measurements, it is also
+possible to compute the displacement of the centre of mass of the body (Cavagna
+1975).
+The ﬁrst studies analysing hopping on a force platform show that the vertical
+force and the vertical centre of mass displacement, which reﬂects the change in
+length of the leg spring, exhibit a typical pattern during the ground contact phase
+(e.g. Blickhan 1989; McMahon and Cheng 1990). Speciﬁcally, these studies
+demonstrate that during the ﬁrst half of the contact phase, the vertical force
+increases while the centre of mass displaces downwards, thus reﬂecting a com-
+pression of the leg spring. The maximal vertical centre of mass displacement, i.e.
+the maximal leg spring compression, is reached approximately at the middle of the
+contact phase. During the second half of the contact phase, the vertical force
+decreases while the centre of mass displaces upwards, indicating a lengthening of
+the spring. In short, during the contact phase both the vertical force signal and the
+vertical centre of mass displacement behave as a sine wave (Fig. 6.2). This sinu-
+soidal pattern of the force-time signal is characteristic of the behaviour of a linear3
+spring-mass system and thus conﬁrms the spring-like leg behaviour during the
+ground contact phase of hopping (Blickhan 1989; McMahon and Cheng 1990).
+Fig. 6.1 Illustration of the spring–mass model classically used to describe the overall
+biomechanics of human hopping. In this model, the whole-body is represented by a mass,
+equivalent to the body mass, and a single massless linear spring representing the behaviour of the
+lower limbs. At the initial point of ground contact, the leg spring is uncompressed. During the ﬁrst
+half of the ground contact phase, the leg spring compresses as the leg joints ﬂex, and it reaches a
+maximal compression at approximately the middle of the contact phase. During the second half of
+the ground contact phase, the leg spring lengthens as leg joints extend, before the subsequent aerial
+phase
+3The term “linear” means that the deformation of the spring is linearly proportional to the force
+applied.
+124
+T. Caderby and G. Dalleau
+
+
+<!-- Page 128 -->
+6.2.3
+Modulation of Leg Stiffness in Hopping
+The leg spring stiffness represents an overall stiffness of the musculoskeletal system
+of the lower limbs during the ground contact phase (Farley and Morgenroth 1999).
+Various anatomical structures contribute to this stiffness such as the muscles, ten-
+dons, ligaments, cartilage and bones of the limbs in contact with the ground.
+Speciﬁcally, leg stiffness corresponds to the combination of all the elementary
+stiffness values of these structures (Butler et al. 2003). Nevertheless, it is worth
+noting that leg stiffness may be modulated. Indeed, results from the literature reveal
+that humans are able to adapt leg stiffness to different situations.
+Hopping height. Results from the literature show that leg stiffness varies as a
+function of hopping height (e.g. Farley and Morgenroth 1999; Farley et al. 1991).
+Precisely, leg stiffness increases when individuals augment the hopping height at a
+given hopping frequency. For example, Farley and Morgenroth (1999) found that
+leg stiffness is twice as great when subjects hop at a maximal height (9 cm in their
+study) than at their preferred hopping height (3 cm) for a given frequency
+(2.2 Hz). Preferred hopping height is the height at which an individual naturally
+hops at a given frequency. In contrast, it is worthwhile to note that when the
+hopping frequency is not imposed (i.e. freely chosen), leg stiffness does not increase
+with hopping height (Kuitunen et al. 2011).
+Hopping frequency. In addition to hopping height, numerous studies show that
+hopping frequency also inﬂuences leg stiffness (Blickhan 1989; Dalleau et al. 2004;
+Farley et al. 1991; Granata et al. 2002; Hobara et al. 2010; Rapoport et al. 2003).
+Indeed, it has been observed that leg stiffness increases linearly with an increase in
+hopping frequency. Interestingly, it has been observed that when subjects are free to
+choose their hopping frequency, they spontaneously adopt a preferred frequency of
+about 2 Hz (Ferris and Farley 1997; Granata et al. 2002; Melvill Jones and Watt
+1971).
+Fig. 6.2 Typical time course
+of the vertical ground reaction
+force (GRF) and the vertical
+displacement of the centre of
+mass (COM) during the
+ground contact phase of
+hopping. The traces were
+obtained for one subject
+(mass = 58 kg) hopping at a
+2.2 Hz frequency
+6
+A Simple Method for Measuring Lower Limb …
+125
+
+
+<!-- Page 129 -->
+Contact time. Changing hopping frequency usually leads a variation in ground
+contact time. Precisely, an increase in hopping frequency is often associated with a
+decrease in the time spent on the ground (Austin et al. 2003; Chang et al. 2008;
+Farley et al. 1991; Ferris and Farley 1997; Hobara et al. 2008, 2010; Rapoport et al.
+2003). Nevertheless, it is possible to modulate contact time for the same hopping
+frequency. This modulation of contact time may be made for instance through
+instructions given to the subjects (Arampatzis et al. 2001; Hobara et al. 2007; Voigt
+et al. 1998a, b). Hobara et al. (2007) examined the effect of changing contact time
+on leg stiffness during hopping at the preferred frequency. For this, they compared
+leg stiffness in two hopping conditions: with preferred contact time (238 ms in
+their study) and with the shortest possible contact time (203 ms). In agreement
+with the ﬁndings about the effect of hopping frequency, these authors found that leg
+stiffness increased when contact time was reduced.
+Ground surface properties. Leg stiffness is also inﬂuenced by the mechanical
+properties of the surface underfoot (Farley et al. 1998; Ferris and Farley 1997;
+Moritz and Farley 2003, 2005; Moritz et al. 2004). Precisely, it has been found that
+leg stiffness increased when the stiffness of the ground surface was decreased, i.e.
+when hopping was performed on a softer surface than normal. This adaptation in
+leg stiffness kept the total stiffness constant, i.e. the stiffness of the leg-surface
+combination, and thus maintained similar centre of mass motions, in particular in
+terms of height reached by the centre of mass during the ﬂight phase. However,
+when the surface is highly damped, humans abandon the spring-mass behaviour
+(Moritz and Farley 2003, 2005). Indeed, in these conditions, lower limb mechanics
+need to be altered in order to prevent that the surface dictates the centre of mass
+motions. When hopping is performed on this type of very damp surface, the lower
+limbs extend during the ﬁrst part of the contact phase and then retract in the second
+part of the stance. This adjustment maintains the centre of mass motion unchanged
+(Moritz and Farley 2003, 2005).
+Loading conditions. Findings from the literature suggest that leg stiffness is
+sensitive to the loading conditions. Recently, Carretero-Navarro and Marquez
+(2015) observed that, in a hopping condition at a 3 Hz frequency, subjects
+increased leg stiffness when carrying an overload (weighted vest) superior to 10%
+of their body weight (BW). In contrast, these authors did not observe any effect of
+the load on leg stiffness when the hopping frequency was below 3 Hz or when the
+load was inferior to 10% of BW. In line with these results, Donoghue and Steele
+(2009) also found no signiﬁcant difference in leg stiffness when subjects hopped at
+a 2.2 Hz frequency with or without an overload of 10% of BW. In short, it seems
+that the addition of a load may increase leg stiffness during hopping, in particular
+when the load is superior to 10% of the subject’s BW and when the hopping
+frequency is elevated (  3 Hz).
+126
+T. Caderby and G. Dalleau
+
+
+<!-- Page 130 -->
+6.2.4
+Mechanisms for Regulating Leg Stiffness in Hopping
+To better understand how humans regulate leg stiffness in hopping, numerous
+studies are investigating stiffness at the joint level (e.g. Farley and Morgenroth
+1999; Hobara et al. 2009; Kuitunen et al 2011). Indeed, leg stiffness as a general
+condition depends on the stiffness at the various joints of the leg, including the hip,
+knee and ankle joints (Farley and Morgenroth 1999). Stiffer joints will undergo
+smaller angular displacements during the contact phase, consequently reducing leg
+spring compression and thus increasing leg stiffness. In most of these studies, leg
+joints were thought of as springs, referred to as torsional springs, possessing a
+constant stiffness. Joint stiffness precisely represents the resistance of the joint to
+change in the angular displacement (Brazier et al. 2014). It is calculated as the ratio
+of the joint moment to the angular joint displacement. Joint kinematics is usually
+obtained with a high-speed video camera (Farley and Morgenroth 1999) or a
+motion capture system (Mrdakovic et al 2014). Joint moment is calculated from
+inverse dynamics using both kinematic and kinetic (i.e. force platform) data.
+Results from studies examining joint stiffness in hopping are quite variable.
+Some studies show that leg stiffness is mainly regulated by modulating the ankle
+joint stiffness during hopping at a given frequency (Farley and Morgenroth 1999;
+Farley et al. 1998). In particular, these authors observed that subjects increased
+primarily ankle joint stiffness thus augmenting leg stiffness during hopping at
+2.2 Hz. In contrast, other studies show that the major determinant for increasing leg
+stiffness during hopping at the preferred frequency was knee joint stiffness rather
+than ankle joint stiffness or hip joint stiffness (Hobara et al. 2009; Kuitunen et al.
+2011). These conﬂicting results between studies could be due to differences in task
+constraints, in particular in the hopping frequency. Indeed, recent studies suggest
+that the relative contribution of ankle or knee joint stiffness to leg stiffness is
+frequency dependent (Hobara et al. 2011; Mrdakovic et al. 2014). According to
+these last studies, the main determinant of leg stiffness switches from knee stiffness
+to ankle stiffness when the hopping frequency is increased.
+The aforementioned studies underline that leg stiffness may be regulated by
+adjusting stiffness at the joint level. Joint stiffness adjustments may be accom-
+plished by modulating the muscle activity including the level of muscle activation
+before ground contact (Arampatzis et al. 2001; Hobara et al. 2007) and in the early
+phase of ground contact (Kuitunen et al 2011), the short-latency stretch reﬂex
+response at the instant of touchdown (Komi and Gollhofer 1997; Voigt et al.
+1998a, b) and the muscle co-contraction level (Hortobagyi and DeVita 2000).
+Nevertheless, it should be noted that, in addition to joint stiffness, leg stiffness may
+also be modulated by altering the joint angle at the instant of touchdown. Indeed, by
+further extending the leg joints at touchdown, the ground reaction force vector will
+be more closely aligned with the joints, simultaneously decreasing the joint
+moments but increasing leg stiffness (Farley and Morgenroth 1999; Farley et al.
+1998).
+6
+A Simple Method for Measuring Lower Limb …
+127
+
+
+<!-- Page 131 -->
+6.2.5
+Measurement of Leg Stiffness in Hopping: The
+Reference Methods
+In the literature, lower limb stiffness in hopping has been extensively assessed using
+a force platform. Various methods based on the spring-mass model have been
+proposed for calculating stiffness from force platform measurements (for reviews,
+see Brughelli and Cronin 2008; Butler et al. 2003; Serpell et al. 2012).
+One of the simplest and most commonly used methods for calculating leg
+stiffness in hopping was introduced by McMahon and Cheng (1990). This method
+consists of calculating leg stiffness by dividing the peak vertical ground reaction
+force by the maximal vertical displacement of the centre of mass, both occurring
+approximately in the middle of the ground contact phase:
+KR ¼
+Fmax
+DCOM
+ð6:3Þ
+where KR is the leg stiffness, Fmax is the peak vertical ground reaction force and
+DCOM is the maximum vertical displacement of the centre of mass.
+Vertical displacement of the centre of mass may be computed by a double
+integration of the vertical centre of mass acceleration (Cavagna 1975), which may
+be obtained from the vertical ground reaction force using Newton’s second law
+(F = ma). The goal being to determine the displacement, the integration constant is
+set arbitrarily at zero. The maximal vertical displacement of the centre of mass is
+then determined from the difference between the maximum and minimum values of
+the displacement curve. This procedure proposed by Cavagna (1975) for deter-
+mining the vertical centre of mass displacement from force platform data has been
+shown to be accurate for a large range of hopping frequencies (Ranavolo et al.
+2008).
+A second method that has also been widely used for calculating leg stiffness in
+hopping is one detailed by Farley and Gonzalez (1996). This method requires
+plotting the vertical ground reaction force against the vertical centre of mass dis-
+placement for the ground contact phase, as illustrated in Fig. 6.3. Leg stiffness is
+then calculated as the slope of the linear regression of this force versus the dis-
+placement relationship (Farley and Gonzalez 1996).
+A third method for calculating leg stiffness was proposed by McMahon et al.
+(1987). In this method, leg stiffness is calculated from the total body mass and the
+natural frequency4 of the mass–spring system. Natural frequency of oscillation is
+determined from the vertical velocity of the COM and the duration of the contact
+and aerial phases, i.e. the contact and ﬂight times, respectively. All these parameters
+4Natural frequency is the frequency at which the spring-mass system oscillates freely, i.e. in the
+absence of any external force, once set into motion. This natural frequency depends on the mass
+and the stiffness of the system.
+128
+T. Caderby and G. Dalleau
+
+
+<!-- Page 132 -->
+are derived from the vertical ground reaction force. Leg stiffness is then calculated
+by the following formula:
+KR ¼ mx2
+0
+ð6:4Þ
+where KR is the leg stiffness, m is the total body mass of the subject and x2
+0 is the
+natural frequency of oscillation.
+A fourth method for calculating leg stiffness has been described by Cavagna
+et al. (1988). In this method, stiffness is also calculated from the body mass and the
+natural frequency of oscillation using the same formula (Eq. 6.4) as McMahon et al.
+(1987). The sole difference between these two methods resides in the calculation of
+the natural frequency of oscillation. In their method, Cavagna et al. (1988) used the
+vertical ground reaction force history for determining the natural frequency of
+oscillation. More precisely, natural frequency was obtained from the effective
+contact time, which corresponds to the amount of time that the vertical force is
+greater than the body weight during the ground contact phase. By assuming that the
+vertical force-time curve is sinusoidal, one may consider that the effective contact
+time is equivalent to one-half of a period of oscillation (P/2), where P is equal to the
+period of oscillation of the spring-mass system. The natural frequency may then be
+calculated as:
+x0 ¼ 2p
+P
+ð6:5Þ
+where x0 is the natural frequency of oscillation and P is the period of oscillation.
+Substituting the equation in 6.4, leg stiffness may be directly expressed by the
+following formula:
+Fig. 6.3 Typical plot of the
+vertical ground reaction force
+versus the vertical centre of
+mass (COM) displacement for
+the ground contact phase of
+hopping. The curve was
+obtained for one subject
+(mass = 58 kg) hopping at a
+2.2 Hz frequency. The slope
+(dotted line) of this curve
+represents leg stiffness
+6
+A Simple Method for Measuring Lower Limb …
+129
+
+
+<!-- Page 133 -->
+KR ¼ m 2p
+P
+
+2
+ð6:6Þ
+where KR is the leg stiffness, m is the body mass of the subject and P is the period of
+oscillation.
+Studies have compared the leg stiffness values obtained from some of the
+above-described reference methods (Hébert-Losier and Eriksson 2014; Hobara et al.
+2014). Hobara et al. (2014) found no difference in leg stiffness measurements
+between the method describing leg stiffness as the ratio of the vertical force by the
+vertical centre of mass displacement (McMahon and Cheng 1990) and the
+frequency-based method of Cavagna et al. (1988). In contrast, results of the study
+by Hébert-Losier and Eriksson (2014) suggest that the method proposed by
+McMahon and Cheng (1990) would be more reliable than the one described by
+Cavagna et al. (1988). Interestingly, other studies found that the method proposed
+by McMahon and Cheng (1990) presents a good interday reliability during hopping
+at 2.2 and 3.2 Hz (Joseph et al. 2013; McLachlan et al. 2006) and a moderate
+interday reliability during hopping at the preferred frequency (Joseph et al. 2013).
+6.2.6
+Limitations of the Reference Methods
+The various reference methods described in the literature for measuring leg stiffness
+in hopping present some limitations. One of these limitations is inherent to the
+spring-mass model, on which these various methods rely. In reality, the human leg
+does not constitute a perfectly linear spring (Blickhan 1989; Farley and Gonzalez
+1996; McMahon and Cheng 1990). Indeed, the lower limb is composed of several
+joints (mainly hip, knee and ankle) actuated by a set of muscles, which could be
+considered as a set of variable resistance springs (Bobbert and Casius 2011;
+Rapoport et al. 2003). However, although the mechanical behaviour of the leg is not
+entirely characterised by a linear spring, the spring-mass model represents an
+adequate and widely accepted model for studying leg stiffness in hopping.
+In addition to this limitation associated with the model, the reference methods
+suffer from other limitations that restrict their use in sports, as well as in research.
+First, these various methods require a force platform, which is an expensive device
+and thus not readily accessible for most coaches and athletes. Next, the use of these
+methods is also limited by the data processing required and the computational
+complexity. To overcome these limitations, we developed a simple method for
+measuring lower limb stiffness from easily accessible parameters.
+130
+T. Caderby and G. Dalleau
+
+
+<!-- Page 134 -->
+6.3
+A Simple Method for Measuring Leg Stiffness
+in Hopping
+6.3.1
+Theoretical Foundations of the Method
+The simple method proposed here relies on the general assumption that the vertical
+force-time signal during the ground contact phase of hopping may be modelled by a
+simple sine function (Cavagna et al. 1988; McMahon and Cheng 1990), which is
+described by the following equation:
+F tð Þ ¼ Fmax  sin
+p
+TC
+ t
+
+
+ð6:7Þ
+where Fmax is the maximal vertical force (in N), TC is the contact time (in s) and
+represents the half period of the sine wave.
+By supposing that the area under the sine curve is equivalent to the impulse of
+the vertical force signal during the contact time, it is possible to calculate the
+maximal vertical force as follows (see Dalleau et al. 2004 for details):
+Fmax ¼ m  g  p
+2 
+TF
+TC
+þ 1
+
+
+ð6:8Þ
+where m is the mass of the individual (in kg), g is the gravitational acceleration
+(g = 9.81 m s−1) and TF is the ﬂight time.
+The maximal vertical centre of mass displacement, DCOM in m
+ð
+Þ, during the
+contact phase may be obtained from the following equation:
+DCOM ¼  Fmax
+m
+T2
+C
+p2 þ g T2
+C
+8
+ð6:9Þ
+Stiffness being the ratio of the maximal vertical force to the maximal vertical
+centre of mass displacement, it may be calculated as:
+KN ¼ m  p TF þ TC
+ð
+Þ
+T2
+C
+TF þ TC
+p
+ TC
+4
+
+
+ð6:10Þ
+Thus, leg stiffness may be calculated from just the following parameters: the
+subject’s body mass (m), the contact (TC) and ﬂight (TF) times.
+6
+A Simple Method for Measuring Lower Limb …
+131
+
+
+<!-- Page 135 -->
+6.3.2
+Experimental Validation of the Method
+This simple method has been validated against a reference method relying on force
+platform data. For this, an experiment was conducted over two sessions and
+enrolled eight subjects. In the ﬁrst session, subjects performed submaximal
+two-legged hops with a large range of frequencies. They were instructed to hop on a
+force platform covered by a single contact mat for 10 s at frequencies ranging from
+1.8 to 4.0 Hz (with increments of 0.2 Hz). In the second session, subjects per-
+formed ten maximal two-legged hops with their hands on their hips and their legs as
+straight as possible. In both sessions, the data recorded by the force platform
+(Kistler, Switzerland) and the contact mat (Mayser, Germany) was sampled at
+500 Hz. The contact mat detected foot contact with the ground and thus provided
+the contact and ﬂight times during hopping. The leg stiffness estimated by the
+simple method (KN) was calculated from these contact and ﬂight times using
+Eq. 6.10. This estimated stiffness was compared with the stiffness measured by the
+reference method based on force platform data. The reference stiffness (KR) was
+calculated as the ratio of the peak vertical ground reaction force to the maximal
+vertical displacement of the centre of mass (McMahon and Cheng 1990).
+Results show that the absolute differences between both methods ranged from
+0.1 kN m−1 (i.e. 0.2% of KR, obtained at 2.8 Hz) to 4.6 kN m−1 (i.e. 7.2% of KR,
+obtained at 3.6 Hz; Table 6.1) during the submaximal hopping test. The absolute
+mean difference (all frequencies included) between both methods was 1.8 kN m−1,
+i.e. 3.8% of KR.
+Table 6.1 Mean values and standard deviation (SD) of leg stiffness obtained from the reference
+method (KR) and the simple method (KN) for each hopping frequency
+Hopping
+frequency
+(Hz)
+KR (kN m−1)
+Mean ± SD
+KN (kN m−1)
+Mean ± SD
+Mean
+difference
+(kN m−1)
+Limits of
+agreement
+Mean ± 2SD
+1.8
+21.8 ± 11.6
+23.3 ± 10.2
+1.5
+−7.719 to 3.993
+2
+29.2 ± 12.9
+28.1 ± 9.2
+−1.1
+−5.83 to 1.614
+2.2
+33.9 ± 10.6
+33.4 ± 8.5
+−0.5
+−6.086 to 1.098
+2.4
+40.0 ± 10.1
+37.7 ± 6.3
+−2.3
+−6.284 to 2.44
+2.6
+42.1 ± 7.8
+41.8 ± 5.5
+−0.3
+−7.047 to 3.621
+2.8
+45.0 ± 4.5
+44.9 ± 5.7
+−0.1
+−8.434 to 4.47
+3
+52.8 ± 6.7
+50.2 ± 4.8
+−2.5
+−8.56 to 5.636
+3.2
+54.9 ± 8.2
+52.3 ± 5.8
+−2.5
+−8.794 to 5.878
+3.4
+58.6 ± 4.2
+55.2 ± 5.8
+−3.4
+−15.222 to 9.15
+3.6
+63.8 ± 8.5
+59.3 ± 5.7
+−4.6
+−8.565 to 6.779
+3.8
+62.4 ± 9.9
+61.8 ± 6.0
+−0.6
+−7.121 to 5.859
+4
+68.4 ± 6.7
+66.8 ± 5.8
+−1.6
+−5.927 to 6.693
+The mean difference and the limits of agreement between both methods are also presented
+132
+T. Caderby and G. Dalleau
+
+
+<!-- Page 136 -->
+Furthermore, a high signiﬁcant correlation was found between KN and KR in the
+submaximal hopping test (r = 0.94; p < 0.001). A strong correlation was also found
+between KN and KR in the maximal hopping test. In the maximal hopping test, the
+mean stiffness (± standard deviation) obtained by the simple method was
+30.6 ± 10.0 and 34.0 ± 13.1 kN m−1 for the reference method. Taken together,
+these results suggest that the simple method is valid for assessing leg stiffness in
+submaximal and maximal hopping conditions.
+6.3.3
+Advantages and Limitations of the Method
+The simple method enables the measurement of leg stiffness from simple param-
+eters: the body mass of the individual, and contact and ﬂight times. As compared
+with force platform methods, minimal data is stocked, data processing and calcu-
+lation are greatly simpliﬁed, and no calibration is required. This method may thus
+be particularly advantageous for assessing leg stiffness in a ﬁeld environment, as
+well as in laboratory conditions. In addition, the fact that this method is simple and
+inexpensive makes it accessible to most coaches and athletes.
+Nevertheless, it must be recognized that the simple method presents some
+limitations. First, given that this method relies on the spring-mass model, the
+limitation associated with this model (see 6.2.6) also applies to the simple method.
+A second limitation is associated with the modelling of the vertical force-time
+curve by a sine function. For a pure spring-mass system, the vertical force should
+theoretically have a bell shaped curve during the ground contact phase (McMahon
+and Cheng 1990; McMahon et al. 1987), which is not completely the case in reality.
+Compared to this bell shaped curve, the sine shaped model presents, for an equal
+impulse amount, a lower maximal force (Dalleau et al. 2004). This approximation
+of the vertical force signal curve by a sine wave may thus limit the accuracy of the
+simple method. In particular, this may explain the slight underestimation of stiffness
+obtained by this method as compared to the reference stiffness when hopping
+frequency is above 1.8 Hz (see Table 6.1). This tendency of the simple method to
+slightly underestimate leg stiffness has also been observed by another study
+(Hobara et al. 2014), following the initial validation of the method.
+A third limitation of this simple method is related to the fact that the input
+parameters, i.e. body mass, contact and ﬂight times, have to be accurately measured
+in order to ensure the accuracy of leg stiffness measurements. Morin et al. (2005)
+adapted this simple method for measuring leg stiffness in running (see Chap. 8 for
+details). By conducting a sensitivity analysis, these authors noted that the parameter
+with the greatest inﬂuence on stiffness was the contact time. Speciﬁcally, variation
+of the contact time inﬂuenced stiffness in a proportion of about 1:2, which means
+that a change of 10% in this parameter leads to a change of 20% in leg stiffness.
+Regarding the other parameters, it was found that body mass inﬂuenced stiffness in
+a proportion of about 1:1 and even less for ﬂight time. These ﬁndings draw our
+attention to the necessity of accurately measuring these input parameters when
+6
+A Simple Method for Measuring Lower Limb …
+133
+
+
+<!-- Page 137 -->
+using the simple method. Several systems currently allow measuring contact and
+ﬂight times with accuracy, like for example contact mats, optical measurement
+systems (e.g. OptojumpTM), accelerometers and high-speed cameras. Readers may
+refer to Chap. 8 for detailed information about available devices and technologies
+for measuring these temporal parameters.
+6.3.4
+Application of the Method
+The aim of developing this simple method was to facilitate leg stiffness assessment
+so that it can be carried out in a ﬁeld environment by coaches or athletes them-
+selves. Furthermore, this method has also been developed for use in research,
+particularly to study the regulation of stiffness in the optimization of sports per-
+formance. Numerous studies suggest that leg stiffness is related to performance, in
+particular in sports activities involving the stretch-shortening cycle, such as running
+and jumping (Brazier et al. 2014; Butler et al. 2003). However, there is no clear
+consensus on the optimal amount of stiffness for performance. Some studies show
+that higher levels of stiffness are beneﬁcial to performance (Chelly and Denis 2001;
+Dalleau et al. 1998). Conversely, other studies suggest that lower levels of stiffness
+may improve the storage and utilization of elastic strain energy and thus enhance
+performance (Laffaye et al. 2005). Furthermore, some authors state that there is an
+optimal level of stiffness and that increasing this level would not necessarily
+enhance performance (Seyfarth et al. 2000). Hence, the relationship between
+stiffness and performance is not fully understood.
+Within this context, we used the simple method to investigate the relationship
+between leg stiffness and another parameter of performance, i.e. the reactive power,
+in highly trained athletes including sprinters and ski racers (Dalleau et al. 2007).
+Reactive power, also called mechanical power, was measured by the method
+developed by Bosco et al. (1983). For this, subjects were instructed to perform
+maximal hops during a certain period (7 s in this study). Reactive power was
+calculated simply from contact and ﬂight times using the following formula:
+PR ¼ g2TFTT
+4TC
+ð6:11Þ
+where PR is the reactive power (in W kg−1), g is the gravitational acceleration
+(g = 9.81 m s−1), TF is the ﬂight time, TC is the contact time and TT is the total time
+(TF + TT).
+Results
+show
+that
+Senegalese
+sprinters
+exhibited
+less
+leg
+stiffness
+(21.6 ± 3.7 kN m−1) than both Italian sprinters (34.9 ± 5.3 kN m−1) and ski
+racers (33.0 ± 5.4 kN m−1), while no signiﬁcant difference was found between
+Italian sprinters and ski racers (p > 0.05). Regarding the reactive power, we
+observed
+that
+Italian
+sprinters
+produced
+a
+higher
+reactive
+power
+(64.1 ± 4.6 W kg−1) than Senegalese sprinters (49.5 ± 7.5 W kg−1) and skiers
+134
+T. Caderby and G. Dalleau
+
+
+<!-- Page 138 -->
+(50.0 ± 7.1 W kg−1). In contrast, there was no signiﬁcant difference in the reactive
+power between the Senegalese sprinters and skiers (p > 0.05). A signiﬁcant cor-
+relation between leg stiffness and reactive power was found in sprinters (r2 = 0.68;
+p < 0.001, Italian and Senegalese sprinters combined), but not in skiers (p > 0.05).
+These results suggest that leg stiffness is related to the reactive power in athletes
+trained to produce power in similar conditions. Maximal hopping and sprinting may
+indeed be considered as activities particularly involving the stretch-shortening
+cycle, contrary to ski racing. Thus, probably due to the speciﬁcity of their training,
+sprinters seem to be more apt to take advantage of the stretch-shortening cycle.
+With similar stiffness, Italian sprinters are able to develop higher power than ski
+racers. With less stiffness, Senegalese sprinters produce power similar to skiers.
+These ﬁndings stress that the sport speciality or the type of training inﬂuences leg
+stiffness control. Other studies have conﬁrmed that the type of training inﬂuences
+the regulation of leg stiffness. For example, Hobara et al. (2008) examined the
+differences between power-trained athletes and distance runners during hopping at
+1.5 and 3 Hz. They found that the power athletes exhibited greater leg stiffness
+(38 kN m−1 at 1.5 Hz and 62 kN m−1 at 3 Hz) than the endurance-trained
+athletes (28 kN m−1 at 1.5 Hz and 48 kN m−1 at 3 Hz) at both hopping fre-
+quencies. By way of indication, other leg stiffness values obtained from the simple
+method (maximal hopping) for athletes from different sports disciplines are dis-
+played in the following Table 6.2.
+6.4
+Conclusion
+The method presented in this chapter constitutes a valid method for assessing leg
+stiffness in submaximal and maximal hopping conditions. This method calculates
+leg stiffness from only the individual’s body mass and the contact and ﬂight times
+during hopping, which may be obtained with basic technical equipment. This
+simple method may be particularly advantageous for assessing leg stiffness in a
+ﬁeld environment, as well as in laboratory conditions.
+Table 6.2 Mean values and standard deviation of leg stiffness obtained from the simple method
+(in maximal hopping) for athletes from different sport disciplines
+Athletes
+Leg stiffness (kN m−1)
+Body mass (kg)
+National level male sprinters
+31.7 ± 4.0
+72.8 ± 7.9
+National level male discus throwers
+40.7 ± 2.0
+96.2 ± 8.5
+National level male hammer throwers
+39.4 ± 2.1
+97.2 ± 12.2
+National level male shot putters
+42.0 ± 2.4
+107.0 ± 23.7
+6
+A Simple Method for Measuring Lower Limb …
+135
+
+
+<!-- Page 139 -->
+References
+Arampatzis A, Schade F, Walsh M, Bruggemann GP (2001) Inﬂuence of leg stiffness and its effect
+on myodynamic jumping performance. J Electromyogr Kinesiol 11(5):355–364
+Austin GP, Tiberio D, Garrett GE (2003) Effect of added mass on human unipedal hopping at three
+frequencies. Percept Mot Skills 97(2):605–612
+Blickhan R (1989) The spring-mass model for running and hopping. J Biomech 22:1217–1227
+Bobbert MF, Richard Casius LJ (2011) Spring-like leg behaviour, musculoskeletal mechanics and
+control in maximum and submaximum height human hopping. Philos Trans R Soc Lond B
+Biol Sci 366(1570):1516–1529
+Bosco C (1999) Strength assessment with the Bosco’s test. Italian Society of Sports Science,
+Rome, Italy
+Bosco C, Luhtanen P, Komi PV (1983) A simple method for measurement of mechanical power in
+jumping. Eur J Appl Physiol Occup Physiol 50(2):273–282
+Brazier J, Bishop C, Simons C, Antrobus M, Read PJ, Turner AN (2014) Lower extremity
+stiffness: effects on performance and injury and implications for training. Strength
+Conditioning J 36(5):103–112
+Bret C, Rahmani A, Dufour AB, Messonnier L, Lacour JR (2002) Leg strength and stiffness as
+ability factors in 100 m sprint running. J Sports Med Phys Fitness 42(3):274–281
+Brughelli M, Cronin J (2008) A review of research on the mechanical stiffness in running and
+jumping: methodology and implications. Scand J Med Sci Sports 18(4):417–426
+Butler RJ, Crowell HP, Davis IM (2003) Lower extremity stiffness: implications for performance
+and injury. Clin Biomech 18(6):511–517
+Carretero-Navarro G, Márquez G (2015) Effect of different loading conditions on leg stiffness
+during hopping at different frequencies. Sci Sports 31(2):e27–e31
+Cavagna GA (1975) Force platforms as ergometers. J Appl Physiol 39(1):174–179
+Cavagna GA, Franzetti P, Heglund NC, Willems P (1988) The determinants of the step frequency
+in running, trotting and hopping in man and other vertebrates. J Physiol 399:81–92
+Cavanagh PR, Kram R (1985) Mechanical and muscular factors affecting the efﬁciency of human
+movement. Med Sci Sports Exerc 17(3):326–331
+Chang YH, Roiz RA, Auyang AG (2008) Intralimb compensation strategy depends on the nature
+of joint perturbation in human hopping. J Biomech 41(9):1832–1839
+Chelly SM, Denis C (2001) Leg power and hopping stiffness: relationship with sprint running
+performance. Med Sci Sports Exerc 33(2):326–333
+Dalleau G, Belli A, Bourdin M, Lacour JR (1998) The spring-mass model and the energy cost of
+treadmill running. Eur J Appl Physiol Occup Physiol 77(3):257–263
+Dalleau G, Belli A, Viale F, Lacour JR, Bourdin M (2004) A simple method for ﬁeld
+measurements of leg stiffness in hopping. Int J Sports Med 25(3):170–176
+Dalleau G, Rahmani A, Verkindt C (2007) Relationship between power and musculotendinous
+stiffness in high level athletes. Sci Sports 22(2):110–116
+Donoghue O, Steele L (2009) Acute effects of hopping with weighted vest on vertical stiffness. In:
+ISBS-Conference Proceedings Archive 1(1)
+Dutto DJ, Smith GA (2002) Changes in spring-mass characteristics during treadmill running to
+exhaustion. Med Sci Sports Exerc 34(8):1324–1331
+Farley CT, Blickhan R, Saito J, Taylor CR (1991) Hopping frequency in humans: a test of how
+springs set stride frequency in bouncing gaits. J Appl Physiol 71(6):2127–2132
+Farley CT, Gonzalez O (1996) Leg stiffness and stride frequency in human running. J Biomech 29
+(2):181–186
+Farley CT, Houdijk HH, Van Strien C (1985) Louie M (1998) Mechanism of leg stiffness
+adjustment for hopping on surfaces of different stiffnesses. J Appl Physiol 85(3):1044–1055
+Farley CT, Morgenroth DC (1999) Leg stiffness primarily depends on ankle stiffness during
+human hopping. J Biomech 32(3):267–273
+136
+T. Caderby and G. Dalleau
+
+
+<!-- Page 140 -->
+Ferris DP, Farley CT (1997) Interaction of leg stiffness and surfaces stiffness during human
+hopping. J Appl Physiol 82(1):15–22
+Flanagan EP, Galvin L, Harrison AJ (2008) Force production and reactive strength capabilities
+after anterior cruciate ligament reconstruction. J Athl Train 43(3):249–257
+Granata KP, Padua DA, Wilson SE (2002) Gender differences in active musculoskeletal stiffness.
+Part II. quantiﬁcation of leg stiffness during functional hopping tasks. J Electromyogr Kinesiol
+12(2):127–135
+Gray R, Start K, Glenross D (1962) A test of leg power. Res Q 33:44–50
+He JP, Kram R, McMahon TA (1991) Mechanics of running under simulated low gravity. J Appl
+Physiol 71(3):863–870
+Hébert-Losier K, Eriksson A (2014) Leg stiffness measures depend on computational method.
+J Biomech 47(1):115–121
+Heise GD, Martin PE (1998) “Leg spring” characteristics and the aerobic demand of running. Med
+Sci Sports Exerc 30(5):750–754
+Hobara H, Inoue K, Kobayashi Y, Ogata T (2014) A comparison of computation methods for leg
+stiffness during hopping. J Appl Biomech 30(1):154–159
+Hobara H, Inoue K, Muraoka T, Omuro K, Sakamoto M, Kanosue K (2010) Leg stiffness
+adjustment for a range of hopping frequencies in humans. J Biomech 43(3):506–511
+Hobara H, Inoue K, Omuro K, Muraoka T, Kanosue K (2011) Determinant of leg stiffness during
+hopping is frequency-dependent. Eur J Appl Physiol 111(9):2195–2201
+Hobara H, Kanosue K, Suzuki S (2007) Changes in muscle activity with increase in leg stiffness
+during hopping. Neurosci Lett 418(1):55–59
+Hobara H, Kimura K, Omuro K, Gomi K, Muraoka T, Iso S, Kanosue K (2008) Determinants of
+difference in leg stiffness between endurance- and power-trained athletes. J Biomech 41
+(3):506–514
+Hobara H, Muraoka T, Omuro K, Gomi K, Sakamoto M, Inoue K, Kanosue K (2009) Knee
+stiffness is a major determinant of leg stiffness during maximal hopping. J Biomech 42
+(11):1768–1771
+Hortobagyi T, DeVita P (2000) Muscle pre- and coactivity during downward stepping are
+associated with leg stiffness in aging. J Electromyogr Kinesiol 10(2):117–126
+Joseph CW, Bradshaw EJ, Kemp J, Clark RA (2013) The interday reliability of ankle, knee, leg,
+and vertical musculoskeletal stiffness during hopping and overground running. J Appl Biomech
+29(4):386–394
+Joyce D, Lewindon D (2016) Sports injury prevention and rehabilitation: integrating medicine and
+science for performance solutions. Routledge, New York
+Kerdok AE, Biewener AA, Mcmahon TA, Weyand PG, Herr HM (2002) Energetics and
+mechanics of human running on surfaces of different stiffnesses. J Appl Physiol (1985) 92
+(2):469–478
+Komi PV, Bosco C (1978) Utilization of stored elastic energy in leg extensor muscles by men and
+women. Med Sci Sports 10(4):261–265
+Komi PV, Gollhofer A (1997) Stretch reﬂex can have an important role in force enhancement
+during SSC-exercise. J Appl Biomech 13:451–460
+Kuitunen S, Ogiso K, Komi PV (2011) Leg and joint stiffness in human hopping. Scand J Med Sci
+Sports 21(6):e159–e167
+Laffaye G, Bardy BG, Durey A (2005) Leg stiffness and expertise in men jumping. Med Sci Sports
+Exerc 37(4):536–543
+Lamontagne M, Kennedy MJ (2013) The biomechanics of vertical hopping: a review. Res Sports
+Med 21(4):380–394
+McLachlan KA, Murphy AJ, Watsford ML, Rees S (2006) The interday reliability of leg and ankle
+musculotendinous stiffness measures. J Appl Biomech 22(4):296–304
+McMahon JJ, Comfort P, Pearson SJ (2012) Lower limb stiffness: effect on performance and
+training considerations. Strength Conditioning J 34(6):94–101
+McMahon TA, Cheng GC (1990) The mechanics of running: how does stiffness couple with
+speed? J Biomech 23(Suppl 1):65–78
+6
+A Simple Method for Measuring Lower Limb …
+137
+
+
+<!-- Page 141 -->
+McMahon TA, Valiant G, Frederick EC (1987) Groucho running. J Appl Physiol 62(6):
+2326–2337
+Melvill Jones G, Watt DG (1971) Observations on the control of stepping and hopping movements
+in man. J Physiol 219(3):709–727
+Morin JB, Dalleau G, Kyrolainen H, Jeannin T, Belli A (2005) A simple method for measuring
+stiffness during running. J Appl Biomech 21(2):167–180
+Moritz CT, Farley CT (2003) Human hopping on damped surfaces: strategies for adjusting leg
+mechanics. Proc Biol Sci 270(1525):1741–1746
+Moritz CT, Farley CT (2005) Human hopping on very soft elastic surfaces: implications for
+muscle pre-stretch and elastic energy storage in locomotion. J Exp Biol 208(Pt 5):939–949
+Moritz CT, Greene SM, Farley CT (2004) Neuromuscular changes for hopping on a range of
+damped surfaces. J Appl Physiol (1985) 96(5):1996–2004
+Mrdakovic V, Ilic D, Vulovic R, Matic M, Jankovic N, Filipovic N (2014) Leg stiffness
+adjustment during hopping at different intensities and frequencies. Acta Bioeng Biomech 16
+(3):69–76
+Pearson SJ, McMahon J (2012) Lower limb mechanical properties: determining factors and
+implications for performance. Sports Med 42(11):929–940
+Ranavolo A, Don R, Cacchio A, Serrao M, Paoloni M, Mangone M, Santilli V (2008) Comparison
+between kinematic and kinetic methods for computing the vertical displacement of the center of
+mass during human hopping at different frequencies. J Appl Biomech 24(3):271–279
+Rapoport S, Mizrahi J, Kimmel E, Verbitsky O, Isakov E (2003) Constant and variable stiffness
+and damping of the leg joints in human hopping. J Biomech Eng 125(4):507–514
+Samozino P, Morin JB, Hintzy F, Belli A (2008) A simple method for measuring force, velocity
+and power output during squat jump. J Biomech 41(14):2940–2945
+Serpell BG, Ball NB, Scarvell JM, Smith PN (2012) A review of models of vertical, leg, and knee
+stiffness in adults for running, jumping or hopping tasks. J Sports Sci 30(13):1347–1363
+Seyfarth A, Blickhan R, Van Leeuwen JL (2000) Optimum take-off techniques and muscle design
+for long jump. J Exp Biol 203(Pt 4):741–750
+Seyfarth A, Friedrichs A, Wank V, Blickhan R (1999) Dynamics of the long jump. J Biomech 32
+(12):1259–1267
+Voigt M, Chelli F, Frigo C (1998a) Changes in the excitability of soleus muscle short latency
+stretch reﬂexes during human hopping after 4 weeks of hopping training. Eur J Appl Physiol
+Occup Physiol 78(6):522–532
+Voigt M, Dyhre-Poulsen P, Simonsen EB (1998b) Modulation of short latency stretch reﬂexes
+during human hopping. Acta Physiol Scand 163(2):181–194
+Williams DS, 3rd, McClay IS, Hamill J (2001) Arch structure and injury patterns in runners. Clin
+Biomech 16(4):341–347
+138
+T. Caderby and G. Dalleau
+

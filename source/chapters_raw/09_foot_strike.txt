@@ -1,0 +1,818 @@
+# Chapter 9: A Simple Method for Determining Foot Strike Pattern During Running
+
+
+<!-- Page 196 -->
+Chapter 9
+A Simple Method for Determining Foot
+Strike Pattern During Running
+Marlene Giandolini
+Abstract Runners and especially long-distance runners face various overuse
+injuries, such as Achilles tendinopathy, shin splints or stress fractures. These
+overuse injuries are caused in parts by the repetitive load application on muscu-
+loskeletal structures. Otherwise, the load repartition in running is narrowly related
+to the foot strike pattern adopted. Three foot strike patterns are typically identiﬁed:
+heel strike, midfoot strike and forefoot strike. Depending the foot strike pattern
+adopted, the intensity and location of loads applied on the runner’s body differ and
+so indirectly the risk to sustain certain overuse injuries. As a consequence, iden-
+tifying runner foot strike pattern proﬁle is of interest in order to prevent injuries by
+giving training and/or footwear recommendations according to the runner-speciﬁc
+injury history. This chapter aims at presenting a simple method for determining foot
+strike pattern in situ and continuously. This method requires two accelerometers to
+record heel and forefoot accelerations. From these signals, the delay between the
+heel and metatarsals strikes, represented by their respective peak acceleration, is
+measured. From this temporal variable, the percentage of each foot strike pattern
+over a race or a training session is evaluated. By synchronizing accelerometers with
+GPS unit, this method also permit to study the interaction between fatigue, slope,
+surface, etc., and the foot strike pattern proﬁle for a given runner. This simple
+method is of interest for fundamental research but also for clinicians, coaches or
+running shoe manufacturers.
+9.1
+Introduction: Why Evaluate Foot Strike Pattern?
+Running kinematics of an individual can be characterized by a large panel of
+variables relative to either the ﬂight phase or the contact phase, such as ﬂight and
+contact times, step frequency, stride length, joints’ range of motion, leg compression,
+M. Giandolini (&)
+Amer Sports Innovation and Sport Sciences Lab, Salomon SAS,
+14 Chemin Des Croiselets, 74370 Metz-Tessy, France
+e-mail: marlene.giandolini@salomon.com
+© Springer International Publishing AG 2018
+J.-B. Morin and P. Samozino (eds.), Biomechanics of Training and Testing,
+https://doi.org/10.1007/978-3-319-05633-3_9
+195
+
+
+<!-- Page 197 -->
+etc. Among them, the type of foot strike pattern has recently become of great
+interest in the research area. Three foot strike techniques have been identiﬁed: a
+rearfoot strike (RFS), in which the point of the ﬁrst contact with the ground is the
+heel or the rear third part of the sole and in which the midfoot and forefoot parts do
+not contact the ground at foot strike; a forefoot strike (FFS), in which the point of
+the ﬁrst contact was the forefoot or the front half of the sole and in which the heel
+does not contact the ground at foot strike but slowly goes down to touch the ground
+during midstance; a midfoot strike (MFS), in which the heel and the ball of the foot
+land quasi-simultaneously, the point of the ﬁrst contact can be thus either the
+rearfoot or forefoot parts (Altman and Davis 2012; Hasegawa et al. 2007).
+Basically, the RFS is the predominant foot strike pattern but the parts of RFS, MFS
+and FFS runners depend on the running activity considered, and so are dependent of
+the running speed and the distance to cover. For instance, in 800–1500 m races,
+27% of RFS runners, 42% of MFS runners and 31% of FFS runners were identiﬁed
+(Hayes and Caplan 2012). In half-marathon, two studies observed about 75–89% of
+RFS runners, 4–24% of MFS runners and 1–2% of FFS runners (Hasegawa et al.
+2007; Larson et al. 2011). Regarding marathon races, there are about 88–94% of
+rearfoot strikers, 3–5% of midfoot strikers and 1% of forefoot strikers (Kasmer et al.
+2013a; Larson et al. 2011). The reason for which the foot strike technique has
+aroused such keen interest is multifactorial. Indeed, the foot strike pattern used
+could be a signiﬁcant factor in the etiology of certain types of running-related
+injuries and may inﬂuence performance, making its identiﬁcation necessary.
+9.1.1
+Foot Strike Pattern and Running-Related Injuries
+Epidemiological investigations have reported that patella femoral pain syndrome,
+Achilles tendinopathy, medial tibial stress syndrome (shin splints), and tibial stress
+fractures are among the most common injuries sustained by runners (Lopes et al.
+2012; Taunton et al. 2002). Regarding the etiology of these injuries, it has been
+suggested that patella femoral pain syndrome could be partly attributed to excessive
+hip adduction (Morgenroth et al. 2014), that Achilles tendinopathy and shin splints
+could be induced in part by high traction force of plantar ﬂexors (Cibulka et al.
+1994; Kader et al. 2002; McCrory et al. 1999; Moen et al. 2009), and that tibial
+stress fracture could be caused by repetitive shocks and high rate of loading (Ewers
+et al. 2002; Warden et al. 2014; Zadpoor and Nikooyan 2011). Numerous studies
+observed that adopting a FFS results in a large decrease in vertical loading rate
+measured from vertical ground reaction force (Divert et al. 2005; Giandolini et al.
+2013; Kulmala et al. 2013; Lieberman et al. 2010; Shih et al. 2013). More recently,
+decreased
+vertical
+peak
+tibial
+acceleration
+and
+lower
+content
+within
+the
+impact-related frequency range, i.e. from 12 to 20 Hz (Shorten and Winslow 1992),
+has been observed when running with a FFS compared to a RFS (Gruber et al.
+2014). Further, lower pressure at the patella-femoral joint with a FFS compared to a
+RFS was recently shown (Kulmala et al. 2013; Vannatta and Kernozek 2014).
+196
+M. Giandolini
+
+
+<!-- Page 198 -->
+This lowering in knee joint stress could be related to a decrease in hip adduction
+during the contact phase (Davis 2005; Kulmala et al. 2013; McCarthy et al. 2014;
+Vannatta and Kernozek 2014). Therefore, one can suggest that a FFS could be more
+advantageous to reduce impact severity and the strain applied at the knee joint by
+lowering the rate of loading, minimizing the power of impact frequency content and
+limiting the hip frontal plane motion. This may thus have implications in the risk of
+joint and bone injuries. Otherwise, forefoot striking necessitates a more plantar
+ﬂexed ankle at initial contact, as a matter of fact inducing a higher plantar ﬂexors
+activity during the stride cycle (Giandolini et al. 2013; Shih et al. 2013). This
+increases the traction force applied by plantar ﬂexor muscles on the Achilles tendon
+and the tibial periosteum (Cibulka et al. 1994; Kader et al. 2002; McCrory et al.
+1999; Moen et al. 2009). Interestingly, it was observed that Achilles tendon load
+increases with a FFS compared to a RFS (Almonroeder et al. 2013; Kulmala et al.
+2013). It can be therefore reasonably assumed that adopting a FFS would increase
+the risk of Achilles tendinopathy and shin splints, if the runner is not well adapted.
+The foot strike pattern inﬂuences the intensity and location of the stress applied on
+the runner’s body, and as a consequence may affect the prevalence of certain types
+of running-related injuries. Thus, the foot strike technique might have implications
+in the clinic ﬁeld as well as in the footwear industry area.
+9.1.2
+Foot Strike Pattern and Performance
+The inﬂuence of the foot strike pattern on factors of performance is largely dis-
+cussed. Findings differ and at this time no one can establish a consistent conclusion
+whether or not the foot strike technique affects performance. Regarding both in situ
+or lab experiments, results vary radically. For instance, Kasmer et al. (2013a)
+reported that the part of RFS runners during a marathon decreased as the race
+performance increased, and Santos-Concejero et al. (2014) recently reported a
+better
+running
+economy
+when
+adopting
+a
+MFS
+or
+FFS.
+Contrastingly,
+Ogueta-Alday et al. (2013) found the inverse result: rearfoot strikers would be more
+economical than midfoot or forefoot strikers. Otherwise, Larson et al. (2011)
+observed no signiﬁcant relationship between the foot strike of runners and their
+marathon performance, and no difference in running economy, oxygen consump-
+tion or carbohydrate oxidation when running with a RFS or with a FFS were
+observed as well (Perl et al. 2012; Gruber et al. 2013). Finally, Hasegawa et al.
+(2007) highlighted that the better ranked runners during an half-marathon race
+exhibited shorter contact time, kinematic speciﬁcity in forefoot strikers. There is
+therefore many discrepancies in conclusions about the effect of the foot strike
+pattern or its related kinematics on performance, and one cannot refute the possi-
+bility of a relationship between these both parameters.
+9
+A Simple Method for Determining Foot Strike Pattern …
+197
+
+
+<!-- Page 199 -->
+9.2
+Existing Methods to Evaluate Foot Strike Pattern:
+Deﬁnitions and Limits
+Basically, experimenters aiming at identifying foot strike pattern during running use
+either a kinematic or kinetic method. Indeed, measuring foot-to-ground angle by 2D
+motion analysis or assessing the position of the center of pressure at initial contact
+by force or pressure measures are hitherto the two most common methods used.
+9.2.1
+Measurement of Foot Strike Angle
+by 2D Motion Analysis
+The kinematic approach consists in assessing foot strike angle, i.e. the angle
+between running surface and plantar surface at initial contact in the sagittal plane.
+This method can be applied either in lab on treadmill, commonly by setting
+retroﬂective markers at heel and 5th metatarsal onto the shoe or foot (Daoud et al.
+2012; Lieberman et al. 2010), or in real practice, by recording runners passing at
+one or several points of a race (Hasegawa et al. 2007; Kasmer et al. 2013a; Larson
+et al. 2011). While the lab application permits to assess an almost unlimited number
+of steps on treadmill, the ﬁeld application permits to evaluate the foot strike pattern
+in real practice taking hence into account external factors (surface, slope, speed
+variation, fatigue, competition, etc.) but assessing only one to three steps per runner.
+Another issue which should be mentioned is that the reliability of the foot strike’s
+identiﬁcation is likely affected by the sample frequency used. When using
+high-speed video cameras and setting retroﬂective markers onto the subject’s foot,
+the initial contact and the foot strike angle are easily and precisely detected and
+measured, respectively. From this measurement, the foot strike pattern can be
+classiﬁed as RFS, MFS or FFS using for instance the Altman and Davis’ criteria
+(FFS < −1.6° < MFS < 8° < RFS)
+(Altman
+and
+Davis
+2012).
+However,
+using *120- or 240-Hz cameras, basically in in situ experiments, makes the
+touchdown’s detection unclear. The identiﬁcation of the foot strike pattern becomes
+hence quite subjective and experimenter-dependent. Note that to compensate this
+drawback, the step-by-step motion analysis could be repeated by two or three
+experimenters (Kasmer et al. 2013a; Lieberman et al. 2010).
+9.2.2
+Measurement of Foot Strike Index from Kinetics
+The kinetic approach consists in assessing by force or pressure measurements the
+position of the center of pressure at landing relative to the foot length (Cavanagh
+and Lafortune 1980). From this foot strike index, steps are identiﬁed as RFS, MFS
+and FFS using the criteria proposed by Cavanagh and Lafortune (1980): a RFS is
+198
+M. Giandolini
+
+
+<!-- Page 200 -->
+described by a foot strike index lower than 33%, a MFS by an index ranging from
+34 to 66%, and a FFS by an index higher than 67%. As for the kinematic method,
+the use of the foot strike index in identifying the running pattern is limited by either
+the number of steps analyzed for ﬁeld measurements or the conditions in which the
+running kinematic is observed for lab measurements.
+Analyzing as many steps as possible in situ is necessary when one aims at
+investigating the foot strike pattern since running kinematics can be affected by
+many external factors, such as slope (Buczek and Cavanagh 1990), speed (Hayes
+and Caplan 2012), surface (Muller et al. 2012), and fatigue (Hasegawa et al. 2007;
+Kasmer et al. 2013a, b; Larson et al. 2011; Morin et al. 2011a, b). This can make
+the running pattern more or less variable. Considering the aforementioned limits of
+kinematic and kinetic methods, an acceleration-based approach has been recently
+proposed permitting the foot strike pattern’s assessment from the sampling of an
+almost unlimited number of steps in ﬁeld conditions.
+9.3
+A Novel Field Method Based on Acceleration
+Measurements
+The acceleration-based method consists in recording heel and metatarsals vertical
+acceleration and measuring the delay between the heel peak acceleration and the
+metatarsals peak acceleration describing the heel-to-ground contact and the
+forefoot-to-ground contact, respectively.
+9.3.1
+Material and Data Analysis
+Two accelerometers are ﬁrmly ﬁxed on runner’s shoe at the heel and metatarsals.
+Two examples of setting are shown in Fig. 9.1. The heel accelerometer is set at the
+back of the shoe above the midsole. The metatarsals accelerometer is placed on the
+external side of the shoe at the head of the 5th metatarsal above the midsole
+(Fig. 9.1a). The forefoot accelerometer can also be placed on the dorsal surface of
+the foot above metatarsals (Fig. 9.1b). Comparing both metatarsals accelerometer’s
+placements (i.e. on the external side or on the instep), there is a 3-ms difference in
+the measured delay between heel and metatarsals strikes. So when using the instep
+placement, three milliseconds must be subtracted from the delay measured. Small
+and lightweight mono-axial accelerometers are preferable ﬁrst to do not disturb the
+runner, and second to reduce measurement errors. Indeed, overshot peak acceler-
+ations were observed using 6-grams skin-mounted accelerometer compared to those
+of a bone-mounted accelerometer (Hennig and Lafortune 1988). High tension in the
+system of attachment and setting accelerometers on rigid and non-deformable parts
+of the shoe will also improve signals quality.
+9
+A Simple Method for Determining Foot Strike Pattern …
+199
+
+
+<!-- Page 201 -->
+The two accelerometers must be time-synchronized. Accelerations should be
+sampled at a minimum of 1000 Hz in order to permit an accurate detection of the heel
+and metatarsals strikes. A 30 Hz high-pass ﬁlter is applied to acceleration signals to
+easily detect acceleration peaks by removing the active (<2 Hz) and impact (12–
+20 Hz) components of acceleration. From the heel and metatarsals ﬁltered acceler-
+ation signals, the duration between the heel peak acceleration and the metatarsals
+peak acceleration is calculated considering the heel peak as t0 (THM) (Fig. 9.2). Each
+step can be then identiﬁed as RFS, MFS or FFS using the criteria proposed by
+Giandolini
+et
+al.,
+i.e.
+FFS < −5.49 ms <MFS < 15.2 ms < RFS
+(Fig. 9.3)
+(Giandolini et al. 2014). These criteria were obtained by extracting from the vali-
+dation protocol’s database all individual data corresponding to a MFS according to
+the gold standard video criteria of Altman and Davis, i.e. with a foot strike angle
+ranging from −1.6° and 8° (Altman and Davis 2012). The mean THM and standard
+deviation were calculated for this subsample and lower and upper THM limits were
+obtained as follows:
+Fig. 9.1 Heel and metatarsals accelerometers’ placements. Panel a accelerometers (ADXL150,
+Analog Device, USA) and placement used for the validation of the simple method (Giandolini et al.
+2014). Panel b accelerometers (Agile Fox, Hikob, France) and placement used for ﬁeld applications
+(Giandolini et al. 2015). For each placement, typical raw acceleration signals were presented
+200
+M. Giandolini
+
+
+<!-- Page 202 -->
+THM limits ¼ mean THMMFSsubsample
+
+
+ SD THMMFSsubsample
+
+
+9.3.2
+Reliability
+The temporal parameter measured (THM) has been shown to be highly correlated to
+the foot strike angle (R = 0.916, P < 0.0001, n = 288, Fig. 9.3) for a wide range of
+slopes and speeds whatever the foot strike pattern used, the shoes worn, the shoe
+size or the state of fatigue (Table 9.1) (Giandolini et al. 2014). However, the
+method was not validated when running at 14 or 16 km h−1 with a FFS because
+with this “sprint-like” running pattern, also called “toe run”, heels never or rarely
+strike the ground making hence impossible the calculation of THM (Table 9.1).
+Regarding the reliability of the classiﬁcation criteria, 86.3% of matching results
+were found during the validation process when comparing the video-based classi-
+ﬁcation proposed by Altman and Davis (Altman and Davis 2012) and the
+acceleration-based classiﬁcation proposed in Giandolini et al. (2014). For instance,
+among the overall validation database (n = 288), 61.2% of RFS, 12.6% of MFS and
+26.3% of FFS were identiﬁed by the video-based method (foot strike angle), versus
+67.3% of RFS, 15.1% of MFS and 17.6% of FFS using the acceleration-based
+method (THM).
+Fig. 9.2 Typical heel (black line) and metatarsal (gray line) acceleration signals with a RFS
+pattern (raw data obtained in level–PRS–RFS condition of validation for a typical subject, panel
+a), a MFS pattern (raw data obtained in level–PRS–MFS condition of validation for a typical
+subject, panel b), and an FFS pattern (raw data obtained in level–PRS–FFS condition of validation
+for a typical subject, panel c)
+9
+A Simple Method for Determining Foot Strike Pattern …
+201
+
+
+<!-- Page 203 -->
+9.4
+Field Applications
+The main advantage of the acceleration-based method is to permit the analysis of an
+almost unlimited number of steps in situ. This ﬁeld approach can allow researchers
+to investigate the effects of slope, speed, running duration, etc., on the foot strike
+pattern repartition over an entire race in order to better apprehend the inﬂuence of
+foot strike pattern on race performance for instance. It can also allow running
+footwear manufacturers to study the inﬂuence of the shoe construction on foot
+strike pattern in real practice. Finally, by this simple ﬁeld method, clinicians can
+turn patients towards a footwear model better adapted to their foot strike pattern
+proﬁle or towards a certain running technique better accommodated to their injury
+prevalence.
+Hereby are presented some examples of ﬁeld application of the acceleration-based
+method. All runners studied in these experiments were equipped with two
+accelerometers with air pressure sensor (Hikob Agile Fox, Hikob, Villeurbanne,
+France) placed at the left heel and metatarsals in ﬁtted pockets ﬁrmly ﬁxed by elastic
+Fig. 9.3 Overall correlation between THM and strike angle (afoot) computed from the validation
+database (n = 288, r = 0.916). Black crosses represent the mean of each participant within each
+condition. Black dots represent RFS, MFS and FFS condition values averaged from the two level
+running conditions in protocol 1 (see Table 4.1). The black triangle represents the video-based
+MFS subsample. Dashed lines symbolize THM limits for pattern classiﬁcation (Giandolini et al.
+2014)
+202
+M. Giandolini
+
+
+<!-- Page 204 -->
+straps as presented in Figs. 9.1b and 9.4. This setting permits to protect them from
+rocks, water, mud, etc. Accelerometers were time-synchronized by a common
+acquisition system (Hikob, Villeurbanne, France). Acceleration data were sampled at
+1344 Hz and pressure data at 12 Hz. They were collected on micro-SD cards. Data
+analysis was performed using Scilab 5.4.1 software (Scilab Entreprises, Orsay,
+France). Acceleration signals were 30-Hz high-pass ﬁltered to facilitate the detection
+of peak accelerations. THM was calculated for all steps. Litigious steps were removed
+from the analysis. Using THM criteria (FFS < −5.49 ms <MFS < 15.2 ms < RFS)
+all analyzed steps were identiﬁed as RFS, MFS or FFS.
+Table 9.1 Sample sizes for each correlation and Bravais-Pearson’s correlation coefﬁcients
+between THM and afoot (foot strike angle): overall coefﬁcients, coefﬁcients for each condition, and
+maximal and minimal intra-individual coefﬁcients for protocol 1
+Conditions
+n
+r
+afoot
+THM
+Validation
+overall
+140
+0.946**
+8.37 ± 11.2
+9.53 ± 20.8
+Natural
+pattern
+Uphill
+14
+0.948**
+5.08 ± 6.69
+1.07 ± 21.7
+Downhill
+14
+0.951**
+15.8 ± 12.2
+17.9 ± 21.7
+Level running at preferred
+running speed
+Natural pattern
+14
+0.964**
+12.1 ± 9.40
+17.0 ± 18.4
+RFS
+14
+0.954**
+20.4 ± 5.57
+30.0 ± 9.46
+MFS
+14
+0.923**
+4.29 ± 4.40
+7.35 ± 12.5
+FFS
+14
+0.620*
+−6.46 ± 3.44
+−22.0 ± 1.51
+Level running at 14 or
+16 km h−1
+Natural pattern
+14
+0.908**
+12.5 ± 8.77
+15.8 ± 16.2
+RFS
+14
+0.963**
+19.1 ± 6.92
+25.3 ± 9.35
+MFS
+14
+0.856**
+4.87 ± 4.46
+8.56 ± 11.7
+FFS
+14
+0.191
+−4.78 ± 2.42
+−20.0 ± 2.14
+Intra-individual
+Max
+10
+0.976**
+Min
+10
+0.885**
+Application overall
+148
+0.875**
+13.0 ± 7.34
+25.6 ± 12.1
+Pre-ultratrail
+10 km h−1
+34
+0.897**
+12.1 ± 7.97
+25.2 ± 13.1
+12 km h−1
+34
+0.885**
+14.3 ± 7.96
+25.5 ± 12.2
+MAS
+34
+0.886**
+14.5 ± 8.02
+26.6 ± 12.8
+Post-ultratrail
+10 km h−1
+23
+0.894**
+11.0 ± 5.78
+24.9 ± 11.3
+MAS
+23
+0.870**
+12.4 ± 5.30
+25.4 ± 11.0
+Mean ± SD values for both THM and afoot parameters in protocol 1 and protocol 2 are also
+reported. Signiﬁcant correlations are indicated by * (P < 0.05) or ** (P < 0.0001). The validation
+consists in two distinct protocols. During protocol 1, shoes used were standardized and the
+reliability of the method was tested under different conditions of speed (preferred running speed
+and 14 or 16 km h−1 depending the subject’s gender), slope (level, +10%, −10%) and foot strike
+(natural pattern, forced RFS, forced MFS and forced FFS). During protocol 2, shoes were not
+standardized and the method was tested under different conditions of fatigue (before and after a
+110-km ultratrail race) and speed (MAS, Maximal Aerobic Speed assessed with a 10% slope, 10
+and 12 km h−1). From Giandolini et al. (2014)
+9
+A Simple Method for Determining Foot Strike Pattern …
+203
+
+
+<!-- Page 205 -->
+The ﬁrst ﬁeld application of the method was performed on the trail running
+world leader during a trail running race (Giandolini et al. 2015). The experiment
+took place during the Kilian’s Classik™2013 (Font-Romeu, France), a 45-km
+ofﬁcial trail running race with a 1627-m of positive elevation. The individual
+studied was the current world leader in trail and ultratrail running (26 years,
+56.5 kg, 171 cm). He ended ﬁrst with a ﬁnish time of 4:23:18 h. In addition to the
+heel and metatarsals accelerometers, a GPS was plugged into the metatarsals
+accelerometer (Hikob, Villeurbanne, France) to calculate running speed from alti-
+tude, latitude and longitude data. Only the ﬁrst 20 km of the race were considered
+because the battery of the GPS unit stopped at mid-race. Since the aim of this study
+was to investigate the effects of speed, slope and running duration on the foot strike
+pattern repartition there was no interest in analyzing the last 20 km acceleration
+data without synchronized information about the environmental characteristics.
+A single acquisition of *4.5-h was obtained (i.e. from the start to the end of the
+race) and *82 min were analyzed over eleven sections presenting typical slope
+and speed proﬁles (i.e. 5530 left steps) (Fig. 9.5 and Table 9.2). From the analysis,
+it was observed that the runner exhibited on average 23.7 ± 4.48% of RFS steps,
+26.9 ± 11.8% of MFS steps and 49.4 ± 14.2% of FFS steps over the analyzed
+periods (Fig. 9.5 and Table 9.3). This MFS-FFS proﬁle is very atypical for an
+ultra-endurance runner. Indeed, basically the longer the race distance, the higher the
+percentage of rearfoot strikers (Hasegawa et al. 2007; Kasmer et al. 2013a; Larson
+et al. 2011). Nevertheless, these ﬁndings are based on measurements performed at
+one or two points of races, so do not providing an overview of the repartition of foot
+strike techniques over a race.
+Same measurements were also performed on world class trail runners during
+training sessions (Fig. 9.6). Although they were not performed during an ofﬁcial
+competition, these measurements provide an overview of the foot strike pattern
+prevalence for these runners in real practice, i.e. considering the various environ-
+mental conditions encountered by trail runners. First, these observations conﬁrmed
+Fig. 9.4 Heel and
+metatarsals accelerometers’
+placements for a ﬁeld
+experiment
+204
+M. Giandolini
+
+
+<!-- Page 206 -->
+Fig. 9.5 Altitude (black line) and speed (gray line) over the ﬁrst 20 km of the race. Bar charts
+represent the repartition of foot strikes (RFS, MFS and FFS) within the eleven analyzed sections.
+From Giandolini et al. (2015)
+Table 9.2 Characteristics of the eleven sections analyzed
+Sections #
+Slope (%)
+Speed (km h−1)
+Duration (min)
+Number of analyzed steps
+1
+1.4 ± 5.6
+14.2 ± 2.1
+9.4
+672
+2
+−6.3 ± 7.1
+16.3 ± 1.7
+1.7
+101
+3
+6.8 ± 4.8
+11.7 ± 2.0
+16.7
+1102
+4
+34.7 ± 11.6
+4.3 ± 1.4
+4.9
+251
+5
+−18.5 ± 6.8
+15.8 ± 2.2
+5.3
+376
+6
+4.2 ± 1.6
+13 ± 1.1
+6.4
+421
+7
+1.6 ± 6.8
+11.1 ± 1.1
+7.5
+501
+8
+14.9 ± 7.0
+8.2 ± 1.8
+10
+702
+9
+3.8 ± 4.8
+11.6 ± 1.3
+8.5
+602
+10
+14.6 ± 4.7
+6.8 ± 1.1
+6.7
+451
+11
+21.1 ± 11.7
+6.8 ± 1.5
+5
+351
+7.1 ± 6.6
+10.9 ± 1.6
+82.1
+5530
+They were numbered according to their order of occurrence over the race. Mean ± SD for the
+slope and the running speed, and the overall duration of analysis and number of analyzed steps
+were calculated. From Giandolini et al. (2015)
+9
+A Simple Method for Determining Foot Strike Pattern …
+205
+
+
+<!-- Page 207 -->
+the more or less pronounced variability in foot strike pattern in trail runners pre-
+viously noticed (Giandolini et al. 2015). Second, these reports would permit to give
+some recommendations on shoe construction, especially in terms of drop (i.e. sole
+offset between heel and metatarsals), and also to enlighten on injuries prevalence.
+For example, the proﬁle presented on Fig. 9.6d refer to a female athlete facing
+chronic shin splints, an injury partly related to the plantar ﬂexors traction on the
+tibial periosteum, as mentioned above, and so indirectly to the adoption of anterior
+foot strike patterns (Cibulka et al. 1994; Moen et al. 2009). It is therefore interesting
+to notice that this athlete presents a FFS prevalence (53.1%) and only 4.2% of RFS
+steps over an about 1-h training session. Note also that this runner insists on
+wearing lightweight but low-drop shoes.
+Although it cannot be afﬁrmed that foot strike pattern inﬂuences performance in
+running, one can reasonably admit that it affects the load distribution applied on
+musculoskeletal structures, and thus the risk of certain injuries. As a consequence,
+identifying runners’ foot strike pattern proﬁle would allow clinicians and coaches to
+enlighten on the occurrence of injuries which are partly and indirectly related to the
+foot strike pattern adopted, and then to provide a training program speciﬁc to
+running technique and give some recommendation on the footwear choice.
+Table 9.3 Mean ± SD for kinematics and foot strike parameters within the eleven sections
+including step frequency (SF), time between heel and metatarsal peak accelerations (THM) and
+percentages of each foot strike pattern (%RFS, %MFS, %FFS)
+Sections #
+SF (Hz)
+THM (ms)
+%RFS
+%MFS
+%FFS
+1
+3.05 ± 0.21
+−5.1 ± 14.6
+16.6
+12.9
+70.5
+2
+3.01 ± 0.26
+3.6 ± 14.1
+24.4
+49.3
+26.4
+3
+2.91 ± 0.13
+0.3 ± 17.5
+29.1
+22.3
+48.6
+4
+1.72 ± 0.12
+−2.3 ± 18.8
+22.4
+23.7
+53.9
+5
+3.17 ± 0.34
+1.2 ± 15.2
+19.4
+33.3
+47.3
+6
+3.01 ± 0.11
+7.1 ± 13.1
+27.3
+45.9
+26.8
+7
+2.92 ± 0.2
+−4.0 ± 16.4
+17.9
+15.1
+67.0
+8
+2.78 ± 0.16
+1.1 ± 17.9
+26.0
+26.3
+47.7
+9
+2.84 ± 0.16
+2.4 ± 16.7
+27.9
+22.3
+49.8
+10
+2.73 ± 0.26
+−2.7 ± 17.8
+21.4
+16.8
+61.8
+11
+2.72 ± 0.22
+3.7 ± 17.1
+28.6
+28.2
+43.1
+2.81 ± 0.37
+0.5 ± 16.3
+23.7 ± 4.5
+26.9 ± 11.8
+49.4 ± 14.2
+From Giandolini et al. (2015)
+206
+M. Giandolini
+
+
+<!-- Page 208 -->
+Fig. 9.6 Foot strike pattern proﬁles for six world class trail runners recording during a training
+session. Altitude (white line) was represented. Bar charts represent the repartition of foot strikes
+(RFS, MFS and FFS) within 5-min sections. Unpublished data
+9
+A Simple Method for Determining Foot Strike Pattern …
+207
+
+
+<!-- Page 209 -->
+References
+Almonroeder T, Willson JD, Kernozek TW (2013) The effect of foot strike pattern on achilles
+tendon load during running. Ann Biomed Eng 41(8):1758–1766. https://doi.org/10.1007/
+s10439-013-0819-1
+Altman AR, Davis IS (2012) A kinematic method for footstrike pattern detection in barefoot and
+shod runners. Gait Posture 35(2):298–300. https://doi.org/10.1016/j.gaitpost.2011.09.104
+(S0966-6362(11)00401-2 [pii])
+Buczek FL, Cavanagh PR (1990) Stance phase knee and ankle kinematics and kinetics during level
+and downhill running. Med Sci Sports Exerc 22(5):669–677
+Cavanagh PR, Lafortune MA (1980) Ground reaction forces in distance running. J Biomech 13
+(5):397–406. https://doi.org/10.1016/0021-9290(80)90033-0 (0021-9290(80)90033-0 [pii])
+Cibulka MT, Sinacore DR, Mueller MJ (1994) Shin splints and forefoot contact running: a case
+report. J Orthop Sports Phys Ther 20(2):98–102
+Daoud AI, Geissler GJ, Wang F, Saretsky J, Daoud YA, Lieberman DE (2012) Foot strike and
+injury rates in endurance runners: a retrospective study. Med Sci Sports Exerc 44(7):1325–
+1334. https://doi.org/10.1249/MSS.0b013e3182465115
+Davis IS (2005) Gait retraining in runners. Orthop Pract 17:8–13
+Divert C, Mornieux G, Baur H, Mayer F, Belli A (2005) Mechanical comparison of barefoot and
+shod running. Int J Sports Med 26(7):593–598. https://doi.org/10.1055/s-2004-821327
+Ewers BJ, Jayaraman VM, Banglmaier RF, Haut RC (2002) Rate of blunt impact loading affects
+changes in retropatellar cartilage and underlying bone in the rabbit patella. J Biomech 35
+(6):747–755. https://doi.org/10.1016/S0021-9290(02)00019-2 (S0021929002000192 [pii])
+Giandolini M, Arnal PJ, Millet GY, Peyrot N, Samozino P, Dubois B, Morin JB (2013) Impact
+reduction during running: efﬁciency of simple acute interventions in recreational runners. Eur J
+Appl Physiol 113(3):599–609. https://doi.org/10.1007/s00421-012-2465-y
+Giandolini M, Poupard T, Gimenez P, Horvais N, Millet GY, Morin JB, Samozino P (2014) A
+simple ﬁeld method to identify foot strike pattern during running. J Biomech 47(7):1588–1593.
+https://doi.org/10.1016/j.jbiomech.2014.03.002 (S0021-9290(14)00156-0 [pii])
+Giandolini M, Pavailler S, Samozino P, Morin JB, Horvais N (2015) Foot strike pattern and impact
+continuous measurements during a trail running race: proof of concept in a world-class athlete.
+Footwear Sci. https://doi.org/10.1080/19424280.2015.1026944
+Gruber AH, Umberger BR, Braun B, Hamill J (2013) Economy and rate of carbohydrate oxidation
+during running with rearfoot and forefoot strike patterns. J Appl Physiol. https://doi.org/10.
+1152/japplphysiol.01437.2012 (japplphysiol.01437.2012 [pii])
+Gruber AH, Boyer KA, Derrick TR, Hamill J (2014) Impact shock frequency components and
+attenuation in rearfoot and forefoot running. J Sport Health Sci. https://doi.org/10.1016/j.jshs.
+2014.03.004
+Hasegawa H, Yamauchi T, Kraemer WJ (2007) Foot strike patterns of runners at the 15-km point
+during an elite-level half marathon. J Strength Cond Res 21(3):888–893. https://doi.org/10.
+1519/R-22096.1 (R-22096 [pii])
+Hayes P, Caplan N (2012) Foot strike patterns and ground contact times during high-calibre
+middle-distance races. J Sports Sci 30(12):1275–1283. https://doi.org/10.1080/02640414.2012.
+707326
+Hennig EM, Lafortune MA (1988) Tibial bone and skin accelerations during running. In:
+Proceedings of the 5th biennial conference and human locomotion symposium of the Canadian
+Society for Biomechanics, London, ON
+Kader D, Saxena A, Movin T, Maffulli N (2002) Achilles tendinopathy: some aspects of basic
+science and clinical management. Br J Sports Med 36(4):239–249
+Kasmer ME, Liu XC, Roberts KG, Valadao JM (2013a) Foot-strike pattern and performance in a
+marathon. Int J Sports Physiol Perform 8(3):286–292. https://doi.org/10.1123/ijspp.8.3.286
+(2012-0114 [pii])
+208
+M. Giandolini
+
+
+<!-- Page 210 -->
+Kasmer ME, Wren JJ, Hoffman MD (2013b) Foot strike pattern and gait changes during a 161-km
+ultramarathon. J Strength Cond Res. https://doi.org/10.1519/JSC.0000000000000282
+Kulmala JP, Avela J, Pasanen K, Parkkari J (2013) Forefoot strikers exhibit lower running-induced
+knee loading than rearfoot strikers. Med Sci Sports Exerc 45(12):2306–2313. https://doi.org/
+10.1249/MSS.0b013e31829efcf7
+Larson P, Higgins E, Kaminski J, Decker T, Preble J, Lyons D, McIntyre K, Normile A (2011)
+Foot strike patterns of recreational and sub-elite runners in a long-distance road race. J Sports
+Sci 29(15):1665–1673. https://doi.org/10.1080/02640414.2011.610347
+Lieberman DE, Venkadesan M, Werbel WA, Daoud AI, D’Andrea S, Davis IS, Mang’eni RO,
+Pitsiladis Y (2010) Foot strike patterns and collision forces in habitually barefoot versus shod
+runners. Nature 463(7280):531–535. https://doi.org/10.1038/nature08723 (nature08723 [pii])
+Lopes AD, Hespanhol Junior LC, Yeung SS, Costa LO (2012) What are the main running-related
+musculoskeletal injuries? A systematic review. Sports Med 42(10):891–905. https://doi.org/10.
+2165/11631170-000000000-00000
+McCarthy C, Fleming N, Donne B, Blanksby B (2014) Barefoot running and hip kinematics: good
+news for the knee? Med Sci Sports Exerc. https://doi.org/10.1249/MSS.0000000000000505
+McCrory JL, Martin DF, Lowery RB, Cannon DW, Curl WW, Read HM Jr, Hunter DM,
+Craven T, Messier SP (1999) Etiologic factors associated with Achilles tendinitis in runners.
+Med Sci Sports Exerc 31(10):1374–1381
+Moen MH, Tol JL, Weir A, Steunebrink M, De Winter TC (2009) Medial tibial stress syndrome: a
+critical review. Sports Med 39(7):523–546. https://doi.org/10.2165/00007256-200939070-
+000022 [pii]
+Morgenroth DC, Medverd JR, Seyedali M, Czerniecki JM (2014) The relationship between knee
+joint loading rate during walking and degenerative changes on magnetic resonance imaging.
+Clin Biomech (Bristol, Avon) 29(6):664–670. https://doi.org/10.1016/j.clinbiomech.2014.04.
+008 (S0268-0033(14)00093-X [pii])
+Morin JB, Samozino P, Millet GY (2011a) Changes in running kinematics, kinetics, and
+spring-mass behavior over a 24-h run. Med Sci Sports Exerc 43(5):829–836. https://doi.org/10.
+1249/MSS.0b013e3181fec518
+Morin JB, Tomazin K, Edouard P, Millet GY (2011b) Changes in running mechanics and
+spring-mass behavior induced by a mountain ultra-marathon race. J Biomech 44(6):1104–1107
+Muller R, Siebert T, Blickhan R (2012) Muscle preactivation control: simulation of ankle joint
+adjustments at touchdown during running on uneven ground. J Appl Biomech 28(6):718–725.
+https://doi.org/10.1123/jab.28.6.718 (2010-0181 [pii])
+Ogueta-Alday A, Rodriguez-Marroyo JA, Garcia-Lopez J (2013) Rearfoot striking runners are
+more economical than midfoot strikers. Med Sci Sports Exerc. https://doi.org/10.1249/MSS.
+0000000000000139
+Perl DP, Daoud AI, Lieberman DE (2012) Effects of footwear and strike type on running economy.
+Med Sci Sports Exerc 44(7):1335–1343. https://doi.org/10.1249/MSS.0b013e318247989e
+Santos-Concejero J, Tam N, Granados C, Irazusta J, Bidaurrazaga-Letona I, Zabala-Lili J, Gil SM
+(2014) Stride angle as a novel indicator of running economy in well-trained runners. J Strength
+Cond Res 28(7):1889–1895. https://doi.org/10.1519/JSC.0000000000000325
+Shih Y, Lin KL, Shiang TY (2013) Is the foot striking pattern more important than barefoot or
+shod conditions in running? Gait Posture. https://doi.org/10.1016/j.gaitpost.2013.01.030
+(S0966-6362(13)00117-3 [pii])
+Shorten MR, Winslow DS (1992) Spectral analysis of impact shock during running. Int J Sports
+Biomech 8:288–304
+9
+A Simple Method for Determining Foot Strike Pattern …
+209
+
+
+<!-- Page 211 -->
+Taunton JE, Ryan MB, Clement DB, McKenzie DC, Lloyd-Smith DR, Zumbo BD (2002) A
+retrospective case-control analysis of 2002 running injuries. Br J Sports Med 36(2):95–101
+Vannatta NC, Kernozek TW (2014) Patellofemoral joint stress during running with alterations in
+foot strike pattern. Med Sci Sports Exerc [Epub ahead of print]
+Warden SJ, Davis IS, Fredericson M (2014) Management and prevention of bone stress injuries in
+long-distance runners. J Orthop Sports Phys Ther 44(10):749–765. https://doi.org/10.2519/
+jospt.2014.5334
+Zadpoor AB, Nikooyan AA (2011) The relationship between lower-extremity stress fractures and
+the ground reaction force: a systematic review. Clin Biomech 26:23–28
+210
+M. Giandolini
+

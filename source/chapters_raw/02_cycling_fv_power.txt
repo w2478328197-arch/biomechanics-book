@@ -1,0 +1,1133 @@
+# Chapter 2: Maximal Force-Velocity and Power-Velocity Characteristics in Cycling
+
+
+<!-- Page 13 -->
+Chapter 2
+Maximal Force-Velocity
+and Power-Velocity Characteristics
+in Cycling: Assessment and Relevance
+Sylvain Dorel
+Abstract Cycling is a “common” task considered relatively intuitive and hence
+easy to perform by everybody. Although pedaling represents a typical multi-joint
+movement characterized by several degrees of freedom, in contrast with running it
+can be regarded as less complex since the ﬁxed trajectory of the pedals and the
+mechanical coupling between both legs constrain lower-extremity movements to a
+higher degree. In this chapter we will deﬁne a macroscopic model to measure
+maximal cycling power output and typical measurements involved in stationary
+ergometer conditions and also on the ﬁeld in Sect. 2.5. We will give some reference
+data and discuss how best to interpret the force, power and velocity indexes
+obtained from this testing procedure. Force-velocity and power-velocity relation-
+ships allow reliable assessment of maximal power capabilities and its two force and
+velocity components in cycling. Provided that the proper methodology and advice
+presented in this chapter are used, the different indexes extracted from these
+relationships give very useful information on (i) evaluating lower-limb muscle
+function, (ii) monitoring speciﬁc and general strength training effects and
+(iii) interpreting and characterizing muscle involvement in the efforts performed on
+the ﬁeld within the training or competition context. Use of a stationary ergometer is
+now straightforward and particularly suited for each individuals and hence remains
+the reference method to use, yet portable power meters are now accessible and will
+become more and more suitable.
+S. Dorel (&)
+Faculty of Sport Sciences, Laboratory “Movement, Interactions,
+Performance”, University of Nantes, 25 bis, Boulevard Guy Mollet,
+EA 4334, BP 72206, Nantes, 44322 cedex 3, France
+e-mail: Sylvain.Dorel@univ-nantes.fr
+© Springer International Publishing AG 2018
+J.-B. Morin and P. Samozino (eds.), Biomechanics of Training and Testing,
+https://doi.org/10.1007/978-3-319-05633-3_2
+7
+
+
+<!-- Page 14 -->
+2.1
+Introduction
+Cycling is a “common” task considered relatively intuitive and hence easy to
+perform by everybody. After the French engineers Michaux and Lallement added
+the pedals, the pedaling machine (i.e., the ﬁrst “bicycle”) appeared at the beginning
+of the 20th century with approximately the same general design as today’s bicycle.
+Currently, it is more and more widely used in daily life (e.g., to go to work) as well
+as for recreational, ﬁtness, sport or rehabilitation activity. From a biomechanical
+point of view, cycling consists in propelling (or “driving”) a system (cyclist and its
+bicycle or an inertia ﬂywheel) using alternative actions of both legs on a crank
+system in rotation. Although pedaling represents a typical multi-joint movement
+characterized by several degrees of freedom, in contrast with running it can be
+regarded as less complex since the ﬁxed trajectory of the pedals and the mechanical
+coupling between both legs constrain lower- extremity movements to a greater
+extent.
+Historically, the maximal power produced during sprint cycling has been con-
+sidered an indirect measurement of “maximal anaerobic power”; that is, ability
+related to the rate of energy turnover from anaerobic metabolism (specially related
+to the phosphagen pathway). The last three decades have shown it is now well
+established that this ability is more representative of the global muscle function of
+the lower limbs and mechanical muscle properties. Hence explosive cycling
+movement is greatly determined by the maximal force and power capabilities of the
+muscles involved which directly depend on the well-known force-velocity rela-
+tionship (Hill 1938). As a consequence, at the macroscopic level, it is well estab-
+lished that the total maximal power produced during cycling is similarly very well
+characterized by both force-velocity and a power-velocity relationships. Although
+these relationships reﬂect a range of other neuro-mechanical properties (see Chap. 3),
+they allow the determination of useful indexes of global power, force and velocity
+abilities that provide interesting simple tools to evaluate athletes and at the same time
+monitor speciﬁc and general strength training effects.
+In this chapter we will deﬁne a macroscopic model to measure maximal cycling
+power output and typical measurements found under stationary ergometer condi-
+tions and also on the ﬁeld in Sect. 2.5. We will provide some reference data and
+discuss the best way to interpret the force, power and velocity indexes obtained
+from this testing procedure. Additionally, we make a special attempt to provide the
+main practical tips to ensure validity and precision in the determinations of
+the different indexes in order to encourage a good interpretation of the results in the
+context of training and sport performance.
+8
+S. Dorel
+
+
+<!-- Page 15 -->
+2.2
+Measurement of Mechanical Output (Force, Velocity
+and Power) During Sprint Pedaling
+The system involved in riding an ergometer is generally represented by a crankset
+and the associated wheel in rotation on which external forces are applied. Then the
+“external power” produced by the subject can be considered part of the power
+output used to overcome external resistances (i.e., different frictions and the weight
+or inertia of the system) or linked to the changes in total mechanical energy of this
+system (i.e., kinetic energy in this case). This external power (Ps) is therefore
+directly related to the torque generated at the level of the crank axis (TFeff, which
+only depends on the perpendicular component of the total force Feff produced on the
+pedals) and the crank angular velocity (ɷ, in rads−1, Eq. 2.1). In practice, Ps can
+also be calculated considering the effective force (Feff, in N, by dividing torque by
+the crank length in m) and velocity (V, in ms −1) at the pedal level (Eq. 2.2).
+Ps ¼ TFeff  x
+ð2:1Þ
+Ps ¼ Feff  V
+ð2:2Þ
+Many methods have been developed in the last 30 years to calculate the two
+components of Ps (Driss and Vandewalle 2013) and two main modalities were
+used: isokinetic (i.e., control of pedaling rate and direct measurement of force with
+sensors in the crank or pedal; Mc Cartney et al. 1983b; Sargeant et al. 1981) and the
+more common isoinertial condition (i.e., control of the external resistance and
+inertia parameters of the ﬂywheel and measurement of its velocity and acceleration;
+Dorel et al. 2005; Hautier et al. 1996; Martin et al. 1997; Vandewalle et al. 1987).
+All these methodologies use the same general equations of movement for mea-
+suring the torque produced by the subject (TFeff, Eq. 2.3) and then the power (Ps,
+Eq. 2.4):
+TFeff ¼ I  a þ TFric
+ð2:3Þ
+Ps ¼ I  a  x þ TFric  x
+ð2:4Þ
+where TFric represents the sum of the resistive torques applied on the system in
+rotation (friction or magnetic resistance in most cases); I is the moment of inertia of
+this system (in kg.m2); and a is its angular acceleration (in rads−2). Historically this
+equation has been used on friction-loaded cycle ergometers (e.g., Monark) and then
+considered the ﬂywheel as the system in rotation. Instead of the torque and angular
+velocity at the crank, the values are in this case expressed referring to the ﬂywheel
+axis. Ultimately, in studies using the Monark ergometer (Hautier et al. 1996; Morin
+and Belli 2004; Vandewalle et al. 1987), force and velocity are expressed in
+components corresponding to the forces applied at the periphery of the ﬂywheel
+(in N or kg equivalent) and the velocity of the point of application of these forces
+(v, in ms−1). So Eq. 2.4 becomes:
+2
+Maximal Force-Velocity and Power-Velocity Characteristics …
+9
+
+
+<!-- Page 16 -->
+Ps ¼ I=R2  a  v þ FFric  v
+ð2:5Þ
+where R represents the radius of the ﬂywheel (in m), a the tangential acceleration
+(in ms−2) and Ffric the friction force applied by the belt (generally measured by a
+strain gauge) or the magnetic resistance (in N). Note that this last processing
+methodology is reliable and convenient depending on the equipment resources.
+However, taking into account the variability of the ergometer’s characteristics
+(radius of the ﬂywheel, gear ratio…), it is not really useful to compare values of
+force between the studies and the ergometers (e.g., the maximal force index, see
+below). On the same issue, it is important to keep in mind that a slight but
+non-negligible difference is observed between the power measured at the ﬂywheel
+level and that measured directly by strain gauges at the crank or at the shoe-pedal
+interface, depending on the losses induced by frictions in the chain, sprockets and
+the different rotation axis (Driss and Vandewalle 2013).
+During a sprint exercise, it is possible to monitor the force and then power output
+produced provided that (i) the friction force applied and the velocity and acceler-
+ation of the ﬂywheel (or the crank) are precisely measured and that (ii) the moment
+of inertia of this ﬂywheel is known. The time course of force, velocity and power
+during a single sprint of few seconds can be tracked, depending on the sampling
+rate. Finally, the mean value on each pedal stroke or each complete cycle allows to
+plot the crank velocity-time and power-time relationships (Fig. 2.1a–b), and also
+the evolution of force and power in function of the velocity (generally expressed as
+pedaling rate, Fig. 2.1c). These typical relationships are detailed in the next part.
+This methodology was largely applied in the last twenty years and remains very
+useful when using friction-inertial-loaded (Arsac et al. 1996; Dorel et al. 2003) or
+only inertial-loaded (Martin et al. 1997) cycle ergometers. However other methods
+were historically proposed and can still be used (see the two detailed reviews for
+more information, (Cross et al. 2017; Driss and Vandewalle 2013)). Indeed, the ﬁrst
+approach to assess the force-velocity in cycling was based on simpliﬁcation by
+considering only the second part of the Eq. 2.5 (i.e. the power required to overcome
+the braking force) omitting the power required to accelerate the ﬂywheel inertia
+(Vandewalle et al. 1987). The power estimated by this methodology is valid only
+when the acceleration is equal to zero, which is solely the case when the peak
+velocity is reached during sprint performed in isoinertial condition. Then a single
+couple of force-velocity (i.e. braking force-peak velocity) can be assessed per sprint.
+It is necessary to repeat a series of six to ten sprints against progressively increasing
+braking forces, to record different peak velocities and ﬁnally plot a force-velocity
+relationship as well (Fig. 2.1c). Theoretically this approach remains reliable to
+assess the maximal force- and power-velocity relationships and you can see on
+Fig. 2.1c the good agreement between the F-V relationship resulted from “peak
+velocity” method and the relationship resulted from the “reference” method (i.e.
+Eq. 2.5). The advantage was that the material is very simple: the braking forces are
+predetermined by known weights and only the peak ﬂywheel velocity should be
+measured. However, the repetition of the 8–10 sprints can induce a signiﬁcant
+10
+S. Dorel
+
+
+<!-- Page 17 -->
+fatigue throughout the test session and the protocol assumes an absence of fatigue at
+the time of the peak velocity occurrence which can be questionable in some cases
+(see the next parts). Note that although there are still few people which propose to
+use this methodology (i.e. only the power against the braking force) to estimate
+Fig. 2.1 a Typical example of the time-course of the pedaling rate (or crank velocity) during a
+force-velocity test on a Monark cycle ergometer: 4 short sprints against 4 braking forces (in kg at
+the circumference of the ﬂywheel and equivalent resistive torque in Nm at the crank axis). Squares
+correspond to the peak values and circles to the mean values on each complete cycle before.
+b Time-power curves for the two extreme loads with the raw and ﬁltered data (grey lines) and the
+same representation of the mean values on the ﬁve ﬁrst complete crank cycles and at the peak
+velocities. c Mean value of torque, pedaling rate and power on these complete cycles (ﬁrst 3 s of
+each sprint) can be used to plot torque- and power-velocity relationships. Note the good match in
+this example between the shape of these relationships for the two methods: one that considers only
+the peak velocity values of the 4 distinct sprints of panel a (squares: power corresponds to the
+product of peak velocity and braking force) and the other that considers all the cycles of the 2
+sprints of panel b (circle: power measurement also takes into account the force to accelerate the
+ﬂywheel inertia during the ﬁrst phase of the sprint). Adapted from Driss and Vandewalle (2013)
+2
+Maximal Force-Velocity and Power-Velocity Characteristics …
+11
+
+
+<!-- Page 18 -->
+power also during the acceleration phase, this approach should be logically ruled
+out due to its invalidity (Morin and Belli 2004).
+Finally, with the development of a new generation of commercialized electronic
+cycle ergometers (e.g., SRMTM, Lode Excalibur SportTM), especially from the last
+ﬁfteen years, they are increasingly used. With these devices, the estimation of the
+resistive torque (braking or magnetic) is no longer required because of the direct
+measurement by strain gauges of the force at the crank or the pedal level (Buttelli
+et al. 1996; Capmal and Vandewalle 1997; Dorel et al. 2010). Moreover, the setting
+of these ergometers has been particularly improved to be better adapted to the size
+and muscle capacities of all athletes (Dorel et al. 2012; Gardner et al. 2007). For this
+reason, the next parts of the chapter presenting in detail the methodology and
+interpretation of force- and power-velocity capabilities will often use data recorded
+with this type of ergometry.
+As for all biomechanical models aiming at simplifying the complex multi-joint
+movement to facilitate its interpretation, this macroscopic model of external power
+output measurement in cycling implies several assumptions:
+• From a mechanical standpoint cycling remains a double task: (i) moving the
+leg segments in such a way that the foot moves on a circular trajectory;
+(ii) producing torque at the crank levels. The work produced by the muscles is
+then transformed into mechanical work at the crank level but also used to move
+the leg segments (Driss and Vandewalle 2013; Kautz and Hull 1993). Therefore,
+it is important to keep in mind that pedal force measured at the shoe-pedal
+interface can be decomposed into a muscular component due directly to the
+intersegmental net joint torques and a non-muscular component due to gravi-
+tational and inertial effects of the segments.
+• This cyclic movement of the lower extremity requires a speciﬁc coordination of
+several lower-limb muscles with a lot of co-activation between synergists as
+well as antagonist muscles (see next chapter, Dorel et al. 2012; Hug and Dorel
+2009). In this line, despite a maximal involvement, the maximal activation level
+is not veriﬁed for all the muscles and the cyclic characteristics of the task induce
+that mechanical output is also governed by excitation-relaxation kinetics
+(Neptune and Kautz 2001).
+• This movement is classically considered by the scientiﬁc and coaching com-
+munities as a useful evaluation of the human dynamic muscle function of the
+lower limb extensor muscles in a “concentric” mode. However, some muscles
+could theoretically act in different modalities of contraction (particularly the
+bi-articular muscles), and also operate in different range of their force-length
+relationship.
+Note that all of these points will be further examined and discussed in the next
+chapter (see Chap. 3 for more information).
+12
+S. Dorel
+
+
+<!-- Page 19 -->
+2.3
+Maximal Force- and Power-Velocity Relationships
+in Cycling
+2.3.1
+Testing and Processing
+Sprint exercise on cycle ergometer is widely used to evaluate force and power
+characteristics of the lower limbs. These muscle capacities can be accurately
+measured on a cycle ergometer, using the well-known “force-velocity” test that
+consists of performing 3 brief all-out exercises of 5-s duration against difference
+resistances. The corresponding resistive torques generally applied are 0, 0.5–0.8,
+and 1–1.8 Nm.kg−1 body mass depending on the body mass and level of expertise.
+Actually, these values of resistance are indicative and may be adapted in line with
+the general principle of allowing subjects to attain a large range of pedaling rates
+over the cumulative three bouts. Classically the value of force, velocity and power
+are averaged on a period corresponding to a full crank cycle (or a half cycle, i.e. one
+downstroke) and then 4 to 10–12 couples of force and velocity values are obtained
+from each sprint, allowing modeling the relationships with a large number of points
+(Fig. 2.2).
+Whatever the approach to measure the mechanical data, the velocity is prefer-
+entially expressed in pedaling rate at the crank level (in rpm). Then force-velocity
+relationship obtained during pedaling is classically presented as a maximal torque
+(or effective force)-pedaling rate relationship which is very well ﬁtted by a linear
+regression model (Dorel et al. 2003, 2005; Driss and Vandewalle 2013; Driss et al.
+2002; Hautier et al. 1996; Hintzy et al. 1999; Vandewalle et al. 1987). The linear
+relationship obtained (Eq. 2.6) enables assessment of Vmax and Fmax, which have
+the dimensions of maximal pedaling rate at the zero force axis and the effective
+force corresponding to a zero pedaling rate, respectively (Fig. 2.2; Eq. 2.7).
+Fig. 2.2 Typical force-velocity (left) and power-velocity (right) relationships of an elite track
+cyclist, ﬁtted using linear and quadratic regressions, respectively and considering mean crank cycle
+values obtained from three sprints of 4-s duration. Determination of maximal power (Pmax),
+optimal pedaling rate (Vopt), maximal pedaling rate (Vmax), and maximal effective force (Fmax)
+2
+Maximal Force-Velocity and Power-Velocity Characteristics …
+13
+
+
+<!-- Page 20 -->
+F ¼ a V þ Fmax
+ð2:6Þ
+Vmax ¼ Fmax  a1
+ð2:7Þ
+Maximal power generation is described by a polynomial (2nd order,)
+power-velocity relationship (Eq. 2.8) with a maximum value (Pmax) reached at an
+optimal cycling rate (Vopt) and hence at an optimal force (Fopt).
+P ¼ aV2 þ bV þ c
+ð2:8Þ
+Pmax can be determined directly basing on the F-V relationship with the fol-
+lowing equations:
+Pmax ¼ Vopt:Fopt;
+Pmax ¼ 0:5Vmax:0:5Fmax;
+Pmax ¼ 0:25:Vmax:Fmax
+ð2:9a–cÞ
+where Vopt and Fopt are expressed in ofﬁcial unit (rads−1 and Nm at the crank axis
+or ms−1 and N at the pedal, respectively).
+Vopt and Pmax can be determined based on Eq. 2.8 (P-V relationship) with the
+following equation:
+Vopt ¼ b
+2a
+ð2:10Þ
+Pmax ¼ a 
+b
+2a
+
+2
+þ b 
+b
+2a
+
+
+þ c
+ð2:11Þ
+Practically, the relation between the power and velocity is fundamental because
+it means that (i) an athlete can reach the actual maximal value of power (Pmax) only
+at an optimal trade-off between force and velocity (Eq. 2.9a–c), and (ii) the max-
+imal power-generating capacity dramatically decreases when velocity signiﬁcantly
+moves away below or above this Vopt value (Fig. 2.2). Interestingly, the more the
+target power is below Pmax value (i.e. submaximal values under the curve), the
+more the possibilities to produce this power on a large range of different pedaling
+rates (and hence force) exist. On the training and testing viewpoint, the
+power-velocity relationship implies that Pmax can be reached around to the small
+range of pedaling rates corresponded to almost Vopt value. It means that the higher
+Vopt the more the athletes should pedal at a high cadence to be able to reach their
+maximal power (Fig. 2.3). Then even if two athletes with different Vopt have a large
+difference in their absolute Pmax (e.g, 12 rpm and *200 W in the example of
+Fig. 2.3), this discrepancy in power production could be very lower or even dis-
+appear on the ﬁeld if the effort is performed at speciﬁc pedaling rate advantageous
+for the athlete with the higher Vopt (e.g., at almost 180 rpm on Fig. 2.3).
+However, it is important to keep in mind that due the mechanical fundamental
+laws, even if the mechanical constraints (e.g., effects of gravity, rolling resistance,
+14
+S. Dorel
+
+
+<!-- Page 21 -->
+air friction, moment of inertia of the system) can directly inﬂuence the speed of the
+system on the ﬁeld (i.e. the cyclist + bicycle), they do not directly act on the
+capacity to reach maximal power output per se if the pedaling rate can be adjusted.
+Indeed, contrary to running for example, it is easier to change the ratio between
+speed and pedaling rate by using a gear ratio system on the ﬁeld. Consequently, the
+athlete by changing the gear ratio can adjust his pedaling rate to be close to Vopt
+conditions and then to be able to reach his maximal power output in very different
+mechanical situations (speed, external resistances…etc…).
+2.3.2
+Meaning of the Indexes Extracted
+from the Relationships
+The force- and power-velocity relationships allow the determination of several
+useful parameters (i.e. indexes) for normative evaluation as well as training mon-
+itoring. One often tries to link these indexes with performance factors in different
+explosives disciplines requiring power of the lower limbs (Dorel et al. 2005; Morin
+et al. 2002) and to describe the alteration of these indexes with training or with age
+to better understand the loss of power capacity and functional performance in
+elderly population (Bonnefoy et al. 1998; Martin et al. 2000). Then, it is important
+to state on the interpretation of the different parameters and how each can account
+to the lower limb muscle function.
+Fig. 2.3 Determination of the torque- and power-velocity relationships of two typical elite
+sprinters in cycling with large differences in torque and velocity capabilities: one (white circle)
+with very high value of maximal torque (Tmax: *270 Nm) giving him a higher value of maximal
+power (Pmax: 1800 W), the other (black diamond) with extremely high value of maximal pedaling
+rate (Vmax: 285 rpm) giving him a high Pmax also (despite lower: 1650 W). Observe the greater
+discrepancy between power capabilities of both athletes at the pedaling lower than Vopt (60–70 to
+130 rpm) and the lower discrepancy at higher pedaling rates and even an absence of difference at
+pedaling rates around 180–200 rpm
+2
+Maximal Force-Velocity and Power-Velocity Characteristics …
+15
+
+
+<!-- Page 22 -->
+Optimal and maximal pedaling rate. Due to the linear model, both indexes
+correspond to the same global velocity capability (i.e. Vopt
+=
+0.5 Vmax). The
+pedaling rate being directly linked to the pedal speed it inﬂuences indirectly the
+angular velocity of the main joints (especially the hip and the knee) and hence is
+considered to inﬂuence also the muscle shortening velocity. Therefore, Vopt is often
+considered as the condition where the majority of the muscles involved are
+shortening near their optimal velocity (Sargeant 1994; Zatsiorsky 2008). In this line
+it is interesting to note that Vopt values reported in subjects specialists in “explosive”
+performances (and hence presumably characterized by a higher percentage of fast
+twitch muscle ﬁbers) are classically higher than those reported in endurance athletes
+(Buttelli et al. 1996; Davies et al. 1984; Dorel et al. 2003, 2005; Gardner et al.
+2007; Hintzy et al. 1999; Sargeant et al. 1981; Vandewalle et al. 1987). The optimal
+pedaling rate range between almost 90–100 rpm for extremely low values up to
+140–145 rpm for extremely high values. Interestingly, this link between the pro-
+portion of fast twitch ﬁbers and Vopt was experimentally demonstrated in two
+subjects (McCartney et al. 1983a) and ten healthy speciﬁcally trained subjects
+(Hautier et al. 1996) conﬁrming that this high proportion of type II ﬁbers, at least on
+the knee extensor muscle, may be one factor associated with a high pedaling rate for
+maximal power. As depicted on Fig. 2.4, the fact that Vopt is gradually impaired
+with advancing aging (Bonnefoy et al. 1998; Martin et al. 2000) can be conﬁdently
+related to the well-known deterioration of the maximal unloaded shortening
+velocity of muscle ﬁbers with aging (Power et al. 2016) and further suggest that
+ﬁber type distribution inﬂuences, at least partly, the Vopt ability.
+Nevertheless due to the characteristics of the movement, other factors clearly
+inﬂuence the maximal pedaling rate. Among them, we can point speciﬁcally the
+muscle coordination and the activation dynamics (see next chapter for more
+details). As cycle frequency increases, the capacity of nervous system to activate
+and deactivate the muscles increase in importance, and then have a signiﬁcant
+Fig. 2.4 Typical
+power-velocity of an young
+and an old individual
+illustrating the great
+difference in maximal power
+due to both a decrease in
+maximal force and velocity
+capabilities (note the decrease
+in optimal velocity, Bonnefoy
+et al. (1998))
+16
+S. Dorel
+
+
+<!-- Page 23 -->
+inﬂuence on force production additionally to the intrinsic force- and power-velocity
+characteristics of the muscles (Bobbert et al. 2015; Caiozzo and Baldwin 1997;
+Neptune and Kautz 2001; van Soest and Casius 2000). Moreover, the coordination
+between the muscles seems to have a signiﬁcant impact on the capacity to continue
+to produce a high force at pedaling rate higher than Vopt (Samozino et al. 2007) and
+is even more critical at extreme pedaling rate (Dorel et al. 2014).
+Optimal and maximal effective force (or crank torque). Due to the linear
+model, both indexes corresponds the same global qualities of force (i.e. Fopt = 0.5
+Fmax). Fmax is the theoretical maximal “isometric” force produced on the pedals by
+both legs. This data is not frequently reported in the literature compared to Pmax and
+often expressed in different units (braking force at the ﬂywheel, crank torque or
+effective force applied on the pedals) making difﬁcult to compare the values. By
+referring to data directly observed or basing on the Pmax and Vopt values we can
+state that Fmax values expressed in torque range between almost 115–120 Nm for
+extremely low values (unpublished data: recreational or endurance road cyclists or
+triathletes) up to 300–320 Nm for extremely higher values (unpublished data:
+world-class BMX and track sprint male cyclists). This index is clearly considered as
+reﬂecting the maximal force ability of the main lower limb extensor muscles and
+then as a good indicator of maximal strength. In this line, signiﬁcant relationships
+have been demonstrated between Fmax and different indexes of speciﬁc maximal
+isometric or isokinetic peak torque (i.e. between 0 and 240° s−1) of the knee
+extensors on single-joint ergometer when data were expressed in absolute units or
+normalized to the quadriceps mass (Driss et al. 2002). Moreover, Fopt and Fmax
+were signiﬁcantly related to thigh muscle area or volume determined from
+tomodensitometry (Linossier et al. 1996; McCartney et al. 1983a). Finally, a similar
+link was also reported with the lean leg volume (estimated by anthropometry using
+Jones and Pearson’s technique Jones and Pearson 1969) in a relative homogeneous
+population of elite track sprint cyclists (r = 0.77, p < 0.01, Dorel et al. 2005).
+Maximal power. Theoretically maximal power depends on both force and
+velocity capabilities. Pmax values measured in very different populations range
+between 500–600 W/10 Wkg-1 and 2100 W/22 Wkg-1 (Arsac et al. 1996; Dorel
+et al. 2005; Driss and Vandewalle 2013; Gardner et al. 2007; Hintzy et al. 1999;
+Martin et al. 1997; Vandewalle et al. 1987) up to almost extremely high values of
+2400–2500 W and 25–26 Wkg-1 (unpublished data on world-class BMX and track
+sprint male cyclists). These extreme values are logically recorded on subjects
+exhibiting low (almost 100 rpm) and high Vopt (almost 135–140 rpm) respectively
+(in relation with the proportion of fast twitch ﬁbers). In this line it has been reported
+signiﬁcant relationship between Pmax and Vopt in quite heterogeneous population
+(Arsac et al. 1996; Hintzy et al. 1999). However, the *40% difference in “velocity”
+capability is dramatically lower compared to the *300% difference in Pmax. It
+should therefore keep in mind that despite importance of velocity, force capability
+is deﬁnitively the main key factor that explains such great differences in Pmax
+between subjects. In this line, no relationship was reported between Pmax and Vopt in
+homogeneous elite track cycling sprinters while a strong relationship (r = 0.92,
+p < 0.001) was observed with Fmax (Dorel et al. 2005). In the same way, a lot of
+2
+Maximal Force-Velocity and Power-Velocity Characteristics …
+17
+
+
+<!-- Page 24 -->
+studies highlighted direct correlation (Fig. 2.5) between Pmax and indices of muscle
+mass or lean leg of thigh volume (Linossier et al. 1996; Martin et al. 1997; Pearson
+et al. 2006) and interestingly some of them reported the same statistical signiﬁcance
+for the relationship between strength indexes of knee extensors and Pmax than that
+obtained with Fmax ability (Driss et al. 2002).
+What about the improvement possibilities by training? Based on the afore-
+mentioned literature and a longitudinal follow-up of elite track cyclists in the last
+15 years with the French Federation of Cycling, it is reasonable to think that
+strength capacities are the best candidate for improvement power at both short and
+long terms. It is in agreement with the impressive increase of muscle mass and the
+maximal force measured in strength and conditioning movements (e.g., squat
+exercise) observed on the athletes throughout their career. Moreover, it is also
+corroborated by the concomitant alteration classically observed in maximal force
+and power in cycling and the muscle mass and force indexes of the athletes in
+periods of detraining or reprise of training. In the same time, the alteration of Vopt or
+Vmax are note really noticeable (between these periods or throughout the career).
+The question is: does it means that velocity capabilities are not important and
+cannot be improved? Three arguments suggest that the question is not so obvious
+and the answer is likely no. First, the extremely highly powerful athletes are also
+those that exhibit the highest Vopt values (e.g. between 135 up to 145 rpm for the
+best 4–5 elite sprint track and BMX cyclists performing all at the highest inter-
+national level; unpublished personal data). Basically, compared to an athlete A with
+Pmax = 2000 W and Vopt = 130 rpm an athlete B with the same maximal force
+but with a Vopt = 140 rpm directly beneﬁts from almost additional 150 W at Pmax.
+Second, even rarely, new young adult athletes can sometimes show non negligible
+increase of Vopt (*10 rpm) in early years of training; perhaps linked to an
+improvement of muscle coordination. Thirdly, although the gain of Vopt are limited
+(certainly mainly due to the inﬂuence of heredity on the muscle typology), we know
+that possible change in a range of 5–8 rpm can appear over the time (as a result of a
+Fig. 2.5 The relationship
+between maximal power
+measured during a
+force-velocity test and the
+estimated lean thigh volume
+(n = 13): peak power
+obtained during the cycle in
+black, mean power produced
+over the complete cycle in
+white, Martin et al. (1997)
+18
+S. Dorel
+
+
+<!-- Page 25 -->
+velocity-speciﬁc training block or related to a period of very high level of expertise
+during the career). For all these reasons, it appears that velocity capabilities are
+non-negligible and that testing Vmax remains interesting and should still be con-
+sidered for talent identiﬁcation and development (Tofari et al. 2016).
+2.4
+Methodological Consideration and Practical Advices
+2.4.1
+Period of Averaging to Draw F-V or P-V
+Relationships and Duration of the Sprint
+Mean cycle versus peak instantaneous values. As previously described, the
+phase/period for averaging values on cycle ergometer classically corresponds to a
+full crank cycle because matching with the period of the cyclic movement (i.e.
+during which each muscles are activated on one phase and deactivate on another).
+As movement is done by both legs in antiphase it is also often proposed to average
+the data only on one half cycle which corresponds to only one pedal stroke (i.e. the
+downstroke of one leg + upstroke of the contralateral leg) while a full cycle cor-
+responds to two pedal strokes (i.e. downstroke and upstroke of each legs in anti-
+phase). Note that if the different measurement sensors and the acquisition system
+allow to record quasi instantaneous values it is then possible to describe the torque
+proﬁle inside each pedal cycle (see the next chapter). As a consequence, in rare
+cases (specially in former studies) the peak “instantaneous” values of force and
+power reach in each pedaling cycle are reported (Beelen and Sargeant 1991;
+McCartney et al. 1983a; Sargeant et al. 1981), these values being clearly not
+comparable with the classical mean values on cycle (i.e. almost 50% higher).
+Sprint duration and inﬂuence of the occurrence of early fatigue. Practically,
+the choice of the period of time (or number of cycles) to be included for each bout is
+an important question to draw fatigue-free force- and power-velocity relationships.
+During a maximal sprint performed at a constant pedaling rate (to avoid the effect of
+the pedaling rate confounding factor, Gardner et al. 2009; Tomas et al. 2010) the
+power output can be maintained during a very short period of almost 4–5 s
+depending on velocity (higher pedaling rate inducing a higher decrease) and cer-
+tainly the athletes’ individual proﬁle (endurance vs. sprint athletes) (Beelen and
+Sargeant 1991; Dorel et al. 2003; McCartney et al. 1983a). It is therefore important
+to remove frome the analysis all the values for which fatigue potentially already
+occurs at the end of the sprint: after 3–4 s for low pedaling rates (50–120 rpm) and
+maximally after 3 s for high pedaling rates (120–250 rpm). On the other hand, it is
+possible to include more data (4–5 or 5–6 s) keeping in mind that the Pmax and
+associated Vmax resulted from the relationships would then represent a slight dif-
+ferent capability (e.g., 5–8%) also already accounting a fatigue resistance ability
+(Fig. 2.6).
+2
+Maximal Force-Velocity and Power-Velocity Characteristics …
+19
+
+
+<!-- Page 26 -->
+2.4.2
+Quality of the F-V and P-V Models: “Calculated”
+Versus “True” Data
+As a whole, the reliability of the force-velocity test is well established (Jaafar et al.
+2015) and we can be even more conﬁdent for data obtained on athletes.
+Nevertheless, to go a step further in the use of the indexes, some advices can be
+serve. The power of the linear and quadratic models to estimate useful values of
+Pmax and Vopt and others indexes logically depends on the number of points, the
+capacity to obtain points on a large range of pedaling rates below and above Vopt
+and the coefﬁcient of determination (R2). One can consider that the latter should be
+at least equal to 0.80–0.85 but it might be better to obtain a coefﬁcient higher than
+0.9–0.95 to enable valid assessments. Figure 2.6 illustrates three typical examples
+of P-V relationships for which the model ﬁts the data very well (i.e. extremely high
+R2 values: from 0.968 to 0.982) and the Pmax values nicely represent the differences
+in the power capacity of the three subjects. Beyond that, the visual inspection of
+data
+in
+respect
+to
+the
+ﬁtted
+curve
+remains
+important
+to
+avoid
+some
+over-interpretation. The gold standard should correspond to the typical example A
+for which both Pmax and Vopt extracted from the model exactly correspond to the
+real values obtained. For the example B, while Pmax remains very reliable (only
+1.1% of difference between Pmax and the mean of the three higher power values:
+PPeak), it appears that Vopt determined by the model (120 rpm) is partly
+Fig. 2.6 Left: Effects of taking into account the power values produced during the ﬁrst 3 s
+(white) versus the ﬁrst 5 s (white + black) of the three sprints performed during F-V testing
+session. Despite an absence of a great inﬂuence on the maximal power estimation, black points
+illustrate an effect of early fatigue for this individual leading to a signiﬁcant underestimation of the
+maximal velocity and the power at the high pedaling rates (and likely an overestimation of the
+maximal force, not illustrated here). Right: typical example of P-V relationships for 3 subjects
+illustrating the importance of visual inspection of data in addition to the coefﬁcient of
+determination of the model (R2). Maximal power (Pmax), optimal velocity (Vopt) extracted from the
+model, and mean of the three higher power values (PPeak, bracket) and the associated velocity
+(VPpeak) for each subject are as follows: (A) Pmax = 912 W, Vopt = 119 rpm; R2 = 0.977; Ppeak =
+900 W at VPpeak = 121 rpm; (B) Pmax = 1182 W, Vopt = 120 rpm; R2 = 0.968; Ppeak = 1195 W at
+VPpeak = 105 rpm; (C) Pmax = 1760 W, Vopt = 129 rpm; R2 = 0.982; Ppeak = 1828 W at VPpeak =
+133 rpm. See details of interpretation in the text
+20
+S. Dorel
+
+
+<!-- Page 27 -->
+overestimated in the sense that Ppeak is almost reached at a 12.5% lower pedaling
+rate (around 105 rpm). That means that the athlete B is actually not prevented
+from producing his maximal power for pedaling rates around 100 rpm as it is
+predicted by the quadratic model. For the athlete C, Pmax assessed by the model is
+almost 50 W lower than Ppeak which corresponds to a non-negligible difference of
+almost 3%.
+Consequently, in the context of the longitudinal follow-up of training it can be
+advised to primary consider Pmax, Fmax and Vopt to better quantify gains in force and
+velocity capacities in response to the training period. In the same time, in the cases
+where modeling has the aforementioned limitations it is advisable to refer to real
+values for some practical application: (i) for choosing the suitable gear ratio to adapt
+pedaling rate with the goal to maximize the power during a sprint on the ﬁeld (for
+example for the cyclist B) or (ii) for comparing and better interpreting the peak
+power obtained using powermeter on the ﬁeld in comparison with the maximal
+power obtained during the stationary cycle ergometer testing procedure (for
+example for the cyclist C). Finally, note that P-V model often used a more con-
+strained equation by setting the y-intercept as 0 (i.e. constant c = 0, in all the
+ﬁgures presented in this chapter). This process can slightly inﬂuence the capacity to
+ﬁt the true data but is interesting to extrapolate more realistic power at extreme
+cadences (low or high). So, that is important to control for inter and intra-individual
+comparisons.
+2.4.3
+Main Factors to Control that may inﬂuence Maximal
+Power Output
+Different parameters can inﬂuence the force and/or the velocity produced on the
+pedals and the question is to know whether it might alter the maximal power
+capability. Among them, the seat height and the crank length, the nature of the
+shoe-pedal interface and the use of a standing versus seating position are the main
+recognized factors but they do not act on the same manner and with the same extent
+on the power output. Rather than presenting a detail analysis of these factors, the
+purpose here is just to insist on their main effect, in order to (i) select them
+appropriately and (ii) control these parameters in both the context of longitudinal
+follow-up of training and evaluation/detection of athletes.
+Ergometer setup: seat height and crank length. Seat conﬁguration (seat tube
+angle and height) can theoretically inﬂuence the pedal power by altering the lower
+limbs kinematics (speciﬁcally the range of motion of each joints) and ultimately the
+force produced by each muscle groups. However, by simulation (Rankin and
+Neptune 2010) it was demonstrated that the inﬂuence of seat tube angle is actually
+limited (i.e. almost 1% for a wide range of 65°–110°) when considering only the
+classical cycling conﬁguration (i.e. not the recumbent cycling). For these authors,
+the seat height has a greater impact and they proposed an optimal value
+2
+Maximal Force-Velocity and Power-Velocity Characteristics …
+21
+
+
+<!-- Page 28 -->
+corresponded to 102% of greater trochanter height (and an average knee ﬂexion
+angle of 101.7° with min = 59.6° at TDC and max = 153.6° at TDC). Actually and
+despite the more and more popularity of the bike-ﬁtting consulting activity, the
+setting of these parameters is not obvious. The problem is that too many parameters
+interact to be able to conclude about an “optimization”: the anthropometric (seg-
+ment lengths), the comfort (depending on the duration of the effort, the joint
+ﬂexibility, etc.), the alteration of upper body posture and hence the aerodynamic
+resistances, the degree of freedom allowed by the natural displacement of the hip on
+the saddle. Moreover, it should be examined in concert with the choice of the crank
+length since they can together alter the kinematics and then the range for force
+generation by each joint based on the force-length relationship. Overall, different
+trials (e.g. force-velocity test) should be done to experimentally conﬁrm that a
+position is better for each individual.
+By itself the crank length does not drastically inﬂuence the maximal power
+(Martin and Spirduso 2001) because even if it changes the link between the force
+and the velocity, Pmax is not deteriorated in a large range of crank lengths
+(i.e., 145–195 mm). Although a standard crank length (170–175 mm) can therefore
+be conﬁdently used in adults without concern of decreasing maximal power, an
+optimal crank length of 20% of leg length was still suggested by these authors. It is
+interesting for speciﬁc population such as very short athletes or the children and
+adolescents (Martin et al. 2002). One practical consequence however is that the
+optimal pedaling rate increases with the decrease of crank length. When different
+bicycles equipped with different crank sizes are used by the athletes on the ﬁeld, it
+is therefore interesting to take into account this inﬂuence to adapt pedaling rate and
+gear ratio. Basing on the previous studies and the testing database of elite sprint
+cyclists (personal unpublished data), we can conﬁdently state that a change in
+10 mm of the crank length corresponds to almost an alteration of 4–5 rpm in Vopt.
+Pedal and toe-clips. It was early demonstrated that during the upstroke phase of
+the pedal, athletes can actively pull on the pedal to partially transmit additional
+force to the crank (Beelen et al. 1994; Dorel et al. 2010; Martin and Brown 2009).
+As a consequence, presence of toe-clips with straps or clipless pedals necessary
+induce signiﬁcant change in the maximal values obtained during a torque-velocity
+test (Capmal and Vandewalle 1997). Hence an almost 10–20% difference has been
+reported in Pmax or Fmax in the last study depending on the shoe-pedal interface, and
+we can reasonably think that it also signiﬁcantly inﬂuences the value of Vmax
+(or Vopt). As we will discuss in the next chapter, the relative contribution of the
+muscles involved in the ﬂexion phase should not be neglected especially during the
+sprint compared to the submaximal exercise (Dorel et al. 2010; Driss and
+Vandewalle 2013; Elmer et al. 2011). If the use of ﬂat pedals would theoretically be
+interesting to better isolate on the work of the lower limb extensors only, it is not
+advised for two reasons: it does not avoid a partial non-controlled contribution of
+the contralateral leg during the ﬂexion phase (at least the partial effect of its weight)
+and it remains very challenging to follow the pedal trajectory in this phase, espe-
+cially at very high pedaling rates.
+22
+S. Dorel
+
+
+<!-- Page 29 -->
+Effect of body position: seating/standing. Standing position when sprinting
+allows to produce a higher maximal power output compared to seating (Driss and
+Vandewalle 2013; Hug et al. 2011; Reiser et al. 2002). This is mainly explained by
+the effects of a higher participation of the body weight over the pedals, an additional
+recruiting of the upper limb and trunk musculature (Turpin et al. 2017), along with
+some positive adjustment of muscle coordination such like a higher or longer
+recruitment of some muscles throughout the pedaling cycle (hamstring during the
+extension-ﬂexion transition, quadriceps and gluteus maximus during the second
+part of the pushing phase; (Hug et al. 2011) and personal unpublished data). In this
+context, further studies are still needed to better elucidate all the biomechanical and
+neuromuscular factors of inﬂuence. If some studies reported a gain of about 8–15%
+(Driss and Vandewalle 2013; Reiser et al. 2002; Vandewalle et al. 1988) it is not
+easy to state on a ‘typical’ mean value regarding the amount of the beneﬁt. Indeed,
+the beneﬁt can be very different between the subjects and sometimes very poor
+(e.g., 50 W = +2.2%, on an elite male sprint cyclist with 2250 W of Pmax in
+seating position) or very important (e.g. 160 W = 16.7% on an elite female sprint
+cyclist with 960 W of Pmax in seating position; unpublished personal data). It is
+often accompanied by difference in the optimal velocity which are often slightly
+lower (0–10 rpm) in standing position; however, it is again difﬁcult to draw up a
+general rule because few subjects can also exhibit a slight higher Vopt in standing
+position (e.g., elite BMX or sprint track riders). Maybe speciﬁc skills and segment
+length can also partially explain this interindividual variability in the seating/
+standing difference observed regarding the maximal power and velocity abilities.
+Both values can have the same practical interest if the athlete rides in both positions
+on the ﬁeld, but it is then more appropriate (and very recommended) to test cyclist
+in the same position in laboratory and ﬁeld conditions to gain a better overview of
+his capabilities.
+2.5
+Field Measurement in Ecological Condition
+As detailed above, the force-velocity test on cycle ergometer is speciﬁc of the
+cycling performance and then is a largely accepted method to describe and predict
+the mechanical behavior of the cyclist in sprint condition on the ﬁeld. However, in
+addition to this classical reference method, the use of additional “ﬁeld” data bring
+real beneﬁts for both coaches and sports scientists:
+• ﬁrstly, little changes in body conﬁguration can occur in ﬁeld condition (espe-
+cially lateral oscillation of the cyclist and his bicycle commonly observed when
+sprinting) and hence may slightly inﬂuence the power produced (Faria et al.
+2005);
+• consistent with that, this would be particularly right at very high level of force
+during a sprint starting performance and then the classical stationary
+force-velocity test does not perfectly evaluate the real-life practice speciﬁcally
+2
+Maximal Force-Velocity and Power-Velocity Characteristics …
+23
+
+
+<!-- Page 30 -->
+for conditions at extremely high force and low cadence (i.e., lower than
+70 rpm);
+• additionally, power measurement allow today to better characterize the effort on
+the ﬁeld, and to better identify and control the muscular quality worked during
+training sessions (e.g., force or power predominance);
+• ﬁnally, beyond all of that, the external resistance and mechanical constraints
+applied on the cyclist on the ﬁeld are strongly different compared to the sta-
+tionary force-velocity test and could be very diversiﬁed. Although that should
+not impair the maximal power capability of the subject (except if optimal
+velocity condition is not veriﬁed), it largely inﬂuences the relative contribution
+of each resistance/constraint on the power demand and hence factors of per-
+formance such like the maximal speed or the acceleration of the athlete.
+2.5.1
+Mathematical Model of Sprint Cycling
+Since the ﬁrst work of di Prampero et al. (1979), different mathematical model were
+developed to estimate the power produced on the ﬁeld by the cyclist. Historically,
+the challenge was really to determine the power demand basing on the different
+applied external resistances and the variation in the mechanical energy in order to
+infer a reliable estimation of the muscular power produced by the athlete. Whatever
+the model proposed (Martin et al. 2006, 1998; Olds 2001; Olds et al. 1993) that
+corresponds to the power required to overcome air resistance and rolling resistance
+and the power required to change the kinetic energy and/or the potential energy of
+the system (Eq. 2.12):
+P ¼ CdA  1
+2  q  V3 þ l:Fn:V þ DEp
+Dt þ DEk
+Dt
+ð2:12Þ
+with CdA represents a coefﬁcient including both the effective frontal area and the
+drag coefﬁcient of the system (cyclist + bicycle); q is the air density, µ is a global
+coefﬁcient of friction, Fn is the normal force on the surface due to the weight of the
+system, V, the velocity of the system cyclist + bicycle (in absence of wind) and
+DEp and DEk the variation on the period of interest (Dt) of potential and kinetic
+energy, respectively.
+When looking in detail this equation it appears not simple to use this model to
+evaluate maximal power of the cyclist in routine on the ﬁeld. Indeed, measuring (or
+reliably estimating) the different coefﬁcients requires complex, expensive and less
+accessible methodologies especially for the aerodynamic coefﬁcient (e.g., wind
+tunnel), which often represents the most important factor due to the importance of
+the air resistance with the increased speed. For that, it is possible to use
+ﬁeld-derived values for modeling CdA and µ coefﬁcients (thanks to testing sessions
+by means of a portable powermeter system, see the next part) and to apply the
+24
+S. Dorel
+
+
+<!-- Page 31 -->
+model to accurately estimate power during a maximal sprint cycling (Martin et al.
+2006). Beyond this apparent difﬁculty, this modeling approach has signiﬁcant
+practical applications for training and testing:
+• for better characterizing the relative contribution of each external constraints in
+the total power demand during a speciﬁc exercise (e.g., the power demand of
+increasing the kinematic energy and concomitant power supply of decreasing
+potential energy from the top of the turn during the acceleration phase of a
+200 m ﬂying start performance on the track);
+• for assessing aerodynamics issues and simulating how subtle changes in all the
+constant included in the model (e.g., riding position, mass, tire pressure, con-
+ﬁguration of the track or the road, environmental condition, etc.) and power of
+the subject itself will inﬂuence cycling speed and in ﬁne the sprint performance;
+• for avoiding misinterpretation and shortcut about the link between very high
+speed and the amount of power output. For illustrating with a numerical
+example, the model can estimate that an athlete of 80 kg sprinting at a mean
+speed of 64.5 km.h-1 on a 5-s period (on the ﬂat and in absence of wind and
+drafting) produce an additional power of almost 200 W when the exact initial
+and ﬁnal instantaneous speeds on this period are 64 km.h-1 and 65 km.h-1,
+respectively (i.e. very slight acceleration < 0.06.ms-2) than then in inverse
+condition (i.e. 65 and 64 km h−1, respectively: slight deceleration). This is not
+obvious to imagine that without modeling.
+In line with the last point, the measurement interval on which all the kinematic
+data can be measured practically (Dt: period of averaging the velocity, and on
+which the variation of velocity and of the vertical position, h, are detected) directly
+affects the capacity of model to account for rapid changes in power production
+(which is crucial in sprint cycling). However the new technologies available to
+measure the displacement speed (e.g., commercial high speed video, see Chaps. 4
+and 5, and also the portable systems, see the next part of this chapter) are promising
+opportunities to obtain a precise speed proﬁle of the athlete during a competition or
+training/testing session. Finally, the condition on the ﬁeld can be organized to
+simplify the model by limiting the number of variables that can contribute. For
+practical testing session, it is easy to perform a sprint in starting-block condition to
+have very low value of speed and on the ﬂat to omit the ﬁrst and the fourth
+components of Eq. 2.12, respectively (Bertucci et al. 2005). This approach is
+interesting to have a ﬁeld estimation of maximal force but it is more critical for
+maximal power assessment if Vopt is not reached which would be probable if speed
+is limited to 20 km h−1. The assessment of force- and power-velocity and their
+associated indexes on the ﬁeld requires therefore additional equipment.
+2
+Maximal Force-Velocity and Power-Velocity Characteristics …
+25
+
+
+<!-- Page 32 -->
+2.5.2
+Direct Measurement with Portable System
+As on cycle ergometer, new technologies available from the last decade allowed the
+emergence of several portable devices to reliably measure the power output on the
+ﬁeld. One main issue of the existing commercial powermeter systems (SRMTM,
+PowertapTM, StagesTM, Garmin vectorTM, Look keo powerTM…) for determining
+maximal power during explosive efforts remains their sensitivity and the sampling
+rate. Some of them now fulﬁl these essential conditions: they have been validated
+and store data at least at 1 Hz. That represents the minimum value to ensure a
+sufﬁcient temporal resolution during explosive exercise to estimate a realistic
+maximal value of power and associated torque and pedaling rate. As a consequence,
+these tools begins to be used and raise interesting possibilities for training and
+testing in sport performance (Gardner et al. 2009, 2007; Martin et al. 2007, 2006;
+Menaspa et al. 2015a, b).
+Valuable inputs regarding the sprint performance. As aforementioned,
+recording the power and pedaling rate with these portable devices allow a better
+understanding of the characteristics of the sprint effort done on the ﬁeld whatever
+the discipline (track, road, BMX). During training sessions, it is a means to better
+describe the power-velocity demand of a speciﬁc training session and in turn for
+coaches a possibility to adjust the speed and gear ratio in order to preferentially
+target a muscle quality to work (e.g. force-power vs. power-velocity). It can provide
+a rapid post-exercise feedback on the involvement of the athletes. For long-lasting
+sprint exercise (i.e. 10–30 s duration) the analysis gives additional information on
+the capacity to resist to fatigue which is also a very valuable physiology-related
+quality. Indeed the dissociation of the effect of the pedaling rate confounding factor
+(on the time-course of power) represents a real beneﬁt to isolate the inﬂuence of
+fatigue but also to characterize the interaction between these parameters (Gardner
+et al. 2009; Tomas et al. 2010).
+A very important advantage of these devices is they can be used in a competition
+context. As for a speciﬁc training session the time course of the power and pedaling
+rate during a race can be plotted (Fig. 2.7). For the example of the 200 m ﬂying
+start performance depicted in details on this ﬁgure, it permits to identify the dif-
+ferent phases of the effort and to characterize each of them in term of
+force-velocity-power demand and fatigue. It could be a very useful input to also
+understand the inﬂuence of external variables such like the conﬁguration of the
+track (height, width and friction feature) and in turn to adjust the gear ratio but also
+the individual pacing strategy to attempt to optimize the power production in one or
+all the phases and hence the speed performance. All of these applications require to
+express the data referring to the F-V and P-V relationships measured in the labo-
+ratory condition (i.e. reference method) but we can wonder whether using power-
+meter may also be an option to directly assess these relationships on the ﬁeld.
+Assessment of F-V and P-V relationships. Theoretically, nothing prevents to
+determine the global force- and power-velocity relationships with these tools. In
+this line, a very good agreement was logically reported between “laboratory” and
+26
+S. Dorel
+
+
+<!-- Page 33 -->
+“ﬁeld” conditions regarding the force- and power-velocity relationships assessment
+(Gardner et al. 2007). Despite some limitations (lack of data around and above the
+optimal pedaling rate to draw the relationship) this study makes us conﬁdent on the
+Fig. 2.7 Time-course of the speed, pedaling rate and power during a ﬂying 200-m time trial
+measured during a world cup competition (female athlete, SRMTM pro system at 2 Hz). The
+chronometric portion begins at the start line (time 0: dotted line) and the distance was performed in
+11.3 s after this line. Three phases can be considered with the associated mean value obtained on each:
+an initial acceleration phase (on the left, from −17 to −9 s before the start line), a maximal acceleration
+phase (on the middle, from −9 to −2 s) and the ﬁnal phase where the athlete attempts to maintain
+maximal effort for the remainder of the 200-m (on the right, from −2 to the end of the effort). Here for
+example, the second phase (7 s) during which the power has to be maximized was performed at a
+mean cadence (126 rpm) corresponded to 104% of Vopt and a mean power (944 W) corresponded to
+84% of Pmax (measured with the cycle ergometer reference method: Lode Excalibut SportTM, in
+standing position because this phase is performed in this conﬁguration on the ﬁeld). Note in this
+typical example the very high values of pedaling rate in the third chronometric phase (Max = 123%
+and mean = 117% of Vopt for this athlete) which could be detrimental for maintaining a high level of
+power during this phase. Max corresponds to the peak value measured on 1 s interval
+2
+Maximal Force-Velocity and Power-Velocity Characteristics …
+27
+
+
+<!-- Page 34 -->
+opportunity to determine reliable F-V and P-V relationships and the associated
+force and velocity indexes. An interesting attempt was recently proposed in BMX
+(Debraux et al. 2013) again with some limitations in terms of range of velocities
+(i.e. lack of points below Vopt this time, due to only one sprint conﬁguration was
+used to plot the curve). To this end, 3–5 sprints must be performed in different
+conditions (speed and gear ratio to alter the amount of external resistance) in order
+to combine a sufﬁcient number of force-velocity data couples and on a large range
+of pedaling rates (from 70–80 rpm up to 180–190 rpm). The justiﬁcation is to
+ensure that pedaling rates around Vopt are reached during the effort ant that both
+ascending and descending parts of the P-V relationship can be ﬁtted with true data.
+Moreover, the same practical precautions than in laboratory should be taken and
+particularly the duration of the sprint to avoid potential effect of fatigue and then
+error in descending portion of the power-velocity relationship.
+Overall, both ﬁeld tools and cycle ergometers are generally limited to record data
+below almost 50 rpm, at least at this time. We will see in the next chapter that it is
+possible with more sophisticated pedal dynamometer to better investigate the
+speciﬁcity of the exercises performed at extremely high level of force (compared to
+the Fmax index extrapolated from the F-V relationship). Indeed, these efforts are
+performed in a very speciﬁc standing position with lateral oscillations leading likely
+to adjustment in terms of pedaling technique and coordination.
+2.6
+Conclusion
+Force- and power-velocity relationships allow the reliable assessment of maximal
+power capabilities and its two force and velocity components in cycling. Provided that
+proper methodology and advices presented in this chapter are used, the different indexes
+(Fmax, Vmax, Pmax, Vopt) extracted from these relationships give very useful information
+(i) to evaluate the lower limb muscle function, (ii) to monitor the speciﬁc and general
+strength training effects and (iii) to interpret and characterize the muscle involvement in
+the efforts performed on the ﬁeld in training or competition context. The method on
+stationaryergometer is now straightforward and particularlyadapted tothe setting ofthe
+individuals and hence remains the reference method to use, whereas portable power-
+meters are accessible and will become more and more suitable.
+References
+Arsac LM, Belli A, Lacour JR (1996) Muscle function during brief maximal exercise: accurate
+measurements on a friction-loaded cycle ergometer. Eur J Appl Physiol Occup Physiol
+74(1–2):100–106
+Beelen A, Sargeant AJ (1991) Effect of fatigue on maximal power output at different contraction
+velocities in humans. J Appl Physiol (1985) 71(6):2332–2337
+28
+S. Dorel
+
+
+<!-- Page 35 -->
+Beelen A, Sargeant AJ, Wijkhuizen F (1994) Measurement of directional force and power during
+human submaximal and maximal isokinetic exercise. Eur J Appl Physiol Occup Physiol 68
+(2):177–181
+Bertucci W, Taiar R, Grappe F (2005) Differences between sprint tests under laboratory and actual
+cycling conditions. J Sports Med Phys Fitness 45(3):277–283
+Bobbert MF, Casius LJ, van Soest AJ (2015) On the relationship between pedal force and crank
+angular velocity in sprint cycling. Med Sci Sports Exerc. https://doi.org/10.1249/mss.
+0000000000000845
+Bonnefoy M, Kostka T, Arsac LM, Berthouze SE, Lacour JR (1998) Peak anaerobic power in
+elderly men. Eur J Appl Physiol Occup Physiol 77(1–2):182–188
+Buttelli O, Vandewalle H, Peres G (1996) The relationship between maximal power and maximal
+torque-velocity using an electronic ergometer. Eur J Appl Physiol Occup Physiol 73(5):479–483
+Caiozzo VJ, Baldwin KM (1997) Determinants of work produced by skeletal muscle: potential
+limitations of activation and relaxation. Am J Physiol 273(3 Pt 1):C1049–C1056
+Capmal S, Vandewalle H (1997) Torque-velocity relationship during cycle ergometer sprints with
+and without toe clips. Eur J Appl Physiol Occup Physiol 76(4):375–379
+Cross MR, Brughelli M, Samozino P, Morin JB (2017) Methods of power-force-velocity proﬁling
+during sprint running: a narrative review. Sports Med 47(7):1255–1269. https://doi.org/10.
+1007/s40279-016-0653-3
+Davies CT, Wemyss-Holden J, Young K (1984) Measurement of short term power output:
+comparison between cycling and jumping. Ergonomics 27(3):285–296. https://doi.org/10.
+1080/00140138408963490
+Debraux P, Manolova AV, Soudain-Pineau M, Hourde C, Bertucci W (2013) Maximal torque and
+power pedaling rate relationships for high level BMX riders in ﬁeld tests, vol 1 and 2
+di Prampero PE, Cortili G, Mognoni P, Saibene F (1979) Equation of motion of a cyclist. J Appl
+Physiol Respir Environ Exerc Physiol 47(1):201–206
+Dorel S, Bourdin M, Van Praagh E, Lacour JR, Hautier CA (2003) Inﬂuence of two pedalling rate
+conditions on mechanical output and physiological responses during all-out intermittent
+exercise. Eur J Appl Physiol 89(2):157–165. https://doi.org/10.1007/s00421-002-0764-4
+Dorel S, Hautier CA, Rambaud O, Rouffet D, Van Praagh E, Lacour JR, Bourdin M (2005) Torque
+and power-velocity relationships in cycling: relevance to track sprint performance in
+world-class cyclists. Int J Sports Med 26(9):739–746. https://doi.org/10.1055/s-2004-830493
+Dorel S, Couturier A, Lacour JR, Vandewalle H, Hautier C, Hug F (2010) Force-velocity
+relationship in cycling revisited: beneﬁt of two-dimensional pedal forces analysis. Med Sci
+Sports Exerc 42(6):1174–1183. https://doi.org/10.1249/MSS.0b013e3181c91f35
+Dorel S, Guilhem G, Couturier A, Hug F (2012) Adjustment of muscle coordination during an
+all-out sprint cycling task. Med Sci Sports Exerc 44(11):2154–2164. https://doi.org/10.1249/
+MSS.0b013e3182625423
+Dorel S, Couturier A, Hug F (2014) Maintain a proper muscle coordination is critical to achieve
+maximal velocity during a pedaling cyclic task. In: XXth congress of international society of
+electromyography and kinesiology, Rome
+Driss T, Vandewalle H (2013) The measurement of maximal (anaerobic) power output on a cycle
+ergometer: a critical review. Biomed Res Int 2013:589361. https://doi.org/10.1155/2013/589361
+Driss T, Vandewalle H, Le Chevalier JM, Monod H (2002) Force-velocity relationship on a cycle
+ergometer and knee-extensor strength indices. Can J Appl Physiol 27(3):250–262
+Elmer SJ, Barratt PR, Korff T, Martin JC (2011) Joint-speciﬁc power production during
+submaximal and maximal cycling. Med Sci Sports Exerc 43(10):1940–1947. https://doi.org/10.
+1249/MSS.0b013e31821b00c5
+Faria EW, Parker DL, Faria IE (2005) The science of cycling: factors affecting performance—Part
+2. Sports Med 35(4):313–337
+Gardner AS, Martin JC, Martin DT, Barras M, Jenkins DG (2007) Maximal torque- and
+power-pedaling rate relationships for elite sprint cyclists in laboratory and ﬁeld tests. Eur J
+Appl Physiol 101(3):287–292. https://doi.org/10.1007/s00421-007-0498-4
+2
+Maximal Force-Velocity and Power-Velocity Characteristics …
+29
+
+
+<!-- Page 36 -->
+Gardner AS, Martin DT, Jenkins DG, Dyer I, Van Eiden J, Barras M, Martin JC (2009)
+Velocity-speciﬁc fatigue: quantifying fatigue during variable velocity cycling. Med Sci Sports
+Exerc 41(4):904–911. https://doi.org/10.1249/MSS.0b013e318190c2cc
+Hautier CA, Linossier MT, Belli A, Lacour JR, Arsac LM (1996) Optimal velocity for maximal
+power production in non-isokinetic cycling is related to muscle ﬁbre type composition. Eur J
+Appl Physiol Occup Physiol 74(1–2):114–118
+Hill AV (1938) The heat of shortening and the dynamic constants of muscle. Proc Royal Soc
+London Ser B—Biol Sci 126(843):136–195. https://doi.org/10.1098/rspb.1938.0050
+Hintzy F, Belli A, Grappe F, Rouillon JD (1999) Optimal pedalling velocity characteristics during
+maximal and submaximal cycling in humans. Eur J Appl Physiol Occup Physiol 79(5):426–432
+Hug F, Dorel S (2009) Electromyographic analysis of pedaling: a review. J Electromyogr Kinesiol
+19(2):182–198. https://doi.org/10.1016/j.jelekin.2007.10.010 (S1050-6411(07)00181-2 [pii])
+Hug F, Turpin NA, Couturier A, Dorel S (2011) Consistency of muscle synergies during pedaling
+across different mechanical constraints. J Neurophysiol 106(1):91–103. https://doi.org/10.
+1152/jn.01096.2010 (jn.01096.2010 [pii])
+Jaafar H, Attiogbe E, Rouis M, Vandewalle H, Driss T (2015) Reliability of force-velocity tests in
+cycling and cranking exercises in men and women. Biomed Res Int 2015:954780. https://doi.
+org/10.1155/2015/954780
+Jones PR, Pearson J (1969) Anthropometric determination of leg fat and muscle plus bone
+volumes in young male and female adults. J Physiol 204(2):63P–66P
+Kautz SA, Hull ML (1993) A theoretical basis for interpreting the force applied to the pedal in
+cycling. J Biomech 26(2):155–165
+Linossier MT, Dormois D, Fouquet R, Geyssant A, Denis C (1996) Use of the force-velocity test
+to determine the optimal braking force for a sprint exercise on a friction-loaded cycle
+ergometer. Eur J Appl Physiol Occup Physiol 74(5):420–427
+Martin JC, Brown NA (2009) Joint-speciﬁc power production and fatigue during maximal cycling.
+J Biomech 42(4):474–479. https://doi.org/10.1016/j.jbiomech.2008.11.015 (S0021-9290(08)
+00601-5 [pii])
+Martin JC, Spirduso WW (2001) Determinants of maximal cycling power: crank length, pedaling
+rate and pedal speed. Eur J Appl Physiol 84(5):413–418
+Martin JC, Wagner BM, Coyle EF (1997) Inertial-load method determines maximal cycling power
+in a single exercise bout. Med Sci Sports Exerc 29(11):1505–1512
+Martin JC, Milliken DL, Cobb JE, McFadden KL, Coggan AR (1998) Validation of a
+mathematical model for road cycling power. J Appl Biomech 14(3):276–291. https://doi.org/
+10.1123/jab.14.3.276
+Martin JC, Farrar RP, Wagner BM, Spirduso WW (2000) Maximal power across the lifespan.
+J Gerontol A Biol Sci Med Sci 55(6):M311–M316
+Martin JC, Malina RM, Spirduso WW (2002) Effects of crank length on maximal cycling power
+and optimal pedaling rate of boys aged 8–11 years. Eur J Appl Physiol 86(3):215–217
+Martin JC, Gardner AS, Barras M, Martin DT (2006) Modeling sprint cycling using ﬁeld-derived
+parameters and forward integration. Med Sci Sports Exerc 38(3):592–597. https://doi.org/10.
+1249/01.mss.0000193560.34022.04
+Martin JC, Davidson CJ, Pardyjak ER (2007) Understanding sprint-cycling performance: the
+integration of muscle power, resistance, and modeling. Int J Sports Physiol Perform 2(1):5–21
+McCartney N, Heigenhauser GJ, Jones NL (1983a) Power output and fatigue of human muscle in
+maximal cycling exercise. J Appl Physiol Respir Environ Exerc Physiol 55(1 Pt 1):218–224
+McCartney N, Heigenhauser GJ, Sargeant AJ, Jones NL (1983b) A constant-velocity cycle
+ergometer for the study of dynamic muscle function. J Appl Physiol Respir Environ Exerc
+Physiol 55(1 Pt 1):212–217
+Menaspa P, Martin DT, Victor J, Abbiss CR (2015a) Maximal sprint power in road cyclists after
+variable and nonvariable high-intensity exercise. J Strength Cond Res 29(11):3156–3161.
+https://doi.org/10.1519/jsc.0000000000000972
+30
+S. Dorel
+
+
+<!-- Page 37 -->
+Menaspa P, Quod M, Martin DT, Peiffer JJ, Abbiss CR (2015b) Physical demands of sprinting in
+professional road cycling. Int J Sports Med 36(13):1058–1062. https://doi.org/10.1055/s-0035-
+1554697
+Morin JB, Belli A (2004) A simple method for measurement of maximal downstroke power on
+friction-loaded cycle ergometer. J Biomech 37(1):141–145
+Morin JB, Hintzy F, Belli A, Grappe F (2002) Force-velovity relationships and sprint running
+performances in trained athletes. Sci Sports 17(2):78–85
+Neptune RR, Kautz SA (2001) Muscle activation and deactivation dynamics: the governing
+properties in fast cyclical human movement performance? Exerc Sport Sci Rev 29(2):76–80
+Olds T (2001) Modelling human locomotion: applications to cycling. Sports Med 31(7):497–509
+Olds TS, Norton KI, Craig NP (1993) Mathematical model of cycling performance. J Appl Physiol
+(1985) 75(2):730–737
+Pearson SJ, Cobbold M, Orrell RW, Harridge SD (2006) Power output and muscle myosin heavy
+chain composition in young and elderly men. Med Sci Sports Exerc 38(9):1601–1607. https://
+doi.org/10.1249/01.mss.0000227638.75983.9d
+Power GA, Minozzo FC, Spendiff S, Filion ME, Konokhova Y, Purves-Smith MF, Pion C,
+Aubertin-Leheudre M, Morais JA, Herzog W, Hepple RT, Taivassalo T, Rassier DE (2016)
+Reduction in single muscle ﬁber rate of force development with aging is not attenuated in world
+class older masters athletes. Am J Physiol Cell Physiol 310(4):C318–C327. https://doi.org/10.
+1152/ajpcell.00289.2015
+Rankin JW, Neptune RR (2010) The inﬂuence of seat conﬁguration on maximal average crank
+power during pedaling: a simulation study. J Appl Biomech 26(4):493–500
+Reiser RF 2nd, Maines JM, Eisenmann JC, Wilkinson JG (2002) Standing and seated Wingate
+protocols in human cycling. A comparison of standard parameters. Eur J Appl Physiol
+88(1–2):152–157. https://doi.org/10.1007/s00421-002-0694-1
+Samozino P, Horvais N, Hintzy F (2007) Why does power output decrease at high pedaling rates
+during sprint cycling? Med Sci Sports Exerc 39(4):680–687. https://doi.org/10.1249/MSS.
+0b013e3180315246
+Sargeant AJ (1994) Human power output and muscle fatigue. Int J Sports Med 15(3):116–121.
+https://doi.org/10.1055/s-2007-1021031
+Sargeant AJ, Hoinville E, Young A (1981) Maximum leg force and power output during
+short-term dynamic exercise. J Appl Physiol 51(5):1175–1182
+Tofari PJ, Cormack SJ, Ebert TR, Gardner AS, Kemp JG (2016) Comparison of ergometer- and
+track-based testing in junior track-sprint cyclists. Implications for talent identiﬁcation and
+development. J Sports Sci 1–7. https://doi.org/10.1080/02640414.2016.1243795
+Tomas A, Ross EZ, Martin JC (2010) Fatigue during maximal sprint cycling: unique role of
+cumulative contraction cycles. Med Sci Sports Exerc 42(7):1364–1369. https://doi.org/10.
+1249/MSS.0b013e3181cae2ce
+Turpin NA, Costes A, Moretto P, Watier B (2017) Upper limb and trunk muscle activity patterns
+during seated and standing cycling. J Sports Sci 35(6):557–564. https://doi.org/10.1080/
+02640414.2016.1179777
+van Soest O, Casius LJ (2000) Which factors determine the optimal pedaling rate in sprint cycling?
+Med Sci Sports Exerc 32(11):1927–1934
+Vandewalle H, Peres G, Heller J, Panel J, Monod H (1987) Force-velocity relationship and
+maximal power on a cycle ergometer. Correlation with the height of a vertical jump. Eur J Appl
+Physiol Occup Physiol 56(6):650–656
+Vandewalle H, Pérès G, Heller J, Monod H (1988) Intérêts et limites des relations force-vitesse
+chez l’homme. Sci et Motricité 4:38–46
+Zatsiorsky VM (2008) Biomechanics of strength and strength training. In: Strength and power in
+sport. Blackwell Science Ltd, pp 439–487. https://doi.org/10.1002/9780470757215.ch23
+2
+Maximal Force-Velocity and Power-Velocity Characteristics …
+31
+

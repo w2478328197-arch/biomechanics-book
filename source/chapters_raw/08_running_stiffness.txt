@@ -1,0 +1,1329 @@
+# Chapter 8: A Simple Method for Measuring Lower Limb Stiffness During Running
+
+
+<!-- Page 167 -->
+Chapter 8
+A Simple Method for Measuring Lower
+Limb Stiffness During Running
+Jean-Benoit Morin
+Abstract During running, the lower limbs musculo-tendinous system behaves like
+a spring-mass system. From an external mechanical point of view, the complexity
+of the running motion (that involves force production, motion and coordination at
+the hip, knee and ankle levels, to ensure propulsion and balance) can be well
+described by the behavior of a single, linear spring-mass system. The vertical
+ground reaction force over time during contact on the ground shows a sine-wave
+behavior, and the vertical downward displacement of the center of mass a con-
+comitant u-shape behavior. In this model the relationship between compressive
+force in the spring and change of length is linear and the slope of this relationship is
+equivalent to the stiffness of the spring. Since this model was ﬁrst developed in the
+late 1980s, it has been used as a practical approach to study human and animal
+running mechanics, mainly with ground reaction forces measurements (force plates
+or instrumented treadmill) and high-speed motion analysis. This chapter presents
+the theoretical bases of this model, and a simple ﬁeld method to compute the main
+spring-mass variables during running. This method is based on a sine-wave mod-
+eling of the ground reaction force trace and requires only ﬁve simple input vari-
+ables: running velocity, the body mass of the runner, their lower limb length and
+contact and aerial times. In this chapter, we also detail how to measure these input
+variables, and examples of use of the sine-wave method in research and training
+practice.
+Science replaces the complicated visible with the simple invisible
+Jean Perrin, Physicist (1870–1942)
+Jean-Benoit Morin (&)
+Laboratory of Human Motricity, Education Sport and Health,
+Université Côte d’Azur, 261 Route de Grenoble, 06205 Nice, France
+e-mail: jean-benoit.morin@unice.fr
+© Springer International Publishing AG 2018
+J.-B. Morin and P. Samozino (eds.), Biomechanics of Training and Testing,
+https://doi.org/10.1007/978-3-319-05633-3_8
+165
+
+
+<!-- Page 168 -->
+8.1
+Introduction
+Running is something millions of humans do on a weekly, if not daily basis.
+Thousands of years ago, our ancestors used running to hunt their own food, and
+probably to escape predators. Nowadays, people run for exercise and health pur-
+poses, to train for competitions, or just for the sole pleasure of running. Sit on a
+bench at a playground for a few minutes and you’ll observe that young kids almost
+never walk around. They run, even though, contrary to cycling or other motor skills,
+they never really learned how to run. As pointed out in a famous book (McDougall
+2010) and paper in Nature (Bramble and Lieberman 2004), we are “born to run”.
+This activity is natural and most runners are likely not aware of the immensely
+complex mechanisms that allow them to “just run”. Running can be deﬁned as
+propelling one’s body mass on the ground from one leg stance to another. It is a
+“single-leg forward bouncing” motion, and it implies very complex adjustments in
+balance, muscle activity and limbs coordination, force production by the muscles,
+and force transmission to the skeletal system by the tendons, plus harmonious
+ﬂexions and extensions of the three main joints of the lower limb (hip, knee, ankle)
+in the sagittal plane of motion.1 When running, this machinery organizes itself so
+quickly that it allows typical running step rate of about 3 steps per second, with
+ground contact phases of usually less than 300 ms. And this step cycle happens
+roughly 10.000 times during a one-hour jog at 10 km h−1.
+The neuromuscular, tendinous and osteo-articular features of the running motion
+are in fact so complex, that the best engineers in the world could design and build
+running biped2 or quadruped3 robots only a few years ago. Put this into perspective
+with other technical prowess such as landing humans on the moon (1969), and
+you’ll have a better idea of how complex this apparently simple movement is. For
+these reasons, even though runners have long been subjects to observation and
+study (e.g. ancient Greeks paintings representing running athletes), the scientiﬁc
+study of human running mechanics is a very young discipline. In order to run a
+macroscopic approach and “see the forest before the tree”, biomechanists and
+physiologists used simple integrative models to describe and analyze biped loco-
+motion (Dickinson et al. 2000). The model used to describe and study running
+mechanics is the spring-mass model (SMM).
+In this chapter, we will deﬁne this model, the typical measurements involved,
+and a simple method we developed to compute the mechanical features of this
+model. We will then show examples of use and applications, and discuss the main
+1Although running involves motions of the body in all three planes of space, we will limit our
+approach in this chapter to the sagittal plane of motion.
+2See for instance the running robot Phides from the Delft University of Technology: http://www.
+3me.tudelft.nl/en/about-the-faculty/departments/biomechanical-engineering/research/dbl-delft-
+biorobotics-lab/bipedal-robots/.
+3See for instance the M.I.T Cheetah Robot: http://biomimetics.mit.edu.
+166
+Jean-Benoit Morin
+
+
+<!-- Page 169 -->
+technologies that can be used to measure the mechanical inputs of this simple
+method.
+8.2
+The Spring-Mass Model of Running
+The SMM (Fig. 8.1) models the runner as a mass (equal to the total body mass)
+loading a linear spring that represents the lower limb (thigh, leg and foot segments,
+hip, knee and ankle joints). At each step, as the runner lands on the ground, the
+mass compressed the spring during its downward motion, and then the spring
+extends in the second part of the ground contact phase, before the subsequent aerial
+phase. Contrary to rebound vertical jump and hopping (see Chap. 6), the SMM for
+running implies an oscillation forward during this compression-extension cycle.
+Fig. 8.1 Left: schematic representation of the spring mass model of running. The centre of mass
+trajectory can be roughly described by that of the white circle at the great trochanter. Right:
+simpliﬁed geometry of the spring-mass system during the support phase. L: lower limb length at
+initial contact; h: angle swept by the system during the forward motion for each half of the support
+phase. Assuming a constant running velocity (v in m s−1), the horizontal displacement of the centre
+of mass during the support phase is equal to vtc/2, with tc the contact time in s
+8
+A Simple Method for Measuring Lower Limb Stiffness During Running
+167
+
+
+<!-- Page 170 -->
+8.2.1
+Spring Stiffness
+Mechanically, the stiffness4 of a deformable system is the ratio of the force applied
+to deform this system and the resulting deformation (change of length). In the case
+of a pure linear spring, the relationship between the compression force applied
+(F in N) and the resulting deformation (ΔL in m) is linear, and the slope of this linear
+relationship is the stiffness (k in N m−1) of the system (Fig. 8.2). If a linear spring has
+a stiffness of k = 1000 N m−1, applying a force of 10 N (i.e. equivalent to the weight
+on earth of a mass of 1 kg) will be necessary to compress it by 1 cm.
+8.2.2
+Spring-Mass Behavior During Bouncing
+and Running
+A major ﬁnding of the ﬁrst studies of human jumping and running movements with
+force plates on which subjects jumped and ran (Blickhan 1989; McMahon and
+Cheng 1990), is that the recordings of vertical GRF over time showed sine-wave
+like behavior. As complex as the human running motion may be, the vertical GRF
+behavior during the support phase (sine-wave) and the aerial motion of the center of
+mass during the aerial phase (parabolic) follow quite simple mathematical behav-
+iors. The vertical GRF over time during a running support phase can be well ﬁtted
+by the following equation (Fig. 8.3):
+Fig. 8.2 Schematic force-deformation relationship for two perfect linear springs. A is stiffer than
+B (and in turn B is more compliant than A). When a given compression force is applied (e.g. F1),
+the resulting deformation of spring A is lower than that of spring B. For the same change in length
+L1, a higher compression force is necessary for spring A than for spring B. Stiffness for spring A is
+computed as kA = F2/L1 and for spring B as kB = F1/L1. In this example, kA > kB
+4Although it has an indirect relationship, this stiffness is distinct from what is sometimes referred
+to as “muscle stiffness” or “joint stiffness”. The latter usually indicate a loss of range of motion and
+the possibly associated pain.
+168
+Jean-Benoit Morin
+
+
+<!-- Page 171 -->
+FðtÞ ¼ Fmax sin p
+tc t
+
+
+ð8:1Þ
+Knowing the vertical GRF data and the runner’s body mass m allows one to
+compute the vertical displacement of the center of mass during the support phase
+using the laws of motion (Cavagna 1975). Then, using the simpliﬁed stance phase
+geometry shown in Fig. 8.1, the change in leg length during contact can be com-
+puted (McMahon and Cheng 1990; Farley and González 1996). Then, as shown in
+Fig. 8.3, a plot of the vertical GRF against the leg length changes shows a pretty
+linear trace. On this basis, the SMM for running has been used to analyze running
+locomotion mechanics in humans, but also in biped and quadruped animals
+(Alexander 1991, 2003, 2004; Farley et al. 1993; Kram and Dawson 1998).
+8.2.3
+Spring-Mass Stiffness in Running:
+Deﬁnitions and Assumptions
+Since the lower limb compression and length change follow an overall out-of-phase
+behavior during the stance phase, a simple way to compute the lower limb stiffness
+(kleg) is to divide the maximal compression force by the corresponding maximal leg
+length change (Farley and González 1996). These two values correspond to the
+Fig. 8.3 Vertical GRF measured with a force plate (2000 Hz sampling rate) for a male runner of
+62 kg running at a constant speed of 5 m s−1. The grey trace shows the sine-wave modelling of the
+vertical GRF for this stance phase. The dashed line shows the vertical trajectory of the centre of
+mass
+8
+A Simple Method for Measuring Lower Limb Stiffness During Running
+169
+
+
+<!-- Page 172 -->
+maximal values of the linear relationship between force and change in length shown
+in Fig. 8.2:
+kleg ¼ Fmax:DL1
+ð8:2Þ
+In addition, in order to describe the vertical motion of the center of mass and to
+focus on the vertical bouncing mechanism only, the vertical stiffness (kvert) has been
+proposed (Farley et al. 1993; Farley and González 1996; Farley and Ferris 1998). It
+is computed as the ratio of the maximal compression (ground reaction) force to the
+maximal downward displacement of the center of mass (which corresponds to the
+position ymin in Fig. 8.3):
+kvert ¼ Fmax:Dy1
+ð8:3Þ
+The SMM for running is a simple, integrative model with two main mechanical
+features (and their sub-components): kleg and kvert. As mentioned in introduction,
+these mechanical variables are integrative and encompass numerous and complex
+neuromuscular and mechanical phenomena simultaneously characterizing the run-
+ning system (Farley and Ferris 1998). As for all models aiming at simplifying
+biological phenomena to better describe and interpret them, it implies several
+assumptions:
+• the lower limb is not a perfect, linear spring. It is made of three main segments
+(thigh, leg, foot) that basically allow the running motion based on joint angular
+motions (hip, knee, ankle). The joint angular stiffness has been discussed among
+other methods to quantify lower limb stiffness (Brughelli and Cronin 2008a),
+and some authors proposed to use the term “quasi-stiffness” (Latash and
+Zatsiorsky 1993). However, the overall behavior and the mechanical outputs of
+this complex, multi-segmental system are very close to those of a linear
+spring-mass system in both running and vertical bouncing (see Chap. 6).
+• the basis postulate of the SMM and of the simple method presented below is that
+the vertical GRF-time signal is close to a sine-wave equation during running. As
+discussed in the limitation section, this is true for a large spectrum of running
+speeds (i.e. from about 10 to about 25 km h−1), for which the overall quality of
+the mathematical ﬁtting is high (Morin et al. 2005). This assumption is not valid
+at very low running speeds (<8 km h−1, personal unpublished observations),
+and has recently been challenged for top running speeds (>36 km h−1) in
+world-class sprinters (Clark and Weyand 2014).
+• the SMM and the computation of stiffness that will be detailed in the next
+paragraph are based o the fact that the maximal compression force (Fmax) and
+the minimal length of the lower limb (that corresponds to ymin in Fig. 8.3, and
+that is used to compute the leg length change ΔL) are reached simultaneously.
+As shown in the typical example of Fig. 8.3, the delay is very short between
+these two instants (Silder et al. 2015).
+170
+Jean-Benoit Morin
+
+
+<!-- Page 173 -->
+• the two main assumptions that are made when using the SMM for running are
+related to the geometrical representation of the lower limb motion during the
+stance (Fig. 8.1). First, the point of force application onto the ground is assumed
+to be ﬁxed during the stance. This is not the case in reality, since the center of
+pressure moves by about 10–20 cm under the foot during contact. This has been
+shown to inﬂuence the stiffness computations (Bullimore and Burn 2006) and a
+correction could be applied, with an estimation of the length of this “forward
+translation of the point of force application” based on running velocity (Lee and
+Farley 1998). The important point here is that, in case of intra-subject com-
+parisons or inter-subjects comparisons using the same computation method
+(training process or other similar investigations), this assumption does not
+challenge the results obtained. Second, the angular sector swept by the lower
+limb during running is assumed to be symmetrical around the vertical
+mid-stance position (Fig. 8.1), and the length of the lower limb at foot strike L is
+assumed to be equal to the reference value measured from the great trochanter to
+the ground in anatomical position. This simpliﬁcation has been discussed and
+video analyses conﬁrmed that the lower limb length at foot strike is overesti-
+mated in the classical SMM (Arampatzis et al. 1999). The main point in our
+opinion is that this assumption of a symmetrical angle swept during the support
+phase makes the SMM invalid in accelerated/decelerated running, and during
+uphill/downhill running.
+Using the SMM to describe and analyze running mechanics supposes
+acknowledgement of these assumptions, and our point is that although they are due
+to the simpliﬁcation of a very complex reality, they basically do not challenge the
+observations made in training or research contexts (see below in the applications
+section) provided all measurements and comparisons are made consistently with the
+same procedures and computations.
+8.2.4
+Reference Methods and Typical Values
+In addition to simple anthropometrics (body mass and leg length) and running
+speed, computing stiffness using the SMM requires measurement of the vertical
+GRF and position of the center of mass over time. Although synchronizing a
+high-frequency video analysis with GRF data can lead to accurate measurement of
+center of mass position over time, both Fmax and Δy can be derived from the sole
+GRF signal using a method detailed by Cavagna (1975). Brieﬂy, this method uses
+the laws of mechanics to compute vertical acceleration of the center of mass over
+time, and then velocity and position are obtained by integrating this acceleration
+signal (Fig. 8.4).
+8
+A Simple Method for Measuring Lower Limb Stiffness During Running
+171
+
+
+<!-- Page 174 -->
+Then, ΔL is computed from the lower limb geometry presented in Fig. 8.1 as
+follows (Farley et al. 1993; Farley and González 1996; Farley and Ferris 1998):
+DL ¼ L 
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+L2 
+vtc
+2
+
+2
+r
+þ Dy
+ð8:4Þ
+Note that L can be estimated from subject height H using the anthropometrical
+model of Winter (1979):
+L ¼ 0:53H
+ð8:5Þ
+Ground reaction force data are typically measured with force-plate systems
+embedded into the running ground (e.g. Slawinski et al. 2008b; Rabita et al. 2011)
+or with instrumented treadmills (e.g. Dutto and Smith 2002).
+The numerous studies that reported SMM stiffness values in human running
+consistently show that kleg is basically constant over a wide range of running
+velocities, whereas kvert increases with running speed (Fig. 8.5). Interestingly, this
+has also been observed in a wide range of animals such as dogs, goats, or kangaroos
+Fig. 8.4 The vertical GRF data (upper-left panel) are measured on an instrumented treadmill
+(1000 Hz sampling rate) for a male runner of 70 kg running at a constant speed of 3.33 m s−1.
+Vertical acceleration of the centre of mass (upper-right panel) is computed as a(t) = F(t)/m-g with
+m the subject’s body mass and g the acceleration due to gravity (9.81 m s−2 on Earth). Then,
+centre of mass velocity (lower-left) and position (lower right) over time are obtained by integration
+of the acceleration signal, as proposed by Cavagna (1975)
+172
+Jean-Benoit Morin
+
+
+<!-- Page 175 -->
+[Farley et al. (1993) studied several animals ranging from 0.1 kg rats to 130 kg
+horses].
+Although it is consistent over a wide range of running speeds (which shows how
+the runner’s lower limb system adapts to the velocity constraint) (Brughelli and
+Cronin 2008b), kleg has been shown to change under a few speciﬁc conditions.
+Step frequency and contact time. First, when runners change their step fre-
+quency, their kleg changes (Farley and González 1996; Morin et al. 2007): when
+step frequency increases, kleg increases and vice versa. This is in fact mainly due to
+the change in contact time that occurs when step frequency is increased or
+decreased (Morin et al. 2007). We observed, by manipulating separately step fre-
+quency and contact time at a constant running velocity, that contact time was the
+main determinant of kleg changes in such conditions. A factor of about 2 was found
+between the percent changes in kleg and in contact time. For instance, if contact time
+was decreased by 10%, kleg was increased by about 20–25%, and vice versa (Morin
+et al. 2007).
+Running surface. Another external factor that induces changes in kleg is the
+stiffness of the running surface. As for hopping, running on a softer or
+harder-than-normal surface is associated with higher and lower kleg, respectively
+(Ferris and Farley 1997; Ferris et al. 1998, 1999). The neuromuscular system is able
+to adjust stiffness very fast to adapt to changes in running surface (Ferris et al.
+1999). This clear effect of running surface stiffness on the SMM mechanics might
+be of importance when considering the surface of running tracks (McMahon and
+Greene 1978, 1979), and the consequences on energetics (Kerdok et al. 2002).
+Loading-unloading. Although it is not a crucial point in typical running prac-
+tice, loading (i.e. unloading or reduced gravity and additional loading) has an effect
+on the SMM mechanics. Under reduced gravity (unloading) conditions, He et al.
+(1991) observed a tendency towards decreased kleg only under extreme unloading
+(0.2 g), and Silder et al. (2015) recently showed that loading was associated with an
+increase in leg stiffness. This change in kleg was associated with an increased knee
+Fig. 8.5 Vertical and leg stiffness typical values for a group of male middle-distance runners at 4,
+5, 6, 7 m s−1, and at their maximal velocity. Data were measured with a ground-embedded force
+plate
+8
+A Simple Method for Measuring Lower Limb Stiffness During Running
+173
+
+
+<!-- Page 176 -->
+ﬂexion, and an overall crouched running pattern that was termed “Grouch Running”
+by McMahon et al. (1987).
+Fatigue. Finally, the consequences of fatigue in running on the SMM mechanics
+have been investigated, with contrasting results depending on the intensity-duration
+of the exercise considered. Indeed, fatigue induced by short (sprint, typically up to
+10–12 s),
+intermediate
+(middle-distance,
+about
+5–15 min)
+or
+very
+long
+(ultra-endurance, longer than 2–4 h) is associated with different changes in the
+spring-mass behavior. Note that as fatigue in running might be associated in real
+practice with a decrease in running velocity, the studies discussed below include
+testing at similar ﬁxed running velocities, or changes that are beyond the expected
+relationship between kvert and running velocity as illustrated in Fig. 8.5.
+Repeated sprints. The main effect of fatigue after repeated sprints of about 5 s,
+with short recovery time (about 25 s), which is typical from the physical demand of
+team sports such as soccer or rugby, is that both kvert and kleg decrease (Girard et al.
+2011a, b, c, 2015, 2016). This is mainly associated with reduced step frequency,
+longer contact time and a greater downward displacement of the center of mass
+during
+contact.
+In
+other
+words,
+repeated
+maximal-intensity
+sprints
+with
+short-duration recovery leads to an impairment of the spring-mass behavior and the
+overall ability of athletes to bounce on the ground effectively, which might in turn
+alter both their sprint performance and their ability to do complex movements that
+are crucial in team sports: changing direction, accelerating, jumping and cutting.
+Concerning longer sprints, we found similar results (except a non-signiﬁcant
+decrease in kleg) when asking athletes to perform four all-out 100-m sprints with
+120 s passive recovery (Morin et al. 2006). Finally, Hobara et al. 2010 (Morin et al.
+2006) observed such decreases in both vertical and leg stiffness over an all-out
+400-m sprint.
+Middle-distance. Contrary to very short (sprint) and very long (ultra-endurance,
+see
+below)
+exercises,
+the
+changes
+in
+SMM
+mechanics
+induced
+by
+intermediate-duration maximal efforts, which are typical from middle-distance run-
+ning or Olympic-distance triathlon, are not consistent among studies. Indeed, some
+studies report no change in spring-mass behavior on average for the group of subjects
+tested (Hunter and Smith 2007; Slawinski et al. 2008b; Le Meur et al. 2013) whereas
+others observe alterations, with, as for sprinting, a decrease in both types of stiffness
+(Dutto and Smith 2002). Some other studies report changes for one type of stiffness
+and not for the other (Rabita et al. 2011; Girard et al. 2013). Such contrasting outcomes
+may result from differences in the testing protocols (constant velocity until exhaustion
+vs. time trial over a given distance), moment and velocity of testing (pre-post vs.
+during the running effort), or more likely to variable individual responses to the effects
+of fatigue, as discussed by Hunter and Smith (2007).
+Ultra-endurance. With the increasing popularity of “ultra-marathon” and
+“ultratrail” races, i.e. races longer than 42 km (up to more than 300 km) with a
+174
+Jean-Benoit Morin
+
+
+<!-- Page 177 -->
+considerable amount of uphill and downhill running,5 research has recently focused
+on the neurophysiological and biomechanical consequences of such demanding
+running efforts. Studies consistently show that the consequence of fatigue on the
+spring-mass behavior in this context is an overall change toward a higher or
+unchanged leg stiffness and a higher vertical stiffness, mainly due to a lower
+downward displacement of the center of mass during contact and a higher step
+frequency (Morin et al. 2011a, b; Degache et al. 2013, 2016). Our hypothesis was
+that this change could be a way for subjects to run with a smoother and thus safer
+running pattern, i.e. reducing the aerial time and overall impact faced at each step,
+to potentially reduce the muscle, joint and tendinous pain in the legs at each step
+(Morin et al. 2011b; Millet et al. 2012). Interestingly, similar adaptations have been
+observed when muscle structure and/or functions are altered in other contexts: after
+an intense downhill run inducing delayed-onset muscle soreness (Morin et al.
+2011b; Millet et al. 2012), after a quadriceps muscle biopsy (Morin et al. 2009) or
+with ageing (Cavagna et al. 2008). Note that the changes in spring-mass mechanics
+were not related to the substantial decrease in muscle force capability observed in
+these ultra-endurance studies (Martin et al. 2010; Millet et al. 2011; Morin et al.
+2012b).
+8.2.5
+Limitations of the Reference Methods
+As detailed in the beginning of this chapter, the spring-mass model has been used to
+describe and predict the mechanical behavior of runners in various contexts.
+Although it has been discussed and criticized, it is an overall accepted integrative
+model of human running locomotion. However, in addition to the basic limitations
+of the model listed above, the classical reference methods present some limitations
+to a wider use in both research sports practice:
+• ﬁrst and foremost, these reference methods require costly speciﬁc devices to
+measure GRF: force plates or instrumented treadmills. These are typical research
+laboratory devices and although some running clinics or physiotherapy centers
+are equipped with such devices, it is not the case of most running coaches or
+athletes.
+• a consequence is that, except for rare research protocols (e.g. Slawinski et al.
+2008b; Rabita et al. 2011), running mechanics and spring-mass behavior are
+studied in laboratory conditions with subjects running for one or two steps on a
+ground-embedded force plate, or for several steps on an instrumented treadmill.
+In both cases, the measurement protocol only simulates real-life running
+practice.
+5See for instance one of the most famous, with 160 km and more than 9000 m of positive
+elevation change: http://www.ultratrailmb.com.
+8
+A Simple Method for Measuring Lower Limb Stiffness During Running
+175
+
+
+<!-- Page 178 -->
+• ﬁnally, as earlier discussed, data processing is required to compute kvert, kleg and
+their components Fmax, Δy and ΔL from GRF data, which prevents many ath-
+letes and practitioners to use the SMM.
+In order to lift these limitations, we proposed a simple ﬁeld method to compute
+spring-mass mechanics from a few variables of the running pattern that are easier to
+obtain in typical training practice.
+8.3
+A Simple Method for Measuring Stiffness During
+Running
+8.3.1
+Theoretical Bases and Equations
+The simple method is based on the assumption that the vertical GRF over time has a
+sine-wave behavior during running, as shown in Fig. 8.3. Then, on the basis of the
+sine-wave Eq. (8.1), and according to the laws of motion [for detailed computa-
+tions, see Morin et al. (2005)], the ﬁnal equations of the method are the following:
+kleg ¼ Fmax:DL1
+ð8:2Þ
+and
+kvert ¼ Fmax:Dy1
+ð8:3Þ
+with
+Fmax ¼ mg p
+2
+ta
+tc þ 1
+
+
+ð8:6Þ
+Dy ¼  Fmax
+m
+tc
+p2 þ g tc2
+8
+ð8:7Þ
+and
+DL ¼ L 
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+L2 
+vtc
+2
+
+2
+r
+þ Dy
+ð8:4Þ
+The ﬁve input variables necessary to compute these SMM characteristics are the
+runner’s body mass m (in kg) and leg length L (in m), the running velocity v (in
+m s−1) and the contact and aerial times (tc and ta in s).
+176
+Jean-Benoit Morin
+
+
+<!-- Page 179 -->
+8.3.2
+Validation of the Method
+Two protocols were performed in order to validate the simple method. For the ﬁrst
+protocol, 8 male runners performed 30-s running bouts at 7 different velocities
+ranging from 3.33 to 6.67 m s−1 on an instrumented treadmill (ADAL, HEF
+Tecmachine, Andrézieux-Bouthéon, France, Fig. 13.4). Mechanical data of vertical
+GRF were sampled at 1000 Hz for 10 consecutive steps and statistical comparisons
+were made between the reference and the proposed method for all steps at each
+running velocity. For the second protocol, 10 male trained middle-distance runners
+volunteered to run at 5 different velocities (4, 5, 6, 7 m s−1 and their individual
+maximal sprinting velocity) on a force plate (Kistler, Switzerland) installed into the
+running track. Data from one step at each velocity were sampled at 1800 Hz and
+compared between the reference and the proposed methods.
+Overall, the method showed an acceptable to very good concurrent validity [for
+full details and statistics, see Morin et al. (2005)]. For kvert and kleg, we obtained a
+mean absolute bias between methods of 0.12% (ranging from 1.53% at 6.67 m s−1
+to 0.07% at 6.11 m s−1) and of 6.05% (from 9.82% at 3.33 m s−1 to 3.88% at
+6.67 m s−1) respectively during treadmill running. For the overground running
+condition, the bias was 2.30% (from 3.64% at 5 m s−1 to 0.25% at 6 m s−1) for kvert
+and 2.54% (from 3.71% at 5 m s−1 to 1.11% at the maximal velocity) for kleg. In
+addition, the linear regressions between reference and proposed methods were
+signiﬁcant and high (R2 = 0.89–0.98) for both kvert and kleg in the treadmill and
+overground protocols. The other mechanical variables of the SMM (Fmax, Δy and
+ΔL) also showed low absolute bias (0.67–6.93%, Table 8.1).
+In addition to this initial validation, some studies brought additional support to
+the reliability and interest of this sine-wave method (Coleman et al. 2012; Pappas
+et al. 2014).
+8.3.3
+Input Variables and Importance of Contact Time
+As detailed in the equations above, the simple method presented is based on ﬁve
+inputs that must be accurately measured (body mass, running velocity, lower limb
+length, contact and ﬂight times). In order to estimate the relative importance
+(weight) of each of these variables in the ﬁnal calculation of kleg and kvert, we did a
+sensitivity analysis that simulated changes in each of these ﬁve variables while
+keeping all other variables unchanged. The results of this analysis revealed what
+variable(s) had the greatest inﬂuence on the ﬁnal stiffness values, and thus the
+variable(s) that would require the most careful and accurate measurement. From
+reference values, all variables were changed by up to +10 or −10%, and the
+resulting stiffnesses were computed.
+This theoretical analysis clearly shows that, ceteris paribus, the contact time has
+the greatest inﬂuence on kleg computation, and that contact and aerial times have a
+8
+A Simple Method for Measuring Lower Limb Stiffness During Running
+177
+
+
+<!-- Page 180 -->
+Table 8.1 Mean absolute bias between reference values of the SMM mechanical variables and the values computed with the proposed method
+Variable
+Dy (cm)
+DL (cm)
+Fmax (kN)
+kvert (kN m−1)
+kleg (kN m−1)
+TREADMILL PROTOCOL
+Reference
+5.37 ± 1.02
+20.2 ± 3.0
+2.05 ± 0.34
+37.7 ± 8.8
+10.4 ± 2.34
+Simple Method
+5.20 ± 0.91
+20.0 ± 3.0
+1.91 ± 0.32
+37.7 ± 8.9
+9.75 ± 2.19
+Bias (%)
+3.28 ± 1.10
+0.93 ± 0.43
+6.93 ± 2.52
+0.12 ± 0.53
+6.05 ± 3.02
+FORCE PLATE PROTOCOL
+Reference
+4.71 ± 1.48
+16.2 ± 1.7
+2.13 ± 0.21
+51.4 ± 21.5
+13.3 ± 1.9
+Simple Method
+4.60 ± 1.33
+16.1 ± 1.7
+2.06 ± 0.24
+50.2 ± 20.4
+13.0 ± 2.54
+Bias (%)
+2.34 ± 2.42
+0.67 ± 1.09
+3.24 ± 2.08
+2.30 ± 1.63
+2.54 ± 1.16
+Mean absolute bias is computed as follows: Bias ¼ ðmodel-referenceÞ=reference
+j
+j  100
+178
+Jean-Benoit Morin
+
+
+<!-- Page 181 -->
+substantial inﬂuence on vertical stiffness. For instance, a 10% change in contact
+time will result, in theory, in a 20–25% change in kleg or kvert. In practice, this
+means that if a runner has a 10% shorter contact time (e.g. 180 vs. 200 ms), he will
+run with a 25% higher kleg, and vice versa. As seen in the applications below, such
+changes can result from training, fatigue, injury, or a voluntary change in the
+running pattern.
+In order to experimentally test the results of this theoretical simulation, we
+performed a study in which we were able to control and isolate the effects of step
+frequency and contact time on stiffness during running (Morin et al. 2007). We
+asked subjects to run on an instrumented treadmill at 3.33 m s−1 in several con-
+ditions including higher and lower step frequencies set by an audio tone. Given the
+direct relationship between contact time and step frequency, we also asked the
+subjects to run with shorter and longer contact times while following their preferred
+step frequency that was imposed by the audio tone. In the latter conditions, we
+could isolate the effect of contact time on spring-mass stiffness, independently from
+the associated effect of step frequency (Farley and González 1996), as we did in the
+theoretical simulation presented in Fig. 8.6. The results of this experimental study
+basically conﬁrmed the signiﬁcant and substantial effect of contact time on kleg, and
+the overall slope of the linear relationship between tc and kleg was about 2, which is
+consistent with the 1:2–2.5 relative weight of tc on kleg illustrated in Fig. 8.6. This
+shows the fundamental importance of an accurate measurement of contact time
+when using this method.
+8.3.4
+Limits of the Method
+Assumptions of the spring-mass model. The simple method presented here is based
+on the use of the spring-mass model of running. Therefore, all the limitations and
+Fig. 8.6 Sensitivity analysis of the simple method proposed. The mechanical inputs of the model
+plotted against the corresponding leg (left panel) and vertical (right panel) variations
+8
+A Simple Method for Measuring Lower Limb Stiffness During Running
+179
+
+
+<!-- Page 182 -->
+assumptions associated with the use of this model (see Sect. 8.2.4) also apply to the
+use of this method.
+Running conditions: acceleration, speed and slope. The linear spring-mass
+model is based on a geometrical consideration of the lower limb during the stance
+phase that is mainly characterized by a symmetry of the angle swept before and
+after mid-stance (Fig. 8.1) (Blickhan 1989; McMahon and Cheng 1990; Farley and
+González 1996; Bullimore and Burn 2006). Consequently, all experimental con-
+ditions that clearly induce a running pattern in which this basic assumption of the
+model is infringed lead to questionable data. Although all inputs of the simple
+method used may be measured in any running condition, the spring-mass variables
+computed (e.g. vertical and leg stiffness) do not make much sense if the basic
+postulates of the model are not respected. These conditions include in particular
+non-constant velocity (i.e. accelerated or decelerated) and incline (uphill or
+downhill) running. In these cases, the angle swept by the center of mass is not
+symmetrical around the mid-stance point (center of mass above the center of
+pressure) and thus Eq. (8.4) and others do not give correct values. Finally, the
+simple method presented here has been originally validated (Morin et al. 2005) for
+running speeds ranging from 12 to about 28 km h−1. Some measurements per-
+formed after this publication (see Sect. 8.5.2) showed that this validity was still
+acceptable at lower speeds of 10 km h−1, but less at even lower speeds (8 km h−1,
+close to the walk-run transition speed). Finally, a recent study (Clark and Weyand
+2014) discussed the validity of the sine-wave modeling approach used here at top
+running speeds in world-class sprinters (i.e. higher than 36 km h−1) and showed
+that the ground reaction force measured on an instrumented treadmill deviated from
+the sine-wave trace in such extreme conditions.
+Accuracy of input variables measurement. As shown in the theoretical simula-
+tion of the model (Fig. 8.6) and in our experimental study (Morin et al. 2007), the
+measurement of contact and aerial time during running is paramount for the overall
+accuracy of the stiffness data obtained with this simple method. Although of lower
+importance, running velocity should also be measured as accurately as possible.
+Finally, anthropometric variables of body mass and lower limb length should also
+be measured accurately. For the latter, an accurate pair of scales and a measuring
+tape is sufﬁcient. The most important factor to ensure accuracy and reliability of the
+data obtained when using this method will therefore be the technologies used for
+measuring contact and aerial time, and running velocity.
+8.4
+Technologies and Input Measurements
+As detailed in the previous sections, the devices and technologies used to obtain the
+main mechanical inputs of the model (contact, aerial time and running velocity)
+must be accurate enough to ensure the validity of stiffness computations. For
+instance, since a typical contact time lasts about 0.2 s (ranging from about 0.1 s in
+high-speed sprinting to about 0.3 s in low speed jogging), a device operating at a
+180
+Jean-Benoit Morin
+
+
+<!-- Page 183 -->
+sampling frequency of 100 Hz will have a time resolution of 0.01 s, which rep-
+resents a potential 5% error for measuring a 0.2 s event. This error drops to 2.5%
+for a 200-Hz device and reaches 10% for a 50-Hz device. Note that standard
+television footage and video cameras operate most of the time at lower amounts of
+frames per second.
+Force plates and instrumented treadmills. Although one can expect researchers and
+practitioners to use the standard (reference) method (see Sect. 8.2.3) for spring-mass
+model analysis of running when force plates or instrumented treadmills are available,
+these devices may be used to measure contact and aerial times. These devices usually
+operate at sampling frequencies of 1000 Hz or more, ensuring accurate measurements.
+Thus, provided that the running velocity is accurately measured (treadmill sensor or
+timinggates for force plate measurements), these contact and aerial time data can leadto
+accurate computations of spring-mass variables using the present method.
+Contact mat and optical devices set on the ground. A practical way to measure
+contact and ﬂight time, as well as running velocity, is to set a contact/pressure mat
+(e.g. Gaitrite™), or an optical device (e.g. Optojump™) directly on the ground
+(Fig. 8.7). The main advantage is that the input variables are obtained accurately
+without interfering with the runner’s technique since the runner carries no sensor
+whatsoever and (free overground running condition). The other interest is that
+measurements can be performed directly on the training or competition site, and not
+necessarily at the laboratory, and for middle-distance or sprint running, direct track
+measurements are possible, as illustrated in Fig. 8.7 and Sect. 8.5.
+Footswitches, pressure soles and accelerometers set at the foot. A practical way
+to measure the time of foot contact on the ground (and thus the aerial time) during
+Fig. 8.7 Typical measurement setting with a contact/pressure mat (left, Gaitrite™) installed on
+the running ﬂoor, or an optical device (middle and right, Optojump™) installed on the track during
+a 100-m sprint or a pole-vault run-up
+8
+A Simple Method for Measuring Lower Limb Stiffness During Running
+181
+
+
+<!-- Page 184 -->
+running is to have pressure sensors directly taped on the foot of the runner, or for
+more comfort on the shoe insole. This setting has been used in clinical evaluation of
+the walking gait with footswitches pasted on the subjects’ toes (Aminian et al.
+2002), and we used it in our ﬁeld sprint studies (see Sect. 8.5, Morin et al. 2006), as
+shown in Fig. 8.8. Despite their lack of accuracy as to the amount of pressure
+applied, these footswitches (Force Sensing Resistor type) are light, very thin, and
+not expensive. Their measurement of temporal features of the running step (contact
+and aerial times, Fig. 8.9) is very accurate and reliable (as shown by our personal
+data of comparison with instrumented treadmill data). The other advantage is that
+Fig. 8.8 Left: force sensing resistors taped on the insole of a running shoe, at the calcaneum and
+head of the 1st metatarsal. Right: the pressure signals (sampling rate of 400 Hz) are summed and
+synchronized with surface electromyography measurements during a running step at 12 km h−1.
+Light wires and data acquisition devices are carried by the athlete thanks to special clothing and
+medical stockings
+Fig. 8.9 Left: light wires and data acquisition devices are carried by the athlete thanks to special
+clothing and medical stockings. Right: contact and aerial times measured using footswitches
+(sampling rate of 400 Hz) during two successive sprint steps (top speed of about 10 m s−1)
+182
+Jean-Benoit Morin
+
+
+<!-- Page 185 -->
+they may be connected and synchronized with other devices such as muscle activity
+sensors (surface electromyography) as we used in a sprint study (Slawinski et al.
+2008a, Fig. 8.8).
+Using a similar approach, some manufacturers and authors proposed to install
+small and light accelerometers onto the shoe, as shown in Fig. 12.1 (Hoyt et al.
+1994, 2000; Weyand et al. 2001; Giandolini et al. 2014). Although valid and
+accurate signals may be obtained with this methodology (see for instance
+Fig. 8.10), the raw data acquisition, storage and processing are usually more
+complex than with footswitches, should only contact and aerial times be measured.
+Sport watch and accelerometers set at the trunk. Recently, another type of
+systems have been produced that can measure contact, aerial times and the asso-
+ciated running step spatio-temporal variables. These are based on accelerometers
+placed at the chest (e.g. Garmin HRM-Run™monitor, Fig. 8.11) or at the hip (e.g.
+Myotest™). Basically, these light sensors are carried onto the runner’s body, not far
+from the center of mass. In theory, as soon as the runner leaves the ground from one
+contact to the next one, the center of mass has a vertical acceleration equal to the
+gravitational acceleration. This is no longer the case as soon as the runner touches
+the ground a few hundreds of a second later. So should the device be correctly
+calibrated and accurate enough (and body mass, lower limb length and running
+speed be known), contact and aerial times can be measured. In turn, applying the
+laws of falling bodies and/or the equations presented in this chapter, all other
+spring-mass variables can be computed from this simple basis6 (Gindre et al. 2016)
+(Fig. 8.12). To our knowledge, only one study has been published about the
+Fig. 8.10 Typical signals of raw acceleration and ground reaction force obtained during a
+16 km h−1 run (forefoot strike pattern). The accelerometer was tightly taped on the external side of
+the shoe, at the 5th metatarsal head (as in Fig. 12.1)
+6Patent: Flaction P, Quievre J, Morin JB (2013) PATENT. Integrated portable device and method
+implementing
+an
+accelerometer
+for
+analyzing
+biomechanical
+parameters
+of
+a
+stride.
+US20130190657.
+8
+A Simple Method for Measuring Lower Limb Stiffness During Running
+183
+
+
+<!-- Page 186 -->
+validity of the Garmin HRM-Run™monitor (Watari et al. 2016). The results of this
+study show a valid measurement of ground contact time, which is in line with our
+own testing (unpublished data) that shows an acceptable validity and reliability
+compared to a instrumented treadmill and Optojump™data. The Myotest™Run
+accelerometer device has been tested in two similar studies, that overall conclude it
+is reproducible, and valid for step rate measurements, although signiﬁcant differ-
+ences with reference devices have been found for contact and aerial times
+(Gouttebarge et al. 2015; Gindre et al. 2016). These devices are therefore very
+interesting for training and long-term monitoring purposes in a sports context
+provided comparisons between data are made with the same devices. Their ease of
+use, comfort, and low cost compared to other technologies are a clear advantage.
+Video analysis. As for devices installed on the running ground, a simple and
+direct way to measure the duration of contact and aerial phases in running is to ﬁlm
+and record the steps, provided the number of frames per second is high enough to
+ensure accuracy. This has been done in some studies, especially in real performance
+context. For instance, (Le Meur et al. 2013) used a camera (Casio™Exilim EX-F1)
+with a 300 fps slow motion mode to measure contact and aerial times, and study
+how spring-mass variables changed with fatigue and race tactics during an inter-
+national triathlon competition. Standard television footage (not more than 100 fps,
+typically around 30 or 60) have been used to estimate spring-mass variables in
+world-class athletes from top competition recordings (Taylor and Beneke 2012).
+However, we think, as explained above, that these conditions do not allow accurate
+Fig. 8.11 Some sport watches such as the Garmin Forerunner 620™include an accelerometer
+(Garmin HRM-Run™) carried at the chest (right). Contact time and other mechanical variables are
+then monitored for all steps of a run (left, example for a standard jog), allowing detailed follow-up
+of running mechanics, and calculation of the spring-mass variables using the simple method
+presented here. In this typical running session, ﬁve bouts of 1’ run at maximal aerobic speed
+(20 km h−1) and the associated changes in contact time and vertical oscillation of the center of
+mass appear in the red squares
+184
+Jean-Benoit Morin
+
+
+<!-- Page 187 -->
+and reliable measurements of contact time, and in turn lead to questionable values
+of spring-mass variables using the simple method presented here.
+Smartphone app. Some smartphones now feature cameras that allow for slow
+motion modes with up to 240 fps (Apple iPhone 6™and subsequent models). So if
+one can ﬁlm and record the steps of a runner in a way that allows clear visual
+detection of foot ground contact beginning and end, this high ﬁlming rate could lead
+to accurate measurements. This is the basis of a new app named “Runmatic”7 that
+calculates all spring-mass variables, as well as the left-right asymmetry and mon-
+itors how their changes over time (long-term monitoring), from contact, ﬂight time,
+running speed and body mass and height inputs. As shown in Fig. 8.13, the
+runner’s feet should be ﬁlmed over several steps, and then by just clicking on the
+screen as foot ground contact and take-off are identiﬁed visually, all contact and
+aerial times can be computed. In turn, all spring-mass variables can be derived and
+left-right asymmetries calculated.
+The validation of this app consisted in comparing the contact and aerial times as
+measured by two observers (inter-observer reliability) to reference data measured
+with an opto-electronic device (Optojump™) set on a treadmill for 8 consecutive
+steps at speeds ranging from 10 to 18 km h−1 in two subjects (about 100 points
+Fig. 8.12 Left: the Myotest™accelerometer device is carried at the lower end of the trunk during
+running. Right: running mechanics and spring-mass variables (e.g. vertical stiffness) are displayed
+after a “run check” test
+7https://itunes.apple.com/us/app/runmatic/id1075902287?l=es&ls=1&mt=8.
+8
+A Simple Method for Measuring Lower Limb Stiffness During Running
+185
+
+
+<!-- Page 188 -->
+compared in total). Overall, the results show a very high validity and reliability of
+the app measurements compared to the opto-electronic device (Balsalobre-
+Fernandez et al. 2017).
+8.5
+Applications
+The main objective of developing, validating and publishing the simple method
+presented in this chapter was to use it in both research and sports training practice.
+Over the past decade, we did so, and we were honored to see other academics or
+coaches adding this method to their running analysis toolbox. Here we will detail
+two examples of application of this method to investigate running mechanics and
+spring-mass behavior in very different contexts: the maximal-speed (sprint) and
+maximal-duration (ultra-endurance) conditions.
+Fig. 8.13 The iPhone app “Runmatic” uses the high-speed video slow motion mode to identify
+the contact and aerial times. Then, running pattern mechanics are computed and displayed on the
+screen
+186
+Jean-Benoit Morin
+
+
+<!-- Page 189 -->
+8.5.1
+Sprint Running
+Due to the fact that a human body running at a top speed of 10 m s−1 or more
+(Usain Bolt reached a maximal velocity beyond 12 m s−1 during his 9.58 s 100-m
+World Record) covers about 10 m in one single second, studying sprint running
+mechanics has long been a challenge. Therefore, as detailed in Chap. 10, sprint
+instrumented treadmill have been used, and overground experiments have long
+been limited to studying one or two steps on force plates. In an original experiment
+we performed in 2004, we were able to calculate the main spring-mass variables of
+physical education students during an entire 100-m sprint using the simple method
+presented here (Morin et al. 2006). Subjects’ mass and lower limb length were
+measured using classical devices, running speed was measured with a radar device
+operating at 35 Hz (Stalker ATS, Applied Concepts, Plano, TX) and ﬁnally contact
+and aerial times were measured at a sampling rate of 400 Hz with footswitches
+taped on the insoles of the running shoes. At the time of the experiment, we could
+not record and save pressure data with the currently common ﬂash memory cards or
+similar technologies, so raw data were transmitted via cable to a PC stored in the
+backpack of an experimenter who was driving a motorbike side-by-side with the
+runner. This pilot was skilled enough to exactly follow the runner’s acceleration
+during the 100-m.
+This experiment allowed us to show the ﬁrst spring-mass data during actual
+overground sprint running. Table 8.2 shows the main variables for the 20-m sec-
+tions of the dash except the 20–40 m one since subjects were acceleration during
+this section.
+In the same experiment, we investigated the effects of fatigue on spring-mass
+mechanics on order to better know (i) how the human body changes its spring-mass
+characteristics under the effect of fatigue due to the repetition of maximal-intensity
+tasks and (ii) potentially orient the training practice in sports that involve long and/
+or repeated sprints. Table 8.2 shows the main changes observed with fatigue when
+repeating four 100-m with 2 min of passive rest. Along with the expected decrease
+in performance and mean and maximal running speed, the two components of the
+spring-mass model that showed the most substantial changes were the vertical
+oscillation of the center of mass during stance and the vertical stiffness. The
+changes observed were of greater magnitude than what could have been anticipated
+from the velocity-kvert relationship (Fig. 8.5) and suggest that the ability to limit the
+downward displacement of the center of mass during the stance and the loss of kvert
+under fatigue might be a performance factor in such conditions (close to what
+happens during repeated sprints and changes of direction over team sports such as
+soccer, rugby, basketball or handball).
+Another ﬁeld experiment was performed in 2011 with this time elite sprinters
+including the 2010 European Champion on 100-m, 200-m and 4  100-m relay
+(Fig. 8.7 right). During this study (Morin et al. 2012a), we measured sprinters
+spring-mass behavior over their maximal velocity phase (data not published) using
+Optojump™rails set on the track along the 40–60 m section of the 100-m.
+8
+A Simple Method for Measuring Lower Limb Stiffness During Running
+187
+
+
+<!-- Page 190 -->
+Table 8.3 shows the data for several consecutive steps of the world class athlete
+tested during this experiment.
+Note that in addition to an accurate study of the athlete’s mechanics and a
+long-term follow-up should measurements be repeated over a season, this method
+allows deeper analyses such as left-right asymmetry computation and pre-post
+injury testing to improve the return-to-sport and rehabilitation processes. These are
+some of our current projects, with for instance a recent study on anterior cruciate
+ligament surgery (Mazet et al. 2016). We also considered other sports in which
+sprint running is key, and we could for instance study the ﬁnal phase of the run-up
+in elite pole-vaulters including the current World Record holder (Cassirame et al.
+2015), and the effects of elevated tracks on spring-mass behavior, run-up terminal
+velocity and performance in elite athletes.
+Table 8.2 Mean ± SD for the main running mechanics and spring-mass variables over a 100-m
+run in 8 trained physical education students
+Variable
+20–40 m
+40–60 m
+60–80 m
+80–100 m
+Changes with fatigue
+between the ﬁrst and
+fourth 100-m (%)
+tc (ms)
+111 ± 14
+108 ± 15
+110 ± 12
+113 ± 11
++14.7 ± 0 7.2*
+tv (ms)
+137 ± 13
+141 ± 13
+142 ± 11
+146 ± 16
++3.87 ± 4.19
+v (m s−1)
+7.93 ± 0.34
+8.33 ± 0.34
+8.24 ± 0.24
+7.89 ± 0.40
+−11.6 ± 3.1*
+kleg (kN m−1)
+19.7 ± 4.8
+19.8 ± 5.2
+18.9 ± 3.5
+19.5 ± 4.3
+−9.53 ± 9.62
+kvert (kN m−1)
+93.9 ± 14.6
+98.3 ± 16.6
+93.8 ± 10.2
+89.6 ± 9.8
+−20.6 ± 7.9*
+Fmax (kN)
+2.54 ± 0.25
+2.63 ± 0.27
+2.60 ± 0.20
+2.60 ± 0.21
+−4.88 ± 3.67
+Dy (cm)
+2.8 ± 0.4
+2.8 ± 0.4
+2.8 ± 0.3
+3.0 ± 0.3
++21.2 ± 9.4*
+DL (cm)
+13.8 ± 2.7
+14.2 ± 2.8
+14.5 ± 2.3
+14.2 ± 2.2
++6.88 ± 7.78
+The changes (in %) between the ﬁrst and fourth 100-m show how variables change with fatigue
+*Indicates a signiﬁcant change (P < 0.05) as shown by an analysis of variance
+Table 8.3 Spring-mass variables averaged for six consecutive steps between the 40 and 60-m
+marks of a 100-m sprint test in a world-class individual (personal best time of 9.92 s)
+tc (ms)
+tv (ms)
+Dy (cm)
+kvert (kN m−1)
+kleg (kN m−1)
+Left 1
+102
+131
+2.44
+116
+14.3
+Right 1
+104
+132
+2.51
+112
+13.1
+Left 2
+96
+138
+2.38
+127
+16.7
+Right 2
+100
+133
+2.41
+119
+14.3
+Left 3
+98
+136
+2.40
+123
+15.6
+Right 3
+101
+131
+2.41
+118
+13.3
+Average all
+100
+134
+2.43
+119
+14.5
+Coefﬁcient of variation (%)
+2.9
+2.2
+1.8
+4.4
+9.5
+Average left
+99
+135
+2.41
+122
+15.5
+Average right
+104
+133
+2.51
+120
+14.3
+The running velocity was constant at about 11.0 m s−1 during these steps. The athlete used
+athletics spike shoes and starting-blocks
+188
+Jean-Benoit Morin
+
+
+<!-- Page 191 -->
+8.5.2
+Ultra-endurance
+Although ultra-endurance events (e.g. road 24-h or 100-km, mountain 100-mile,
+etc.…) may seem totally opposite to short maximal sprints such as a 100-m, one
+common feature is the difﬁculty to perform on-site experiments to study running
+mechanics. We initiated the study of very long running mechanics on an instru-
+mented treadmill with a 24-h protocol (Morin et al. 2011a). Then, in order to gain
+more insights into actual ultra-trail practice, an increasingly popular activity, we
+wanted to investigate the consequence of a typical race (Ultratrail du Mont Blanc®,
+160 km, about 9000 m positive elevation change). The study design (Morin et al.
+2011b) was a pre-post measure with subjects asked to run at a constant speed on the
+ground (Fig. 8.7) of a laboratory located close to the start-ﬁnish line of the race. In
+order to remove any effect of running velocity on the data computed, they were
+asked to follow a constant 12 km h−1 pace while running on the pressure mat. Out
+of the 34 subjects initially recruited, 22 ﬁnished the race and 18 could be tested
+(4 were unable to complete the running bout at 12 km h−1 because of pain and/or
+fatigue). Table 8.4 shows that the main changes in this ultra-endurance fatigue
+context are opposite to those observed in sprint running (Table 8.2). In particular,
+subjects after the mountain ultramarathon showed lower aerial time with unchanged
+contact time whereas fatigue after repeated sprints induced greater contact times
+with almost unchanged aerial times. In addition, the vertical displacement of the
+center of mass during the running stance was greater after four straight 100-m
+sprints, whereas it was reduced after a 160-km mountain ultramarathon.
+These contrasting results show that the consequences of fatigue on running
+biomechanics are very different depending on the duration and intensity of the
+exercise considered. We interpreted these results as a decrease in the ability to push
+the ground and resist the impact and high forces requested to “bounce” back as
+fatigue develops in sprint running. On the contrary, the changes in spring-mass
+behavior observed after the 160-km ultratrail were consistent with those observed
+Table 8.4 Mean ± SD for the main running mechanics and spring-mass variables pre- and
+post-mountain ultra-marathon
+Variable
+Pre ultratrail
+Post ultratrail
+Changes with fatigue between
+pre- and post-race (%)
+tc (ms)
+249 ± 16
+252 ± 17
++1.40 ± 7.21
+tv (ms)
+118 ± 19
+96 ± 22
+−18.5 ± 17.4*
+kleg (kN m−1)
+9.87 ± 1.45
+9.44 ± 1.10
+−3.71 ± 8.78
+kvert (kN m−1)
+25.1 ± 2.3
+26.6 ± 3.3
++5.64 ± 11.7
+Fmax (kN)
+2.32 ± 0.16
+2.17 ± 0.16
+−6.30 ± 7.03*
+Dy (cm)
+6.6 ± 0.05
+5.9 ± 0.08
+−11.6 ± 10.5*
+DL (cm)
+16.9 ± 1.4
+16.4 ± 1.4
+−2.90 ± 7.55
+Running time ranging from 25 to 43 h in the subjects tested
+*Indicates a signiﬁcant change (P < 0.05) as shown by a t-test for paired samples
+8
+A Simple Method for Measuring Lower Limb Stiffness During Running
+189
+
+
+<!-- Page 192 -->
+over a twice longer race, the Tor des Geants® (Italy) during which we performed a
+similar study (Degache et al. 2016), and interpreted as a way for subjects to run with
+less hip, knee and ankle ﬂexion (and the associated eccentric muscle actions) and
+“bounce” less on the ground. This allowed them to reduce the amount of braking
+impulse necessary at each step to brake the downward motion of the body as it
+lands onto the ground, and also probably reduce the associated amount of joint,
+tendinous and muscular pain at each step. This “smoother” and “safer” running
+pattern observed consistently in ultra-endurance experiments was not correlated
+with the massive decrease in knee extensors or ankle plantar ﬂexors strength (Millet
+et al. 2011), and we suggested it could be a strategy used (consciously or not) by
+runners to “save the legs” and cover the complete distance (Millet et al. 2012).
+Interestingly, very similar changes as those observed after ultra-endurance races
+(especially mountain races) were also observed when the muscle structure or
+function is altered: after intense downhill running (Chen et al. 2007, 2009), a
+muscular biopsy of the vastus lateralis muscle (Morin et al. 2009) or with ageing
+(Karamanidis and Arampatzis 2005; Cavagna et al. 2008). In comparison, a series
+of maximal short treadmill sprints inducing a substantial loss of strength did not
+result in any change in the constant velocity running pattern (Morin et al. 2012b).
+In conclusion, although laboratory devices and protocols initially allowed the
+validation and bases of the spring-mass model analysis for running, experiments are
+now possible in real-life exercise and sport conditions. This simple model has been
+reﬁned and challenged for some speciﬁc conditions over time (e.g. very high
+sprinting velocity), but it overall allows a sound, macroscopic analysis of running
+biomechanics, encompassing the resulting output of the complex neuromuscular
+and osteo-tendinous machineries.
+References
+Alexander RM (1991) Energy-saving mechanisms in walking and running. J Exp Biol 160:55–69
+Alexander RM (2003) Principles of animal locomotion. Princeton University Press, Princeton, NJ
+Alexander RM (2004) Bipedal animals, and their differences from humans. J Anat 204:321–330
+Aminian K, NajaﬁB, Büla C et al (2002) Spatio-temporal parameters of gait measured by an
+ambulatory system using miniature gyroscopes. J Biomech 35:689–699
+Arampatzis A, Brüggemann GP, Metzler V (1999) The effect of speed on leg stiffness and joint
+kinetics in human running. J Biomech 32:1349–1353
+Balsalobre-Fernández C, Agopyan H, Morin J-B (2017) The validity and reliability of an iPhone
+app for measuring running mechanics. J Appl Biomech 33:222–226
+Blickhan R (1989) The spring-mass model for running and hopping. J Biomech 22:1217–1227
+Bramble DM, Lieberman DE (2004) Endurance running and the evolution of Homo. Nature
+432:345–352
+Brughelli M, Cronin J (2008a) A review of research on the mechanical stiffness in running and
+jumping: methodology and implications. Scand J Med Sci Sports 18:417–426
+Brughelli M, Cronin J (2008b) Inﬂuence of running velocity on vertical, leg and joint stiffness:
+modelling and recommendations for future research. Sports Med 38:647–657
+Bullimore SR, Burn JF (2006) Consequences of forward translation of the point of force
+application for the mechanics of running. J Theor Biol 238:211–219
+190
+Jean-Benoit Morin
+
+
+<!-- Page 193 -->
+Cassirame J, Sanchez H, Morin J-B (2015) Elevated track in pole vault, what advantage for run-up
+determinants of performance? In: 33rd International conference on biomechanics in sports, at
+Poitiers France. Poitiers, pp 1–5
+Cavagna GA (1975) Force platforms as ergometers. J Appl Physiol 39:174–179
+Cavagna GA, Legramandi MA, Peyré-Tartaruga LA (2008) Old men running: mechanical work
+and elastic bounce. Proc Biol Sci 275:411–418
+Chen TC, Nosaka K, Tu J-H (2007) Changes in running economy following downhill running.
+J Sports Sci 25:55–63
+Chen TC, Nosaka K, Lin M-J et al (2009) Changes in running economy at different intensities
+following downhill running. J Sports Sci 27:1137–1144
+Clark KP, Weyand PG (2014) Are running speeds maximized with simple-spring stance
+mechanics? J Appl Physiol 117:604–615
+Coleman DR, Cannavan D, Horne S, Blazevich AJ (2012) Leg stiffness in human running:
+Comparison of estimates derived from previously published models to direct kinematic–kinetic
+measures. J Biomech 45:1987–1991
+Degache F, Guex K, Fourchet F et al (2013) Changes in running mechanics and spring-mass
+behaviour induced by a 5-hour hilly running bout. J Sports Sci 31:299–304
+Degache F, Morin J-B, Oehen L et al (2016) Running mechanics during the world’s most
+challenging mountain ultramarathon. Int J Sports Physiol Perform 11:608–614
+Dickinson MH, Farley CT, Full RJ et al (2000) How animals move: an integrative view. Science
+288:100–106
+Dutto DJ, Smith GA (2002) Changes in spring-mass characteristics during treadmill running to
+exhaustion. Med Sci Sports Exerc 34:1324–1331
+Farley CT, González O (1996) Leg stiffness and stride frequency in human running. J Biomech
+29:181–186
+Ferris DP, Farley CT (1997) Interaction of leg stiffness and surfaces stiffness during human
+hopping. J Appl Physiol 82:15–22–4
+Farley CT, Ferris DP (1998) Biomechanics of walking and running: center of mass movements to
+muscle action. Exerc Sport Sci Rev 26:253–285
+Farley CT, Glasheen J, McMahon TA (1993) Running springs: speed and animal size. J Exp Biol
+185:71–86
+Ferris DP, Louie M, Farley CT (1998) Running in the real world: adjusting leg stiffness for
+different surfaces. Proc R Soc B Biol Sci 265:989–994
+Ferris DP, Liang K, Farley CT (1999) Runners adjust leg stiffness for their ﬁrst step on a new
+running surface. J Biomech 32:787–794
+Giandolini M, Poupard T, Gimenez P et al (2014) A simple ﬁeld method to identify foot strike
+pattern during running. J Biomech 47:1588–1593
+Gindre C, Lussiana T, Hebert-Losier K, Morin J-B (2016) Reliability and validity of the Myotest®
+for measuring running stride kinematics. J Sports Sci 34:664–670
+Girard O, Mendez-Villanueva A, Bishop D (2011a) Repeated-sprint ability—Part I. Sport Med
+41:673–694
+Girard O, Micallef J-P, Millet GP (2011b) Changes in spring-mass model characteristics during
+repeated running sprints. Eur J Appl Physiol 111:125–134
+Girard O, Racinais S, Kelly L et al (2011c) Repeated sprinting on natural grass impairs vertical
+stiffness but does not alter plantar loading in soccer players. Eur J Appl Physiol 111:2547–
+2555
+Girard O, Millet G, Slawinski J et al (2013) Changes in running mechanics and spring-mass
+behaviour during a 5-km time trial. Int J Sports Med 34:832–840
+Girard O, Brocherie F, Morin J-B et al (2015) Comparison of four sections for analyzing running
+mechanics alterations during repeated treadmill sprints. J Appl Biomech 31:389–395
+Girard O, Brocherie F, Morin J-B, Millet GP (2016) Running mechanical alterations during
+repeated treadmill sprints in hot versus hypoxic environments. A pilot study. J Sports Sci
+34:1190–1198
+8
+A Simple Method for Measuring Lower Limb Stiffness During Running
+191
+
+
+<!-- Page 194 -->
+Gouttebarge V, Wolfard R, Griek N et al (2015) Reproducibility and validity of the myotest for
+measuring step frequency and ground contact time in recreational runners. J Hum Kinet 45:
+19–26
+He JP, Kram R, McMahon TA (1991) Mechanics of running under simulated low gravity. J Appl
+Physiol 71:863–870
+Hobara H, Inoue K, Gomi K, et al (2010) Continuous change in spring-mass characteristics during
+a 400 m sprint. J Sci Med Sport 13:256–261. doi:10.1016/j.jsams.2009.02.002
+Hoyt RW, Knapik JJ, Lanza JF et al (1994) Ambulatory foot contact monitor to estimate metabolic
+cost of human locomotion. J Appl Physiol 76:1818–1822
+Hoyt DF, Wickler SJ, Cogger EA (2000) Time of contact and step length: the effect of limb length,
+running speed, load carrying and incline. J Exp Biol 203:221–227
+Hunter I, Smith GA (2007) Preferred and optimal stride frequency, stiffness and economy: changes
+with fatigue during a 1-h high-intensity run. Eur J Appl Physiol 100:653–661
+Karamanidis K, Arampatzis A (2005) Mechanical and morphological properties of different
+muscle-tendon units in the lower extremity and running mechanics: effect of aging and physical
+activity. J Exp Biol 208:3907–3923
+Kerdok AE, Biewener AA, McMahon TA et al (2002) Energetics and mechanics of human
+running on surfaces of different stiffnesses. J Appl Physiol 92:469–478
+Kram R, Dawson TJ (1998) Energetics and biomechanics of locomotion by red kangaroos
+(Macropus rufus). Comp Biochem Physiol B Biochem Mol Biol 120:41–49
+Latash ML, Zatsiorsky VM (1993) Joint stiffness: Myth or reality? Hum Mov Sci 12:653–692
+Le Meur Y, Thierry B, Rabita G et al (2013) Spring-mass behaviour during the run of an
+international triathlon competition. Int J Sports Med 34:748–755
+Lee CR, Farley CT (1998) Determinants of the center of mass trajectory in human walking and
+running. J Exp Biol 201:2935–2944
+Martin V, Kerherve H, Messonnier LA et al (2010) Central and peripheral contributions to
+neuromuscular fatigue induced by a 24-h treadmill run. J Appl Physiol 108:1224–1233
+Mazet A, Morin J-B, Semay B et al (2016) Modiﬁcations du pattern mécanique de course dans les
+suites d’une plastie du ligament croisé antérieur. Sci Sports 31:219–222
+McDougall C (2010) Born to run: the hidden tribe, the ultra-runners, and the greatest race the
+world has never seen. Proﬁle Books Ltd., London, UK
+McMahon TA, Greene PR (1978) Fast running tracks. Sci Am 239:148–163
+McMahon TA, Greene PR (1979) The inﬂuence of track compliance on running. J Biomech
+12:893–904
+McMahon TA, Cheng GC (1990) The mechanics of running: how does stiffness couple with
+speed? J Biomech 23(Suppl 1):65–78
+McMahon TA, Valiant G, Frederick EC (1987) Groucho running. J Appl Physiol 62:2326–2337
+Millet GY, Tomazin K, Verges S et al (2011) Neuromuscular consequences of an extreme
+mountain ultra-marathon. PLoS ONE 6:e17059
+Millet GY, Hoffman MD, Morin JB (2012) Sacriﬁcing economy to improve running performance–
+a reality in the ultramarathon? J Appl Physiol 113:507–509
+Morin JB, Dalleau G, Kyröläinen H et al (2005) A simple method for measuring stiffness during
+running. J Appl Biomech 21:167–180
+Morin J-B, Jeannin T, Chevallier B, Belli A (2006) Spring-mass model characteristics during
+sprint running: correlation with performance and fatigue-induced changes. Int J Sports Med
+27:158–165
+Morin JB, Samozino P, Zameziati K, Belli A (2007) Effects of altered stride frequency and contact
+time on leg-spring behavior in human running. J Biomech 40:3341–3348
+Morin J-B, Samozino P, Féasson L et al (2009) Effects of muscular biopsy on the mechanics of
+running. Eur J Appl Physiol 105:185–190
+Morin J-B, Samozino P, Millet GY (2011a) Changes in running kinematics, kinetics, and
+spring-mass behavior over a 24-h run. Med Sci Sport Exerc 43:829–836
+Morin JB, Tomazin K, Edouard P, Millet GY (2011b) Changes in running mechanics and spring–
+mass behavior induced by a mountain ultra-marathon race. J Biomech 44:1104–1107
+192
+Jean-Benoit Morin
+
+
+<!-- Page 195 -->
+Morin J-B, Bourdin M, Edouard P et al (2012a) Mechanical determinants of 100-m sprint running
+performance. Eur J Appl Physiol 112:3921–3930
+Morin J-B, Tomazin K, Samozino P et al (2012b) High-intensity sprint fatigue does not alter
+constant-submaximal velocity running mechanics and spring-mass behavior. Eur J Appl
+Physiol 112:1419–1428
+Pappas P, Paradisis G, Tsolakis C et al (2014) Reliabilities of leg and vertical stiffness during
+treadmill running. Sport Biomech 13:391–399
+Rabita G, Slawinski J, Girard O et al (2011) Spring-mass behavior during exhaustive run at
+constant velocity in elite triathletes. Med Sci Sport Exerc 43:685–692
+Silder A, Besier T, Delp SL (2015) Running with a load increases leg stiffness. J Biomech
+48:1003–1008
+Slawinski J, Dorel S, Hug F et al (2008a) Elite long sprint running: a comparison between incline
+and level training sessions. Med Sci Sport Exerc 40:1155–1162
+Slawinski J, Heubert R, Quievre J et al (2008b) Changes in spring-mass model parameters and
+energy cost during track running to exhaustion. J Strength Conditioning Res 22:930–936
+Taylor MJ, Beneke R (2012) Spring mass characteristics of the fastest men on earth. Int J Sports
+Med 33:667–670
+Watari R, Hettinga B, Osis S, Ferber R (2016) Validation of a torso-mounted accelerometer for
+measures of vertical oscillation and ground contact time during treadmill running. J Appl
+Biomech 32:306–310
+Weyand PG, Kelly M, Blackadar T et al (2001) Ambulatory estimates of maximal aerobic power
+from foot -ground contact times and heart rates in running humans. J Appl Physiol 91:451–458
+Winter D (1979) Biomechanics of human movement. Wiley, NewYork
+8
+A Simple Method for Measuring Lower Limb Stiffness During Running
+193
+

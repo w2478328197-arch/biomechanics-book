@@ -1,0 +1,1400 @@
+# Chapter 11: A Simple Method for Measuring Force, Velocity and Power During Sprint Running
+
+
+<!-- Page 238 -->
+Chapter 11
+A Simple Method for Measuring Force,
+Velocity and Power Capabilities
+and Mechanical Effectiveness During
+Sprint Running
+Pierre Samozino
+Abstract A macroscopic view of sprint mechanics during an acceleration phase,
+and notably athlete’s propulsion capacities, can be given by Force-velocity (F-v)
+and Power-velocity (P-v) relationships. They characterize the change in athlete’s
+maximal horizontal force and power production capabilities when running speed
+increases and directly determine sprint acceleration performance. This chapter
+presents an accurate and reliable simple method to determine these mechanical
+capabilities during sprinting. This method, based on a macroscopic biomechanical
+model and validated in laboratory conditions in comparison to force plate mea-
+surements, is very convenient for ﬁeld use since it only requires anthropometric
+(body mass and stature) and spatio-temporal (split times or instantaneous velocity)
+input variables. It provides different information on athlete’s horizontal force pro-
+duction capabilities: maximal power output, maximal horizontal force, maximal
+velocity until which horizontal force can be produced and mechanical effectiveness
+of force application onto the ground. This information presents interesting practical
+applications for sport practitioners to individualize training focusing on sprint
+acceleration performance, but also perspectives in injury management. This chapter
+presents different examples of such applications. Moreover, this simple method can
+also help to bring new insight into the limits of human locomotion since it makes
+possible to estimate sprinting mechanical properties of the fastest men and women
+without testing them in a laboratory.
+P. Samozino (&)
+Laboratoire Inter-universitaire de Biologie de la Motricité,
+Université de Savoie Mont Blanc, Campus Scientiﬁque,
+73000 Le Bourget du Lac, Chambéry, France
+e-mail: pierre.samozino@univ-smb.fr
+© Springer International Publishing AG 2018
+J.-B. Morin and P. Samozino (eds.), Biomechanics of Training and Testing,
+https://doi.org/10.1007/978-3-319-05633-3_11
+237
+
+
+<!-- Page 239 -->
+11.1
+Introduction
+The previous chapter presented recent innovative concepts and measurement
+methodologies to explore, evaluate and better understand mechanics of sprinting.
+A macroscopic view of the sprint mechanics during an acceleration phase, and
+notably the athlete’s propulsion capacities, can be given by Force-velocity (F-v) and
+Power-velocity (P-v) relationships. These relationships characterize the change in
+athlete’s maximal horizontal force and power production capabilities when running
+speed increases. These capabilities directly determine athlete’s forward accelera-
+tion, which is a key factor of performance in many sport activities, not only to reach
+the highest top velocity, but also and most importantly to cover a given distance in
+the shortest time possible, be it in track and ﬁeld events or in team sports (see
+previous chapter).
+As previously described for other movements (pedaling, squat jumps, bench
+press), these relationships allow the determination of key mechanical variables
+being complex integration of the different physiological, neural and biomechanical
+mechanisms involved in the total external force production and characterizing
+different athlete’s muscle abilities. However, in contrast to acyclic ballistic
+push-offs (e.g. squat jumps, Chaps. 4 and 5), F-v and P-v relationships in sprint
+running are speciﬁc to running acceleration propulsion and in turn also integrate the
+ability to apply the external force effectively (i.e. horizontally in the antero-posterior
+direction) onto the ground (Morin et al. 2011a, b, 2012; Rabita et al. 2015). The
+technical ability of force application during sprint running and its implication in
+sprinting performance has been well presented and detailed in the previous chapter
+(see Chap. 10, Sect. 10.3.3). F-v and P-v relationships provide thus an objective
+quantiﬁcation of the maximal power output an athlete can develop in the horizontal
+direction (Pmax, power capabilities), the theoretical maximal horizontal force an
+athlete could produce onto the ground (F0, force capabilities) and the theoretical
+maximal velocity at which he/she could run if there is no external constraints to
+overcome (v0, velocity capabilities). The latter can be also interpreted as the
+maximal running velocity until which the athlete is still able to produce positive net
+horizontal force, which well represents his/her ability to produce horizontal force at
+high running velocities. As for the other movements, force and velocity capabilities
+in sprint are independent and do not refer to the same physical and technical
+abilities. The ratio between both corresponds to athlete’s F-v proﬁle (SFv). These
+different mechanical variables integrate athlete’s “physical” qualities (lower limb
+muscle force production capacities) and “technical” abilities (mechanical effec-
+tiveness of force application). The latter can be computed at each step by the ratio of
+horizontal to total force (RF). Mechanical effectiveness can so be well described by
+the maximal value of RF observed at the ﬁrst step (RFmax) and its rate of decrease
+when velocity increases (DRF). Quantifying individually the mechanical effective-
+ness can help to distinguish the physical and technical origins of inter or
+intra-individual differences in both Force-velocity-Power (FvP) mechanical proﬁles
+238
+P. Samozino
+
+
+<!-- Page 240 -->
+and sprint performances, which can be useful to more appropriately orient the
+training process towards the speciﬁc mechanical qualities to develop.
+As presented in the previous chapter, different methodologies have been pro-
+posed to assess all these mechanical variables characterizing sprint propulsion
+capabilities. Brieﬂy, the ﬁrst ones in the nineties used motorized or non-motorized
+speciﬁc treadmills of whom the belt was accelerated by the athlete and required
+several 6-s sprints against different loads to determine FvP relationships from peak
+velocity (Jaskolska et al. 1999; Jaskolski et al. 1996; Chelly and Denis 2001). Then,
+in 2010, a single sprint method was validated in our lab using a dynamometric
+treadmill and foot-ground contact phase averaged values to compute the different
+relationships and mechanical variables (Morin et al. 2010, 2011a). Few years later,
+to respond to the criticisms on treadmill measurements for sprinting evaluations
+(non-natural movement due to waist attachment, a belt narrower than a typical track
+lane, the impossibility to use starting block, the need to set a default torque), we
+collaborated with colleagues of the French National Institute of Sport to propose
+and validate a method to measure ground reaction force over an entire sprint
+acceleration phase from 5 sprints overground and a 6.6-m force plate system, since
+to date no 30- to 60-m long force plate systems exist (Rabita et al. 2015). This
+allowed, for the ﬁrst time, to provide the data to entirely characterize the mechanics
+of overground sprint acceleration. These different laboratory methodologies, each
+of them presenting advantage and inconvenient, present very accurate and reliable
+measurements of the different mechanical propulsion qualities (force, velocity and
+power capabilities). However, sport practitioners do not have easy access to such
+expensive and rare devices, and often do not have the technical expertise to process
+the raw force data measured. In the best cases, this forces athletes to report to a
+laboratory. This explains that, although very accurate and potentially useful for
+training purposes, this kind of evaluation has almost been never performed.
+Consequently, sport scientists investigating sprint mechanics and performance
+usually assess, at best, only very few steps of a sprint (e.g. Kawamori et al. 2014;
+Lockie et al. 2013). Sport practitioners do not explore kinetic variables, i.e. athlete’s
+force and power production, but only their consequences on movement, i.e. kine-
+matic parameters (e.g. split times or distances covered in a given time). The
+exploration of sprint performance in ﬁeld conditions through kinematic analyses of
+the horizontal displacement of the body center of mass has already been proposed in
+1920s by Furusawa, Hill and colleagues. They used a magnet carried by the athlete
+which induced an electrical current each time the athlete runs in front of coils of
+wire connected to a galvanometer placed at given distances in parallel to the track
+(Fig. 11.1, Furusawa et al. 1927). Another ingenious device was used later in 1954
+by Henry who equipped a track (on the roof of a building) with several timing
+contact gates allowing to measure times with an accuracy of 0.01 s (Fig. 11.1,
+Henry 1954). These were the ancestors of current photocells or high speed cameras
+giving the different split times during a sprint acceleration phase. In parallel to time
+measurements, instantaneous speed assessments can be done out of labs using radar
+or laser guns which measure athlete positions at very high sample rates
+11
+A Simple Method for Measuring Force, Velocity …
+239
+
+
+<!-- Page 241 -->
+(from 30 to 100 Hz). Even if kinematic variables provide very interesting infor-
+mation on sprint performance, they do not give insights about the athlete’s force
+and power production capabilities nor about the distinction between “physical” and
+“technical” abilities. Typical examples will be presented at the end of this chapter to
+show the interest of kinetic assessments in addition to kinematic ones.
+A simple method for determining F-v and P-v relationships and force application
+effectiveness during sprint running in overground realistic conditions, out of the lab,
+and from only one single sprint, seems to be therefore very interesting to generalize
+sprint mechanics evaluations for training or scientiﬁc purposes. This chapter will
+present a simple ﬁeld method we proposed to compute accurately force, velocity
+and power lower limb capabilities from few data inputs that are easy to obtain in
+typical training practice. The validation protocol and results, limitations and prac-
+tical applications will then be presented and discussed.
+11.2
+Theoretical Bases and Equations
+As for the other simple methods presented in this book, the simple sprint method for
+measuring force, velocity and power capabilities during sprint running is based on
+the fundamental principles of dynamics applied to the body center of mass
+(CM) (for more details, see Samozino et al. 2016). The biomechanical model used
+here is an analysis of kinematics and kinetics of the runner’s CM during sprint
+acceleration using a macroscopic inverse dynamics approach aiming to be the
+Fig. 11.1 Main devices used in the past and at the moment to analyse sprint kinematics out of
+labs
+240
+P. Samozino
+
+
+<!-- Page 242 -->
+simplest possible (Helene and Yamashita 2010; Furusawa et al. 1927; di Prampero
+et al. 2015). In this approach, as for the previous ones, mechanical variables are
+modeled over time, without considering intra-step changes, and thus corresponds to
+step-averaged values (contact plus aerial times).
+During a running maximal acceleration, let us consider the different external
+forces applied to the athlete’s CM: the body weight, the aerodynamic resistive
+forces and the ground reaction force (GRF) with its horizontal and vertical com-
+ponents (Fig. 11.2). Applying the fundamental laws of dynamics in the horizontal
+direction, the net horizontal antero-posterior GRF (FH) applied to the body CM can
+be modeled over time as:
+FH tð Þ ¼ m.aH tð Þ þ Faero tð Þ
+ð11:1Þ
+with m the runner’s body mass (in kg), aH tð Þ the CM horizontal acceleration and
+Faero(t) the aerodynamic drag to overcome during sprint running. Basic computa-
+tional ﬂuid dynamics principles show that Faero(t) is proportional to the square of
+the velocity of air relative to the runner and can be modelled as:
+Faero tð Þ ¼ k. vH tð Þ  vw
+ð
+Þ2
+ð11:2Þ
+with vw the wind velocity (if any) and k the runner’s aerodynamic friction coefﬁ-
+cient. The latter can be estimated from values of air density (q, in kg m−3), frontal
+area of the runner (Af; in m2), and drag coefﬁcient (Cd = 0.9, van Ingen Schenau
+et al. 1991) as proposed by Arsac and Locatelli (2002):
+Fig. 11.2 Schematic representation of the external forces applied to a sprinter during his
+acceleration phase: body weight (mg), aerodynamic resistive force (Faero) and vertical (FV) and
+horizontal (FH) components of the ground reaction force
+11
+A Simple Method for Measuring Force, Velocity …
+241
+
+
+<!-- Page 243 -->
+k ¼ 0:5:q.Af .Cd
+ð11:3Þ
+with
+q ¼ q0. Pb
+760 .
+273
+273 þ T
+ð11:4Þ
+Af ¼ 0:2025:h0:725.m0:425
+
+
+:0:266
+ð11:5Þ
+where q0 ¼ 1:293 kg m−1 is the q at 760 Torr and 273K, Pb is the barometric
+pressure (in Torr), T° is the air temperature (in °C) and h is the runner’s stature
+(in m).
+To sum up, beyond to know the athlete’s stature and body mass, as well as
+approximations of ambient temperature and barometric pressure (which have only
+negligible incidences on mechanical output, see Sect. 11.3), aH tð Þ is the only
+required kinematic input variable to model FH.
+During a running maximal acceleration, horizontal velocity (vH) systematically
+increases following a mono-exponential function. This can be observed for recre-
+ational athletes, team sport players, the best sprinter of all time, a young 4-year old
+boy or a 95-year old man and have been shown many times in scientiﬁc literature
+(Fig. 11.3, (e.g. Furusawa et al. 1927; di Prampero et al. 2005; Morin et al. 2006;
+Chelly and Denis 2001):
+vH tð Þ ¼ vHmax. 1  et=s
+
+
+ð11:6Þ
+with vHmax the maximal velocity reached at the end of the acceleration and s the
+acceleration time constant. After integration and derivation of vH tð Þ over time, the
+Fig. 11.3 Velocity-time curves obtained during sprinting acceleration of a 2-year old young boy,
+a world class athlete and a 95-year old man. The noisy lines correspond to the radar gun data and
+the solid smoothed lines represent the mono-exponential model function. The differences in
+magnitudes of noise in the radar signals are independent from the age or level of the individual, but
+is associated to different ﬁlters applied on these typical raw data
+242
+P. Samozino
+
+
+<!-- Page 244 -->
+horizontal position xH
+ð
+Þ and acceleration aH
+ð
+Þ of the body CM as a function of time
+during the acceleration phase can be expressed as follows:
+x tð Þ ¼ vHmax. t þ s.et
+s
+
+
+ vHmax:s
+ð11:7Þ
+aH tð Þ ¼
+vHmax
+s
+
+
+.et
+s
+ð11:8Þ
+Consequently, vHmax and s values can be determined from velocity or position/
+time measurements and using least square regression method and Eq. 11.6 or 11.7.
+Then, aH tð Þ can be computed at each instant (for instance, every 0.1 or 0.05 s)
+using Eq. 11.8, FH can be obtained using Eq. 11.1 and vH using Eq. 11.6 [if the
+initial measurement is x tð Þ]. The mean net horizontal antero-posterior power output
+applied to the body CM (PH in W) can then be modelled at each instant as the
+product of FH and vH. Plotting FH versus vH and modeling this relationship by a
+linear equation gives the F-v relationship which can be extrapolated to obtain the
+maximal force (F0) and velocity (v0) values as the intercept with the force- and
+velocity-axis, respectively (Fig. 11.4). The P-v relationship can be obtained using a
+2nd order polynomial regression on PH-vH plot, the apex of the latter corresponding
+to the maximal power output ðPHmaxÞ.
+Then, applying the fundamental laws of dynamics in the vertical direction, the
+mean net vertical component of GRF (FV) applied to the body CM over each
+complete step can be modeled over time as equal to body weight (di Prampero et al.
+2015):
+FV tð Þ ¼ m.g
+ð11:9Þ
+where g is the gravitational acceleration (9.81 m s−2).
+The ratio of force (RF in %) can be modeled at each instant by:
+RF ¼
+FH
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+F2
+H þ F2
+V
+p
+:100
+ð11:10Þ
+After plotting RF versus vH with a linear regression, the slope of this relationship
+corresponds to the rate of decrease in RF when velocity increases over the entire
+acceleration phase (DRF, in % s m−1). It is worth noting that, since the starting
+block phase (push-off and following aerial time) lasts between 0.5 and 0.6 s
+(Slawinski et al. 2010; Rabita et al. 2015) and so occurs at an averaged time of
+*0.3 s, RF and DRF can be reasonably computed from FH and FV values modeled
+for t > 0.3 s.
+The biomechanical model and associated equations presented here allows the
+estimation of GRFs in the sagittal plane of motion during one single sprint running
+acceleration from simple inputs: anthropometric (body mass and stature) and
+spatiotemporal (split times or instantaneous running velocity) data. This model can
+then be used as a simple method to evaluate force, velocity and power capabilities
+and mechanical effectiveness during sprint running.
+11
+A Simple Method for Measuring Force, Velocity …
+243
+
+
+<!-- Page 245 -->
+Fig. 11.4 Modelled changes in horizontal velocity (vH), horizontal antero-posterior force (FH) and
+power (PH) over time during the acceleration phase of a sprint, and associated modelled force- and
+power-velocity relationships with maximal force (F0), velocity (v0) and power (PHmax)
+11.3
+Limits of the Method
+The biomechanical model presented in the previous section is a simple application
+of the basic principles of dynamics. However, as for all models, some simplifying
+assumptions have been required to model the horizontal force developed by the
+runner onto the ground during the entire sprint acceleration phase. Moreover, the
+macroscopic level of the model (kinematics and kinetics of the body CM) induces
+some limits in the level of analysis possible with this approach, which has to be
+considered for the interpretation of output variables. These different points are
+following discussed.
+• The dynamics principles were applied to a whole body considered as a system
+and represented by its centre of mass (e.g. Samozino et al. 2008, 2010, 2012;
+244
+P. Samozino
+
+
+<!-- Page 246 -->
+Cavagna et al. 1971; van Ingen Schenau et al. 1991; Helene and Yamashita
+2010; Rabita et al. 2015). Only the forces aiming at moving the CM were
+considered.
+• The biomechanical model only focuses on GRF components in the sagittal plane
+of motion (i.e. vertical and antero-posterior) and neglects the medio-lateral
+component which was shown to constitute a negligible part in the total force
+produced by athletes (Rabita et al. 2015).
+• The horizontal aerodynamic friction coefﬁcient
+k
+ð Þ was proposed to be esti-
+mated from only stature, body mass and a ﬁxed drag coefﬁcient (Arsac and
+Locatelli 2002). Even if it does not represent the “gold standard” process, this
+represents a very simple method to estimate the aerodynamic resistive force out
+of laboratory. Moreover, the sensibility of the mechanical output variables to a
+likely error in the estimation of frontal area, air density or drag coefﬁcient is low:
+a *10% error in these input estimations leads to an error lower than 0.5% in the
+output variables.
+• In contrast with previous kinetic measurements during sprint running which
+averaged mechanical variables over each support phase (Morin et al. 2010,
+2011a, 2012; Lockie et al. 2013; Rabita et al. 2015; Kawamori et al. 2014),
+computations lead here to modelled values over complete steps, i.e. contact plus
+aerial
+times,
+which
+induces
+lower
+values
+of force
+or
+power
+output.
+Step-averaged variables characterize more the mechanics of the overall sprint
+running propulsion than speciﬁcally the mechanical capabilities of lower limb
+neuromuscular system during each contact phase. However, this does not affect
+RF (and in turn DRF) values since it is a ratio between two force components
+averaged over the same duration. Note that such values modeled over complete
+steps cannot bring information about inter-step variability, intra-step analyses or
+explorations of contact and aerial times, step length/frequency and force impulse
+and rate of development during sprint running.
+• Mechanical effectiveness computations required to model GRF vertical com-
+ponent over each step as equal to the runner’s body weight. This required the
+assumption of a quasi-null CM vertical acceleration over the acceleration phase
+of the sprint. However, be it with or without using starting blocks (but largely
+more pronounced with starting blocks), the runner’s body CM goes up during
+this phase from the starting crouched position to the standing running position,
+and then does not change from one complete step to another. Since the initial
+upward movement of the CM is overall smoothed through a relative long time/
+distance (*20–40 m, Cavagna et al. 1971; Slawinski et al. 2010), we can
+consider that it does not require any large vertical acceleration, and so that the
+mean net vertical acceleration of the CM over each step is quasi null throughout
+the sprint acceleration phase. This is even more correct for standing sprint starts
+which represents the most of the cases in sport other than track and ﬁeld sprint
+events using starting blocks.
+The above-mentioned simplifying assumptions are those inherent of all biome-
+chanical models. The important thing is to quantify the errors induced by these
+11
+A Simple Method for Measuring Force, Velocity …
+245
+
+
+<!-- Page 247 -->
+simpliﬁcations. For that purpose, the simple method based on these computations
+and on simple anthropometric and spatiotemporal measurements was validated in
+comparison to the reference force plate measurements.
+11.4
+Validation of the Method
+The validity and the reliability of the simple sprint method presented in this chapter
+were tested through two different experimental protocols reported in details in
+Samozino et al. (2016).
+11.4.1
+Concurrent Validity Compared to Force Plate
+Measurements
+The concurrent validity of the simple method was tested by comparison of modelled
+mechanical values obtained using the proposed computations to reference force
+plate measurements during an entire acceleration phase of a sprint.
+Reference method. Antero-posterior and vertical GRF components, F-v, P-v
+and RF-v relationships and associated variables
+F0, v0, PHmax, SFV, DRF
+ð
+Þ were
+determined for nine elite or sub-elite sprinters using both the simple method and the
+method using a 6.60-m long force platform system (KI 9067; Kistler, Winterthur,
+Switzerland, sampling rate of 1000 Hz) recently proposed by Rabita et al. (2015),
+more details in Chap. 10). Brieﬂy, since no 30- to 60-m long force plate systems
+existed, this method consisted in virtually reconstruct for each athlete the GRF
+signal of an entire single 40-m sprint acceleration by setting differently for each
+sprint the position of the starting blocks relatively to the 6.60-m long force platform
+system. So each athlete performed, after a standardized 45 min warm-up, 7 max-
+imal sprints in an indoor stadium (2  10 m, 2  15 m, 20 m, 30 m and 40 m
+with 4 min rest between each trial). During each sprint, GRF data were collected
+over the 6.60 m section covered by the force plate system, the latter being placed at
+different positions of the acceleration phase for each sprint. Instantaneous data of
+vertical (FV) and horizontal antero-posterior (FH) GRF components were averaged
+for each step (contact + aerial phase) to compute the above-mentioned variables.
+Simple method. In parallel to force plate measurements, sprint times were
+measured with a pair of photocells (Microgate, Bolzano, Italy) located at the ﬁnish
+line of the different sprints. The 5 split times at 10 (best one of the two trials), 15
+(idem), 20, 30 and 40 m were then used to determine vHmax and s using Eq. 11.7 and
+least square regression method. From these two parameters, vH tð Þ and aH tð Þ were
+modelled over time (every 0.1 s) using Eqs. 11.6 and 11.8, respectively. From
+aH tð Þ, FH tð Þ, PH tð Þ and RF(t) were computed using equations and data processing
+presented in Sect. 11.2 in order to determine all the mechanical variables for each
+subject.
+246
+P. Samozino
+
+
+<!-- Page 248 -->
+Results showed that modeled force (FH, FV, resultant), power and RF values
+were very close to values measured by force plates at each step with low standard
+errors of estimate of *30–50N, *230W and 3.7%, respectively (as shown for a
+typical subject in Fig. 11.5). Over the ﬁrst 20–30 m, FV values measured with force
+plates were not particularly higher than body weight (Fig. 11.5) and were very close
+to body weight when averaged over the entire acceleration phase (difference lower
+than *2.40% in average). This supports the assumption of a quasi-null vertical
+acceleration of the CM over this phase (despite the use of starting blocks), and in
+turn supports the validity of step averaged FV modelled values as equal to body
+weight. Beyond the very good agreement in the modeled GRF in the sagittal plane
+of motion (horizontal, vertical and resultant) during sprint running acceleration, low
+bias in the determination of F0, v0, PHmax, SFV and DRF were observed: lower than
+*5% for F0, v0 and PHmax; and lower than 8% for SFV and DRF (Table 11.1). These
+low bias were associated to narrowed 95% agreement limits crossing 0, which
+support the high accuracy and validity of the proposed simple method to determine
+F-v, P-v and RF-v relationships and their associated mechanical variables
+PHmax; F0; v0; SFV; DRF
+ð
+Þ in sprint running (Fig. 11.6).
+Fig. 11.5 Changes over the acceleration phase in horizontal velocity (vH, black points), horizontal
+(FH, open diamonds) and vertical (FV, grey diamonds) force components, horizontal power output
+(PHmax, black diamonds), and ratio of force (RF, open circles) for a typical sprinter. Points represent
+averaged values over each step obtained from force plate method (from ﬁve sprints) and lines
+represent modelled values computed by the simple sprint method from split times
+Table 11.1 Mean ± SD values of variables attesting the concurrent validity of the simple sprint
+method
+Reference
+method
+Proposed
+method
+Bias
+95% agreement
+limits
+Absolute
+bias
+F0 (N)
+654 ± 80
+638 ± 84
+−15.9 ± 25.7
+[−66.3;34.5]
+3.74 ± 2.69
+v0 (m.s−1)
+10.20 ± 0.36
+10.51 ± 0.74
+0.32 ± 0.52
+[−0.7;1.3]
+4.77 ± 3.26
+PHmax (W)
+1669 ± 253
+1680 ± 280
+10.56 ± 45.01
+[−77.7;98.8]
+1.88 ± 1.88
+SFV
+(N s m−1)
+−64.06 ± 6.30
+−60.8 ± 7.71
+3.26 ± 5.22
+[−6.97;13.49]
+7.93 ± 5.32
+DRF
+(% s m−1)
+−6.80 ± 0.28
+−6.80 ± 0.74
+−0.002 ± 0.58
+[−1.139;1.135]
+6.04 ± 5.70
+11
+A Simple Method for Measuring Force, Velocity …
+247
+
+
+<!-- Page 249 -->
+The kinematic input variables of the present simple method are spatio-temporal
+data: split times (as used in the validation protocol) or instantaneous running
+velocity measurements (as could be obtained from radar guns, (e.g. di Prampero
+et al. 2005; Morin et al. 2006), or laser beams, (e.g. Bezodis et al. 2012) during one
+single sprint. So, the simple sprint method was also tested during the same protocol
+from
+data
+measured
+using
+a
+radar
+(Stalker
+ATS
+System,
+Radar
+Sales,
+Minneapolis MN, USA, 46.875 Hz) during the best sprints of the 30- and 40-m
+trials. Results were very similar to those obtained from split times, with slightly
+higher bias values (absolute bias from 3 to 7%) due the fact that the comparison was
+made between mechanical variables obtained from one single sprint using the
+simple method and data obtained from 5 sprints with the reference method. This
+could have added a bias that would have only been associated to the validation
+protocol itself, and not to the method.
+11.4.2
+Reliability
+The inter-trial reliability of the simple method was tested in a second protocol
+during which six high-level sprinters performed three maximal 50-m sprints with
+10 min
+of
+rest
+between
+each
+trial.
+The
+different
+mechanical
+variables
+F0; v0; SFV; PHmax and DRF were obtained with the same data processing as presented
+before for the proposed computation method, except that vHmax and s were deter-
+mined using Eq. 11.6, least square regression method and vH tð Þ measured by the
+radar system (sample rate 46.875 Hz). The latter was placed on a tripod 10 m
+behind the subjects at a height of 1 m corresponding approximately to the height of
+subjects’ CM (di Prampero et al. 2005; Morin et al. 2012). For all the mechanical
+variables, low coefﬁcients of variation between the two best trials and standard
+errors of measurement were observed (<5%, Table 11.2) and were associated to
+change in the mean close to 0. This showed low systematic and random errors, and
+in turn high test-to-test reliability.
+Fig. 11.6 Force- power- and RF-velocity relationships obtained by both methods for a typical
+athlete. Filled diamonds represent averaged values over each step obtained from force plate
+method, solid lines the associated regressions, and grey lines the modelled values computed by the
+proposed simple method confounded with the associated regressions (dashed lines)
+248
+P. Samozino
+
+
+<!-- Page 250 -->
+Through this study (Samozino et al. 2016), we clearly show that the simple method
+based on a macroscopic biomechanical model and only anthropometric (body mass
+and stature) and spatio-temporal (split times or instantaneous velocity) variables easy
+to obtain out oflaboratory,isaccurate,reliable and valid to evaluate force, velocity and
+power capabilities, as well as mechanical effectiveness, during sprint running.
+11.5
+Technologies and Input Measurements
+As for the different simple methods presented in this book, the accuracy and reli-
+ability of the present simple sprint method depends on the accuracy of the devices
+used to obtain the mechanical inputs of the model, i.e. the position-time or
+velocity-time data here. Note that body mass has to be measured with shoes and
+clothes used during the tests.
+11.5.1
+Split Times
+When using split times as input data of the simple sprint method (using Eq. 11.7),
+as it was done in the above-described validation protocol, at least 4 or 5 split times
+are required over the acceleration phase to obtain reliable mechanical output
+variables. According to the level of the athletes, the distances associated to the
+different split times would be different in order to cover all the acceleration phase:
+from start line to 30 m (for non-expert sprinters), until to 50–60 m (for track and
+ﬁeld sprinters). These distances have to be shorter at the beginning than at the end
+of the acceleration phase since the higher the acceleration magnitude (and so in the
+ﬁrst meters of the sprint), the higher the number of split time needed to well
+describe the change in motion velocity. For instance, for soccer or rugby players,
+split times should be at 5, 10, 15, 20 and 30 m. For 100-m sprinters, they could be
+at 5, 10, 15, 30 and 40 m. Different devices can be used in ﬁeld conditions to
+measure split times during a sprint acceleration, the main of them are presented
+here.
+Table 11.2 Mean ± SD of the coefﬁcient of variation (CV), change in the mean and standard
+error of measurement between the 2 best trials
+CV (%)
+Change in the mean
+Standard error of measurement (%)
+F0 (N)
+2.93 ± 2.00
+−1.53 ± 32.2
+3.57
+v0 (m s−1)
+1.11 ± 0.86
+−0.171 ± 0.776
+1.40
+Pmax (W)
+1.87 ± 1.36
+−0.167 ± 0.66
+2.33
+SFV (N s m−1)
+4.04 ± 2.72
+−0.20 ± 4.18
+4.94
+DRF
+(% s m−1)
+3.99 ± 2.80
+−0.110 ± 0.45
+4.86
+11
+A Simple Method for Measuring Force, Velocity …
+249
+
+
+<!-- Page 251 -->
+Fully automatic timing systems. The gold standard device to measure accu-
+rately and reliably split times during sprints is the fully automatic timing systems
+including silent gun and photo-ﬁnish camera (Haugen and Buchheit 2016). They
+present timing resolution up to 0.0005 s and are mostly and quasi only used in
+international athletics competition. They are too expensive and impractical for sport
+practitioners and scientists. However, since the 1987 World Championships in
+Rome, the International Association of Athletics Federations (IAAF) has provided
+biomechanics reports presenting split times for each 10- or 20-m sections for the
+100-m race in both men and women. Analysing these data, combined those
+obtained during individual World Record races or Olympic Games, with the
+above-presented simple computations has recently allowed us to explore the
+mechanical determinants of 100-m sprint running performance in the world’s fastest
+men and women, and so the limits of human sprinting performance (Slawinski et al.
+2017, see Sect. 11.6.3). Since a sprint acceleration actually starts when the force
+production on the ground ﬁrstly rises, the reaction time has to be removed from the
+different split times to consider only the CM kinematics (and not the global 100-m
+sprint performance) to estimate kinetics variables.
+Photocells. In sprint testing or training, photocells are the most used system to
+measure split times usually with a resolution of 1 ms. Different photocell timing
+systems exist with different methods to start the timer: a pair of cells placed just
+(20–50 cm) in front of the athlete positioned on the starting line, a ﬁnger pod on the
+ﬂoor under the thumb for three-point starts or foot pod under the back foot (Haugen
+and Buchheit 2016). As mentioned before, to use split times as input in the simple
+sprint method, they have to be measured from the ﬁrst force production on the
+ground. We determined that the best method to estimate these split times is to add
+0.1 s to split times measured with athletes using a three-point crouching starting
+position and with photocells using a ﬁnger pod on the ﬂoor under the thumb to start
+the timer. This 0.1 s time delay was quantiﬁed on several sprinters using force plate
+and high speed camera (Samozino et al. 2016). Other methods, for instance using a
+pair of photocells placed just in front of the starting line, would overestimate force
+and power output computed by the simple method, even if reliability remains very
+good if photocells are always set at the same place over the different testing
+sessions.
+High speed cameras. With the multiplication and generalization of high-speed
+cameras presenting high pixel resolutions and high frame rates (up to 240 frames
+per second in the very recent smartphone and tab), measuring split times using
+video provides accurate enough information to compute reliably mechanical vari-
+ables from the simple sprint method. The higher the frame rate, the higher the
+accuracy. We think that the frame rate has to be at least 100 frames per second to
+obtain relevant outcomes. To obtain split times from video analysis, it requires to
+position several markers on the track at the 4–5 different distances and determine
+times when athletes cross the markers with their hip or shoulders. This can be done
+using a travelling camera moving at the same velocity as the athlete to ﬁlm the
+sprint from the side or using a ﬁxed camera placed at a given distance from the track
+at the marker positioned at the half of the acceleration targeted distance (i.e. at 15 or
+250
+P. Samozino
+
+
+<!-- Page 252 -->
+20 m for a 30- or 40-m acceleration, respectively). In the latter case, video parallax
+was corrected to ensure the different split times are measured properly when ath-
+letes cross the different targeted distances. A simple methods for parallax correction
+is
+proposed, detailed
+and
+illustrated
+in
+Romero-Franco
+et
+al.
+(Fig. 1 in
+Romero-Franco et al. 2016). As for photocells, the critical point is the criterion
+considered to start the timer, i.e. to determine the frame corresponding to the start of
+the sprint which corresponds, from a mechanical point of view, of the beginning of
+the force production. We proposed to make athletes start with a three-point starting
+position, to consider the frame at which the thumb leaves the ground as the frame 0,
+and then add 0.1 s at each split time. Recently, a smartphone application
+(MySprint) was designed by Pedro Jimenez-Reyes to compute all the sprint
+mechanical variables using the computations of present simple sprint method and
+split times measured with the 240-fps camera of recent iPhones or Ipad (Fig. 11.7).
+Performance inputs (split times and velocity-time curves) and mechanical outputs
+(horizontal force and power, mechanical effectiveness) showed very high reliability
+(ICC > 0.99) and concurrent validity (standard error of estimate <1.3%) compared
+to reference devices (photocells and radar) (Romero-Franco et al. 2016). In our
+opinion, this low cost system (Iphone/Ipad + MySprint App) represents nowadays
+the best compromise between cost, validity/accuracy/reliability, direct feedback
+data, and ease to use and to carry on ﬁeld.
+11.5.2
+Instantaneous Velocity
+Instantaneous velocity can also be used as input data of the simple sprint method
+and lead to similar concurrent validity in the estimation of mechanical variables
+characterizing force production during sprint acceleration (Samozino et al. 2016).
+Here are the main used devices to obtain velocity signal over time during such an
+all-out effort.
+Laser and radar guns. Instantaneous velocity can be obtained using laser (e.g.
+LAVEG Sport laser speed gun, Jenoptik, Jena, Germany) or radar (e.g. Stalker ATS
+radar gun, Radar Sales, Minneapolis, MN, USA) systems which presents sampling
+rates of 100 and 46.875 Hz, respectively, high reliability and validity (Haugen and
+Buchheit 2016). Both of these guns are typically positioned 3–10 m behind the
+athletes at the starting line at a height of 1 m (corresponding approximately to the
+height of subjects’ centre of mass). For data analysis, only the acceleration phase is
+required to compute vHmax and s using an exponential regression (Eq. 11.6). So, all
+velocity values measured before the actual sprint start and after the maximal
+velocity plateau have to be deleted (Fig. 11.8). Contrary to split times for which
+each data depends on measurement triggering, instantaneous velocity values are
+independent from the previous ones, which avoids any bias due to the instant or the
+way the measurement is started. However, the detection of the actual sprint start on
+velocity data is often compromised by noise on the velocity signal due to
+11
+A Simple Method for Measuring Force, Velocity …
+251
+
+
+<!-- Page 253 -->
+Fig. 11.7 The iPhone app “Mysprint” uses the high-speed video slow motion mode (frame rate of
+240 fps) to measure the split times of a 30-m sprint acceleration, and thus compute all
+Force-velocity-Power proﬁle and mechanical effectiveness variables
+252
+P. Samozino
+
+
+<!-- Page 254 -->
+Fig. 11.8 Typical data analysis when instantaneous velocity is measured by radar gun during a
+sprint acceleration. The ﬁrst step is to delete uncertain raw velocity values for which there is a
+doubt between actual signal and noise at the start of the sprint and values after the maximal
+velocity plateau at the end of the sprint. Then, the raw values can be modelled using the
+mono-exponential regression including a time delay (Dt) in the equation
+11
+A Simple Method for Measuring Force, Velocity …
+253
+
+
+<!-- Page 255 -->
+movements of other things in the gun ﬁeld of measurement just before the sprint
+start. If the ﬁrst non-null velocity values considered is not the actual ﬁrst one (i.e.
+athlete’s velocity), this could lead to overestimations of force and power variables.
+To face to this issue, we suggested to delete all the values for which there is a doubt
+between actual signal and noise, and then add a third parameter (a time delay, Dt, in
+s) to the mathematical exponential function in order to associate the ﬁrst velocity
+value considered to the true time (Fig. 11.8). Including Dt in the Eq. 11.6 gives:
+vH tð Þ ¼ vHmax. 1  e tDt
+ð
+Þ=s
+
+
+ð11:11Þ
+This data analysis method allows to improve the reliability and validity of
+velocity values, and associated computed distance and acceleration data, measured
+in the ﬁrst 5–10 m of the acceleration phase (see Sect. 11.4), which was previously
+shown to be an issue for these devices (Haugen and Buchheit 2016; Bezodis et al.
+2012). For instance, this time delay was not included in our computations for one of
+our ﬁrst studies using this method (Buchheit et al. 2014b): F0 showed acceptable
+absolute (CV 7.8%), but not relative reliability (ICC, 0.64) (Simperingham et al.
+2016; Buchheit et al. 2014b). After using this time delay, reliability was highly
+improved (Samozino et al. 2016).
+Global positioning systems. Global positioning system (GPS) devices have
+become popular in large-ﬁeld ball sports for assessing players’ physical activity
+during competition or training (Aughey 2011). Their validity and reliability have
+been tested for measuring player kinematics on the ﬁeld, notably distance and speed
+(Aughey 2011; Barbero-Alvarez et al. 2010; Jennings et al. 2010; Rampinini et al.
+2015), accelerations being acceptable only with high-sampling-rate (>10 Hz) GPS
+devices (Buchheit et al. 2014a). Recently, the concurrent validity (radar-based
+method was the reference) of two distinct GPS units (5 and 20 Hz sampling rates)
+to obtain the sprint mechanical properties using the simple method was investigated
+(Nagahara et al. 2017). The results showed that GPS devices made possible to
+obtain consistent FvP proﬁles, but the percentage bias showed a wide range of
+overestimation or underestimation for both systems (−5.1 to 2.9% and −7.9 to 9.7%
+for 5- and 20-Hz GPS), even if the 90% conﬁdence intervals of errors were smaller
+for the 20-Hz GPS than those for 5-Hz GPS. Consequently, the validity of com-
+puting mechanical outputs during sprint acceleration with GPS units (even at high
+sample rate) came short of acceptable level, although the accuracy with the
+higher-sampling-rate
+system
+was
+markedly
+higher
+than
+that
+with
+lower-sampling-rate system. When improved global or local positioning system
+technology becomes available, this opens interesting possibilities for practical
+measurements of sprint-acceleration mechanical features directly during training
+exercises or competition games, without setting speciﬁc tests.
+254
+P. Samozino
+
+
+<!-- Page 256 -->
+11.6
+Practical Applications
+11.6.1
+Testing Considerations
+In addition to the accuracy of the devices used to measure velocity- or position-time
+data, the accuracy and reliability of the present simple sprint method depends also
+on the rigor with which the testing protocol is set and the data analyzed. Here, we
+will detail the different practical points of a typical testing session using the simple
+sprint method that contributes to decrease the measurement errors.
+Warm-up. Since we aim to assess the individual maximal sprint capabilities,
+athletes have to perform a sprint speciﬁc warm-up allowing him to reach his
+maximal performances during the following test. For instance, warm-up should
+comprise *5 to 10 min of low-pace running, followed by 3 min of lower limb
+muscle stretching, 5 min of sprint-speciﬁc drills, and 3–5 progressive 30–40 m
+sprints separated by 2 min of passive rest.
+Number of trials and sprint distances. After warm-up, each athlete has to
+perform at least two sprints with maximal effort. More trials (3–5) is better to be
+sure to measure the athlete’s maximal capabilities, while rest between trials is
+sufﬁcient to be sure that no fatigue occurs. Only the best performance (e.g. time at
+30 m) will be then considered for analysis. Note that if the performance or
+mechanical outputs are too different between trials, the relevance of the data is
+altered. As mentioned before, the sprint distances should be different according to
+the level of the athletes in order to cover all the acceleration phase: *30 m for
+non-expert sprinters (e.g. soccer or rugby players) until to 50–60 m for track and
+ﬁeld sprinters.
+Starting position. As mentioned in the previous section, when using split times
+(from photocells or high speed camera) as input measurement, the starting position
+should be a three-point crouching position with the start of the timer when the
+thumb leaves the ground and split times have to be corrected adding 0.1 s. When
+velocity is measured (radar or laser guns), the starting position can be set according
+to the speciﬁcity of the sport activity: starting-blocks, three-point crouching posi-
+tion, stand-up or others. The choice has to be done in order to evaluate the athlete’s
+force production capabilities in similar body conﬁguration as during competition.
+Shoes and running surfaces. Since the type of the ground surface (tarmac, wet/
+dry grass, tartan®, wood ﬂoor) and the properties of the shoe outsole (classical
+running shoes, spikes, cleats) inﬂuence the friction between feet and ground during
+sprint acceleration, the horizontal force production can be affected by both of them.
+Obviously, sprint testing should be performed in surface and shoe conditions
+similar as those used in competition. So, for routine and follow-up testing, it is
+important that sprints are always performed on the same surface using the same
+kind of shoes.
+11
+A Simple Method for Measuring Force, Velocity …
+255
+
+
+<!-- Page 257 -->
+11.6.2
+Data Interpretation
+Beyond its accuracy and reliability, the interest of a simple ﬁeld method rests on the
+good interpretation of the mechanical outputs, each of them presenting a very
+speciﬁc meaning, and the transfer to practical information for training purposes.
+Deﬁnition and practical interpretation of the main variables of interest when using
+FvP proﬁling in sprint have been well presented and discussed in Morin and
+Samozino (2016) and in previous section/chapter of the present book. Here, we will
+brieﬂy sum-up the main indexes characterizing the athlete’s force production
+capabilities, in a logical order to well understand, and then improve, sprint
+mechanics (an example of such indexes for a typical athlete is presented in
+Table 11.3). Note that these several variables can be obtained after having deter-
+mined s and vHmax from experimental data (velocity, split times) using least square
+regression method and Eq. 11.6 or 11.7, and computing at each instant (every 0.1 s
+or lower) aH; FH; vH; x; PH and RF (see Sect. 11.2 for more details).
+Index of sprint acceleration performance. The variable representing the ath-
+lete’s sprint acceleration performance is the most important since it is what athletes
+and coaches want to improve. This index should be chosen regarding the sport
+activity and the position of the player on the ﬁeld for team sports. For instance, the
+performance can be characterized by the time at 50 m for 100-m sprinters, the time
+at 20 or 30 m for soccer players or rugby backs and the time at 10 or 15 m for a
+soccer goal keeper or rugby forwards. In some cases, the distance cover during a
+given time (for instance 2 or 4 s) also makes lots of sense. For the following
+variables, the distance or duration to consider for the acceleration phase have also
+to be determined according to the speciﬁcity of the performance to improve and the
+distance over which sprint acceleration should be optimized (short or long sprint
+accelerations).
+Index of horizontal power and force produced during acceleration. Sprint
+acceleration performance is directly related to the mean horizontal power output
+developed over the acceleration phase (Morin et al. 2011a, 2012), and also in turn
+to the mean horizontal force produced since running speed is the consequence of
+the horizontal force production. So, mean horizontal power and mean horizontal
+force (expressed or not relatively to body mass) over the targeted distance/time are
+two macroscopic indexes of the athlete’s actual mechanical production during the
+test, even if the associated information are very close of those brought by the
+acceleration performance indexes.
+Index of horizontal power and force production capabilities. The horizontal
+power and force actually produced during the sprint acceleration phase depends on
+the maximal horizontal force production capability. The latter can be dissociated in
+two different and independent abilities. First, the ability to produce very high level
+of horizontal force at low velocities is characterized by the theoretical maximal FH
+athlete can produced (F0) and mainly refers to the initial pushes of the athlete onto
+the ground during sprint acceleration. Second, the ability to keep developing
+horizontal force at very high velocities is quantiﬁed by the theoretical maximal
+velocity (v0) which represents the maximal velocity until which the athlete is able to
+produced horizontal force. The weight of F0 and v0 in mean force production, and
+so in sprint acceleration performance, depends on the acceleration distance to
+256
+P. Samozino
+
+
+<!-- Page 258 -->
+cover. The maximal power output ðPHmaxÞ is the combination of F0 and v0, and
+reﬂects the overall mechanical output capabilities of the athlete.
+Indexes of mechanical effectiveness of force application. The capability to
+produce horizontal force during sprinting depends on lower limb capability to
+produce force and on the ability to orient it effectively (i.e. horizontally) onto the
+ground. The overall mechanical effectiveness of an athlete during sprinting accel-
+eration is well quantiﬁed by the mean RF over the targeted distance/time. As for the
+force production capabilities, the overall mechanical effectiveness can be dissoci-
+ated in two different abilities. First, the ability to orient effectively the force pro-
+duced at low velocities, i.e. in the ﬁrst steps of the acceleration phase, is well
+characterized by the maximal RF value (RFmax). Second, the ability to maintain
+high level of effectiveness despite the increase in velocity, well quantiﬁed by the
+rate of decrease in RF with velocity (DRF). The analysis of these different
+mechanical effectiveness indexes in parallel with the previous ones related to force
+production capabilities allows coaches to distinguish what is associated to athlete’s
+“physical” qualities (lower limb muscle force production capabilities) and “tech-
+nical” abilities (mechanical effectiveness of force application), which can help them
+to orient training on each athlete’s strengths and/or weaknesses in the aims to
+improve performance or prevent from some muscular injuries. This will be
+addressed in the two following sections.
+11.6.3
+Optimization of Sprint Acceleration Performance
+When a training program is designed to improve sprint acceleration performance,
+the simple sprint method and all the above-mentioned indexes can be used to
+compare athletes to others or to the rest of the team (e.g. Cross et al. 2015), and to
+follow each athlete within the season or between seasons. The training content can
+be individualized to mainly focus on weaknesses, while trying to keep strengths at
+similar level, and planned regarding the distance over which sprint acceleration
+should be optimized.
+Comparison between athletes. The interest of FvP proﬁling to optimize sprint
+acceleration performance has been well illustrated through the case report presented
+in Morin and Samozino (2016) with two rugby players of an elite union team
+(Fig. 11.9). They have similar sprint acceleration performance over 20 m, but with
+opposite force production capabilities. Player #1 presents higher horizontal force
+production capabilities in the ﬁrst slow steps of the sprint (i.e. higher F0) but lower
+ones at high velocities (i.e. v0) than Player #2. These differences in horizontal force
+production are mainly due to differences in mechanical effectiveness: Player #1 has
+a higher mechanical effectiveness at low running speeds than Player #2 (RFmax),
+but he is less able to maintain this effectiveness when speed increases
+(DRF = −7.7% s m-1, i.e. loss of 7.7% of effectiveness at each increase of 1 m s−1
+in speed) compared to Player #2 for who the effectiveness is only altered by 5.8%
+for the same speed increment. If the training program for these two players is
+designed to improve sprint performance (e.g., here 20-m time), it should target
+different capabilities. A similar program given to these players, based on the fact
+11
+A Simple Method for Measuring Force, Velocity …
+257
+
+
+<!-- Page 259 -->
+that they have similar 20-m sprint times, will very likely result in suboptimal
+adaptations for both of them. Player #2 should develop F0 through increasing
+RFmax and/or his lower limb muscle power (to increase the amount of total force
+produced). The latter can be assessed using FvP proﬁling in jumping described in
+Fig. 11.9 Horizontal force-velocity proﬁles of 2 elite rugby union players obtained using the
+simple sprint method from maximal 30-m sprints. Both players reached their maximal running
+speed before the 30-m mark
+258
+P. Samozino
+
+
+<!-- Page 260 -->
+Chap. 4. Contrastingly, Player #1 has to increase v0, notably by improving his
+mechanical effectiveness at high velocities in order to decrease DRF.
+Effect of training. Training programs focusing on F0 or v0 are very different since
+they refer to opposite training modalities associated to different movement veloci-
+ties, force to produce, body positions or segment conﬁgurations. For instance,
+resisted sled training represents a speciﬁc means of providing overload to
+horizontal-force capacities which is practical and cost-effective training modality,
+and which can be used very easily by soccer players of all levels (Petrakos et al.
+2016). We recently showed that very-heavy sled training using much greater loads
+than traditionally recommended (sled with a load of *80% of body mass, Cross
+et al. 2017) clearly increased F0 and RFmax, with trivial effect on v0 (Morin et al.
+2017). Contrastingly, training horizontal force production speciﬁcally at very high
+velocities, as during over speed conditions, should improve DRF and v0 (work
+currently in progress). Recently, a case report from Cameron Josse, an US strength
+and conditioning coach, brought supports to the sensibility of v0 to speciﬁc training.
+He used FvP proﬁle in sprinting (using MySprint App) with a National Football
+League Linebacker during an 8 week training focusing on high velocity sprinting.
+This training included long accelerations (from 20 to 50 m), most of them being
+performed in an upright posture, technical drills aiming at emphasizing frontside
+mechanics when running upright and some horizontal plyometrics (e.g. power skips
+for maximal distance). This training induced a decrease in F0, RFmax and PHmax, but
+an increase in v0, 10-m mean RF and DRF (Table 11.2). This leads to improvements
+in the actual maximal running speed reached (*+6%) and time to cover 30 m
+(*+3%), while no gain in 10- and 20-m split times (Table 11.2). This case report
+well supports the positive effect of training exercises focusing on improving the
+Table 11.3 Changes in sprint acceleration performance, horizontal power and force production
+capabilities and mechanical effectiveness for a NFL linebacker following 8 weeks of speciﬁc
+high-velocity sprint training
+Pre-training
+Post-training
+%
+change
+Indexes of sprint acceleration
+performance
+10-m time (s)
+1.93
+1.96
+1.6
+20-m time (s)
+3.22
+3.21
+−0.3
+30-m time (s)
+4.42
+4.33
+−2.0
+Actual maximal
+velocity (m s−1)
+8.22
+8.7
+5.8
+Indexes of horizontal power and
+force production capabilities
+F0 (N kg−1)
+10.2
+9.2
+−9.8
+v0 (m s−1)
+8.39
+8.91
+6.2
+PHmax (W kg−1)
+21.5
+20.5
+−4.7
+SFV (N s m−1 kg-1)
+−1.22
+−1.03
+−15.1
+Indexes of mechanical
+effectiveness of force application
+RFmean over 10 m
+(%)
+31.9
+33.1
+3.8
+RFMAX (%)
+59
+57
+−3.4
+DRF (% s m−1)
+−11.1
+−9.4
+−15.3
+11
+A Simple Method for Measuring Force, Velocity …
+259
+
+
+<!-- Page 261 -->
+ability to keep producing horizontal force at high velocities (and so with an upright
+position) on v0 and DRF, and in turn on long sprint acceleration performance.
+Force-velocity proﬁle versus Split times. Since 5-m splits and 30–40-m ﬂying
+splits are well correlated with F0 or v0, respectively (personal data), some strength
+and conditioning coaches have used these split times or their ratio (5-m/30–40 m) to
+have information about force and velocity capabilities of their athletes/players. This
+could give an overall good view of the individual F-v proﬁle in sprinting, but limited
+and approximate. Indeed, considering a performance (here sprint split times) as an
+interchangeable information for the underlying neuromuscular properties or physi-
+ological mechanisms (even if there are good correlations between them) can lead to
+inaccuracies, which can be acceptable for recreational athletes but risked for high
+level population. This is a bit like considering jump height is a good index of lower
+limbs maximal power, which is not exactly the case as discussed in the previous
+chapter on the optimal F-v proﬁle (Chap. 5). Personal simulations performed using
+the published equations show that two players may have the same 5-m splits and
+different F-v proﬁles characterized by different F0 (up to 10–15%). The F-v proﬁle is
+interesting since it brings information about what causes the performance, and not
+the performance per se (Buchheit et al. 2014b). The latter depends on other factors
+than only the mechanical properties, as the body mass (same split times with two
+different body mass does not correspond to the same F-v proﬁle) or the distance
+targeted for the split times. Moreover, split times do not differentiate between force
+production capability and the effectiveness of force application, which brings very
+interesting additional information, as illustrated in the previous case report. Finally,
+we have no idea towards which value should tend a short/long split ratio
+(5-m/30–40 m), while the optimization of the F-v proﬁle in sprint is conceivable, as
+it has been done in jumping with the optimal F-v proﬁle (current work in progress).
+11.6.4
+Hamstring Injury Prevention and Monitoring
+of the Return to Sport
+Given (i) the role of hip extensors, and notably hamstrings, in horizontal force
+production during sprinting (see section about “the hip extensors hypothesis” in
+previous chapter) and (ii) the high occurrence of hamstring muscle injuries during
+high-speed and power actions such as sprinting, notably in soccer (Woods et al.
+2004), it could have been expected that the alteration of hamstring muscle function
+(as before or after an injury) could affect FvP proﬁle in sprinting. So, through
+collaborations leaded by Jurdan Mendiguchia, we have recently studied FvP proﬁle
+in sprint in the context of hamstring injuries.
+260
+P. Samozino
+
+
+<!-- Page 262 -->
+FvP proﬁle in sprint and return to sport after a hamstring injury. First, we
+showed that soccer players returning from a recent hamstring injury and being
+cleared to play, had substantial lower sprinting speed performance and reduced
+mechanical horizontal properties, notably F0, compared with the uninjured players
+(Mendiguchia et al. 2014). Approximately two months of regular soccer training
+after return to sport, substantial improvements in sprinting speed (acceleration)
+were observed concomitantly with an increase in F0 until similar levels as uninjured
+players, whereas v0 remained unaltered (Fig. 11.10). Therefore, practitioners should
+consider assessing and training horizontal force production during sprint running
+after acute hamstring injuries in soccer players before return to sport. Second, the
+sensibility of F0 to weakness or alteration of hamstring muscles were supported by
+the changes in FvP properties of sprinting in two injury case studies related to
+hamstring strain management (Mendiguchia et al. 2016). The Case #1 concerned a
+professional rugby player during a repeated sprint task (10 sprints of 40 m) when an
+injury occurred (5th sprint). The Case #2 refers to a professional soccer player prior
+to (8 days) and after (33 days) an acute hamstring injury. The results showed that
+F0 was altered both before and after return to sport from a hamstring injury in these
+two elite athletes with little or no change in v0. They also underlined that the simple
+on-ﬁeld sprinting method was sensitive enough to indicate speciﬁc changes in
+horizontal mechanical properties pre- or pro-ceding an acute hamstring injury (the
+delay between the change observed in mechanical outputs and the injury might be
+as short as one or two sprints in the rugby player’s case). So, practitioners should
+consider regularly monitoring horizontal force production during sprint running
+both from a performance and injury prevention perspective.
+FvP proﬁle in sprint and hamstring injury prevention. Given the previous
+results about association between horizontal force capabilities and hamstring
+muscles alterations, we hypothesized that lower and/or decrease in the horizontal
+force propulsion could reveal a functional weakness of hamstring muscles which
+could predispose them to an upcoming injury (Edouard et al. in submission
+Fig. 11.10 Force- and power-velocity relationships (and associated F0, v0 and PHmax) of soccer
+players at the moment of return to sport after an hamstring muscle injury and 2 months after return
+to sport, and of uninjured soccer players. Lines represents averaged curves of the groups (standard
+deviations are not shown for clarity reasons) (from Mendiguchia et al. 2014)
+11
+A Simple Method for Measuring Force, Velocity …
+261
+
+
+<!-- Page 263 -->
+process). This was tested on a cohort of 93 collegiate Japanese soccer players over
+an entire season with tests of sprint FvP proﬁle every three months. Results showed
+that, in addition to the fact that previous hamstring injury was associated with
+higher risk of new hamstring injury (as previously reported), a lower F0 was sta-
+tistically related to a higher risk of sustaining a new hamstring injury. These
+ﬁndings, based only on tests over one season and 8 hamstring injuries, have to be
+conﬁrmed by further prospective cohort study, which is currently in progress.
+11.6.5
+Better Understanding of the Limit of Human
+Sprinting Performance
+Besides to be a practical method to be used for performance optimization and injury
+prevention, the sprint simple method can also help to bring new insights into the
+limits of human locomotion since it makes possible to estimate sprinting
+mechanical properties of the fastest men and women on earth of all time, without
+having testing them in the lab. In 2017, we compared the FvP proﬁles of women
+and men during 100-m ﬁnals of international events (World championships and
+Olympic Games) of the past 30 years based on split times provided by the IAAF
+Biomechanics reports after most of these competitions1 (Slawinski et al. 2017). This
+comparison allowed to better understand the origins of differences in sprint running
+performances between men and women, notably during the acceleration phase. All
+the sprinting FvP proﬁle variables were greater in men than in women. The *20%
+higher PHmax values for men were explained by both *10% higher F0 (normalized
+to body mass) and v0 values (Fig. 11.11). However, when standardized to
+inter-individual variability, the difference in v0 between men and women is extre-
+mely large (effect size of 5.5) while the difference in F0 is only moderate (effect
+size = 0.88). Moreover, only v0 was correlated to 100-m performance, which means
+that the higher 100-m sprinting performances in men compared to women are
+mainly explained by a higher capability to keep producing horizontal force onto the
+ground at very high velocity, and thus to keep accelerating.
+When we focus on the acceleration phase of some historical 100-m World
+records, we can have a roughly view of the evolution over time in the limit of
+human sprinting mechanical properties. Based on split and reaction times provided
+by the IAAF Biomechanics reports, sprinting FvP proﬁles has been estimated for
+the world records of Carl Lewis in 1991 (9.86 s, Tokyo), Maurice Greene in 1999
+(9.79 s, Athens) and Usain Bolt in 2009 (9.58 s, Berlin), each of them representing
+a speciﬁc era in the sprint story. An approximate estimation of the FvP proﬁle of
+Jesse Owens when he obtained the World record in 1936 (10.2 s, Chicago) has also
+been done, but with less reliability than the previous ones. Figure 11.12 presented
+their FvP proﬁles, and shows that the increase in 100-m performance is associated
+1http://www.iaaf.org/.
+262
+P. Samozino
+
+
+<!-- Page 264 -->
+to an increase in power capabilities and an overall shift to the top and the left of the
+F-v relationship. These changes were mainly due to changes in equipment (notably
+from forties to nineties with for instance spikes and Tartan(R)), training methods and
+loads or athlete’s professionalization. It is worth noting that Maurice Green and
+Usain Bolt presented similar maximal power output during their World record, but
+with a different Fv proﬁle: a Fv proﬁle more oriented towards velocity capabilities
+for Bolt. Even if Bolt ran the 10 ﬁrst meters slower than Green (1.74 s vs. 1.73 s,
+respectively, reaction time not included), he would have virtually been in front of
+Green from *20 m (2.76 s vs. 2.73 s, respectively, reaction time not included) to
+the ﬁnish line. This underlines the higher importance, in long sprint performance, of
+Fig. 11.11 Mean ± SD of force- and power-velocity relationships of world class women (solid
+lines) and men (dashed lines) athletes during 100-m ﬁnals of international events (World
+championships and Olympic Games) of the past 30 years based on split times provided by the
+International Association of Athletics Federations Biomechanics reports (from Slawinski et al.
+2017)
+11
+A Simple Method for Measuring Force, Velocity …
+263
+
+
+<!-- Page 265 -->
+the capability to keep producing horizontal force at high velocities than the capa-
+bility to produce high level of horizontal force at low ones. This speciﬁc capability
+seems to be the main limit of human high speed bipedal locomotion.
+11.7
+Conclusion
+This chapter presents an accurate and reliable simple method to determine the
+mechanical properties of the force production during sprinting. This method, based
+on a macroscopic biomechanical model and validated in laboratory conditions in
+comparison to force plate measurements, is very convenient for ﬁeld use since it
+only requires anthropometric (body mass and stature) and spatio-temporal (split
+times or instantaneous velocity) input variables. It provides different information on
+the athlete’s horizontal force production capabilities: maximal power output,
+maximal horizontal force, maximal velocity until which horizontal force can be
+produced and mechanical effectiveness of force application onto the ground. These
+information present interesting practical applications for sport practitioners to
+individualize training focusing on sprint acceleration performance, but also in
+hamstring injury prevention perspectives.
+Fig. 11.12 Estimations of force- and power-velocity relationships of four historic 100-m World
+record holders: Jesse Owens in 1936 (10.2 s, Chicago), Carl Lewis in 1991 (9.86 s, Tokyo),
+Maurice Greene in 1999 (9.79 s, Athens), Usain Bolt in 2009 (9.58 s, Berlin). These sprinting
+mechanical properties have been estimated from split times of the acceleration phase of their
+respective World record run, which was provided by the International Association of Athletics
+Federations Biomechanics reports
+264
+P. Samozino
+
+
+<!-- Page 266 -->
+References
+Arsac LM, Locatelli E (2002) Modeling the energetics of 100-m running by using speed curves of
+world champions. J Appl Physiol 92(5):1781–1788. https://doi.org/10.1152/japplphysiol.
+00754.2001
+Aughey RJ (2011) Applications of GPS technologies to ﬁeld sports. Int J Sports Physiol Perform 6
+(3):295–310
+Barbero-Alvarez JC, Coutts A, Granda J, Barbero-Alvarez V, Castagna C (2010) The validity and
+reliability of a global positioning satellite system device to assess speed and repeated sprint
+ability (RSA) in athletes. J Sci Med Sport 13(2):232–235. https://doi.org/10.1016/j.jsams.2009.
+02.005
+Bezodis NE, Salo AI, Trewartha G (2012) Measurement error in estimates of sprint velocity from a
+laser displacement measurement device. Int J Sports Med 33(6):439–444. https://doi.org/10.
+1055/s-0031-1301313
+Buchheit
+M,
+Al
+Haddad
+H,
+Simpson
+BM,
+Palazzi
+D,
+Bourdon
+PC,
+Di
+Salvo
+V,
+Mendez-Villanueva A (2014a) Monitoring accelerations with GPS in football: time to slow
+down? Int J Sports Physiol Perform 9(3):442–445. https://doi.org/10.1123/ijspp.2013-0187
+Buchheit M, Samozino P, Glynn JA, Michael BS, Al Haddad H, Mendez-Villanueva A, Morin JB
+(2014b) Mechanical determinants of acceleration and maximal sprinting speed in highly trained
+young soccer players. J Sports Sci 32(20):1906–1913. https://doi.org/10.1080/02640414.2014.
+965191
+Cavagna GA, Komarek L, Mazzoleni S (1971) The mechanics of sprint running. J Physiol 217
+(3):709–721
+Chelly SM, Denis C (2001) Leg power and hopping stiffness: relationship with sprint running
+performance. Med Sci Sports Exerc 33(2):326–333
+Cross MR, Brughelli M, Brown SR, Samozino P, Gill ND, Cronin JB, Morin JB (2015)
+Mechanical properties of sprinting in elite rugby union and rugby league. Int J Sports Physiol
+Perform 10(6):695–702. https://doi.org/10.1123/ijspp.2014-0151
+Cross MR, Brughelli M, Samozino P, Brown SR, Morin JB (2017) Optimal loading for
+maximising power during sled-resisted sprinting. Int J Sports Physiol Perform 1–25. https://doi.
+org/10.1123/ijspp.2016-0362
+di Prampero PE, Botter A, Osgnach C (2015) The energy cost of sprint running and the role of
+metabolic power in setting top performances. Eur J Appl Physiol 115(3):451–469. https://doi.
+org/10.1007/s00421-014-3086-4
+di Prampero PE, Fusi S, Sepulcri L, Morin JB, Belli A, Antonutto G (2005) Sprint running: a new
+energetic approach. J Exp Biol 208:2809–2816
+Edouard P, Nagahara R, Samozino P, Rossi J, Brughelli M, Mendiguchia J, Morin J (under
+review) Is maximal horizontal force output during sprint acceleration associated with increased
+risk of hamstring muscle injuries in soccer: a pilot prospective study?
+Furusawa K, Hill AV, Parkinson JL (1927) The dynamics of “sprint” running. Proc R Soc B
+102:29–42
+Haugen T, Buchheit M (2016) Sprint running performance monitoring: methodological and
+practical considerations. Sports Med 46(5):641–656. https://doi.org/10.1007/s40279-015-
+0446-0
+Helene O, Yamashita MT (2010) The force, power and energy of the 100 meter sprint. Am J Phys
+78:307–309
+Henry FM (1954) Time-velocity
+equations
+and oxygen requirements
+of “all-out” and
+“steady-pace” running. Res Q 25:164–177
+Jaskolska A, Goossens P, Veenstra B, Jaskolski A, Skinner JS (1999) Treadmill measurement of
+the force-velocity relationship and power output in subjects with different maximal running
+velocities. Sports Med Train Rehab 8:347–358
+Jaskolski A, Veenstra B, Goossens P, Jaskolska A, Skinner JS (1996) Optimal resistance for
+maximal power during treadmill running. Sports Med Train Rehabil 7:17–30
+11
+A Simple Method for Measuring Force, Velocity …
+265
+
+
+<!-- Page 267 -->
+Jennings D, Cormack S, Coutts AJ, Boyd LJ, Aughey RJ (2010) Variability of GPS units for
+measuring distance in team sport movements. Int J Sports Physiol Perform 5(4):565–569
+Kawamori N, Newton R, Nosaka K (2014) Effects of weighted sled towing on ground reaction
+force during the acceleration phase of sprint running. J Sports Sci 32(12):1139–1145. https://
+doi.org/10.1080/02640414.2014.886129
+Lockie RG, Murphy AJ, Schultz AB, Jeffriess MD, Callaghan SJ (2013) Inﬂuence of sprint
+acceleration stance kinetics on velocity and step kinematics in ﬁeld sport athletes. J Strength
+Cond Res 27(9):2494–2503. https://doi.org/10.1519/JSC.0b013e31827f5103
+Mendiguchia J, Edouard P, Samozino P, Brughelli M, Cross M, Ross A, Gill N, Morin JB (2016)
+Field monitoring of sprinting power-force-velocity proﬁle before, during and after hamstring
+injury: two case reports. J Sports Sci 34(6):535–541. https://doi.org/10.1080/02640414.2015.
+1122207
+Mendiguchia
+J,
+Samozino
+P,
+Martinez-Ruiz
+E,
+Brughelli
+M,
+Schmikli
+S,
+Morin
+JB,
+Mendez-Villanueva A (2014) Progression of mechanical properties during on-ﬁeld sprint
+running after returning to sports from a hamstring muscle injury in soccer players. Int J Sports
+Med 35(8):690–695. https://doi.org/10.1055/s-0033-1363192
+Morin JB, Bourdin M, Edouard P, Peyrot N, Samozino P, Lacour JR (2012) Mechanical
+determinants of 100-m sprint running performance. Eur J Appl Physiol 112(11):3921–3930.
+https://doi.org/10.1007/s00421-012-2379-8
+Morin JB, Edouard P, Samozino P (2011a) Technical ability of force application as a determinant
+factor of sprint performance. Med Sci Sports Exerc 43(9):1680–1688
+Morin JB, Jeannin T, Chevallier B, Belli A (2006) Spring-mass model characteristics during sprint
+running: correlation with performance and fatigue-induced changes. Int J Sports Med 27
+(2):158–165. https://doi.org/10.1055/s-2005-837569
+Morin JB, Petrakos G, Jimenez-Reyes P, Brown SR, Samozino P, Cross MR (2017) Very-heavy
+sled training for improving horizontal-force output in soccer players. Int J Sports Physiol
+Perform 12(6):840–844. https://doi.org/10.1123/ijspp.2016-0444
+Morin JB, Samozino P (2016) Interpreting power-force-velocity proﬁles for individualized and
+speciﬁc training. Int J Sports Physiol Perform 11(2):267–272
+Morin JB, Samozino P, Bonnefoy R, Edouard P, Belli A (2010) Direct measurement of power
+during one single sprint on treadmill. J Biomech 43(10):1970–1975
+Morin JB, Samozino P, Edouard P, Tomazin K (2011b) Effect of fatigue on force production and
+force application technique during repeated sprints. J Biomech 44(15):2719–2723. https://doi.
+org/doi:10.1016/j.jbiomech.2011.07.020 (S0021-9290(11)00526-4 [pii])
+Nagahara R, Botter A, Rejc E, Koido M, Shimizu T, Samozino P, Morin JB (2017) Concurrent
+validity of GPS for deriving mechanical properties of sprint acceleration. Int J Sports Physiol
+Perform 12(1):129–132. https://doi.org/10.1123/ijspp.2015-0566
+Petrakos G, Morin JB, Egan B (2016) Resisted sled sprint training to improve sprint performance:
+a systematic review. Sports Med 46(3):381–400. https://doi.org/10.1007/s40279-015-0422-8
+Rabita G, Dorel S, Slawinski J, Saez de villarreal E, Couturier A, Samozino P, Morin JB (2015)
+Sprint mechanics in world-class athletes: a new insight into the limits of human locomotion.
+Scand J Med Sci Sports. https://doi.org/10.1111/sms.12389
+Rampinini E, Alberti G, Fiorenza M, Riggio M, Sassi R, Borges TO, Coutts AJ (2015) Accuracy
+of GPS devices for measuring high-intensity running in ﬁeld-based team sports. Int J Sports
+Med 36(1):49–53. https://doi.org/10.1055/s-0034-1385866
+Romero-Franco N, Jimenez-Reyes P, Castano-Zambudio A, Capelo-Ramirez F, Rodriguez-Juan
+JJ, Gonzalez-Hernandez J, Toscano-Bendala FJ, Cuadrado-Penaﬁel V, Balsalobre-Fernandez C
+(2016) Sprint performance and mechanical outputs computed with an iPhone app: comparison
+with existing reference methods. Eur J Sport Sci:1–7. https://doi.org/10.1080/17461391.2016.
+1249031
+Samozino P, Morin JB, Hintzy F, Belli A (2008) A simple method for measuring force, velocity
+and power output during squat jump. J Biomech 41(14):2940–2945
+Samozino P, Morin JB, Hintzy F, Belli A (2010) Jumping ability: a theoretical integrative
+approach. J Theor Biol 264(1):11–18
+266
+P. Samozino
+
+
+<!-- Page 268 -->
+Samozino P, Rabita G, Dorel S, Slawinski J, Peyrot N, Saez de Villarreal E, Morin JB (2016) A
+simple method for measuring power, force, velocity properties, and mechanical effectiveness in
+sprint running. Scand J Med Sci Sports 26(6):648–658. https://doi.org/10.1111/sms.12490
+Samozino P, Rejc E, Di Prampero PE, Belli A, Morin JB (2012) Optimal force-velocity proﬁle in
+ballistic movements. Altius: citius or fortius? Med Sci Sports Exerc 44(2):313–322
+Simperingham KD, Cronin JB, Ross A (2016) Advances in sprint acceleration proﬁling for
+ﬁeld-based team-sport athletes: utility, reliability, validity and limitations. Sports Med 46
+(11):1619–1645. https://doi.org/10.1007/s40279-016-0508-y
+Slawinski J, Bonnefoy A, Ontanon G, Leveque JM, Miller C, Riquet A, Cheze L, Dumas R (2010)
+Segment-interaction in sprint start: analysis of 3D angular velocity and kinetic energy in elite
+sprinters. J Biomech 43(8):1494–1502. https://doi.org/10.1016/j.jbiomech.2010.01.044
+Slawinski J, Termoz N, Rabita G, Guilhem G, Dorel S, Morin JB, Samozino P (2017) How 100-m
+event analyses improve our understanding of world-class men’s and women’s sprint
+performance. Scand J Med Sci Sports 27(1):45–54. https://doi.org/10.1111/sms.12627
+van Ingen Schenau GJ, Jacobs R, de Koning JJ (1991) Can cycle power predict sprint running
+performance? Eur J Appl Physiol Occup Physiol 63(3–4):255–260
+Woods C, Hawkins RD, Maltby S, Hulse M, Thomas A, Hodson A, Football Association Medical
+Research P (2004) The football association medical research programme: an audit of injuries in
+professional football-analysis of hamstring injuries. Br J Sports Med 38(1):36–41
+11
+A Simple Method for Measuring Force, Velocity …
+267
+

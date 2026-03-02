@@ -1,0 +1,1070 @@
+# Chapter 5: Optimal Force-Velocity Profile in Ballistic Push-off
+
+
+<!-- Page 101 -->
+Chapter 5
+Optimal Force-Velocity Proﬁle in Ballistic
+Push-off: Measurement and Relationship
+with Performance
+Pierre Samozino
+Abstract Training or rehabilitation programs have to induce changes in force(F)-
+velocity(v)-power(P) capabilities according to both mechanical demands of the
+targeted task and actual athlete’s muscle capabilities. To determine individual
+strengths and weaknesses and then individualize strength training modalities, it is
+essential to know which mechanical capabilities lower limb muscles have to present
+to maximize ballistic push-off performances. In this chapter, we explore the rela-
+tionship between the different lower limb muscle mechanical capabilities and bal-
+listic push-off performances. A biomechanical model is presented to bring new
+insights on the effect of F-v proﬁle on ballistic performances, notably on the
+existence of an optimal F-v proﬁle. The latter can be accurately determined for each
+athlete using equations given in this chapter and usual squat jump FvP proﬁle
+evaluations, including testing using the simple ﬁeld method presented in Chap. 4.
+This makes possible the determination of F-v imbalance (towards force or velocity
+capabilities) and the quantiﬁcation of the magnitude of the associated force or
+velocity deﬁcits. These indexes constitute interesting tools to individualize athlete’s
+training programs aiming to improve athletes’ ballistic performance. These indi-
+vidual programs should focus on increasing lower limb maximal power and/or
+decreasing force-velocity imbalance. The effectiveness of such an individualized
+“optimized” training was shown to be greater than a traditional strength training
+similar for all athletes. This supports the great interest for strength and conditioning
+coaches, who aim to improve athlete’s ballistic performance, to evaluate FvP proﬁle
+on each of their athlete and to consider F-v imbalance to design individually
+training regimen.
+P. Samozino (&)
+Laboratoire Inter-universitaire de Biologie de la Motricité, Université de Savoie Mont Blanc,
+Campus Scientiﬁque, 73000 Le Bourget du Lac, Chambéry, France
+e-mail: pierre.samozino@univ-smb.fr
+© Springer International Publishing AG 2018
+J.-B. Morin and P. Samozino (eds.), Biomechanics of Training and Testing,
+https://doi.org/10.1007/978-3-319-05633-3_5
+97
+
+
+<!-- Page 102 -->
+5.1
+Introduction
+The previous chapter presents a simple method to evaluate power muscle capa-
+bilities and F-v mechanical proﬁle of lower limbs during ballistic push-off in real
+practice ﬁeld conditions (see Chap. 4 for more details on these concepts and
+method). Training or rehabilitation programs have to induce changes in these
+capabilities according to both mechanical demands of the targeted task and actual
+athlete’s muscle capabilities. To use the simple jumping method to determine
+individual strengths and weaknesses and then individualize strength training
+modalities, it is essential to know which mechanical capabilities lower limb muscles
+have to present to maximize ballistic push-off performance. Notably, one of the
+main questions scientists, coaches, or athletes ask when exploring factors for
+optimizing ballistic performance is which mechanical quality of the neuromuscular
+system is more important: ‘‘force’’ or ‘‘velocity’’ mechanical capability?
+Acyclic ballistic performances are determined by the capability to accelerate a
+mass (its own body mass or an external mass) as much as possible to reach the
+highest velocity at the end of a push-off, such a common limb extension. From
+Newton’s second law of motion, the velocity reached by the body center of mass
+(CM) at the end of a push-off (or take-off velocity) directly depends on the
+mechanical impulse developed in the movement direction, i.e. the integration of the
+force produced over the time (Winter 2005; McBride et al. 2010; Knudson 2009).
+However, the ability to develop a high impulse cannot be considered as a
+mechanical capabilities of the neuromuscular system: we cannot say that an athlete
+presents a high mechanical impulse ability. The mechanical impulse is directly
+associated to the movement/task constraints and not only to the individual prop-
+erties. It is important to differentiate mechanical outputs characterizing the
+movement/task (e.g. external force, movement velocity, power output, impulse,
+mechanical work) from mechanical capabilities of the neuromuscular system which
+represent the maximal limit of what the athlete muscles can produce. So, the issue is
+to identify which mechanical muscle capability(ies) determine(s) the ability to
+produce a high mechanical impulse.
+Developing a high impulse during a lower or upper limb push-off, and in turn
+accelerating a mass as much as possible, has often been assumed to depend on
+muscle power capabilities (Vandewalle et al. 1987; James et al. 2007; Yamauchi
+and Ishii 2007; Newton and Kraemer 1994; Frost et al. 2010; Samozino et al. 2008;
+McBride et al. 2010). It is why many sports performance practitioners, interested in
+ballistic performances, focus in improving muscular power (Cormie et al. 2011b;
+Frost et al. 2010; Cronin and Sleivert 2005; McBride et al. 2002; Cormie et al.
+2011a). However, maximal power output may be improved by increasing the ability
+to develop high levels of force at low velocities (henceforth called “force capa-
+bilities” or “maximal strength”) and/or lower levels of force at high velocities
+(henceforth called “velocity capabilities”) (McBride et al. 2002; Cormie et al.
+2011b; Cronin et al. 2001). One of the main issues for strength and conditioning
+coaches is to determine where to place the training “cursor” within the continuum
+98
+P. Samozino
+
+
+<!-- Page 103 -->
+between these two extreme training modalities: maximal force and maximal
+velocity strength training. Which are the muscle mechanical capabilities to train to
+improve power capabilities and in turn ballistic performance at best?
+In this chapter, we will explore the relationship between the different lower limb
+muscle mechanical capabilities and ballistic push-off performances. First, this will
+be studied from previous experimental data. Then, a biomechanical model will be
+presented to bring new insights on the effect of F-v proﬁle on ballistic perfor-
+mances, notably on the existence of an optimal F-v proﬁle. Experimental data and
+practical applications and examples will be put forward to support this biome-
+chanical model and its associated ﬁndings.
+5.2
+Force, Velocity, Power Capabilities & Performance
+5.2.1
+Performance and Maximal Power Output
+As previously mentioned, ballistic push-off performances are often been explored
+through maximal jumping performances. Jump height has mostly been related to
+lower limb maximal power output (Pmax, Newton and Kraemer 1994), the latter
+being measured during pedaling (Driss et al. 1998; Vandewalle et al. 1987; Hautier
+et al. 1996), jumping (Samozino et al. 2014; McBride et al. 2010) or horizontal leg
+press movement (Yamauchi and Ishii 2007). The high magnitudes and occurrences
+of correlation between jump height and Pmax (from 0.65 to 0.87 when Pmax is
+expressed relatively to body weight) well support the important inﬂuence of Pmax
+on ballistic push-off performances (Fig. 5.1). Interestingly, the understanding of the
+muscle properties determining jumping performance has also been extensively
+studied in animals, as frogs or bushbabies, with a similar high relationship with
+muscle power capabilities (James et al. 2007; Aerts 1998; Marsh 1994). This
+explains the wide interest of sports performance practitioners in improving mus-
+cular power (Cormie et al. 2011b; Frost et al. 2010; Cronin and Sleivert 2005;
+McBride et al. 2002; Cormie et al. 2011a).
+However, although high and signiﬁcant, the correlations between Pmax and
+jumping performances are not perfect and shows (interpreting the r2 values) that
+only *40–80% of the differences in jumping performances between athletes can be
+explained by differences in Pmax (Fig. 5.1). Even if a part of this non-explained
+variability in jump height can be attributed to the speciﬁc experimental conditions
+and to the inevitable measurement noise and variability, the potential effects of
+others muscle qualities, as F-v proﬁle, cannot be ruled out. This was one of the
+conclusions of the review of Cronin and Sleivert about the understanding of the
+inﬂuence of maximal power training on improving athletic performance (Cronin
+and Sleivert 2005): “power is only one aspect that affects performance and it is
+quite likely that other strength measures may be equally if not more important for
+determining the success of certain tasks”.
+5
+Optimal Force-Velocity Proﬁle in Ballistic Push-off …
+99
+
+
+<!-- Page 104 -->
+5.2.2
+Performance and Force-velocity Mechanical Proﬁle
+The effect of force and velocity lower limb capabilities on jumping performance is
+controverted. Driss and colleagues showed a signiﬁcant correlation between jump
+height and the maximal force (F0) normalized to athlete body mass (r = 0.67;
+P < 0.01, Driss et al. 1998), this correlation being shown as non-signiﬁcant by
+Yamauchi & Ishii (r = 0.24; P > 0.05, Yamauchi and Ishii 2007) (Fig. 5.1). These
+contrasted results about the association between jumping performance and maximal
+force capabilities (often evaluated through one maximum repetition tests) have been
+previously reported and discussed (e.g. Ugrinowitsch et al. 2007; Young et al.
+1999; Davis et al. 2003; Cormie et al. 2011b; Stone et al. 2002). Some studies show
+the effect of force capabilities on jump height only when force is assessed at high
+movement velocities and not maximal force values (Eckert 1968; Young et al.
+1999; Genuario and Dolgener 1980). So, velocity capability also seems to affect
+jumping performance, even if correlations with the maximal lower limb extension
+velocity (v0) were shown to be signiﬁcant (r = 0.68; P < 0.001, Yamauchi and Ishii
+2007) or not (r = 0.24; P > 0.05, Driss et al. 1998) (Fig. 5.1).
+All these results do not give a clear view of the effects of lower limb force and
+velocity capabilities on jumping performance, and even less of the effect of F-v
+proﬁle (ratio between force and velocity capabilities, details in previous chapter).
+Fig. 5.1 Correlations between jumping performance and maximal power, force and velocity
+capabilities, the latter being obtained either during pedalling (from Driss et al 1998, on the top) or
+leg press movement (from Yamauchi and Ishii 2007, on the bottom). Correlation and
+determination coefﬁcients, number of subjects and correlation signiﬁcance are presented for each
+relationship
+100
+P. Samozino
+
+
+<!-- Page 105 -->
+The previously mentioned relationships were tested through correlation analyses or
+comparisons between athletes with different training backgrounds. This inevitably
+presents potential interactions with covariant parameters, making thus uncertain the
+causal link between each muscle capability and jumping performance. For instance,
+a signiﬁcant association between maximal strength and jump height (Driss et al.
+1998; Ugrinowitsch et al. 2007) may be due (or partly due) to the fact that, in the
+athlete sample tested, the strongest athletes were also the most powerful, which is
+likely possible since power is a combination of force and velocity capabilities. In
+this case, the lower limb maximal force indirectly may affect jumping performance
+only because it positively inﬂuences power capabilities. This is also true in studies
+testing different training interventions on ballistic performances in which the var-
+ious athletes F-v proﬁles were also associated with various Pmax values among
+subjects, making it impossible to identify the sole effect of the F-v proﬁle (Cronin
+et al. 2001; Harris et al. 2008; Cormie et al. 2007a, 2009, 2010, 2011b; McBride
+et al. 2002).
+So, such experimental analyses have often failed to inform us about the effect of
+force and velocity capabilities on ballistic performances independently from the
+well-known effect of Pmax. Otherwise, it is very difﬁcult to experimentally consider
+or control all the parameters which can affect, together or independently, jumping
+ability. This partly explains the previous contradictory results. For these reasons,
+biomechanical models have been proposed to better understand the mechanical
+factors affecting jumping performance.
+5.2.3
+Biomechanical Models Applied to Ballistic Push-off
+The most famous biomechanical models applied to jumping performance are for-
+ward simulation models that integrate a large amount of morphological, physio-
+logical or neuromuscular variables (Alexander 1995; Bobbert and Van Soest 1994;
+Pandy and Zajac 1991). These models have brought new insights about optimal
+muscular coordination strategies or effects of different jumping techniques, what
+could not have been shown experimentally (e.g. Pandy and Zajac 1991; Alexander
+1995; Bobbert and Casius 2005). However, the numerous inputs used do not
+represent the overall mechanical capabilities of the neuromuscular system, but
+speciﬁc biological features (e.g. isolated muscle force and contraction velocity,
+muscle activation dynamics or architecture) that affect these mechanical properties,
+several of them acting on the same quality. So, they did not isolate the basic lower
+limb mechanical capabilities determining jumping ability, which makes more dif-
+ﬁcult the direct transfer to training applications. Other theoretical frameworks have
+explored these overall mechanical characteristics affecting jumping ability through
+the investigation of the mechanical requirements of maximal jumps. Indeed,
+dynamics analyses of jumping allow one to identify the mechanical outputs of
+push-off determining jumping performance at best. For instance, jumping perfor-
+mance has been mathematically shown to be proportional to the mechanical work
+5
+Optimal Force-Velocity Proﬁle in Ballistic Push-off …
+101
+
+
+<!-- Page 106 -->
+produced during push-off (Emerson 1985; Alexander 2003) or to the mean power
+developed before take-off (Marsh 1994; Minetti 2002). These models, based on
+dynamics principles, showed that maximal jumping performances are determined
+by the capability of lower limbs to produce mechanical work or power, but did not
+identify which muscle capabilities, notably which F-v proﬁle, are associated with
+such outputs.
+In order to have a better understanding of the implication of the different lower
+limb mechanical capabilities, and notably the F-v proﬁle, on ballistic push-off
+performances, we used a biomechanical model only based on simple physical and
+physiological principles applied to the athlete’s body CM during jumping.
+5.3
+An Optimal Force-Velocity Mechanical Proﬁle
+During Jumping
+5.3.1
+Theoretical Bases and Equations
+of the Biomechanical Model
+During a ballistic movement, the mechanical outputs are the results of two different
+mechanical constraints: the fundamental laws of dynamics and the mechanical
+properties of the neuromuscular system. These two mechanical constraints affect
+jumping performance through the interdependence of force production and move-
+ment velocity.
+Previous biomechanical models (e.g. Minetti 2002) have well shown the rela-
+tionship between the external force applied to the body CM and other mechanical
+outputs during a jump, notably movement velocity. For a given mass and lower
+limb extension range, the higher the force produced onto the ground, the higher the
+CM acceleration and in turn the CM velocity. This is the mechanical constraint
+imposed by the movement dynamics, well synthesized by the second Newton’s law
+of motion. So, to jump high, or to reach the highest velocity at the end of a push-off,
+the athlete has to present high movement velocity. To do that, the athlete has thus to
+develop the highest force as possible onto the ground. But, the higher the movement
+velocity, the lower the athlete’s force production capability. This is the mechanical
+constraint associated to the properties of the neuromuscular system well represented
+through the F-v relationship: the higher the lower limb extension velocity, the lower
+the maximal force that can be developed. Consequently, a maximal ballistic per-
+formance is a “circular” interaction between these two mechanical constraints
+which describe opposite relationships between external force and movement
+velocity: increase in velocity when force applied increases (movement dynamics
+constraints) and decrease in force produced when velocity increases (neuromuscular
+constraints) (Samozino et al. 2010; Fig. 5.2). The highest ballistic push-off per-
+formance an athlete can reach is thus achieved in the push-off condition respecting
+these two mechanical constraints, and so corresponding to both muscle maximal
+102
+P. Samozino
+
+
+<!-- Page 107 -->
+capabilities and movement dynamics. The idea of the present biomechanical model
+is to put this “circular” interaction into equations to express the athlete maximal
+performance as a mathematical function of his/her muscle mechanical capabilities.
+The biomechanical model is developed from an analysis of the dynamics of the
+body CM during ballistic performance through maximal jumps at different push-off
+angles. The entire lower limb neuromuscular system is considered as a force
+generator characterized by an inverse linear F-v relationship (as described in
+Chap. 4) and a given range of motion (hPO). The maximal ballistic performance (be
+it during jumping or start sprinting) can be well represented by the maximal CM
+velocity reached at the end of the push-off, i.e. at take-off (vTOmax), and can be
+expressed as (for detailed computations, see Samozino et al. 2010, 2012):
+vTOmax ¼ hPO
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+S2
+Fv
+4 þ
+2
+hPO
+
+2
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+Pmax  SFv
+p
+ g  sina
+
+
+s
+þ SFv
+2
+0
+@
+1
+A
+ð5:1Þ
+when g is the gravitational acceleration (9.81 m s−2), a the push-off angle with
+respect to the horizontal (in deg), hPO the distance covered by the CM during
+push-off corresponding to the extension range of lower limbs (in m), and SFv the F-v
+mechanical proﬁle of lower limbs corresponding to the slope of the linear F-v
+relationship (SFv = −F0/v0).
+Fig. 5.2 Theoretical representation of the mechanical constraints imposed by movement
+dynamics (solid line) and lower limb neuromuscular properties (dashed line) during a typical
+vertical jump. The solid line represents the take-off velocity according to the force produced over
+push-off. The force–velocity conditions (mean force produced and mean velocity over push-off)
+allowed by lower limb mechanical capabilities are represented for sub maximal efforts (grey area)
+and for all-out efforts (dashed line). Note that here, force and velocity axes are switched compared
+to usual ﬁgures of force-velocity relationships presented elsewhere in this book, which does not
+modify the curve interpretation. (From Samozino et al. 2010)
+5
+Optimal Force-Velocity Proﬁle in Ballistic Push-off …
+103
+
+
+<!-- Page 108 -->
+This equation does not aim to predict the performance of a given athlete knowing
+his power capabilities and his F-v proﬁle (you have just to make him jump to have
+this information). This equation help to better understand how the different lower
+limb mechanical capabilities are involved in ballistic performance. First of all, it
+shows that the maximal velocity an athlete can reach at the end of a ballistic push-off
+depends directly on the inclination of the push-off and on lower limb maximal
+power, F-v proﬁle and range of extension. Then, quantiﬁcation of the effect mag-
+nitudes of each properties to performance can be obtained simulating this equation,
+i.e. “playing” with the different variables one after the other. Before that
+(Sect. 5.3.3), it is important to support the validity and the relevance of the proposed
+biomechanical model comparing the equation predictions to experimental data.
+5.3.2
+Validation of the Model
+The validity of the biomechanical model was tested by comparing performances
+predicted by Eq. 5.1 based on mechanical properties measured on different athletes
+to actual performances performed by the same athletes (Samozino et al. 2012).
+Fourteen male athletes practicing physical activities including explosive efforts
+(e.g. basket-ball, rugby, soccer) performed two series of maximal lower limb
+push-offs: (i) horizontal extensions with different resistive forces allowing us to
+determine lower limb F-v relationships; and (ii) inclined jumps used to compare
+experimental performances to theoretical predictions. Tests were realized on the
+Explosive Ergometer of the Department of Biomedical Sciences and Technologies
+of the University of Udine which consists of a metal frame supporting one rail on
+which a seat, ﬁxed on a carriage, was free to move (for more details, see Rejc et al.
+2010; Samozino et al. 2012, Fig. 5.3). For each test, athletes were asked to push on
+two force plates (LAUMAS PA 300, Parma, Italy) positioned perpendicular to the
+rail to accelerate themselves and the carriage seat backward as fast as possible. The
+velocity of the carriage seat along the rail was continuously recorded by a wire
+tachometer (LIKA SGI, Vicenza, Italy). During the ﬁrst series of tests, athletes
+performed horizontal maximal push-offs against 7 different resistive forces (from 0
+to 240% of body weight) to determine individual F-v and P-v relationships and
+associated Pmax, SFv and hPO values. For each athlete, the latter values were used as
+input in the Eq. 5.1 to compute the maximal velocities (vTOmax) he could reach at
+the end of push-offs inclined at different angles from the horizontal (10, 20 and
+30°). These theoretical predicted values were compared to the actual take-off
+velocities measured during the second series of tests consisting of inclined (10, 20
+and 30°) jumps performed as fast as possible. Results showed no signiﬁcant dif-
+ference between actual and predicted values with low absolute errors from 4 to
+6.6% between both (Table 5.1). This supports the validity of the biomechanical
+model and the associated Eq. 5.1, which allowed us to use it for simulations to
+explore how the different mechanical variables, and notably F-v proﬁle, affects
+ballistic performance.
+104
+P. Samozino
+
+
+<!-- Page 109 -->
+5.3.3
+Muscular Capabilities Determining Jumping
+Performance
+The interest of such a model and equation is to isolate the effect of each factor from
+the others, which is very difﬁcult, if not impossible, to do experimentally (Samozino
+et al. 2012). The lower limb extension range (hPO) corresponds to the optimal or
+usual one for each athlete, and so depends on individual intrinsic morphological or
+biological features. Its effect on performance is not of great interest for training
+purposes, it was kept constant here for the different model simulations, but the
+following results were the same whatever the hPO values.
+The ﬁrst result was the large effect of Pmax on ballistic performance with the
+greatest weight among all the other muscular capabilities. This conﬁrms all the
+previous experimental data showing a signiﬁcant (but not perfect) correlation
+Fig. 5.3 Schematic view of the Explosive Ergometer (EXER). The rail can be tilted upward. To
+allow the motor to act on the seat without delays, a constant tension (weight = 196 N) is applied to
+the steel chain (dotted line). (From Samozino et al. 2012)
+Table 5.1 Mean ± SD
+of
+take-off
+velocity
+obtained
+with
+experimental
+and
+theoretical
+approaches, absolute bias between these two approaches, and t-test comparison results (from
+Samozino et al 2012)
+Push-off angle
+(°)
+Experimental values
+(m s−1)
+Theoretical values
+(m s−1)
+t-
+test
+Absolute Bias
+(%)
+10
+2.45 ± 0.22
+2.43 ± 0.18
+ns
+4.40 ± 4.94
+20
+2.32 ± 0.25
+2.25 ± 0.16
+ns
+6.56 ± 5.46
+30
+2.14 ± 0.23
+2.07 ± 0.15
+ns
+5.73 ± 3.89
+ns Non signiﬁcative difference between experimental and theoretical values
+5
+Optimal Force-Velocity Proﬁle in Ballistic Push-off …
+105
+
+
+<!-- Page 110 -->
+between lower limb Pmax and jumping ability (see Sect. 5.2.1). This supports the
+fact that the ability to develop a high impulse against the ground, and in turn the
+ability to reach maximal CM velocity at the end of a push-off, is highly related to
+the maximal power the lower limbs can produce (over a given extension range).
+However, the main ﬁnding was not here the well-known positive effect of Pmax,
+but was rather to show that power capabilities is not the only muscular properties
+involved in jumping performance. Two athletes with the same Pmax (and the same
+hPO) can achieve different velocities at the end of a vertical or horizontal push-offs.
+These differences are due to their respective F-v proﬁles (SFv), i.e. to their respective
+ratios between maximal force (F0) and velocity (v0) capabilities. Indeed, for a given
+Pmax, vTOmax changes as a function of the F-v proﬁle in a curvilinear shape, with a
+maximum value reached for an optimal F-v proﬁle (SFvopt, Fig. 5.4), the latter
+corresponding to the best balance between maximal force and velocity capabilities.
+The more this F-v proﬁle differs from the optimal one, the lower the performance in
+comparison to the one that could be reached with the same power capabilities.
+Consequently, the jumping performances of the two above-mentioned athletes
+presenting the same power capabilities can be 30% different only due to a pro-
+nounced unfavorable F-v proﬁle for one of them (Fig. 5.4). The optimal F-v proﬁle
+is individual since it depends on Pmax and hPO individual values. It can be accu-
+rately determined for each athlete using the following equation representing the real
+solution cancelling out the ﬁrst mathematical derivative of Eq. 5.1 with respect to
+SFv (more details in (Samozino et al. 2012)):
+Fig. 5.4 Changes in maximal jumping performance that can be reached by an athlete as a function
+of the changes in the force-velocity proﬁle (slope of the F-v relationship) for a given maximal
+power values. The black point represents the highest performance that can be reached for an
+optimal F-v proﬁle. Considering actual human values of F-v proﬁle, an unfavourable proﬁle can
+lead to loss of performance until 30%, while maximal power is similar. (From Samozino et al.
+2012)
+106
+P. Samozino
+
+
+<!-- Page 111 -->
+SFvopt ¼  ðg  sinaÞ2
+3Pmax
+
+ ðg  sinaÞ4
+
+
+ h4
+PO  12g  sina  h3
+PO  P2
+max
+
+
+3h2
+PO  Pmax  Z Pmax; hPO
+ð
+Þ
+þ Z Pmax; hPO
+ð
+Þ
+3h2
+PO  Pmax
+ð5:2Þ
+with
+Z Pmax; hPO
+ð
+Þ ¼
+
+g  sina
+ð
+Þ6
+
+
+ h6
+PO  18 g  sina
+ð
+Þ3h5
+PO  P2
+max  54h4
+PO  P4
+max
+
+þ 6
+ﬃﬃ
+3
+p
+
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+2 g  sina
+ð
+Þ3h9
+PO  P6
+max þ 27h8
+PO  P8
+max
+q
+1=3
+ð5:3Þ
+These formulae can appear a little bit complicated, but remain easy to use in a
+spreadsheet, a typical spreadsheet and a tutorial to use it (home-made by Morin and
+Samozino) can bedownloaded/viewed here: https://www.researchgate.net/publi
+cation/320146284_JUMP_FVP_proﬁle_spreadsheet. Note that complete computa-
+tions of the individual optimal proﬁle, and subsequent indexes (see below), are
+proposed in the smartphone application MyJump concomitantly to the determination
+of the maximal power output and the F-v proﬁle (see Sect. 4.5.1 in Chap. 4).
+The optimal F-v proﬁle also depends on push-off angle (a in Eqs. 5.1–5.3), and
+more generally on the magnitude of the gravity component opposing motion: the
+lower the push-off angle, the more the optimal F-v proﬁle is oriented towards
+velocity capabilities. If you are a strength and conditioning coach of volley ball
+players and you want to improve their vertical jump height (a = 90°), the optimal
+F-v proﬁle will be more oriented towards force qualities than if you aim to increase
+the change in velocity during the ﬁrst steps of a track and ﬁeld sprinter or a team
+sport player (a  30–40°), and still more than if you focus on the diving push off of
+a swimmer (a  0° or negative) (Fig. 5.5).
+Whatever the kind of push-off, the individual F-v proﬁle can then be expressed
+relatively to the optimal one (SFv%, in percentage) to underline the unfavorable
+balance between force and velocity capabilities:
+SFv% ¼
+SFv
+SFvopt  100
+ð5:4Þ
+A SFv% value higher than 100% represents a F-v proﬁle too much oriented
+towards force capabilities, and in turn correspond to a velocity deﬁcit. In contrast, a
+SFv% value lower than 100% is associated to a F-v proﬁle rather oriented to velocity
+qualities with a force deﬁcit.
+These ﬁnding support that the F-v proﬁle, and its comparison to the optimal one,
+represents a muscular quality that has to be considered attentively by scientists
+working on muscle function during maximal efforts, but also by coaches for
+training purposes.
+5
+Optimal Force-Velocity Proﬁle in Ballistic Push-off …
+107
+
+
+<!-- Page 112 -->
+5.3.4
+FV Imbalance & Performance
+The above-mentioned results are “only” based on theoretical simulations of a
+biomechanical model, it was in turn important to bring experimental evidence of the
+effect of F-v proﬁle on ballistic performance. Does the magnitude of F-v imbalance
+actually affect negatively ballistic performances independently from the effect of
+power capabilities?
+To answer to this question, F-v relationships and Pmax were determined on forty
+eight high-level athletes (soccer players, sprinters, rugbymen) who performed
+maximal squat jumps with additional loads from 0 to 100% of body mass and using
+the simple ﬁeld method presented in the previous section (complete details on this
+study in Samozino et al. 2014). For each athlete, F-v imbalance (FvIMB) was
+computed as the normalized difference between actual and optimal F-v proﬁle as:
+FvIMB ¼ 100  1 
+SFv
+SFvopt
+
+
+ð5:5Þ
+A multiple regression analysis showed that, when considered together, each of
+the three predictor variables Pmax, FvIMB and hPO accounted for a signiﬁcant amount
+of jumping performance variability (P < 0.001). The negative effect of FvIMB on
+jumping performance put forward that, even if Pmax remains the main determinant
+in ballistic performance, a F-v imbalance is associated to a lower performance. This
+is an experimental support for (i) the inﬂuence of the normalized F-v proﬁle
+(characterized by the slope of the F-v relationship, SFv) on jumping performance
+Fig. 5.5 Changes in optimal force-velocity proﬁle as a function of the push-off angle for a given
+maximal power output and push-off distance. In each sport activity, athletes mainly perform
+push-offs at speciﬁc push-off angles, as here in swimming diving, horizontal sprint starting (track
+and ﬁeld, team sport) or volley ball. (From Samozino et al. 2012)
+108
+P. Samozino
+
+
+<!-- Page 113 -->
+independently from the large effect of Pmax, and (ii) the existence of an optimal F-v
+proﬁle maximizing performance for each individual.
+The negative effect of the F-v imbalance on performance was quantiﬁed for each
+athlete through the difference between their actual jump height reached during
+unloaded condition and the maximal height they would have reached if they pre-
+sented the same Pmax with an optimal F-v proﬁle. This hypothetic maximal jump
+each athlete could reach with an optimal F-v proﬁle (hmax, in m) was computed
+from his actual Pmax and hPO values and using the following equation derived from
+the previously validated biomechanical model (Samozino et al. 2010, 2012):
+hmax ¼ h2
+PO
+2g
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+SFvopt2
+4
+þ
+2
+hPO
+ð2
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+PmaxSFvopt
+p
+ gÞ
+s
+þ SFvopt
+2
+ 
+!2
+ð5:6Þ
+Figure 5.6 presents the jump height actually reached by each athlete relatively to
+their respective hmax according to the individual F-v proﬁle normalized to SFvopt
+(SFv%). This shows the loss of performance due to the F-v imbalance illustrated here
+by the grey area. Athletes presenting a F-v proﬁle close to the optimal one can jump
+to the maximal performance associated to their power capabilities, the others could
+not. The higher FvIMB, the higher the loss of performance. The individual loss of
+performance due to the F-v imbalance ranged from 0% for subjects presenting
+optimal proﬁles to *30% for one rugby player who exceptionally presented a
+FvIMB of *250% (Fig. 5.6). This is in line with the above-mentioned theoretical
+simulation. In fact, an athlete presenting a F-v imbalance (as computed here from
+SFvopt maximizing vertical jumps) means that he does not develop his Pmax against
+his body mass during a vertical jump, and so he does not make the most of his
+power capabilities during ballistic movement performed at body weight (Samozino
+et al. 2012). This is associated to the question of the optimal load maximizing
+Fig. 5.6 Actual jump height reached in unloaded condition (jumping performance expressed
+relatively to maximal performance athlete could reach if he presented an optimal F-v proﬁle)
+according to F-v proﬁle (expressed relatively to their personal F-v optimal proﬁle). Each circle
+represents a subject. The solid line represents theoretical changes predicted by the biomechanical
+model. The grey area represents the individual loss of performance due to the F-v imbalance and
+ranging from 0 for subjects presenting optimal proﬁle to *30% for the rugby player represented
+by the circle on the extreme right of the ﬁgure. (From Samozino et al. 2014)
+5
+Optimal Force-Velocity Proﬁle in Ballistic Push-off …
+109
+
+
+<!-- Page 114 -->
+power production during ballistic movement (Jaric and Markovic 2009). The
+optimal load for an athlete presenting an optimal F-v proﬁle for vertical jumps is his
+own body mass. However, an athlete with a “force” proﬁle (i.e. with a “velocity”
+deﬁcit), as most of the rugby players tested in this study, developed their Pmax
+during vertical jumps against loads higher than their body mass (i.e. for additional
+loads from 25 to 100% of their body mass). Note that this is not necessarily an issue
+if ballistic performance at body weight is not the primary quality to optimize for
+such players to who it may have been asked (for some of them) to be efﬁcient
+against resistance (e.g., for forward players). At the opposite, the optimal load for
+an athlete with a “velocity” proﬁle is lower than his body mass, and so he needs
+unloaded conditions to develop his Pmax. The large range of F-v imbalance
+observed in this study support the recently proposed and debated inﬂuence of
+training history on the optimal load-maximizing power during vertical jumps (Jaric
+and Markovic 2009; Markovic and Jaric 2007; Nuzzo et al. 2011; Pazin et al. 2011,
+2013).
+These data well supported the theoretical ﬁndings brought out by the biome-
+chanical model on squat jump movements. However, squat jumps, involving just a
+sole concentric action, does not occur very frequently in many sport activities in
+which movements with successive eccentric and concentric muscle actions (e.g.
+sprint running, jumps, changes of direction) are more usual. This is why counter
+movement jumps (CMJ) remain the most commonly used task in sports training and
+testing. Even if nothing could challenge the transfer to CMJ of the theoretical and
+experimental results showed in SJ, the same protocol as described above was
+conducted on CMJ (Jimenez-Reyes et al. 2014). As in SJ, CMJ performance was
+shown to depend on F-v imbalance, independently from the effect of Pmax, with the
+existence of an individual optimal F-v proﬁle, the negative effect of FvIMB being
+even larger in CMJ. Moreover, this study clearly showed that the linear F-v rela-
+tionship in CMJ was shifted to the right in comparison to SJ, with a larger shift in
+F0 than in v0, and in turn a higher Pmax which explained the increase in CMJ
+maximal height compared to SJ.
+5.4
+Practical Applications
+5.4.1
+F-v Proﬁle & F-v Imbalance Indices
+Testing F-v proﬁles when aiming to identify the optimal balance between force and
+velocity capabilities may be of interest to set training loads and programs, as
+previously proposed using power-load relationships (Cormie et al. 2011b; Sheppard
+et al. 2008; Jaric and Markovic 2009; McBride et al. 2002). F-v proﬁle individual
+values allow comparisons among athletes independently from their power capa-
+bilities, which is not possible from only F0 and v0 values. This makes possible to
+compare different athletes and to know whether an individual is characterized by a
+110
+P. Samozino
+
+
+<!-- Page 115 -->
+“force” or a “velocity” proﬁle compared to another one (Figs. 4.3 and 5.7). Only
+Carmelo Bosco proposed in the nineties an index to compare athletes’ F-v proﬁles
+through the ratio between jump height reached with an additional load (100% of
+body mass) and unloaded jump height (Bosco 1992). The higher this index, the
+higher the force capabilities compared to velocity ones. However, Bosco’s index
+does not allow the orientation of training loads for a given athlete according to his/
+her own strengths and weaknesses and to movement speciﬁcities. This is why the
+individual value of SFv, expressed relatively to SFvopt (SFv%), is a good and practical
+index to characterize F-v proﬁle and to design appropriate training programs. The
+difference between SFv% and 100% (i.e. FvIMBÞ allows the quantiﬁcation of the
+magnitude of force or velocity deﬁcits. Consequently, SFv% and FvIMB values should
+be individually determined when testing Force-velocity-Power (FvP) proﬁle, using
+the simple ﬁeld method proposed in the previous chapter or other methods. This can
+be easily done using a simple homemade spreadsheet or program writing, or even
+easier using MyJump application which automatically computes these indexes in
+addition to measure FvP proﬁle variables (see previous chapter).
+Beyond to bring new insights into the understanding of the relationship between
+mechanical function of the lower limbs neuromuscular system and maximal human
+performances, the interest of the FvP proﬁle approach, including the optimal proﬁle,
+is that it allows for a more individualized athlete’s evaluation, monitoring and
+training practices. When a training program is designed to improve athletes’ bal-
+listic push-off performance (e.g. jumps, single maximal push-offs, change of
+direction), the focus should be placed on increasing Pmax and/or decreasing FvIMB.
+With regards to athletes displaying signiﬁcant imbalance in mechanical capacities,
+training programs should prioritize training the lacking mechanical capability, in
+Fig. 5.7 Force-velocity proﬁles of 2 track and ﬁeld athletes obtained from maximal loaded squat
+jumps (SJ). Despite a higher maximal power output (Pmax) value, athlete #1’s SJ performance is
+lower because his FvIMB (magnitude of the relative difference between the slope of the linear
+force-velocity relationship and the optimal slope) is greater than for athlete #2. For athlete #1, the
+black line indicates the actual proﬁle, and the dashed line, the optimal proﬁle. Note that athlete
+#2’s proﬁle if almost optimal, and therefore the actual and optimal relationships are confounded in
+the right panel (gray line and black dashed line). (From Morin and Samozino 2016)
+5
+Optimal Force-Velocity Proﬁle in Ballistic Push-off …
+111
+
+
+<!-- Page 116 -->
+order to shift SFv towards SFvopt. Here we will present different data supporting the
+great interest to consider F-v proﬁle, notably F-v imbalance, to design training
+program focused on ballistic performances.
+5.4.2
+FV Imbalance & Case Reports
+The importance of F-v proﬁle in ballistic performance can be well illustrated with
+data from two track and ﬁeld athletes (#1 and #2) with similar lower limb extension
+ranges but different Pmax and SFv (Fig. 5.7, Morin and Samozino 2016). Athlete #1
+has a higher Pmax, but he presents a F-v imbalance (about 50% towards a force
+deﬁcit) while athlete #2 has an optimal F-v proﬁle (only a negligible 1% imbal-
+ance). This results to a higher squat jump performance for athlete #2. The present
+approach would thus suggest, for athlete #1, a training program focusing in priority
+the development of maximal force capabilities in order to both correct his imbal-
+ance and increase Pmax. Once this goal is achieved, he may transition into similar
+training to athlete #2, in order to improve his Pmax, while maintaining his corrected
+(i.e. optimal) proﬁle.
+Another obvious illustration of the signiﬁcance of F-v proﬁle is the comparison
+of muscle mechanical capabilities and performance of two young players (#3 and
+#4, Fig. 5.8) from the same soccer team (French ﬁrst league professional club
+Fig. 5.8 Force-velocity proﬁles of 2 elite young (under-19) soccer players obtained from maximal
+loaded squat jumps (SJ). Player#4 (a goalkeeper) has a force deﬁcit (magnitude of the relative
+difference between the slope of the linear force-velocity relationship and the optimal slope—
+FvIMB—of 72%), whereas Player#3 (a central defender) has a velocity deﬁcit (FvIMB of 137%).
+(From Morin and Samozino 2016)
+112
+P. Samozino
+
+
+<!-- Page 117 -->
+academy U19). They have similar Pmax and SFvopt values, but present opposing
+FvIMB characteristics. Player #3 displays a velocity deﬁcit, while player#4 shows a
+force deﬁcit, but with an absolute difference with his own SFvopt lower than for
+player#3 (28% versus 37%). This relatively smaller FvIMB and the slightly higher
+Pmax in player#4 explain his higher squat jump performance. Knowing these dis-
+crepancies in F-v proﬁle between these two players, the most efﬁcient way to train
+and improve ballistic push-off performance in both of them would be an individ-
+ualized program (indexed on each player’s FvIMB) that targets the development of
+totally different capabilities.
+5.4.3
+FV Proﬁle and Training
+As brieﬂy mentioned in the Chap. 4 (Sect. 4.2.2), the F-v proﬁle is sensible to the
+kind of strength training performed (Cormie et al. 2010), which is of great interest
+for sport practitioners, but most importantly a prerequisite to individually correct
+F-v imbalance in order to maximize ballistic performances. Whatever the initial
+athlete’s F-v proﬁle, training should be ideally designed to both increase Pmax and
+decreasing FvIMB:
+For athletes presenting a force deﬁcit, training should aim to increase force
+capabilities (F0) as a priority (Samozino et al. 2012). The effectiveness of heavy
+strength training, involving the use of high loads (>70% RM) in order to achieve
+the maximal neuromuscular adaptations in periods ranging from 6 to 12 weeks, to
+speciﬁcally increase maximal force capabilities has been clearly shown (Cormie
+et al. 2007a, 2010; McBride et al. 2002). They result in improvements in maximal
+strength parameters, as the well-known one repetition maximum (1RM) load.
+Contrastingly, for athletes presenting a velocity deﬁcit, training should focus in
+increasing Pmax by improving maximal velocity capabilities, i.e. the capacity to
+produce force at very high contraction velocities. This can be achieved using
+maximal velocity efforts during high accelerated movements with minimal or null
+braking phase. Different training modalities have been proposed to increase
+movement velocity: maximal effort removing deceleration phase at the end of the
+movement (with bar throw or jump, Frost et al. 2010) using low loads (<30% of the
+repetition maximum, Cormie et al. 2010), negative loads (Argus et al. 2011;
+Markovic et al. 2011) or only inertia (Djuric et al. 2016). Plyometric contraction
+mode can also been used to increase the contraction velocity during the concentric
+phase of the movement. This type of training -commonly referred to as ballistic—
+may result in a training-induced shift in force-time curves and force-velocity
+relationships towards more velocity-related capabilities (Djuric et al. 2016).
+Finally, for athletes presenting low or no deﬁcit, i.e. with an actual F-v proﬁle
+close to the optimal one, the training program should target a balanced combination
+of force, velocity and power in order to shift the entire F-v relationship to the top
+and right. This would increase Pmax as a priority (e.g. Cormie et al. 2007b;
+Kotzamanidis et al. 2005; McBride et al. 2002; Cormie et al. 2011b) while
+5
+Optimal Force-Velocity Proﬁle in Ballistic Push-off …
+113
+
+
+<!-- Page 118 -->
+maintaining the F-v proﬁle close to the optimal value (and thus FvIMB close to 0%).
+The effects of studies aiming to both increase maximal power and shift the entire
+F-v curve show how combining a wide range of loads (heavy, optimal and low
+loads) is an appropriate stimulus (Cormie et al. 2007b; Kotzamanidis et al. 2005;
+McBride et al. 2002; Cormie et al. 2011b; Kaneko et al. 1983).
+5.4.4
+FV Imbalance, “Optimized” Training & Performance
+The previous section shows that the sensitivity of the F-v proﬁle to speciﬁc training
+programs can result in either maximal force or velocity capabilities improvements.
+Most often, these speciﬁc training prescriptions are proposed similarly for all ath-
+letes, sometimes considering the mechanical requirements of the tasks involved in a
+given sport activity, but rarely (if not never) considering the initial F-v proﬁle, and
+so the needs, of each individual. This results in contrasting ﬁndings, as to the effects
+on jumping performance (e.g. Chelly et al. 2009; Cormie et al. 2007a, 2010;
+McBride et al. 2002; Kotzamanidis et al. 2005), likely because of the various levels
+and F-v characteristics of the populations tested. Indeed, a training program leading
+to improve Pmax while increasing FvIMB could result in a lack of change, or even a
+decrease in jumping performance.
+In light of the above-mentioned points, we can thus reasonably assume that
+speciﬁc strength training aiming at improving ballistic performance should be
+designed on an individual basis to both reduce FvIMB (i.e. to increase preferably the
+F0 or v0 component of an individual’s F-v proﬁle and shift it towards his optimal
+proﬁle) and increase Pmax. This can been termed “optimized training” or “indi-
+vidualized training based on FvIMB”. A recent study aimed at experimentally testing
+and quantifying the effectiveness of such a training on ballistic performance
+compared to a traditional resistance training common to all subjects and designed
+without taking account of individual FvIMB (Jimenez-Reyes et al. 2016). Eighty four
+subjects were assigned to three training intervention groups based on their initial
+FvIMB:
+an
+optimized
+group
+divided
+into
+velocity-deﬁcit,
+force-deﬁcit
+and
+well-balanced sub-groups based on subjects’ FvIMB, a “non-optimized” group for
+which the training program was not speciﬁcally based on FvIMB and a control group
+(without training). All subjects underwent a 9-week speciﬁc resistance training
+program before and after which F-v proﬁle, FvIMB, Pmax and maximal vertical jump
+height (used here as the index of performance since it represents the archetype of
+ballistic movements) were tested. The programs were designed to reduce FvIMB for
+the optimized groups (with speciﬁc strength training regimen for sub-groups formed
+depending on individual FvIMB values), while the non-optimized group followed a
+classical program exactly similar for all subjects targeting a balanced combination
+of force, velocity and power qualities. During training, the force-deﬁcit sub-group
+performed mainly force-oriented training (using very high loads >80% of 1RM),
+while the velocity-deﬁcit sub-group performed velocity-oriented (ballistic, unloa-
+ded and band assisted SJ or horizontal assisted roller push-off) training. The
+114
+P. Samozino
+
+
+<!-- Page 119 -->
+well-balanced sub-group followed a training program
+covering
+the
+entire
+force-velocity spectrum in equal proportions: heavy loads, power and ballistic
+training. All the subjects of the “non-optimized” training group followed the latter
+kind of training, independently from each subject’s FvIMB.
+All subjects in the three optimized training sub-groups (velocity-deﬁcit,
+force-deﬁcit and well-balanced) increased their jumping performance (very likely to
+most likely very large effects of +7.2 to +14.2% on average) with jump height
+improvement for all subjects, whereas the results were much more variable and
+unclear in the non-optimized and control groups (trivial change of +2.3% on
+average, 10 subjects out of 18 improved) (Fig. 5.9). This greater change in jump
+height was associated with a markedly reduced FvIMB for both force-deﬁcit
+(57.9 ± 34.7% decrease in FvIMB) and velocity-deﬁcit (20.1 ± 4.3% decrease in
+FvIMB) subjects, and unclear or small changes in Pmax (−0.40 ± 8.4% and
++10.5 ± 5.2%, respectively). Both non-optimized and control groups presented
+trivial change in FvIMB, Pmax and jumping performance.
+These results clearly showed that an optimized and individualized training
+program speciﬁcally addressing the F-v imbalance is more efﬁcient for improving
+jumping performance than a traditional resistance training common to all subjects
+regardless of their force-velocity imbalance and optimal force-velocity proﬁle
+(Fig. 5.9). Most of the jumping performance improvements were associated to
+reduce F-v imbalance with little or no change in Pmax. Normalized F-v proﬁle and
+FvIMB could therefore be considered as a potentially useful variables for prescribing
+optimal resistance training to improve ballistic performances. These experimental
+results conﬁrmed the theoretical principles of the optimized training approach
+(Morin and Samozino 2016; Samozino et al. 2012, 2014) that ballistic performance
+depends not only on maximal power output, but also on an optimal force-velocity
+proﬁle (Jimenez-Reyes et al. 2016).
+5.5
+Conclusion
+This chapter presents the implication of lower limb muscle mechanical capabilities
+in ballistic push-off performances. Biomechanical model simulations and experi-
+mental data showed that ballistic performances (e.g. jump, sprint start, change of
+direction) depend on both lower limb maximal power capabilities and F-v proﬁle,
+with the existence of an individual optimal F-v proﬁle. The latter can be accurately
+determined for each athlete using equations given in this chapter and usual squat
+jump power-force-velocity proﬁle evaluations, including testing using the simple
+ﬁeld method presented in the previous chapter. This makes possible the determi-
+nation of F-v imbalance (towards force or velocity capabilities) and the quantiﬁ-
+cation of the magnitude of the associated force or velocity deﬁcits. These indexes
+constitute interesting tools to individualize athlete’s training program aiming to
+improve athletes’ ballistic performance. These individual programs should focus on
+increasing lower limb maximal power and/or decreasing force-velocity imbalance.
+5
+Optimal Force-Velocity Proﬁle in Ballistic Push-off …
+115
+
+
+<!-- Page 120 -->
+Fig. 5.9 Mean ± standard deviation of pre-post training changes in Force-velocity (F-v) proﬁle,
+maximal power output and jumping performance for the intervention (ﬁlled symbols and black
+continuous lines), non-optimized (black points and dashed lines) and control (grey points and
+lines) groups. The intervention group is divided in three subgroups: the force-deﬁcit group (ﬁlled
+diamonds), the velocity-deﬁcit group (ﬁlled circles) and the well-balanced group (ﬁlled squares).
+The magnitude-based inference changes are presented on the right. The short-dashed line on the
+top panel represents the optimal force-velocity proﬁle. (From Jimenez-Reyes et al. 2016)
+116
+P. Samozino
+
+
+<!-- Page 121 -->
+The effectiveness of such an individualized “optimized” training was shown to be
+higher than a traditional strength training similar for all athletes. This support the
+great interest for strength and conditioning coaches, who aim to improve athlete’s
+ballistic performance, to evaluate power-force-velocity proﬁle on each of their
+athlete and to consider force-velocity imbalance to design individually training
+regimen.
+References
+Aerts P (1998) Vertical jumping in galago senegalensis: the quest for an obligate mechanical
+power ampliﬁer. Philos Trans R Soc Lond B Biol Sci 353:1607–1620
+Alexander RM (1995) Leg design and jumping technique for humans, other vertebrates and
+insects. Philos Trans R Soc Lond B Biol Sci 347(1321):235–248
+Alexander RM (2003) Climbing and jumping. In: Principles of animal locomotion. Princeton
+University Press, pp 146–165
+Argus CK, Gill ND, Keogh JW, Blazevich AJ, Hopkins WG (2011) Kinetic and training
+comparisons between assisted, resisted, and free countermovement jumps. J Strength Cond Res
+25(8):2219–2227. https://doi.org/10.1519/JSC.0b013e3181f6b0f4
+Bobbert MF, Casius LJ (2005) Is the effect of a countermovement on jump height due to active
+state development? Med Sci Sports Exerc 37(3):440–446
+Bobbert MF, Van Soest AJ (1994) Effects of muscle strengthening on vertical jump height: a
+simulation study. Med Sci Sports Exerc 26(8):1012–1020
+Bosco C (1992) La valutazione della forza con il test di Bosco [Strength assessment with the
+Bosco’s Test]. In: Societa Sampa Sportiva, Roma, pp 56–57
+Chelly MS, Fathloun M, Cherif N, Ben Amar M, Tabka Z, Van Praagh E (2009) Effects of a back
+squat training program on leg power, jump, and sprint performances in junior soccer players.
+J Strength Cond Res 23(8):2241–2249. https://doi.org/10.1519/JSC.0b013e3181b86c40
+Cormie P, McBride JM, McCaulley GO (2009) Power-time, force-time, and velocity-time curve
+analysis of the countermovement jump: impact of training. J Strength Cond Res 23(1):177–186
+Cormie P, McCaulley GO, McBride JM (2007a) Power versus strength-power jump squat training:
+inﬂuence on the load-power relationship. Med Sci Sports Exerc 39(6):996–1003
+Cormie P, McCaulley GO, Triplett NT, McBride JM (2007b) Optimal loading for maximal power
+output during lower-body resistance exercises. Med Sci Sports Exerc 39(2):340–349
+Cormie P, McGuigan MR, Newton RU (2010) Adaptations in athletic performance after ballistic
+power versus strength training. Med Sci Sports Exerc 42(8):1582–1598
+Cormie P, McGuigan MR, Newton RU (2011a) Developing maximal neuromuscular power: part 1—
+biological basis of maximal power production. Sports Med 41(1):17–38
+Cormie P, McGuigan MR, Newton RU (2011b) Developing maximal neuromuscular power: part 2—
+training considerations for improving maximal power production. Sports Med 41(2):125–146
+Cronin J, McNair PJ, Marshall RN (2001) Velocity speciﬁcity, combination training and sport
+speciﬁc tasks. J Sci Med Sport 4(2):168–178
+Cronin J, Sleivert G (2005) Challenges in understanding the inﬂuence of maximal power training
+on improving athletic performance. Sports Med 35(3):213–234
+Davis DS, Briscoe DA, Markowski CT, Saville SE, Taylor CJ (2003) Physical characteristics that
+predict vertical jump performance in recreational male athletes. Phys Ther Sport 4(4):167–174
+Djuric S, Cuk I, Sreckovic S, Mirkov D, Nedeljkovic A, Jaric S (2016) Selective effects of training
+against weight and inertia on muscle mechanical properties. Int J Sports Physiol Perform.
+https://doi.org/10.1123/ijspp.2015-0527
+5
+Optimal Force-Velocity Proﬁle in Ballistic Push-off …
+117
+
+
+<!-- Page 122 -->
+Driss T, Vandewalle H, Monod H (1998) Maximal power and force-velocity relationships during
+cycling and cranking exercises in volleyball players. Correlation with the vertical jump test.
+J Sports Med Phys Fitness 38(4):286–293
+Eckert HM (1968) Angular velocity and range of motion in the vertical and standing broad jumps.
+Res Q 39(4):937–942
+Emerson SB (1985) Jumping and leaping. In: Hildebrand ME, Bramble DM, Liem KF, Wake DB
+(eds) Functional vertebrate morphology. Harvard university Press, Cambridge, pp 58–72
+Frost DM, Cronin J, Newton RU (2010) A biomechanical evaluation of resistance: fundamental
+concepts for training and sports performance. Sports Med 40(4):303–326
+Genuario SE, Dolgener FA (1980) The relationship of isokinetic torque at two speeds to the
+vertical jump. Res Q Exerc Sport 51(4):593–598
+Harris NK, Cronin JB, Hopkins WG, Hansen KT (2008) Squat jump training at maximal power
+loads vs. heavy loads: effect on sprint ability. J Strength Cond Res 22(6):1742–1749
+Hautier CA, Linossier MT, Belli A, Lacour JR, Arsac LM (1996) Optimal velocity for maximal
+power production in non-isokinetic cycling is related to muscle ﬁbre type composition. Eur J
+Appl Physiol Occup Physiol 74(1–2):114–118
+James RS, Navas CA, Herrel A (2007) How important are skeletal muscle mechanics in setting
+limits on jumping performance? J Exp Biol 210(Pt 6):923–933
+Jaric S, Markovic G (2009) Leg muscles design: the maximum dynamic output hypothesis. Med
+Sci Sports Exerc 41(4):780–787
+Jimenez-Reyes P, Samozino P, Brughelli M, Morin JB (2016) Effectiveness of an individualized
+training based on force-velocity proﬁling during jumping. Front Physiol 7:677. https://doi.org/
+10.3389/fphys.2016.00677
+Jimenez-Reyes P, Samozino P, Cuadrado-Penaﬁel V, Conceicao F, Gonzalez-Badillo JJ, Morin JB
+(2014) Effect of countermovement on power-force-velocity proﬁle. Eur J Appl Physiol. https://
+doi.org/10.1007/s00421-014-2947-1
+Kaneko M, Fuchimoto T, Toji H, Suei K (1983) Training effect of different loads on the
+force-velocity relationship and mechanical power output in human muscle. Scand J Sports Sci
+5(2):50–55
+Knudson DV (2009) Correcting the use of the term “power” in the strength and conditioning
+literature. J Strength Cond Res 23(6):1902–1908
+Kotzamanidis C, Chatzopoulos D, Michailidis C, Papaiakovou G, Patikas D (2005) The effect of a
+combined high-intensity strength and speed training program on the running and jumping ability
+of soccer players. J Strength Cond Res 19(2):369–375. https://doi.org/10.1519/R-14944.1
+Markovic G, Jaric S (2007) Positive and negative loading and mechanical output in maximum
+vertical jumping. Med Sci Sports Exerc 39(10):1757–1764
+Markovic G, Vuk S, Jaric S (2011) Effects of jump training with negative versus positive loading
+on jumping mechanics. Int J Sports Med 32:1–8
+Marsh RL (1994) Jumping ability of anuran amphibians. Adv Vet Sci Comp Med 38B:51–111
+McBride JM, Kirby TJ, Haines TL, Skinner J (2010) Relationship between relative net vertical
+impulse and jump height in jump squats performed to various squat depths and with various
+loads. Int J Sports Physiol Perform 5(4):484–496
+McBride JM, Triplett-McBride T, Davie A, Newton RU (2002) The effect of heavy- vs. light-load
+jump squats on the development of strength, power, and speed. J Strength Cond Res
+16(1):75–82
+Minetti AE (2002) On the mechanical power of joint extensions as affected by the change in
+muscle force (or cross-sectional area), ceteris paribus. Eur J Appl Physiol 86(4):363–369
+Morin JB, Samozino P (2016) Interpreting power-force-velocity proﬁles for individualized and
+speciﬁc training. Int J Sports Physiol Perform 11(2):267–272. https://doi.org/10.1123/ijspp.
+2015-0638
+Newton RU, Kraemer WJ (1994) Developing explosive muscular power: implications for a mixed
+methods training strategy. Strength Conditioning 16(5):20–31
+118
+P. Samozino
+
+
+<!-- Page 123 -->
+Nuzzo JL, McBride JM, Dayne AM, Israetel MA, Dumke CL, Triplett NT (2011) Testing of the
+maximal dynamic output hypothesis in trained and untrained subjects. J Strength Cond Res 24
+(5):1269–1276
+Pandy MG, Zajac FE (1991) Optimal muscular coordination strategies for jumping. J Biomech 24
+(1):1–10
+Pazin N, Berjan B, Nedeljkovic A, Markovic G, Jaric S (2013) Power output in vertical jumps:
+does optimum loading depend on activity proﬁles? Eur J Appl Physiol 113(3):577–589. https://
+doi.org/10.1007/s00421-012-2464-z
+Pazin N, Bozic P, Bobana B, Nedeljkovic A, Jaric S (2011) Optimum loading for maximizing
+muscle power output: the effect of training history. Eur J Appl Physiol 111(9):2123–2130.
+https://doi.org/10.1007/s00421-011-1840-4
+Rejc E, Lazzer S, Antonutto G, Isola M, di Prampero PE (2010) Bilateral deﬁcit and EMG activity
+during explosive lower limb contractions against different overloads. Eur J Appl Physiol 108
+(1):157–165
+Samozino P, Edouard P, Sangnier S, Brughelli M, Gimenez P, Morin JB (2014) Force-velocity
+proﬁle: imbalance determination and effect on lower limb ballistic performance. Int J Sports
+Med 35(6):505–510. https://doi.org/10.1055/s-0033-1354382
+Samozino P, Morin JB, Hintzy F, Belli A (2008) A simple method for measuring force, velocity
+and power output during squat jump. J Biomech 41(14):2940–2945
+Samozino P, Morin JB, Hintzy F, Belli A (2010) Jumping ability: a theoretical integrative
+approach. J Theor Biol 264(1):11–18
+Samozino P, Rejc E, Di Prampero PE, Belli A, Morin JB (2012) Optimal force-velocity proﬁle in
+ballistic movements. Altius: citius or fortius? Med Sci Sports Exerc 44(2):313–322
+Sheppard J, Cormack S, Taylor K, McGuigan M, Newton R (2008) Assessing the force-velocity
+characteristics of the leg extensors in well-trained athletes: the incremental load power proﬁle.
+J Strength Cond Res 22(4):1320–1326
+Stone MH, Moir G, Glaister M, Sanders R (2002) How much strength is necessary? Phys Ther
+Sport 3:88–96
+Ugrinowitsch C, Tricoli V, Rodacki AL, Batista M, Ricard MD (2007) Inﬂuence of training
+background on jumping height. J Strength Cond Res 21(3):848–852
+Vandewalle H, Peres G, Heller J, Panel J, Monod H (1987) Force-velocity relationship and
+maximal power on a cycle ergometer. Correlation with the height of a vertical jump. Eur J Appl
+Physiol Occup Physiol 56(6):650–656
+Winter EM (2005) Jumping: power or impulse. Med Sci Sports Exerc 37(3):523–524
+Yamauchi J, Ishii N (2007) Relations between force-velocity characteristics of the knee-hip
+extension movement and vertical jump performance. J Strength Cond Res 21(3):703–709
+Young W, Wilson G, Byrne C (1999) Relationship between strength qualities and performance in
+standing and run-up vertical jumps. J Sports Med Phys Fitness 39(4):285–293
+5
+Optimal Force-Velocity Proﬁle in Ballistic Push-off …
+119
+

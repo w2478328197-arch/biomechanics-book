@@ -1,0 +1,172 @@
+# Front Matter (Title, Copyright, Acknowledgements, Contents)
+
+
+<!-- Page 1 -->
+Jean-Benoit Morin
+Pierre Samozino    Editors 
+Biomechanics 
+of Training 
+and Testing
+Innovative Concepts and Simple Field 
+Methods
+
+
+<!-- Page 2 -->
+Biomechanics of Training and Testing
+
+
+<!-- Page 3 -->
+Jean-Benoit Morin
+• Pierre Samozino
+Editors
+Biomechanics of Training
+and Testing
+Innovative Concepts and Simple Field
+Methods
+123
+
+
+<!-- Page 4 -->
+Editors
+Jean-Benoit Morin
+Faculty of Sport Sciences
+University of Nice
+Nice
+France
+Pierre Samozino
+Laboratoire Inter-universitaire de Biologie
+de la Motricité
+Université de Savoie Mont Blanc
+Chambéry
+France
+ISBN 978-3-319-05632-6
+ISBN 978-3-319-05633-3
+(eBook)
+https://doi.org/10.1007/978-3-319-05633-3
+Library of Congress Control Number: 2017958616
+© Springer International Publishing AG 2018
+This work is subject to copyright. All rights are reserved by the Publisher, whether the whole or part
+of the material is concerned, speciﬁcally the rights of translation, reprinting, reuse of illustrations,
+recitation, broadcasting, reproduction on microﬁlms or in any other physical way, and transmission
+or information storage and retrieval, electronic adaptation, computer software, or by similar or dissimilar
+methodology now known or hereafter developed.
+The use of general descriptive names, registered names, trademarks, service marks, etc. in this
+publication does not imply, even in the absence of a speciﬁc statement, that such names are exempt from
+the relevant protective laws and regulations and therefore free for general use.
+The publisher, the authors and the editors are safe to assume that the advice and information in this
+book are believed to be true and accurate at the date of publication. Neither the publisher nor the
+authors or the editors give a warranty, express or implied, with respect to the material contained herein or
+for any errors or omissions that may have been made. The publisher remains neutral with regard to
+jurisdictional claims in published maps and institutional afﬁliations.
+Printed on acid-free paper
+This Springer imprint is published by Springer Nature
+The registered company is Springer International Publishing AG
+The registered company address is: Gewerbestrasse 11, 6330 Cham, Switzerland
+
+
+<!-- Page 5 -->
+Acknowledgements
+The Editors are very grateful to the authors who participated to the writing of this
+book, for their time and dedication to this project. We also thank Prof. Alain Belli
+for teaching us how to generate “simple methods” for locomotion and sports
+biomechanical analysis, during our time as Masters and Ph.D. students under his
+supervision.
+Several colleagues signiﬁcantly contributed to this book and the underlying
+experimental work. In particular Mr. Régis Bonnefoy, who designed, engineered
+and ﬁxed many devices and sensors used during our experimental studies, and our
+colleague and friend Pedro Jimenez-Reyes who signiﬁcantly contributed to several
+studies presented in this book. We also thank Caroline Giroux, Cameron Josse,
+Carlos Balsalobre, Johan Cassirame, Peter Weyand and Ken Clark for the speciﬁc
+support they provided for typical practical application examples or ﬁgure designs.
+None of the research presented in this book could have been produced without
+the collaboration and trust of all the students, athletes and their coaches/manager
+who volunteered to participate to our tests, sometimes with maximal, repeated
+efforts, but always with a high motivation, compliance and understanding. Over the
+years, the application of the methods presented in this book and their improvement
+have been systematically made possible through their participation, constructive
+feedback and questioning.
+Finally, we would like to thank our families for their constant support, patience
+and love.
+v
+
+
+<!-- Page 6 -->
+Contents
+1
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1
+Jean-Benoit Morin and Pierre Samozino
+Part I
+Cycling
+2
+Maximal Force-Velocity and Power-Velocity Characteristics
+in Cycling: Assessment and Relevance . . . . . . . . . . . . . . . . . . . . . .
+7
+Sylvain Dorel
+3
+Mechanical Effectiveness and Coordination: New Insights
+into Sprint Cycling Performance . . . . . . . . . . . . . . . . . . . . . . . . . . .
+33
+Sylvain Dorel
+Part II
+Ballistic Movements of Upper and Lower Limbs
+4
+A Simple Method for Measuring Lower Limb Force, Velocity
+and Power Capabilities During Jumping . . . . . . . . . . . . . . . . . . . .
+65
+Pierre Samozino
+5
+Optimal Force-Velocity Proﬁle in Ballistic Push-off:
+Measurement and Relationship with Performance . . . . . . . . . . . . .
+97
+Pierre Samozino
+6
+A Simple Method for Measuring Lower Limb Stiffness
+in Hopping . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+121
+Teddy Caderby and Georges Dalleau
+7
+A Simple Method for Measuring Force, Velocity, Power
+and Force-Velocity Proﬁle of Upper Limbs . . . . . . . . . . . . . . . . . . .
+139
+Abderrahmane Rahmani, Baptiste Morel and Pierre Samozino
+vii
+
+
+<!-- Page 7 -->
+Part III
+Running
+8
+A Simple Method for Measuring Lower Limb Stiffness
+During Running . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+165
+Jean-Benoit Morin
+9
+A Simple Method for Determining Foot Strike Pattern
+During Running . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+195
+Marlene Giandolini
+10
+The Measurement of Sprint Mechanics Using
+Instrumented Treadmills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+211
+Jean-Benoit Morin, Scott R. Brown and Matthew R. Cross
+11
+A Simple Method for Measuring Force, Velocity
+and Power Capabilities and Mechanical Effectiveness
+During Sprint Running . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+237
+Pierre Samozino
+12
+The Energy Cost of Sprint Running and the Energy
+Balance of Current World Records from 100 to 5000 m . . . . . . . .
+269
+Pietro E. di Prampero and Cristian Osgnach
+13
+Metabolic Power and Oxygen Consumption in Soccer:
+Facts and Theories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+299
+Cristian Osgnach and Pietro E. di Prampero
+viii
+Contents
+

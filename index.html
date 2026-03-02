@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>训练与测试的生物力学 - 双语阅读</title>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Serif+SC:wght@400;600;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Marked.js for Markdown parsing -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <!-- KaTeX for Math rendering -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/contrib/auto-render.min.js"></script>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <h1>训练与测试<br>的生物力学</h1>
+                <p class="subtitle">创新概念与简单现场方法</p>
+                <button class="toggle-btn" id="toggleSidebar" aria-label="Toggle Sidebar">
+                    <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none">
+                        <line x1="3" y1="12" x2="21" y2="12"></line>
+                        <line x1="3" y1="6" x2="21" y2="6"></line>
+                        <line x1="3" y1="18" x2="21" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+
+            <nav class="nav-menu">
+                <div class="nav-section">
+                    <h2 class="section-title">中文翻译</h2>
+                    <ul id="translated-list" class="chapter-list">
+                        <li data-type="md" data-src="translated/00_前言.md" class="active">前言</li>
+                        <li data-type="md" data-src="translated/01_第1章.md">第1章 引言</li>
+                        <li data-type="md" data-src="translated/02_第2章.md">第2章 场地自行车最大力</li>
+                        <li data-type="md" data-src="translated/03_第3章.md">第3章 冲刺自行车的机械效率</li>
+                        <li data-type="md" data-src="translated/04_第4章.md">第4章 下肢力速度功率测量</li>
+                        <li data-type="md" data-src="translated/05_第5章.md">第5章 爆发性蹬地的最佳配置</li>
+                        <li data-type="md" data-src="translated/06_第6章.md">第6章 下肢刚度测量</li>
+                        <li data-type="md" data-src="translated/07_第7章.md">第7章 上下肢力-速度评估</li>
+                        <li data-type="md" data-src="translated/08_第8章.md">第8章 跑步中的下肢刚度</li>
+                        <li data-type="md" data-src="translated/09_第9章.md">第9章 足部着地特征</li>
+                        <li data-type="md" data-src="translated/10_第10章.md">第10章 冲刺跑步机测试</li>
+                        <li data-type="md" data-src="translated/11_第11章.md">第11章 冲刺力-速度关系</li>
+                        <li data-type="md" data-src="translated/12_第12章.md">第12章 冲刺跑能量消耗</li>
+                        <li data-type="md" data-src="translated/13_第13章.md">第13章 足球代谢功率评估</li>
+                    </ul>
+                </div>
+
+                <div class="nav-section">
+                    <h2 class="section-title">English Raw Text</h2>
+                    <ul id="raw-list" class="chapter-list">
+                        <li data-type="raw" data-src="source/chapters_raw/00_frontmatter.txt">Frontmatter</li>
+                        <li data-type="raw" data-src="source/chapters_raw/01_introduction.txt">Chapter 1</li>
+                        <li data-type="raw" data-src="source/chapters_raw/02_cycling_fv_power.txt">Chapter 2</li>
+                        <li data-type="raw" data-src="source/chapters_raw/03_cycling_effectiveness.txt">Chapter 3</li>
+                        <li data-type="raw" data-src="source/chapters_raw/04_jumping_fvp.txt">Chapter 4</li>
+                        <li data-type="raw" data-src="source/chapters_raw/05_optimal_fv_profile.txt">Chapter 5</li>
+                        <li data-type="raw" data-src="source/chapters_raw/06_hopping_stiffness.txt">Chapter 6</li>
+                        <li data-type="raw" data-src="source/chapters_raw/07_upper_limb_fvp.txt">Chapter 7</li>
+                        <li data-type="raw" data-src="source/chapters_raw/08_running_stiffness.txt">Chapter 8</li>
+                        <li data-type="raw" data-src="source/chapters_raw/09_foot_strike.txt">Chapter 9</li>
+                        <li data-type="raw" data-src="source/chapters_raw/10_sprint_treadmill.txt">Chapter 10</li>
+                        <li data-type="raw" data-src="source/chapters_raw/11_sprint_fvp.txt">Chapter 11</li>
+                        <li data-type="raw" data-src="source/chapters_raw/12_energy_cost_sprint.txt">Chapter 12</li>
+                        <li data-type="raw" data-src="source/chapters_raw/13_metabolic_power_soccer.txt">Chapter 13</li>
+                    </ul>
+                </div>
+
+                <div class="nav-section" style="margin-top: 2rem;">
+                    <button id="viewPdfBtn" class="primary-btn">
+                        <svg viewBox="0 0 24 24" width="18" height="18" stroke="currentColor" stroke-width="2"
+                            fill="none" style="margin-right: 8px;">
+                            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                            <polyline points="14 2 14 8 20 8"></polyline>
+                            <line x1="16" y1="13" x2="8" y2="13"></line>
+                            <line x1="16" y1="17" x2="8" y2="17"></line>
+                            <polyline points="10 9 9 9 8 9"></polyline>
+                        </svg>
+                        查看原书 PDF
+                    </button>
+                </div>
+            </nav>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="content-area" id="mainContent">
+            <!-- Markdown / Text Content Container -->
+            <article class="markdown-body" id="articleBody">
+                <div class="loading-state">选择章节以开始阅读...</div>
+            </article>
+
+            <!-- PDF Viewer Container (Hidden by default) -->
+            <div class="pdf-container" id="pdfContainer" style="display: none;">
+                <iframe id="pdfFrame" src="" width="100%" height="100%" frameborder="0"></iframe>
+            </div>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

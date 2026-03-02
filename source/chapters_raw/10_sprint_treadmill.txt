@@ -1,0 +1,1152 @@
+# Chapter 10: The Measurement of Sprint Mechanics Using Instrumented Treadmills
+
+
+<!-- Page 212 -->
+Chapter 10
+The Measurement of Sprint Mechanics
+Using Instrumented Treadmills
+Jean-Benoit Morin, Scott R. Brown and Matthew R. Cross
+Abstract Since sprinting involves very fast movement velocities (up to 12 m/s in
+the best athletes), experimental studies in this ﬁeld have always been a technical
+challenge. Whilst sprint kinematics and distance-time or velocity-time variables
+were ﬁrst described by the end of the 19th century, kinetics and especially ground
+reaction force and mechanical power outputs have remained unexplored until the
+1970s and 1980s. Cutting edge laboratory installations now allow for full-length
+sprint acceleration studies (single or multiple sprint protocols) with track-embedded
+force plates. However, a signiﬁcant amount of literature and knowledge has been
+previously established by the use of instrumented treadmills. These were ﬁrst
+non-motorized and not directly measuring the ground reaction force (end of the
+1980s), but the most up-to-date device allows investigation of sprint mechanics and
+three-dimensional ground reaction force during an accelerated run (from zero to
+maximal velocity). In this chapter, we will present the historical development of
+these devices, along with their advantages and limitations, and the main experi-
+mental results obtained with the motorized accelerated treadmill. In particular, we
+will present the key concept of mechanical effectiveness of ground force applica-
+tion, and how it is related to sprint performance. Furthermore, we will discuss the
+muscular underpinnings of the mechanical effectiveness; speciﬁcally the role of hip
+extensors. Finally, we will discuss the comparison between treadmill and track
+J.-B. Morin (&)
+Laboratory of Human Motricity, Education Sport and Health,
+Université Côte D’Azur, 261 Route de Grenoble, Route de Grenoble Nice, France
+e-mail: jean-benoit.morin@unice.fr
+S. R. Brown  M. R. Cross
+Sports Performance Research Institute New Zealand (SPRINZ),
+Auckland University of Technology, Auckland, New Zealand
+e-mail: scott.brown@aut.ac.nz
+M. R. Cross
+e-mail: matt.cross@aut.ac.nz
+© Springer International Publishing AG 2018
+J.-B. Morin and P. Samozino (eds.), Biomechanics of Training and Testing,
+https://doi.org/10.1007/978-3-319-05633-3_10
+211
+
+
+<!-- Page 213 -->
+sprint performance and mechanics, including data from elite sprinters, and how
+current and future research on this topic will allow a deeper understanding of this
+seemingly simple yet complex motor task.
+Treadmills will get you nowhere
+Anonymous
+10.1
+Introduction
+Sprint running consists of reaching and trying to maintain one’s absolute maximal
+running velocity. This can be done by starting from a still position like in track and
+ﬁeld sprint events (starting-block start), or from an already ongoing movement like
+in soccer or rugby (ﬂying start). Be it a direct or indirect determinant of athletic
+performance, sprint running is a key ability in many sports. For this reason, it is the
+focus of speciﬁc training programs and exercises. A deeper understanding of the
+mechanics of sprinting will undoubtedly help better design training exercises to
+improve injury prevention and/or manage rehabilitation and return-to-sport strate-
+gies. The ﬁeld of sports biomechanics, like other ﬁelds of sports science, is
+dependent on advances in technology available to explore human locomotion. This
+is particularly important when studying sprinting, i.e. an all-out ballistic activity
+that makes the human body move at velocities ranging 8–12 m/s (30–40 km/h),
+making any direct biomechanical measurement rather challenging. At such maxi-
+mal running velocity, a trained male athlete can cover more than 10 m in one
+second. Measuring any kind of biomechanical data in this context is very difﬁcult.
+For instance, the ﬁrst study to report ground reaction force (GRF) data on several
+steps of an acceleration in elite sprinters was published in 2015 (Rabita et al. 2015),
+on the basis of the pioneering work of Cavagna et al. (1971).
+A common alternative is to have the athlete running in place on a treadmill.
+However, if running at sub-maximal velocity is a common exercise in both ﬁtness
+and research contexts, the development of sprint treadmills has required constant
+improvements over the last 40 years. Recently-developed instrumented motorized
+treadmills have allowed a signiﬁcant increase in the body of knowledge about the
+mechanical determinants of accelerated running performance.
+In this chapter, we will brieﬂy review the history of sprint treadmill develop-
+ments, and present the devices, the concepts and some of the main results obtained.
+Then, we will speciﬁcally focus on an instrumented treadmill presented in 2009 that
+allows for both subject-driven accelerations and three-dimensional kinetics mea-
+surements, which is to our knowledge the most advanced technology for such a
+purpose. We will detail and discuss the mechanical concepts derived from the
+measurements (especially the mechanical effectiveness of ground force application)
+and how they allowed a more detailed understanding of sprint performance. Finally,
+212
+J.-B. Morin et al.
+
+
+<!-- Page 214 -->
+we will review the limitations inherent to this device and the current and future
+developments in this area.
+10.2
+Devices
+The understanding of running mechanics had a major breakthrough in the end of the
+1970s and 1980s with the use of ground-embedded force platforms to study human
+locomotion including jumping, running (Cavagna 1975; Blickhan 1989) and
+sprinting (Cavagna et al. 1971). This has allowed researchers to investigate sprint
+running mechanics in real overground running conditions, but the major limitation
+was that only one or two steps at most could be studied. Two alternatives have been
+proposed to study sprint mechanics over longer distances: using a multiple sprint
+protocol and aggregate ground-embedded force platform data of several sprints to
+reconstruct a virtual acceleration mechanical proﬁle (Cavagna et al. 1971; Rabita
+et al. 2015), or have subjects run on an instrumented treadmill. The advantage of the
+latter method is the entire sprint data could be recorded (some 400-m sprints have
+been previously studied Tomazin et al. 2012), but from the early developments of
+this kind of technology in the late 1980s, several limitations have been discussed.
+Because this situation is almost the opposite of real-world walking and running
+locomotion (in which subjects’ center-of-mass moves relative to the supporting
+ground), authors have investigated the differences between ﬁeld and treadmill
+running in the past 40 years or so.
+In studies comparing these modalities at steady low speeds, van Ingen Schenau
+(1980) showed that the mechanics of running were basically similar provided that
+the belt speed was constant and a coordinate system moving with the belt was used.
+This overall similarity was also supported by other studies (e.g. Kram et al. 1998;
+Schache et al. 2001; Riley et al. 2008). However, in several studies authors reported
+signiﬁcant differences between the two conditions (Nelson et al. 1972; Dal Monte
+et al. 1973; Elliott and Blanksby 1976; Nigg et al. 1995).
+When focusing on sprint running, contradicting results have also been reported.
+Frishberg (1983) and Kivi et al. (2002) showed biomechanical differences between
+ﬁeld and treadmill sprint running, whereas McKenna and Riches (2007) concluded
+that sprinting on a treadmill and overground was similar for the majority of the
+kinematic variables they studied, but speciﬁed that a motorized treadmill was
+necessary to reach this similarity. For this reason, we will detail the main devices
+used and their advantages and limitations with this non-motorized versus motorized
+distinction in mind.
+10
+The Measurement of Sprint Mechanics …
+213
+
+
+<!-- Page 215 -->
+10.2.1
+Early Non-motorized Treadmills
+Modern attempts at experimentally determining mechanical characteristics of the
+body during load-bearing sprinting occur most frequently using specialized sprint
+treadmill ergometry. This method requires subjects to propel a treadmill belt while
+tethered around the waist to an immovable stationary point at the rear of the
+machine (Fig. 10.1). The majority of models calculate power output in a
+two-dimensional nature, as the interaction of velocity of treadmill belt, measured
+via rotary encoders, and horizontal-force via various loading-cells and goniometers
+mounted on a non-elastic tether. Although published as an abstract in 1984, the ﬁrst
+international publication we know of implementing direct measurements of sprint
+running kinetics was by Lakomy (1987) who used an early non-motorized treadmill
+(Woodway model AB, Germany) to show that power (P), estimated horizontal
+force (FH), and velocity (v) could be accurately measured during a 7-s maximal
+sprint.
+This major breakthrough came with some limitations inherent to treadmill
+assessment. First, instantaneous power values were sampled over large (0.5–1 s or
+more) brackets of time and at low sampling frequencies. This resulted in the
+incorrect estimation of power and underestimation of velocity. This error has been
+avoided in recent studies (sampling frequencies up to 1000 Hz), which improved
+the accuracy of averaging methods.
+The main limitation of treadmill sprints using force transducers is that the
+recorded horizontal force is an approximation, as the tether moves up and down
+with each step (movement of <4°; *7% contribution of vertical force to horizontal
+readings (Lakomy 1987). While some authors have used goniometers to account for
+this bias (Jaskolska et al. 1998; Chelly and Denis 2001), this is not a common
+Fig. 10.1 Original (left) and modern (right) non-motorized treadmills. The pulling force is
+recorded via a load cell (white circles) and the running velocity is recorded via optical encoders
+installed in the rolling belt system
+214
+J.-B. Morin et al.
+
+
+<!-- Page 216 -->
+practice. Moreover, although the output of power results from horizontally-directed
+force and velocity outputs, these variables are recorded in disparate locations: along
+the tether (force) and at the treadmill belt under subjects’ feet (velocity). Because of
+this, a substantial amount of force is recorded during the strides aerial phases, due to
+a component of body mass acting on the tether and/or some elasticity in the system
+(Brughelli et al. 2015).
+Furthermore, signiﬁcantly lower maximal running velocity (about 3 m/s,
+10.8 km/h (Lakomy 1987) and acceleration have been reported on these ergometers
+due to friction and inertia of the overall rolling belt and components. This is an
+issue that persists even with motorized instrumented treadmills, with the exception
+of feedback controlled models (Bowtell et al. 2009), as will be discussed in the
+following section.
+10.2.2
+Modern Non-motorized Treadmills
+Since these original studies, modernized sprint treadmills (Fig. 10.2) have been
+shown to provide reliable and accurate assessment of horizontal-power in various
+population groups (Brughelli et al. 2011; Cross et al. 2014; Brown et al. 2016). In
+addition, it has been used to accurately describe the changes in sprint running
+mechanics during a return-to-sport rehabilitation process in rugby players (Brown
+and Brughelli 2014).
+Although these devices bring signiﬁcant value to the study of sprint mechanics,
+in a safe and comfortable environment, care should be taken when processing and
+Fig. 10.2 Running velocity (grey) and vertical ground reaction force relative to body mass (black)
+during a sprint on a non-motorized treadmill. Vertical ground reaction force data were collected via
+four load cells underneath the user-driven belt at 200 Hz. The force trace clearly shows a left-right
+asymmetry during the maximal velocity phase
+10
+The Measurement of Sprint Mechanics …
+215
+
+
+<!-- Page 217 -->
+displaying the data, and a critical attitude should be adopted for the development
+and validation of assessment protocols in sport club settings. As pointed out in a
+recent letter to the Editor, simply relying on software for data analysis from
+equipment companies could lead to ﬂawed results and mechanically inconsistent
+data (Brughelli et al. 2015).
+10.2.3
+Motorized Treadmills
+The development of motorized sprint treadmills allow for a compensation of the
+aforementioned effects of friction/inertia of the belt and other rolling elements, and
+help the athletes reach higher running velocities. This kind of technology has been
+used to quantify mechanical power output in various types of sportsmen (e.g.
+Chelly and Denis 2001) and investigate the force-velocity relationships in sprinting
+(Jaskolska et al. 1998). These authors showed that a multiple-trial method could be
+used to accurately proﬁle force-velocity relationships on a sprint-specialized
+motorized treadmill ergometer (Gymrol Sprint 1800, France). To provide resistance
+for each loading condition, the motors were set to apply an increasing resistance,
+across a set of 6 sprints (68, 108, 135, 176, 203 and 270N), during which FH was
+estimated via a tether-mounted force-transducer and goniometer, and velocity via a
+sensor system attached to the rear drum of the belt. A major limitation remaining
+was that the force output measurements were made along the attachment tether, and
+not at the ground level. This limitation was then answered with the development of
+force-sensor mounted treadmills.
+10.2.4
+Motorized Treadmills Equipped with Force Sensors
+A ﬁrst attempt was made to obtain GRF by installing a force platform ﬁrst directly
+under the rolling belt (Kram and Powell 1989). The vertical component of the GRF
+could be accurately measured, but due to the direct contact between the belt and the
+force platform upper frame at each step, the measurement of the horizontal com-
+ponent was altered by friction and cross-talk phenomena. A few years later, the
+same research group, presented a treadmill entirely mounted (frame, belt, rolling
+components and motor) on a force platform system (Kram et al. 1998). Following
+the same procedure, a three-dimension GRF motorized treadmill was also presented
+by Belli and his colleagues for walking purposes (Belli et al. 2001) with a split-belt
+system allowing for the measurement of separate limbs. This treadmill was then
+adapted for running (e.g. Avogadro et al. 2004; Divert et al. 2005; Morin et al.
+2011c) and mounted on four rigid piezo-electric force sensors positioned under the
+216
+J.-B. Morin et al.
+
+
+<!-- Page 218 -->
+treadmill (Kislter, Winthertür, Switzerland). The entire frame and motor are posi-
+tioned on the sensors allowing measurements of the vertical, antero-posterior and
+medio-lateral components of the GRF. This was done after appropriate “tare” of the
+force sensors when the treadmill was mounted on the force sensor, and static-force
+calibration (Belli et al. 2001).
+Both of these devices have been shown to give typical vertical and horizontal
+GRF-time
+traces
+that
+are
+very
+consistent
+with
+those
+reported
+using
+ground-embedded force platforms. This was a major improvement in measuring
+running mechanics compared to tethered systems, but regarding sprint running
+conditions, these treadmills still had two main limitations: they did not allow for
+sprint running conditions at very high velocity >6 to 7 m/s (>25 to 26 km/h), and
+they only allowed for steady-state running (i.e. at constant velocity), and not
+accelerated running, which is typical in sprinting.
+The non-maximal speed limitation was lifted in studies where the treadmill
+motor could set high-to-maximal constant speed imposed on the subjects either to
+match the one previously measured in the ﬁeld. An example of the ﬁrst type of
+setting is given in the study of Frishberg (1983), who recorded a typical sprint
+performance (a 91.44-m sprint) through 9.14-m sections in order to set the speed of
+the treadmill belt with corresponding increasing values (one mean 9.14-m constant
+speed value for every span corresponding to those covered in ﬁeld conditions). The
+second type of setting typically requires subjects to run at constant velocities either
+corresponding to their maximal speed recorded beforehand during ﬁeld measure-
+ments (e.g. Frishberg 1983; Kivi et al. 2002) or to the maximal speed they are able
+to maintain for a few steps performed after a lowering movement from the handrails
+onto the moving treadmill belt (e.g. Weyand et al. 2000, 2010; Kivi et al. 2002;
+Bundle et al. 2003) Both of these settings do not exactly reproduce “free” sprint
+running on the ﬁeld during which the runner’s speed constantly changes as a
+function of the amount of force applied onto the supporting ground, and over a
+typical acceleration phase. In particular, during acceleration, the speed increases
+from null to maximal speed, and thus by deﬁnition with no constant speed phase in
+between. Bowtell et al. (2009) proposed that such a fundamental basic of ﬁeld
+sprinting mechanics should be respected in treadmill conditions to better simulate
+ﬁeld sprint. Basically, subjects (through their muscular actions) should “command”
+the belt speed, not the other way around: “to measure peak performance there is a
+requirement for a runner to speedup and slowdown as they want and the speed of
+the treadmill belt should be capable of responding adequately and consistently”
+(Bowtell et al. 2009). Although high-speed motorized instrumented treadmills
+(Fig. 10.3) allowed for major insights into sprint mechanics (e.g. Weyand et al.
+2000, 2010; Clark and Weyand 2014; Clark et al. 2016), the above limitation of
+acceleration measurements still remained an issue, especially for investigating the
+role of muscle groups involved in accelerated running, as pointed out by Schache
+(Schache et al. 2014, 2015).
+10
+The Measurement of Sprint Mechanics …
+217
+
+
+<!-- Page 219 -->
+10.3
+Sprint Acceleration Mechanics on a Motorized
+Instrumented Treadmill
+The aforementioned devices meet many of the concerns raised by previous authors;
+during a sprint acceleration, GRF is averaged over each single foot contact, cor-
+responding to a single ballistic event of one push at a high sampling rate (1000 Hz)
+and the power output in the horizontal direction is calculated instantaneously as the
+product of horizontal component of the GRF and velocity collected at the same
+location (i.e. treadmill belt). But the most challenging technological improvement
+was to have the treadmill belt speed increase under the force output of the athletes,
+in order to simulate sprint acceleration at best, from zero to maximal running
+velocity.
+This was made possible with a new instrumented sprint-treadmill technology
+(ADAL3D-WR; Medical Development, HEF Tecmachine, Andrézieux-Bouthéon,
+France)1 based on the existing model used for constant-speed walking (Belli et al.
+2001) or running (Avogadro et al. 2004; Morin et al. 2007). The device (Fig. 10.4)
+is mounted on a highly rigid metal frame ﬁxed to the ground through four piezo-
+electric force transducers (KI 9077b, Kistler, Winterthur, Switzerland), and installed
+on a specially engineered concrete slab to ensure maximal rigidity of the supporting
+ground. The main technical details of the treadmill are: a 4 kW brushless motor; a
+force range of 60 kN in the vertical direction and 10 kN in the mediolateral and
+Fig. 10.3 High-speed instrumented sprint treadmill allows the athlete to drop on the rolling belt
+and perform a few steps at his top running velocity while anteroposterior and vertical ground
+reaction force is measured. Credit P. G. Weyand, South Methodist University Locomotor
+Performance Laboratory
+1See this video of a typical sprint acceleration on this treadmill: https://www.youtube.com/watch?
+v=NkGNOPSIJus.
+218
+J.-B. Morin et al.
+
+
+<!-- Page 220 -->
+anteroposterior directions; cross-talk effects between directions <2%; a natural
+frequency of *140 Hz in all three directions; and a belt surface available for
+running of 2.53  0.54 m. To our knowledge, this treadmill is currently used for
+research and athletes monitoring at the University of Saint-Etienne (France) and at
+the ASPETAR Medical Center in Doha (Qatar).
+Beyond the classical constant velocity mode, a “constant driving torque” mode
+was added, with the torque set accurately so that, for each subject, the default motor
+torque could overcome the friction on the belt due to subject’s body-mass. This
+default torque setting as a function of belt friction is in line with previous
+motorized-treadmill studies (Falk et al. 1996; Jaskolska et al. 1998; Chelly and
+Denis 2001), and with the detailed discussion by McKenna and Riches in their
+recent study comparing “torque treadmill” sprint to overground sprint (McKenna
+and Riches 2007).
+As seen in Fig. 10.5, the raw vertical and horizontal force signals are sampled
+simultaneously with running velocity, and then averaged for each support phase
+(vertical force above 20N) for a step-by-step analysis of the main running kine-
+matics (spatio-temporal variables) and kinetics (Fig. 10.6).
+Fig. 10.4 Sprint instrumented motorized treadmill allowing direct and immediate changes in belt
+velocity following subject’s actions during sprint acceleration, from null to maximal running
+velocity
+10
+The Measurement of Sprint Mechanics …
+219
+
+
+<!-- Page 221 -->
+Fig. 10.5 Running velocity (black trace) and vertical (blue) and horizontal (red) components of
+the ground reaction force during a sprint acceleration (sampling frequency of 1000 Hz). The
+subject here is a physical education student not specialized in sprinting (body mass of 80 kg)
+Fig. 10.6 Vertical and horizontal components of the ground reaction force (upper panel), running
+velocity (lower left) and power output in the horizontal direction (lower right) for all steps of the
+acceleration until top speed for a world-class sprinter (100-m best time: 9.92 s) and a
+non-specialist
+220
+J.-B. Morin et al.
+
+
+<!-- Page 222 -->
+10.3.1
+Kinematics and Kinetics
+The main running spatio-temporal, GRF and spring-mass variables (see Chap. 8)
+may then be obtained and compared within and between athletes. For instance,
+Table 10.1 shows the averaged mechanical data for the ﬁrst and second half of a
+sprint acceleration from standing start to top-speed in an elite sprinter (best 100-m
+time of 9.92 s) versus a healthy young subject of similar body mass (81 kg), not
+specialized in sprinting.
+Beyond this classical descriptive analysis of the main sprint running pattern
+mechanics, the instrumented accelerated treadmill allowed us to compute and study
+individual force-velocity and power-velocity relationships.
+10.3.2
+Force-Velocity and Power-Velocity Relationships
+On the basis of the simultaneous, high rate GRF and running velocity measure-
+ments described above, FH and velocity may be averaged for each support phase
+(dynamic action onto the running surface) and plotted throughout the course of a
+sprint for each stance phase (Morin et al. 2010), as in sprint-cycling studies (e.g.
+Dorel et al. 2010). As shown in Fig. 10.7, the entire force-velocity relationship is
+described by the maximal theoretical horizontal force that the lower limbs could
+produce over one contact at a null velocity (FH0), and the theoretical maximum
+velocity that could be produced during a support phase in the absence of
+mechanical constraints (v0). A higher v0 value represents a greater ability to develop
+Table 10.1 Mean values of contact time (tc), aerial time (ta), step frequency (Fq), vertical (FV),
+horizontal (FH) and resultant (FTot) GRF, vertical displacement of the center of mass (Dy) and
+vertical (kvert) stiffness (kleg)
+Variable
+tc
+(ms)
+ta
+(ms)
+Fq
+(Hz)
+FV
+(N)
+FH
+(N)
+FTot
+(N)
+Dy (cm)
+kvert
+(kN m−1)
+1st half of the
+acceleration
+Elite
+sprinter
+134
+88
+4.47
+1287
+412
+1354
+–
+–
+Non
+sprinter
+208
+177
+2.74
+1036
+260
+1073
+–
+–
+2nd half of the
+acceleration
+Elite
+sprinter
+120
+78
+4.89
+1506
+254
+1528
+1.94
+107
+Non
+sprinter
+141
+231
+2.77
+1335
+151
+1343
+5.56
+57
+The values are averaged for all steps separated into equal number of steps over the acceleration (1st
+and 2nd half) for each athlete. For example, the elite sprinter reached his top speed in 26 steps, so
+averaged values for steps 1–13 are used to describe the 1st half of the acceleration, and data from
+steps 14–26 are used to describe the 2nd half of the acceleration. Spring-mass model data are
+shown for the 2nd phase only since the basis postulates of the spring-mass model for running
+require a constant or near-constant running speed (see Chap. 8)
+10
+The Measurement of Sprint Mechanics …
+221
+
+
+<!-- Page 223 -->
+horizontal force at high velocities, as shown in Fig. 10.8. This is a clear mechanical
+difference between elite and lower-level sprinters (Morin et al. 2012; Rabita et al.
+2015). The criterion of averaging force over a single contact time is important from
+a biomechanical perspective, as the force-velocity relationship directly relates to
+lower limb mechanical capabilities. When multiplying FH and v values for each
+support phase, the equivalent of a mechanical power in the horizontal direction is
+Fig. 10.7 Graphical representation of force-velocity relationship determined via treadmill
+ergometry. The data points represent values averaged across each support phase, from the ﬁrst
+to the last at peak velocity. FH0 and v0 represent the y and x intercepts, and the theoretical
+maximum of force and velocity able to be produced in absence of their opposing unit
+Fig. 10.8 Linear force-velocity (left panel) and 2nd degree polynomial power-velocity (right
+panel) relationships during treadmill sprint acceleration for a world-class sprinter (100-m best time:
+9.92 s) and a non-specialist
+222
+J.-B. Morin et al.
+
+
+<!-- Page 224 -->
+obtained (P), and the power-velocity may be computed (Fig. 10.8). Values of Pmax
+obtained via this method (when converted to similar time-periods) and mechanical
+variables (FH0 and v0) are congruent with results from comparable subject pools and
+loading parameters in earlier studies (Cheetham et al. 1985; Jaskolska et al. 1998;
+Funato et al. 2001; Morin and Belli 2004) and are highly reliable for test-retest
+measurement.
+10.3.3
+Effectiveness of Ground Force Application
+Deﬁnitions In addition to the aforementioned force-velocity-power relationships,
+updated treadmill ergometry allows mechanical effectiveness to be quantiﬁed
+throughout a sprint acceleration phase. In the cycling literature (Davis and Hull
+1981; Dorel et al. 2010), pedal-mounted force sensors have allowed the compu-
+tation of force application indices that indicate, for each pedal down stroke, the ratio
+of the effective component of the force applied to the pedal by the cyclist (i.e. the
+component oriented perpendicularly to the crank arm) to the resultant (total) force
+applied to the pedal (Fig. 10.9). The higher the perpendicular component of the
+resultant force, the higher the mechanical effectiveness, and the more force that will
+actually drive the pedal for a given muscular force output. Note that the mechanical
+effectiveness may be equally expressed as the angle between the effective com-
+ponent and the resultant force (a in Fig. 10.9), or as a percentage. For example, a
+mechanical effectiveness of 80% means that over a pedal downstroke, the average
+effective force will be 80% of the resultant force applied to the pedal.
+Following the same idea, GRF output from modern treadmills can be expressed
+as a ratio of the ‘effective’ horizontal component of GRF (i.e FH) to total force (i.e.
+FTot) averaged across each contact phase (i.e. ‘ratio of forces’: RF) as deﬁned by
+Morin et al. (2011a). While it is possible (and encouraged) to maximize RF (i.e. up
+Fig. 10.9 Schematic representation of the concept of mechanical effectiveness of force
+application, from cycling to sprint running. In cycling (left), effectiveness is computed as the
+ratio between the effective component (FEFF which will cause the rotation) and the total i.e.
+resultant force produced by the active muscles (FTot). The other component is ineffective. During a
+sprint running acceleration (right), the analogy we propose gives effectiveness as the ratio
+RF = FHzt/FTot
+10
+The Measurement of Sprint Mechanics …
+223
+
+
+<!-- Page 225 -->
+to 100%) in cycling, the requirement of a vertical component in sprint running
+means that it is impossible to present a maximal RF value without falling. Instead,
+in sprint running we observed sub-maximal values of RF (30–45%) at the begin-
+ning an accelerated sprint on the treadmill, which systematically decreases with a
+clear linear trend with increasing velocity (Fig. 10.10). This is a logical outcome as
+when the athletes move faster during an acceleration (or propel the treadmill belt
+faster) their overall body posture tends to orient upright, which is related to an
+overall progressive vertical orientation (i.e. less effective) of the GRF vector at each
+support phase. Interestingly, we systematically observed that this decrease in RF
+with increasing speed was linear, in human runners ranging from elite sprinters to
+non-sprinters. In theory, and as conﬁrmed by track-embedded force plate GRF
+measurements (see below), the value of RF decreases down to approximately 0% as
+the maximal velocity is reached. At this moment of the sprint, the athlete’s
+acceleration is null, and FH averaged over the support phase is null (equal braking
+and propulsive impulses cancel out), or quasi null in real-life sprinting since air
+friction force is low (between 30 and 40N).
+Furthermore, the slope of this linear decrease in RF (‘decrement in ratio of
+forces’: DRF), with velocity is described as an index of force application technique.
+This slope is negative (decrease in RF as velocity increases) and a typical DRF value
+of −0.079 as in Fig. 10.10 may be expressed as −7.9%, which describes the fact
+that over this sprint acceleration, the RF as decreased on average by 7.9% for each
+new meter per second of running velocity generated. It follows that, in theory, the
+best sprinters are able to accelerate more and over a longer period, and have
+therefore a lower decrease in RF as velocity increases, i.e. a less negative DRF. Vice
+versa, we hypothesized that more negative DRF values would indicate a fast
+decrease in RF over acceleration, with runners reaching an upright body posture
+prematurely and not being able to accelerate anymore (RF of 0%) very early into
+the
+acceleration.
+These
+hypotheses
+of
+a
+relationship
+between
+mechanical
+Fig. 10.10 Ratio of Force as
+a function of running velocity
+during a sprint acceleration on
+a motorized instrumented
+treadmill for a world-class
+sprinter (100-m best time:
+9.92 s) and a non-specialist.
+The blue circles represent the
+extrapolation of the linear
+relationship between ratio of
+force and running velocity to
+the theoretical value of 0%
+reached at maximal velocity
+224
+J.-B. Morin et al.
+
+
+<!-- Page 226 -->
+effectiveness of force application and sprint acceleration and overall performance
+have been tested in two treadmill protocols and a study performed on a sprint track.
+Relationship with sprint performance. In a ﬁrst study (Morin et al. 2011a),
+Morin et al. tested whether mechanical effectiveness of force application (especially
+the DRF index) was correlated to 100-m performance, i.e. were the athletes with a
+more effective propulsion as measured on the treadmill the fastest on the track and
+vice versa. The maximal power output measured in the laboratory was highly and
+positively correlated, but more importantly, the best performance on the track
+(100-m time and maximal velocity and acceleration capability over 4 s) was
+observed in subjects who had a “good” DRF, i.e. a value of −6 to −5%. Conversely,
+subjects who had a “poor” DRF value on the treadmill (−7 to −10%) were the
+slowest at the track 100-m test. An interesting additional result was that the hori-
+zontal component of the GRF (FH) was signiﬁcantly correlated to 100-m perfor-
+mance which makes sense in the biomechanical context of human locomotion
+aiming at propelling the body mass in the forward direction. However, the resultant
+(total) GRF averaged over the 6-s acceleration on the treadmill was not correlated to
+any sprint performance variable. This means that the total force output measured on
+the treadmill (taken regardless of its orientation in space) was not a performance
+indicator. At ﬁrst sight, this appears to contradict previous work by Weyand et al.
+(2000) showing that faster athletes were able to produce more GRF per unit body
+mass. However, it is important to note that only the vertical component of the GRF
+was studied by Weyand et al., and only at the very speciﬁc moment of maximal
+velocity, and in a very heterogeneous population mixing untrained females and
+Olympian male sprinters. When the GRF output (i.e. the resulting, net, mechanical
+output from the entire propelling effort of the neuromuscular system) was consid-
+ered over the entire acceleration phase, in a homogeneous group of athletes, it was
+not correlated to sprint performance. This study gave a ﬁrst insight into our “force
+production and transmission to the ground” general view of sprint acceleration.
+That said, an issue with this ﬁrst study was that the best athlete that participated had
+a 100-m best time of 10.9 s, which does not allow to extend these conclusions to
+elite athletes.
+In a second study (Morin et al. 2012), the same group of athletes repeated the
+very same protocol (treadmill sprint to measure mechanical GRF output capability
+and mechanical effectiveness of force application and track 100-m test of sprint
+performance), but tested this time 3 national level sprinters (best 100-m times
+ranging from 10.3 to 10.6 s) and a world-class sprinter (best 100-m time of 9.92 s at
+the time of the study). The results conﬁrmed those found in the ﬁrst study, with the
+elite athlete showing a very effective force application (DRF of −4%), despite a
+resultant GRF per unit body weight within the range of that of much slower
+individuals
+(no
+difference
+with
+his
+peers,
+very
+small
+difference
+with
+non-specialists). One biomechanical explanation of this world-class sprinter’s
+ability to run fast was not his outstanding force production capability (at the time he
+ran 9.92 s, he had never practiced heavy-weight strength training) but his
+extraordinary capability of orienting the GRF vector forward when pushing the
+ground,
+especially
+at
+high
+running
+velocities
+(Figs. 10.10
+and
+10.11).
+10
+The Measurement of Sprint Mechanics …
+225
+
+
+<!-- Page 227 -->
+This DRF value of −4.2% is the most effective value reported in the scientiﬁc
+literature to our knowledge (Table 10.2).
+Practically, these variables demonstrate the ability to maintain effective orien-
+tation of global force production throughout a sprint (independently from the
+magnitude of the resultant GRF output) under increasing velocity, and add another
+level of analysis to sprint running acceleration mechanics. That being said, a correct
+interpretation of Newton’s fundamental law of dynamics would have led to the
+same conclusions: the ﬁrst part of the law states that the alteration of motion
+(acceleration) is proportional to the motive force impressed: more net external force
+applied to a given mass (e.g. GRF and body mass) means more acceleration. But
+the second, often overlooked, part of the law states that this acceleration is made in
+the direction of the right line in which that force is impressed: more net force in the
+fore-aft direction means more forward acceleration.
+Muscular determinants: the hip extensors hypothesis. The aforementioned
+studies presented the concept of mechanical effectiveness of force application, its
+main indices RF and DRF, and showed that they were signiﬁcantly correlated to
+track sprint acceleration performance, from non-specialists to elite sprinters. In
+order to transfer these laboratory conclusions into sports practice, the main ques-
+tions that needed to be answered were then: (1) what are the neuromuscular
+determinants of the mechanical effectiveness? (2) are they trainable, and if so, how?
+(3) since all the results and conclusions drawn above are based on instrumented
+treadmill measurements, do they still old true in “real” track sprint conditions? The
+latter question will be addressed in the limitation section of this chapter.
+The second question is still under study, but a recent work has brought an
+answer to the ﬁrst question as to the muscular determinants of an effective forward
+propulsion. We termed this set of research the “hip extensors hypothesis”. The three
+most important arguments supporting this hypothesis were:
+First, several experimental and/or modeling studies showed the key role of hip
+extensors muscles (gluteal and hamstring) in running performance (e.g. Schache
+Fig. 10.11 Individual linear
+relationship between the ratio
+of force and the running
+velocity during a sprint
+acceleration for
+non-specialists (physical
+education students, in grey),
+national-level sprinters (in
+white) and a world-class
+sprinter (100-m best time:
+9.92 s, in black)
+226
+J.-B. Morin et al.
+
+
+<!-- Page 228 -->
+Table 10.2 Main sprint acceleration mechanical outputs averaged over the 6-s acceleration on an instrumented motorized treadmill (±Standard deviation)
+Variable
+World-class
+sprinter
+National-level
+sprinters
+% difference with
+WCS
+Non-specialists
+% difference with
+non-specialists
+Horizontal component of GRF
+(FH in N/kg)
+3.90
+3.44 ± 0.29
+−11.8
+3.04 ± 0.51
+−22.1a
+Vertical component of GRF (FV in N/kg)
+18.1
+17.6 ± 0.58
+−3.24
+15.7 ± 1.17
+−13.5a
+Resultant (total) GRF (FTot in N/kg)
+18.6
+17.9 ± 0.59
+−3.68
+16.0 ± 1.19
+−14.2a
+Mechanical effectiveness of force
+application DRF (%)
+−4.21
+−6.00 ± 0.6
+−42.9b
+−8.21 ± 2.9
+−95.2b
+Comparison between a world-class sprinter (WCS, personal 100-m best time of 9.92 s), national-level sprinters (personal best times ranging from 10.3 and
+10.6 s) and active physical education students, non-specialists of sprinting
+aDifference greater than 2 Standard deviations
+bDifference greater than 3 standard deviations
+10
+The Measurement of Sprint Mechanics …
+227
+
+
+<!-- Page 229 -->
+et al. 2014, 2015). Based on experimental and modeling approaches used in various
+types of subjects including elite sprinters, research has consistently showed that the
+hip extensors played an increasing role as running speed increased up to maximal
+sprint values (typically above 7 m/s, 25.2 km/h) (Mann and Sprague 1980;
+Simonsen et al. 1985; Belli et al. 2002; Kyröläinen et al. 2005; Dorn et al. 2012;
+Schache et al. 2015). However, these studies mostly considered high but constant
+running velocity (no acceleration) and did not relate this hip extensor activity to
+direct measurements of propulsive GRF or mechanical effectiveness.
+Second, to produce high amounts of horizontal GRF and impulse (Morin et al.
+2015b), especially at high velocity (i.e. when the body posture is upright), intense
+backward actions of the lower limb are necessary during both swing and support
+phases. It is therefore anatomically and functionally reasonable to expect the hip
+extensors to produce very high forces during both phases (Sun et al. 2015). Because
+sprinting is associated with great limb velocities prior to ground impact at each step,
+this swing-support transition moment is crucial for hamstrings, which counteract
+very high external hip ﬂexion and knee extension moments in the context of support
+forces as high as eight times body weight (Sun et al. 2015). In addition, it is
+interesting to note that, as Fig. 10.11 clearly shows, the difference in mechanical
+effectiveness between non-specialists, high-level sprinters and the elite athlete
+tested is visible at high running velocities, not at the beginning of the sprint
+acceleration. This tends to suggest that the ability to produce high RF and orient the
+GRF with a good effectiveness is particularly higher in best sprinters at high run-
+ning velocity (Morin et al. 2012), i.e. when the overall body orientation is vertical,
+and lower limbs joint angular velocity and the associated muscle mechanical stress
+are at their highest. What distinguishes the best sprinters (Fig. 10.11) is not their
+effectiveness and ability to produce high amounts of FH at slow running velocity,
+but their ability to do so at high to very high velocity. The key here is to produce
+high amounts of FH in the very speciﬁc context of high running velocity: “strong at
+high velocity”.
+Finally, and interestingly, the fact that hamstring injuries are the most prevalent
+and recurrent lower limb muscle injury associated with sprinting tasks presupposes
+the importance of this muscle group in the context of high speed and/or accelera-
+tions (e.g. Ekstrand et al. 2011; Feddermann-Demont et al. 2014).
+In order to test this hypothesis, Morin et al. (2015a) used an instrumented
+treadmill that allowed two novel experimental features: (1) measure simultaneously
+and time-synchronize the muscular activity (surface electromyography) of the main
+lower limb muscles and the GRF (including FH) (2) do so over an entire sprint
+acceleration from zero to maximal velocity and analyze every step for one leg. To
+our knowledge, no equivalent measurements of muscle activity synchronized with
+GRF outputs have been performed, except very recent GRF measurements per-
+formed over an entire 50-m sprint, thanks to an innovative force plate measurement
+system (Nagahara et al. 2017). As shown in Fig. 10.12, this experimental setting
+was completed by isokinetic joint torque testing to provide an indirect idea of
+subjects’ torque production capability at the hip and knee, in extension and ﬂexion,
+concentric and eccentric modes. Although contraction velocities and range of
+228
+J.-B. Morin et al.
+
+
+<!-- Page 230 -->
+motion strongly differ between sprint running and isokinetic testing, this technique
+was selected to provide an indication about subjects’ overall force capability, since
+it is currently impossible to directly assess muscle force output during sprint run-
+ning. The main results of the study showed that, as hypothesized, the highest level
+of FH during the sprint acceleration was observed in subjects who had both the
+highest torque production capability of the hip extensors (especially hamstring
+muscles in eccentric mode) and the highest hamstring EMG activity during the
+end-of-swing phase. A subsequent analysis focused on the initial acceleration phase
+(ﬁrst 10 steps) showed a signiﬁcant relationship between FH and glutei concentric
+torque capability and glutei EMG activity during the end-of-swing phase. In other
+words, hamstring EMG activity during the swing and end-of-the-swing phases and
+eccentric knee ﬂexor peak torque are related to the amount of FH produced during
+sprinting. These ﬁndings help the suggestion that the hip extensors (especially the
+hamstrings), play a signiﬁcant role in sprint acceleration performance via
+mechanical effectiveness an FH production.
+This singular study requires conﬁrmation, and other muscular determinants of
+mechanical effectiveness deserve deeper investigation, such as the capability of the
+ankle to resist ground impact and play a role in transmitting the power generated by
+the lower limb neuromuscular system to the ground. As commonly reiterated,
+Fig. 10.12 Experimental investigation of the role of hip extensors in sprinting mechanical
+effectiveness. Left: subjects were equipped with surface electromyography electrodes during their
+sprint acceleration on the instrumented motorized treadmill. Right: the ground reaction force signal
+(ﬁrst line of data) was synchronized with the right leg muscle activity (other lines) throughout the
+acceleration. In addition, subjects hip and knee extensor and ﬂexor torque capability was tested in
+concentric and eccentric mode on an isokinetic dynamometer
+10
+The Measurement of Sprint Mechanics …
+229
+
+
+<!-- Page 231 -->
+“A chain is only as strong as its weakest link”, and although much power is
+generated at the hip and knee during sprint acceleration, one should keep in mind
+that the GRF is in ﬁne applied onto the supporting ground at the ankle/foot. Future
+studies should test whether, as training anecdotal evidence and locomotion
+biomechanics suggest, a “strong foot” also plays a role in applying the ground force
+with effectiveness, i.e. with a forward orientation, during sprint acceleration.
+10.4
+Limitations and Future Studies
+Although sprint instrumented treadmills have allowed coaches and researchers to
+signiﬁcantly improve their level of understanding about human sprinting, this
+approach has several limitations that need to be discussed. Keeping these limita-
+tions in mind, this corpus of research is relatively novel and future studies will
+surely bring more insight into the results hitherto obtained, and a deeper under-
+standing of the mechanisms underlying the mechanical effectiveness, its trainability
+and the associated training methods.
+10.4.1
+Main Limitations
+Although the most updated motorized instrumented treadmill presented in this
+Chapter allows direct GRF measurements in three dimensions during sprint
+acceleration, an issue that persists is that the application of compensatory friction
+appears to restrict the subject’s ability to reach levels of maximal running velocity
+near to overground sprint running (Morin et al. 2010; Morin and Sève 2011).
+Moreover, the individualized determination of the default torque is heavily time
+consuming, and familiarization persists as a limitation with even the most modern
+machines (>10 trials) (Morin et al. 2010). Although the reduction in sprinting
+velocity with torque compensated treadmills varies when compared to over-ground
+sprinting (*20% according to (Morin and Sève 2011), the main sprint performance
+output were signiﬁcantly and highly correlated within the same subjects when
+compared with their track sprint performance. Thus, the overall inter-subject dif-
+ference in track sprint performance is maintained during treadmill measurements,
+and one could argue that the ability to measure direct kinetics over a virtually
+unlimited time-period (for instance during a 400-m sprint Tomazin et al. 2012;
+Girard et al. 2016c) potentially mitigates this limitation. In addition, some
+unpublished data show that when extrapolating the RF-velocity linear relationship
+to the velocity axis (see Fig. 10.10), the theoretical maximal velocity calculated is
+very close to the actual maximal sprinting velocity reached by the athletes tested
+during a track 100-m within the same testing session. In fact, in theory, at maximal
+velocity, the acceleration of the athlete is null and thus FH is quasi-null (only the
+force to overcome air friction during track sprinting) and RF  0%. Due to the
+230
+J.-B. Morin et al.
+
+
+<!-- Page 232 -->
+inertia and friction of the treadmill system (see discussion in Morin and Sève 2011),
+the athletes cannot reach their track maximal velocity while sprinting on the
+treadmill (values of about 80% are reached). However, should the treadmill allow
+such a realistic end of acceleration phase, the estimated maximal velocity
+(RF  0% in line with RF values actually measured during the treadmill acceler-
+ation, Fig. 10.10) almost perfectly matches track measurements and “real-life”
+sprinting conditions.
+The scientiﬁc study of human sprinters began more than one century ago with
+pioneer biomechanist Marey (2002) and the ﬁrst scientiﬁc articles by physiologist
+Archibald V. Hill and his colleagues (Furusawa et al. 1927; Bassett 2002), who
+published analyses of sprint mechanics based on time-motion and center of mass
+spatiotemporal variables. The analysis of sprint kinetics and GRF requires
+ground-embedded force plate systems over the acceleration distance. Since this
+technological feat has only very recently been accomplished by Japanese
+researchers (Nagahara et al. 2017), the only possibility with the 2- to 7-m force
+plate systems hitherto available was to use multiple sprint protocols and aggregate
+the data collected to virtually “reconstruct” a complete sprint acceleration dataset.
+For example, if a 7-m force plate system is used, athletes step onto the force plate
+system for their ﬁrst 3 steps of an acceleration during their ﬁrst trial, and then
+moving the starting blocks back for the second trial, the 4th and 5th steps are
+recorded, and so on. This approach was used by Cavagna et al. (1971) and more
+recently by Rabita et al. (2015). In the latter study, it is interesting to notice that
+these authors reported, in highly trained to elite athletes (personal 100-m best time
+below 10 s) sprint acceleration kinetics that were very close to those obtained with
+the instrumented treadmill presented in this chapter:
+• the resultant GRF values and horizontal and vertical components measured on
+the track were within the range of those measured on the instrumented treadmill
+(for example, maximal horizontal force FH0 of *10 N/kg)
+• although maximal RF values in the starting-blocks (*60%) were much higher
+than those observed on the treadmill (which is logical given the crouched versus
+standing positions), RF values for the ﬁrst steps on the track were within the
+range of those measured on the treadmill
+• the linear decrease in RF with increasing running velocity observed on the
+treadmill (Fig. 10.10) was also found on the track (Fig. 3 in Rabita et al. 2015),
+and the DRF values calculated on the track for highly trained sprinters (*−6%)
+were in line with those found for the same population on the treadmill
+Overall, the main conclusion one can draw from the comparison of published
+treadmill (Morin et al. 2010, 2011a, b, 2012; Morin and Sève 2011; Girard et al.
+2016c) and track (Morin et al. 2015b; Rabita et al. 2015; Nagahara et al. 2017)
+studies of sprint acceleration kinetics is that despite the above-mentioned limita-
+tions and obvious difference in sprinting conditions, the main mechanical outputs
+(GRF, mechanical effectiveness) are similar when tested in athletes of similar
+training and performance level. This of course does not remove the limitations
+10
+The Measurement of Sprint Mechanics …
+231
+
+
+<!-- Page 233 -->
+associated with sprint treadmill measurements, but it brings support to the fact that
+these limitations are outweighed by the numerous experimental possibilities offered
+to bring new insights into to complexity of human sprinting. Indeed, as shown in
+recent studies, sprint instrumented treadmills allow a step-by-step analysis of sprint
+mechanics, and many external conditions to be easily simulated compared to
+real-life track sprinting (e.g. repeated sprints, hypoxia, heat).
+10.4.2
+Latest Studies and Future Research
+In 2015, Morin and his colleagues were able to synchronize muscle activity mea-
+surements with GRF during entire sprint accelerations to better investigate the role
+of lower limb muscles (hip extensors in particular) in sprint acceleration perfor-
+mance and mechanical effectiveness. In this study, and as shown in most Figures
+from this Chapter, a step-by-step analysis is possible since all the steps of an entire
+sprint acceleration are recorded. Based on this key advantage of treadmill sprinting,
+it has been possible to investigate fatigue and changes in running mechanics during
+short (100-m) to long (400-m sprint events) (Tomazin et al. 2012; Girard et al.
+2016c), but also during repeated sprint series. This context is close to the demands
+of many team sports such as rugby, soccer or hockey, and has been the recent focus
+of several investigations during which it was experimentally easy to require subjects
+to repeat sprint accelerations on the treadmill and to set effort-recovery sequences.
+This has led to several recent publications by leading author Olivier Girard about
+the methodological issues with studying multiple steps and repeated sprints
+mechanics (Girard et al. 2015a, 2016a), or the changes in running mechanics
+associated with interval training (Girard et al. 2017b).
+In addition, some external conditions such as hypoxia and heat may be studied in
+laboratory conditions, with the use of an instrumented treadmill within a speciﬁc
+laboratory environment allowing the simulation of hypoxia and heat conditions.
+This has led to a series of recent works from which a deeper knowledge has been
+obtained as to the mechanical consequences of performing sprints under heat stress
+(Girard et al. 2016b, 2017a) or in hypoxic conditions (Girard et al. 2015b, 2016b;
+Brocherie et al. 2016).
+The above-mentioned possibility to record and study each step of a sprint allows
+the investigation of inter-limb asymmetry during sprint running. This area of
+research has recently been advanced2 using biomechanical modeling (Clark et al.
+2017), but also more direct experimental measurements during sprinting (e.g.
+Girard et al. 2017c). In particular, a recent work by Brown et al. (2017) compared
+the asymmetry between the vertical and horizontal components of the resultant
+GRF in rugby players. This study showed that interestingly, the magnitude and
+2See this comment on Usain Bolt’s running mechanics: https://phys.org/news/2017-06-symmetry-
+usain-asymmetrical-gait.html.
+232
+J.-B. Morin et al.
+
+
+<!-- Page 234 -->
+range of asymmetry computed on the horizontal GRF component during acceler-
+ation and maximal velocity phases, where much greater than those found in the
+vertical component. All these results may have signiﬁcant implications for
+better-designed sports training and injury prevention/rehabilitation programs.
+This transition towards applications to sport performance and training is another
+expected research perspective. In particular, training methods aiming at improving
+the mechanical effectiveness of ground force application should be studied, in both
+unfatigued and fatigued conditions. Cross-sectional studies have shown that the
+mechanical effectiveness of ground force application was a key factor of sprint
+performance and largely impaired due to fatigue associated with repeated sprints
+(Morin et al. 2011b). It is now time for controlled, longitudinal training studies to
+guide sports practitioners toward the most effective way(s) of developing this ability
+in athletes. For example, although sprint mechanics were not tested on an instru-
+mented treadmill, a pilot training study has recently shown that the use of very
+heavy sleds (80% of body mass) was an effective way to improve maximal FH and
+RF in soccer players (Morin et al. 2016). In the future, the continued use of
+instrumented sprint treadmills and additional laboratory-based methods will
+undoubtedly improve our understanding of human locomotion and sports perfor-
+mance in this area.
+In conclusion, the recent developments of instrumented sprint treadmills, in
+particular those allowing three-dimensional ground reaction force measurements
+during acceleration (from zero to maximal velocity), have led to signiﬁcant insights
+into the mechanics of this key sports ability. Despite some inevitable limitations
+associated to the device itself, and hoping for more detailed and numerous studies
+performed on track-embedded force plate systems, treadmill sprinting has and will
+continue to allow researchers and practitioners to gain more direct experimental
+insights into the mechanical underpinnings of this seemingly simple yet in fact so
+complicated motor task.
+References
+Avogadro P, Chaux C, Bourdin M et al (2004) The use of treadmill ergometers for extensive
+calculation of external work and leg stiffness during running. Eur J Appl Physiol 92:182–185
+Bassett DR (2002) Scientiﬁc contributions of A. V. Hill: exercise physiology pioneer. J Appl
+Physiol 93:1567–1582
+Belli A, Bui P, Berger A et al (2001) A treadmill ergometer for three-dimensional ground reaction
+forces measurement during walking. J Biomech 34:105–112
+Belli A, Kyröläinen H, Komi PV (2002) Moment and power of lower limb joints in running. Int J
+Sports Med 23:136–141
+Blickhan R (1989) The spring-mass model for running and hopping. J Biomech 22:1217–1227
+Bowtell MV, Tan H, Wilson AM (2009) The consistency of maximum running speed
+measurements in humans using a feedback-controlled treadmill, and a comparison with
+maximum attainable speed during overground locomotion. J Biomech 42:2569–2574
+Brocherie F, Millet GP, Morin J-B, Girard O (2016) Mechanical alterations to repeated treadmill
+sprints in normobaric hypoxia. Med Sci Sport Exerc 48:1570–1579
+10
+The Measurement of Sprint Mechanics …
+233
+
+
+<!-- Page 235 -->
+Brown SR, Brughelli M (2014) Determining return-to-sport status with a multi-component
+assessment strategy: a case study in rugby. Phys Ther Sport 15:211–215
+Brown SR, Brughelli M, Cross MR (2016) Proﬁling sprint mechanics by leg preference and
+position in rugby union athletes. Int J Sports Med 37:890–897
+Brown SR, Cross MR, Girard O et al (2017) Kinetic sprint asymmetries on a non-motorised
+treadmill in rugby union athletes. Int J Sport Med (In press)
+Brughelli M, Cronin J, Chaouachi A (2011) Effects of running velocity on running kinetics and
+kinematics. J Strength Cond Res 25:933–939
+Brughelli M, Morin J-B, Mendiguchia J (2015) Asymmetry after hamstring injury in English
+Premier League: issue resolved, or perhaps not? Int J Sports Med 36:603
+Bundle MW, Hoyt RW, Weyand PG (2003) High-speed running performance: a new approach to
+assessment and prediction. J Appl Physiol 95:1955–1962
+Cavagna GA (1975) Force platforms as ergometers. J Appl Physiol 39:174–179
+Cavagna GA, Komarek L, Mazzoleni S (1971) The mechanics of sprint running. J Physiol
+217:709–721
+Cheetham ME, Williams C, Lakomy HK (1985) A laboratory running test: metabolic responses of
+sprint and endurance trained athletes. Br J Sports Med 19:81–84
+Chelly SM, Denis C (2001) Leg power and hopping stiffness: relationship with sprint running
+performance. Med Sci Sports Exerc 33:326–333
+Clark KP, Ryan LJ, Weyand PG (2016) A general relationship links gait mechanics and running
+ground reaction forces. J Exp Biol (jeb.138057)
+Clark KP, Ryan LJ, Weyand PG (2017) A general relationship links gait mechanics and running
+ground reaction forces. J Exp Biol 220:247–258
+Clark KP, Weyand PG (2014) Are running speeds maximized with simple-spring stance
+mechanics? J Appl Physiol 117:604–615
+Cross MR, Brughelli ME, Cronin JB (2014) Effects of vest loading on sprint kinetics and
+kinematics. J Strength Cond Res 28:1867–1874
+Dal Monte A, Fucci S, Manoni A (1973) The treadmill used as a training and simulator instrument
+in middle- and long-distance running. In: Krager (ed) Medicine and sport, Basel, pp 359–363
+Davis RR, Hull ML (1981) Measurement of pedal loading in bicycling: II. Analysis and results.
+J Biomech 14:857–872
+Divert C, Mornieux G, Baur H et al (2005) Mechanical comparison of barefoot and shod running.
+Int J Sports Med 26:593–598
+Dorel S, Couturier A, Lacour JR et al (2010) Force-velocity relationship in cycling revisited:
+beneﬁt of two-dimensional pedal forces analysis. Med Sci Sports Exerc 42:1174–1183
+Dorn TW, Schache AG, Pandy MG (2012) Muscular strategy shift in human running: dependence
+of running speed on hip and ankle muscle performance. J Exp Biol 215:1944–1956
+Ekstrand J, Hägglund M, Walden M (2011) Epidemiology of muscle injuries in professional
+football (Soccer). Am J Sports Med 39:1–7
+Elliott BC, Blanksby BA (1976) A cinematographic analysis of overground and treadmill running
+by males and females. Med Sci Sport Exerc 8:84–87
+Falk B, Weinstein Y, Dotan R et al (1996) A treadmill test of sprint running. Scand J Med Sci
+Sports 6:259–264
+Feddermann-Demont N, Junge A, Edouard P et al (2014) Injuries in 13 international Athletics
+championships between 2007-2012. Br J Sports Med 48:513–522
+Frishberg BA (1983) An analysis of overground and treadmill sprinting. Med Sci Sports Exerc
+15:478–485
+Funato K, Yanagiya T, Fukunaga T (2001) Ergometry for estimation of mechanical power output
+in sprinting in humans using a newly developed self-driven treadmill. Eur J Appl Physiol
+84:169–173
+Furusawa K, Hill AV, Parkinson JL (1927) The dynamics of “Sprint” running. Proc R Soc B Biol
+Sci 102:29–42
+Girard O, Brocherie F, Morin J-B et al (2015a) Comparison of four sections for analyzing running
+mechanics alterations during repeated treadmill sprints. J Appl Biomech 31:389–395
+234
+J.-B. Morin et al.
+
+
+<!-- Page 236 -->
+Girard O, Brocherie F, Morin J-B et al (2017a) Mechanical alterations associated with repeated
+treadmill sprinting under heat stress. PLoS ONE 12:e0170679
+Girard O, Brocherie F, Morin J-B, Millet GP (2016a) Intrasession and intersession reliability of
+running mechanics during treadmill sprints. Int J Sports Physiol Perform 11:432–439
+Girard O, Brocherie F, Morin J-B, Millet GP (2017b) Mechanical alterations during
+interval-training treadmill runs in high-level male team-sport players. J Sci Med Sport
+20:87–91
+Girard O, Brocherie F, Morin J-B, Millet GP (2016b) Running mechanical alterations during
+repeated treadmill sprints in hot versus hypoxic environments. A pilot study. J Sports Sci
+34:1190–1198
+Girard O, Brocherie F, Morin J-B, Millet GP (2015b) Neuro-mechanical determinants of repeated
+treadmill sprints—usefulness of an “hypoxic to normoxic recovery” approach. Front Physiol
+6:260
+Girard O, Brocherie F, Morin J-B, Millet GP (2017c) Lower limb mechanical asymmetry during
+repeated treadmill sprints. Hum Mov Sci 52:203–214
+Girard O, Brocherie F, Tomazin K et al (2016c) Changes in running mechanics over 100-m, 200-m
+and 400-m treadmill sprints. J Biomech 49:1490–1497
+Jaskolska A, Goossens P, Veentra B et al (1998) Treadmill measurement of the force-velocity
+relationship and power output in subjects with different maximal running velocities. Sports
+Med 8:347–358
+Kivi DMR, Maraj BKV, Gervais P (2002) A kinematic analysis of high-speed treadmill sprinting
+over a range of velocities. Med Sci Sports Exerc 34:662–666
+Kram R, Grifﬁn TM, Donelan JM, Chang YH (1998) Force treadmill for measuring vertical and
+horizontal ground reaction forces. J Appl Physiol 85:764–769
+Kram R, Powell AJ (1989) A treadmill-mounted force platform. J Appl Physiol 67:1692–1698
+Kyröläinen H, Avela J, Komi PV (2005) Changes in muscle activity with increasing running
+speed. J Sports Sci 23:1101–1109
+Lakomy HKA (1987) The use of a non-motorized treadmill for analysing sprint performance.
+Ergonomics 30:627–637
+Mann R, Sprague P (1980) A kinetic analysis of the ground leg during sprint running. Res Q Exerc
+Sport 51:334–348
+Marey EJ (2002) Le mouvement, Editions J. Chambon
+McKenna M, Riches PE (2007) A comparison of sprinting kinematics on two types of treadmill
+and over-ground. Scand J Med Sci Sport 17:649–655
+Morin J-B, Petrakos G, Jimenez-Reyes P et al (2016) Very-heavy sled training for improving
+horizontal force output in soccer players. Int J Sports Physiol Perform 1–13
+Morin J-B, Belli A (2004) A simple method for measurement of maximal downstroke power on
+friction-loaded cycle ergometer. J Biomech 37:141–145
+Morin J-B, Bourdin M, Edouard P et al (2012) Mechanical determinants of 100-m sprint running
+performance. Eur J Appl Physiol 112:3921–3930
+Morin J-B, Edouard P, Samozino P (2011a) Technical ability of force application as a determinant
+factor of sprint performance. Med Sci Sport Exerc 43:1680–1688
+Morin J-B, Gimenez P, Edouard P et al (2015a) Sprint acceleration mechanics: the major role of
+hamstrings in horizontal force production. Front Physiol 6:e404
+Morin JB, Samozino P, Bonnefoy R et al (2010) Direct measurement of power during one single
+sprint on treadmill. J Biomech 43:1970–1975. https://doi.org/10.1016/j.jbiomech.2010.03.012
+Morin J-B, Samozino P, Edouard P, Tomazin K (2011b) Effect of fatigue on force production and
+force application technique during repeated sprints. J Biomech 44:2719–2723
+Morin J-B, Samozino P, Millet GY (2011c) Changes in running kinematics, kinetics, and
+spring-mass behavior over a 24-h run. Med Sci Sports Exerc 43:829–836
+Morin J-B, Samozino P, Zameziati K, Belli A (2007) Effects of altered stride frequency and
+contact time on leg-spring behavior in human running. J Biomech 40:3341–3348
+Morin J-B, Sève P (2011) Sprint running performance: comparison between treadmill and ﬁeld
+conditions. Eur J Appl Physiol 111:1695–1703
+10
+The Measurement of Sprint Mechanics …
+235
+
+
+<!-- Page 237 -->
+Morin J-B, Slawinski J, Dorel S et al (2015b) Acceleration capability in elite sprinters and ground
+impulse: push more, brake less? J Biomech 48:3149–3154
+Nagahara R, Mizutani M, Matsuo A et al (2017) Association of step width with accelerated
+sprinting performance and ground reaction force. Int J Sports Med 38:534–540
+Nelson RC, Dillman CJ, Lagasse P, Bickett P (1972) Biomechanics of overground versus treadmill
+running. Med Sci Sports 4:233–240
+Nigg BM, De Boer RW, Fisher V (1995) A kinematic comparison of overground and treadmill
+running. Med Sci Sports Exerc 27:98–105
+Rabita G, Dorel S, Slawinski J et al (2015) Sprint mechanics in world-class athletes: a new insight
+into the limits of human locomotion. Scand J Med Sci Sports 25:583–594
+Riley PO, Dicharry J, Franz J et al (2008) A kinematics and kinetic comparison of overground and
+treadmill running. Med Sci Sports Exerc 40:1093–1100
+Schache AG, Blanch PD, Rath DA et al (2001) A comparison of overground and treadmill running
+for measuring the three-dimensional kinematics of the lumbo-pelvic-hip complex. Clin
+Biomech 16:667–680
+Schache AG, Brown NAT, Pandy MG (2015) Modulation of work and power by the human
+lower-limb joints with increasing steady-state locomotion speed. J Exp Biol 218:2472–2481
+Schache AG, Dorn TW, Williams GP et al (2014) Lower-limb muscular strategies for increasing
+running speed. J Orthop Sport Phys Ther 44:813–824
+Simonsen EB, Thomsen L, Klausen K (1985) Activity of mono- and biarticular leg muscles during
+sprint running. Eur J Appl Physiol Occup Physiol 54:524–532
+Sun Y, Wei S, Zhong Y et al (2015) How joint torques affect hamstring injury risk in sprinting
+swing-stance transition. Med Sci Sports Exerc 47:373–380
+Tomazin K, Morin J-B, Strojnik V et al (2012) Fatigue after short (100-m), medium (200-m) and
+long (400-m) treadmill sprints. Eur J Appl Physiol 112:1027–1036
+van Ingen Schenau GJ (1980) Some fundamental aspects of the biomechanics of overground
+versus treadmill locomotion. Med Sci Sports Exerc 12:257–261
+Weyand PG, Sandell RF, Prime DNL, Bundle MW (2010) The biological limits to running speed
+are imposed from the ground up. J Appl Physiol 108:950–961
+Weyand PG, Sternlight DB, Bellizzi MJ, Wright S (2000) Faster top running speeds are achieved
+with greater ground forces not more rapid leg movements. J Appl Physiol 89:1991–1999
+236
+J.-B. Morin et al.
+

@@ -1,0 +1,1625 @@
+# Chapter 4: A Simple Method for Measuring Lower Limb Force, Velocity and Power During Jumping
+
+
+<!-- Page 69 -->
+Chapter 4
+A Simple Method for Measuring Lower
+Limb Force, Velocity and Power
+Capabilities During Jumping
+Pierre Samozino
+Abstract Lower limb ballistic movement performance (jump, sprint start, change
+of direction) is considered to be a key factor in many sport activities and depends
+directly on the mechanical capabilities of the neuromuscular system. This chapter
+presents the force-velocity (F-v) and power-velocity (P-v) relationships, and their
+associated variables of interest, as an interesting tool to evaluate the different lower
+limb muscle mechanical capabilities during ballistic push-off: maximal power and
+F-v proﬁle. In this chapter, we will present the different laboratory and ﬁeld
+methods to directly or indirectly assess these muscle properties, as well as their
+respective limits. We will also present an accurate and reliable simple ﬁeld method
+to determine these muscle capabilities with a precision similar to that obtained with
+speciﬁc laboratory ergometers, while being convenient for ﬁeld use because the
+computations only require loaded jumps (accurately standardized and performed)
+and three parameters rather easily measurable out of laboratory: body mass, jump
+height and push-off distance. The use of this simple method as routine test gives
+interesting information to coaches or physiotherapists: individual maximal power
+output and F-v proﬁle. Validation studies, practical testing considerations and limits
+of this simple method will be presented. This method makes possible the follow-up
+of athlete muscle capabilities during a season or over several years, but also the
+comparison between athletes, which can help to optimize training and individualize
+loads and exercise modalities in strength training.
+P. Samozino (&)
+Laboratoire Inter-universitaire de Biologie de la Motricité, Université de Savoie Mont Blanc,
+Campus Scientiﬁque, 73000 Le Bourget du Lac, Chambéry, France
+e-mail: pierre.samozino@univ-smb.fr
+© Springer International Publishing AG 2018
+J.-B. Morin and P. Samozino (eds.), Biomechanics of Training and Testing,
+https://doi.org/10.1007/978-3-319-05633-3_4
+65
+
+
+<!-- Page 70 -->
+4.1
+Introduction
+Accelerating its own body mass is involved in most of animal locomotor behaviors,
+notably in survival movements, whether to escape from predators or to capture
+preys. Natural selection acts within populations to further the phenotypic traits that
+improve such kind of abilities. Examining the factors that determine performance in
+these ballistic movements could allow to better understand the morphological and
+physiological adaptations characterizing a large variety of animals. In contrast, for
+humans (who no longer require ballistic movements to survive), ballistic perfor-
+mances are key factor in numerous sport activities (e.g., jumping, starting phase in
+sprint running, changing of direction, throwing). The understanding and determi-
+nation of the physical characteristics underlying ballistic movement optimization is
+highly valued by performance professionals, such as strength and conditioning
+coaches. Beyond sport situations, some of movements occurred during daily-life
+activities can be considered as “ballistic” movements, such as standing up from a
+sitting position for the elderly or individuals with diseases (Corcos et al. 1996; Mak
+et al. 2003; Janssen et al. 2002). For these individuals, a sit-to-stand task represents
+a dynamic maximum effort for which reduced strength or inability to perform rapid
+muscle contractions can lead to impaired mobility and eventually to institutional-
+ization (Mak et al. 2003; Corcos et al. 1996). So, one of the main questions
+interesting sport practitioners and physiotherapists is to know which muscle qual-
+ities to train or rehabilitate in order to increase (or to get back to a given level of)
+ballistic performances.
+Ballistic performances can be deﬁned as the ability to accelerate a mass as much
+as possible to reach the highest velocity in the shortest time, be it its one’s own
+mass (e.g., sprints or jumps) or an external mass (e.g., throws or shots).
+Accelerating a mass can be performed during one unique movement (acyclic
+movements), often a ballistic push-off when it consists in a lower or upper limb
+extension (e.g. jumps, ﬁrst steps of a sprint, throws), or during an acceleration phase
+over many consecutive movements or steps (cyclic movements, as sprint running
+acceleration, Chaps. 10–13). Ballistic movements, notably jumping or sprint run-
+ning, have often been investigated to better understand the mechanical limits of
+skeletal muscle function in vivo, be it in animals (James et al. 2007; Lutz and Rome
+1994) or in humans (Cormie et al. 2007d, 2011a; Jaric and Markovic 2009; Rabita
+et al. 2015; Samozino et al. 2012).
+From Newton’s law of motion, accelerating a mass require to apply external
+force and to produce mechanical work on its center of mass. Being very schematic,
+this requires “physical” capabilities, to produce the mechanical energy, and
+“technical” abilities to effectively transfer this mechanical energy from active
+muscles to center of mass of the body or of other moving system. These “technical”
+abilities have to respect the speciﬁc constraints and demands of the targeted sport
+activity via optimal motor behavior, segmental conﬁguration or coordination. The
+present chapter, as well as the next ones, will only focus on “physical” capabilities
+to produce the maximum mechanical work possible during one or more
+66
+P. Samozino
+
+
+<!-- Page 71 -->
+(see Chap. 6) ballistic movement(s). This can give new insights for strength and
+conditioning training, while keeping in mind that producing high mechanical work
+is interesting only when associated to good technical skills speciﬁc to the task.
+The ability to quickly accelerate the body from a resting position is considered to
+be particularly important for successful performance in many sport activities, be it
+in track and ﬁeld events or in most of team, racket or combat sports. This ability in
+ballistic movements is directly related to mechanical properties of the neuromus-
+cular system, and notably to power capabilities. Jumping movements have often
+been investigated to better understand and evaluate the lower limb mechanical
+properties. Vertical jump is the most widely used movement to assess “explosive”
+or “ballistic” qualities of lower limbs due to its simplicity, its very short duration
+(<0.5 s) and so very high intensity (it is considered as one of the most “explosive”
+movements) and its high correlation with peak power output (Davies and Young
+1984).
+Even if jumping tests will be brieﬂy presented in this chapter, lower limb
+mechanical capabilities during dynamic extension cannot be only sum-up by
+maximal power output, and even less by a single performance. Since power is the
+product of force and velocity, muscle mechanical properties also include force and
+velocity capabilities which represent two different properties: the ability to develop
+very high levels of force and the ability to contract muscles—or extend limbs—at
+very high velocities. Even if both affect maximal power, these two muscle capa-
+bilities are independent. A good way to well understand this independency between
+force and velocity qualities is the analogy between muscle mechanical properties
+and vehicle engine capabilities. The latter are well described by the relationship
+between the torque the engine can produce and the velocity at which it turns. And
+when we compare this relationship between different vehicles (tractors and city or
+sport cars), we can observe big differences resulting in different properties (Fig. 4.1,
+Gülch 1994). The city or sport cars engine can go at high velocities, but cannot keep
+moving when they have to tow a big and heavy trailer. At the opposite, the tractor
+can move forward towing a trailer weighting several tons. And when the trailer is
+removed, it does not go very faster, while we can expect that it intensively accel-
+erates once the heavy load is off, since it was able to tow very high loads. This is
+quite the same thing when the force generator is our neuromuscular system. The
+athlete’s ability to move against very high loads is not associated to the capability to
+move fast when the mechanical constraints are low. Force and velocity capabilities
+are independent.
+In this way, these different muscle capabilities cannot be distinguished from
+mechanical outputs obtained from only one single test (Jaric 2016b). The maximum
+vertical jump height is one of the best example since it has been indiscriminately
+interpreted as either an index of force (Kawamori et al. 2006), velocity (Yamauchi
+and Ishii 2007) or power (Cormie et al. 2011b) capabilities. During lower limb
+dynamic extension, the muscle mechanical capabilities are well and entirely
+described only by the force-velocity and power-velocity relationships (as presented
+and detailed for pedaling movement in Chap. 2).
+4
+A Simple Method for Measuring Lower Limb Force, Velocity …
+67
+
+
+<!-- Page 72 -->
+In this chapter, we will deﬁne the force- and power-velocity relationships during
+ballistic lower limb push-off, the typical methods commonly used to determine
+these muscle capabilities, and a simple method we developed to compute them
+accurately out of labs. Practical applications will then be presented and discussed as
+well as different technologies that can be used to measure the mechanical inputs of
+this simple method.
+4.2
+Force, Velocity, Power Mechanical Proﬁle
+4.2.1
+Force-Velocity and Power-Velocity Relationships
+in Jumping
+When we focus on all-out or ballistic performances, i.e. movements performed with
+the highest intensity (force, velocity or power) possible, the performance is mainly
+limited by the mechanical capabilities of the neuromuscular system during con-
+centric contractions. The overall lower limb dynamic mechanical capabilities have
+been well described by inverse force-velocity (F-v) and parabolic power-velocity
+(P-v) relationships (Fig. 4.2). While the F-v relationships obtained on isolated
+Fig. 4.1 Mechanical properties of the engine of three typical vehicles: a tractor, a sport car and a
+city car (from Gülch 1994).
+68
+P. Samozino
+
+
+<!-- Page 73 -->
+muscles or mono-articular movements are described by a hyperbolic equation (Hill
+1938; Thorstensson et al. 1976), linear relationships were consistently obtained for
+multi-joint functional tasks such as pedaling, squat, leg press or sprint running
+movements (e.g. Rahmani et al. 2001; Vandewalle et al. 1987a; Yamauchi and Ishii
+2007; Bosco et al. 1995; Samozino et al. 2007; Bobbert 2012; Dorel et al. 2010;
+Morin et al. 2010; Rabita et al. 2015; Jaric 2015).
+During ballistic push-offs (e.g. leg press, squat, Samozino et al. 2012; Yamauchi
+and Ishii 2007; Rahmani et al. 2001; Samozino et al. 2014), these relationships
+describe the changes in the maximal capability of lower limbs to produce external
+force and power output with increasing movement velocity over one extension.
+They characterize the external mechanical limits of the entire neuromuscular sys-
+tem. All the area under the F-v curve (Fig. 4.2) represents combinations of force
+and velocity outputs than can be produced during submaximal movements, and the
+F-v curve corresponds to outputs that can be produced during all-out push-offs. The
+other force and velocity combinations beyond the F-v line are not possible for
+muscles. These relationships put forward different typical parameters representing
+the different muscle mechanical capabilities (for details, see Morin and Samozino
+2016). The force-axis intercept of the F-v relationships (F0) represents the maximal
+external force lower limbs could produce during a theoretical extension movement
+at null velocity. The velocity-axis intercept (v0) corresponds to the maximal velocity
+at which lower limbs could extend during a theoretical extension under zero load. It
+should be interpreted as the maximal extension velocity until which lower limb
+muscles can produce force. In other words, this is the athlete’s ability to produce
+force at very high extension velocities. F0 and v0 are two purely theoretical values
+which cannot be measured experimentally, but they have to be considered as
+targeted values towards which maximal muscle capabilities tend when velocity
+decreases or increases, respectively. Hence, F0 and v0 have to be understood as the
+“force” and “velocity” maximal capabilities of the entire lower limbs. The apex of
+Fig. 4.2 Schematic force-velocity (open circles) and power-velocity (black ﬁlled circles)
+relationships for lower limb extensions during a typical leg press movement. Each point represent
+a lower limb extension performed against a given load. Black lines represent linear and polynomial
+regressions for force- and power-velocity relationships, respectively, dashed lines being their
+respective extrapolations. The mechanical outputs F0, v0, Pmax are represented by the open
+diamonds, Sfv being the slope of the force-velocity relationship
+4
+A Simple Method for Measuring Lower Limb Force, Velocity …
+69
+
+
+<!-- Page 74 -->
+the P-v relationships (Pmax) is the maximal power output lower limbs can produce
+over one extension and refers to the power capabilities. Under these conditions, the
+relationship among these three parameters can be described by the following
+mathematical equation: Pmax = F0 . v0/4 (details in Chap. 2, Vandewalle et al.
+1987b; Samozino et al. 2012).
+These mechanical properties obtained from multi-joint F-v and P-v relationships
+characterize the mechanical limits of the entire neuromuscular function and so are a
+complex integration of the different mechanisms involved in the total external force
+produced during one limb extension. They encompass individual muscle mechanical
+properties (e.g. intrinsic F-v and length-tension relationships, rate of force devel-
+opment), some morphological factors (e.g. cross sectional area, fascicle length,
+pennation angle, tendon properties), neural mechanisms (e.g. motor unit recruitment,
+ﬁring frequency, motor unit synchronization, inter-muscular coordination) and
+segmental dynamics (Cormie et al. 2011a; Bobbert 2012; Cormie et al. 2010a, b).
+The inverse F-v relationship is often misunderstood since we have in mind that if
+we increase the force applied to an object (or to the ground), we increase the
+velocity of the object (or of our center of mass). And the F-v relationship says the
+opposite: force and velocity change in opposite ways. In fact, there is no opposition
+between these two observations. They just do not refer to the same mechanical
+constraints. The ﬁrst one (velocity increases when force applied increases or when
+resistance decreases) is the expression of the fundamental principles of dynamics
+well known through the Newton’s laws of motion. They are the mechanical con-
+straints imposed by Earth physical laws on human (or all other objects) movements.
+The second one (force decreases when velocity increases) corresponds to the
+mechanical properties of the neuromuscular system, and so to the mechanical
+constraints imposed by the biology on human movements performed with maximal
+effort (all-out). When physics says that velocity depends on force (2nd Newton’s
+law of motion), physiology says that force depends on velocity (F-v relationship).
+During sport activities, physical laws are the same for everybody, muscle
+mechanical properties are not. And ballistic push-off performance is the best
+solution of both mechanical constraints (this will be detailed in Chap. 5).
+4.2.2
+Force-Velocity Mechanical Proﬁle in Jumping
+Beyond maximal force, velocity and power capabilities, the F-v relationships bring
+out another interesting information for scientists and coaches: the lower limb
+force-velocity mechanical proﬁle. It is the slope of the F-v relationship (SFV) and
+represents the individual ratio between force and velocity qualities (SFV = -F0/v0).
+When the F-v relationship is graphically represented with a vertical force-axis, the
+steeper the slope, the more negative its value, the more “force-oriented” the F-V
+proﬁle, and vice versa. The F-v proﬁle is very interesting for the following reasons.
+Independent from Pmax. The athlete’s F-v proﬁle put forward insights about
+muscle mechanical qualities independently from power capabilities. Two athletes
+70
+P. Samozino
+
+
+<!-- Page 75 -->
+can present the same Pmax values with different F-v proﬁles (Fig. 4.3). The athlete
+with a “force proﬁle” (i.e. a F-v proﬁle more oriented toward force capabilities)
+develops his Pmax at a higher force and a lower velocity than an athlete with a
+“velocity proﬁle”, while both produce the same Pmax. Since there is no direct
+relationship with Pmax, the F-v proﬁle brings another valuable information about the
+individual mechanical muscle properties.
+Sensible to strength training. The F-v proﬁle is sensible to training interven-
+tion, which is of great interest for strength and conditioning coaches. Changes in the
+F-v relationship, notably in its slope, can be achieved by speciﬁc strength training
+(Cormie et al. 2007c, 2010a, b, 2011b; Kaneko et al. 1983; McBride et al. 2002).
+The maximal force capabilities can be improved through strength training with
+heavy loads (>75–80% of one repetition maximum) while velocity capabilities can
+be increased by training with maximal efforts and light (e.g. <30% of one repetition
+maximum) or negative loading, which is often referred to as “ballistic” or “power”
+training (McBride et al. 2002; Cormie et al. 2010a, b; Cronin et al. 2001; Markovic
+et al. 2011; Argus et al. 2011). Note that when training focus on maximal force
+improvements, the velocity capabilities does not change, and vice versa (Cormie
+et al. 2010a). This underlined the independency between force and velocity capa-
+bilities, both ballistic and heavy strength training being associated to different
+physiological and neural adaptations (Cormie et al. 2010a, 2011a). This is quite the
+same history as for vehicle engines presented in the introduction section of this
+chapter.
+Large inter-individual differences. Besides to be sensible to strength training,
+the other important point which confers great interest in F-v proﬁle for training
+purposes is the fact that it presents very big differences between individuals. The
+initial works on F-v relationships obtained during pedaling exercises of Vandewalle
+and colleagues at the end of eighties well showed that force, velocity and power
+Fig. 4.3 Schematic force-velocity and power-velocity relationships for two hypothetical athletes
+presenting the same maximal power output (PMAX) and two opposite force-velocity proﬁles: an
+athlete with a “force” proﬁle characterized by a high maximal force (F0) and low maximal velocity
+(v0) (white diamonds and dashed lines), an athlete with a “velocity” proﬁle characterized by a low
+F0 and a high v0 (black ﬁlled circles and continuous lines)
+4
+A Simple Method for Measuring Lower Limb Force, Velocity …
+71
+
+
+<!-- Page 76 -->
+capabilities were very different across individuals of different ages, expertise levels
+or sport activities (Vandewalle et al. 1987a, b). During lower limb push-off, same
+large inter-individual differences can be observed between men and women or
+between different sport activities (Bosco et al. 1995; Giroux et al. 2016). Giroux
+et al. (2016) recently reported F- and P-v relationships of world class men and
+women athletes across different sport activities (Giroux et al. 2016). Between track
+cyclists, sprinters, taekwondo and fencing athletes, Pmax, F0 and v0 values lots of
+differed even if all these sports can be considered as explosive activities (Fig. 4.4).
+These differences can be due to the speciﬁc mechanical demands of each activities
+and/or to their respective strength training habits. Even if this was not the aim of
+these study, data of Giroux et al. (2016) and Bosco et al. (1995) showed that
+differences in Pmax between men and women were mainly explained by differences
+in velocity capabilities (Fig. 4.4). We can see that for some world class athletes in
+some sports (e.g. track cyclist, sprinters or taekwondo athletes), muscle mechanical
+capabilities differed only in v0 between men and women, resulting in higher Pmax,
+for men. Finally, within a same team sport activity, important differences can be
+observed between players according to their position, their training history and/or
+their intrinsic properties. And sometimes, F-v proﬁles do not follow what we can
+expect. The typical example presented in Fig. 4.5 shows the F-v relationships of
+two professional rugby players: a forward (body mass: 102 kg, stature: 1.76 m) and
+a back (body mass: 86 kg, stature: 1.84 m) player. We could expect (notably from
+his morphology) that the forward player would present a more “force-oriented”
+Fig. 4.4 Power- and Force-velocity relationships of men and women recreational individuals and
+world class sprinting, cycling, fencing and taekwondo athletes. Maximal power and maximal
+theoretical force and velocity values are presented (ﬁlled circles) (Modiﬁed from Giroux et al.
+2016)
+72
+P. Samozino
+
+
+<!-- Page 77 -->
+proﬁle (as a tractor) than the back player. This is not actually the case, mainly due to
+the very large and impressive velocity capabilities of the forward player. His
+absolute maximal force is also very high, but when expressed relatively to his body
+mass (which is important for ballistic performances), force capabilities are even
+lower than backward player’s ones. During the leg press movement experimenta-
+tion, the forward player’s ability to fast extend his legs against low resistance was
+more impressive than his capacity to move against heavy loads.
+The complementarity of these different variables to well characterize muscle
+mechanical capabilities (F0 and v0, or Pmax and F-v proﬁle), their large
+inter-individual differences, their sensibility to strength training and their high
+importance in ballistic performances (see Chap. 5 for more details) support the great
+interest to accurately evaluate them for sport scientists and sport practitioners.
+4.3
+Reference Testing Methods
+4.3.1
+Methodological Considerations
+Muscle contraction modalities. The determination of lower limb F-v and P-v
+relationships require several all-out limb extensions performed in different
+mechanical conditions, each one corresponding to different force, velocity and
+power values. The different experimental methods require:
+• either to control the force developed in order to maintain it constant all over the
+movement and to measure the movement velocity: isotonic condition. Tests are
+performed at different force values (e.g. Yamauchi and Ishii 2007; Yamauchi
+et al. 2005).
+• either to control movement velocity to maintain it constant all over the move-
+ment and to measure the force produced: isokinetic condition. Tests are per-
+formed at different velocity values (e.g. Sargeant et al. 1981; Wilson et al.
+1997).
+Fig. 4.5 Force-velocity
+relationships of two
+1st-Italian league rugby
+players: a back (player #1,
+ﬁlled circles, dash line) and a
+forward player (player #2,
+black points and continuous
+line). Each point represents a
+lower limb extension
+performed against a given
+load during leg press
+exercises
+4
+A Simple Method for Measuring Lower Limb Force, Velocity …
+73
+
+
+<!-- Page 78 -->
+• either to control and maintain constant the resistance acting against the move-
+ment and to measure both force produced and movement velocity: isoinertial or
+isoload condition. The resistance can be inertia (e.g. additional mass) and/or
+resistive force (e.g. weight of additional loads, elastic band or pneumatic force).
+Tests are performed at a given resistance, resulting in different force and
+velocity values which are both measured (e.g. Rahmani et al. 2004; Bosco et al.
+1995; Samozino et al. 2014; Cuk et al. 2014; Markovic et al. 2011).
+Isokinetic or isotonic testing conditions present many advantages, notably a best
+control of the mechanical modalities in which the task is realized and a higher
+safety for subjects. These two methodological concerns, very important in medical,
+scientiﬁc or sport ﬁelds, explain the widely use of isokinetic movements in muscle
+capacity testing, isotonic modality being less commonly used due to the technical
+difﬁculty to maintain constant the force produced. However, isokinetic conditions
+have often been challenged in sport ﬁeld because some methodological require-
+ments are not always respected (Gülch 1994), and especially because the movement
+is not “natural” due to constant velocities which are very rare, if not inexistent, in
+daily life and sport activities (Gülch 1994; Kannus 1994). Indeed, human move-
+ments are characterized by acceleration and deceleration of its whole body mass,
+the mass of a body segment or an external mass. Most of time in actual human
+performances, the mass of the moving system is constant all over the movement,
+but the force produced and the movement velocity change. Consequently, lower
+limb mechanical capabilities testing is well advised to be performed in isoload or
+isoinertial conditions, notably as part of exploring or training ballistic perfor-
+mances. That is why we will focus on isoinertial conditions in the following
+sections.
+Peak versus averaged variables. Testing muscle properties, as for all kind of
+physical tests, requires to identify the variable(s) which better characterize(s) the
+muscular effort expended. When we explore the muscle maximal capabilities, the
+measured parameters are commonly the force produced, the movement velocity and
+the resulting power output. These three mechanical output can be quantiﬁed and
+presented in two different forms: instantaneous (often peak) values (e.g. Yamauchi
+et al. 2007; McCartney et al. 1983) or averaged values over one leg extension (e.g.
+Arsac et al. 1996; Rahmani et al. 2001; Bosco et al. 1995; Zamparo et al. 1997).
+The choice between instantaneous and averaged values depends on what we have to
+assess. In 1983, Andrews (Andrews 1983) suggested that:
+• Instantaneous values are adapted to describe the value of a variable at a
+speciﬁc time of the movement (e.g. take-off during jumping or heel-ground
+contact during running) or to characterize extreme values of a parameter over a
+movement (e.g. extreme joint angles to compute range of motion, maximal
+running speed, minimum heart rate).
+• Averaged values (or more generally values representing a time interval) are
+adapted to characterize an effort or a movement in its entirety, notably when the
+parameter signiﬁcantly changes over the effort or the movement.
+74
+P. Samozino
+
+
+<!-- Page 79 -->
+It is worth noting that the two types of values are strongly related during ballistic
+movements, with for instance averaged values of power output between 40 and
+60% of maximal instantaneous values (Marsh 1994; Martin et al. 1997; Driss et al.
+2001). So, the general shape of Force- and Power-velocity relationships are quasi
+the same, only value magnitudes change (Martin et al. 1997).
+When we aim to evaluate muscle mechanical capabilities, we want to charac-
+terize the lower limb maximal capabilities to produce force or power over one
+extension. However, force production capabilities change all over lower limb
+extension: besides to depend on movement velocity, they are affected by the
+torque-angle (force-length) relationship of muscle groups involved at each joint
+(e.g. Thorstensson et al. 1976), by the time required for muscles to reach their
+maximum active state (e.g. van Soest and Casius 2000), or by muscle coordination
+patterns (e.g. Suzuki et al. 1982; Van Soest et al. 1994). So, only focusing on the
+instantaneous peak values measured during a functional movement does not make
+lots of sense since this values would correspond to a very speciﬁc anatomical and
+neuromuscular conﬁguration and does not represent the whole dynamic lower limb
+capabilities. Consequently, even it is still source of debate (Dugan et al. 2004;
+Vandewalle et al. 1987b), we think that using force, velocity and power values
+averaged over the entire extension movement seems to be adapted to characterize
+these mechanical capabilities (e.g. Arsac et al. 1996; Bassey and Short 1990;
+Samozino et al. 2007, 2012; Rahmani et al. 2001). Moreover, from a purely
+mechanical point of view, dynamic principles show that the change in momentum
+of a system depend directly to the net mechanical impulse applied on it over the
+entire movement. So, ballistic performances do not depend on the maximum force
+or power output lower limb muscles are able to produce at a given (very short) time
+during their extension, but depend especially to force or power output muscles are
+able to produce over the entire extension phase allowing maximisation of the net
+mechanical impulse. And this is better described by averaged than by peak
+instantaneous values.
+4.3.2
+Laboratory Methods
+As presented in Chaps. 2 and 3, lower limb mechanical capabilities were ﬁrst
+described through F-v and P-v relationships during pedaling movement in eighties
+(Seck et al. 1995; Arsac et al. 1996; Martin et al. 1997; Hintzy et al. 1999;
+McCartney et al. 1983, 1985; Sargeant et al. 1981). Even if pedaling is very
+pertinent and convenient to assess lower limb extensor muscle capabilities,
+mechanical outputs produced during this cyclic movement depend directly to very
+speciﬁc muscle coordination (Samozino et al. 2007; van Soest and Casius 2000;
+Dorel et al. 2012, more details in Chap. 3) and so are quite different from what
+lower limbs can produce during one ballistic push-off as a jump or a sprint start.
+The primary acyclic movement used to determine F-v and P-v relationships are
+squat or squat jump (when a take-off occurs) movements during which the body
+4
+A Simple Method for Measuring Lower Limb Force, Velocity …
+75
+
+
+<!-- Page 80 -->
+mass (and external mass) is moved up in the vertical direction. Even if the vertical
+jump is widely used to assess lower limb ballistic capabilities, the ﬁrst studies (and
+the only one until the last few years) exploring F-v and P-v relationships during this
+kind of lower limb movements are the works of both Bosco’s and Rahmani’s teams
+(Bosco et al. 1995; Rahmani et al. 2001; Bosco and Komi 1979; Rahmani et al.
+2004). They described, during squats and squat jumps, these two relationships as
+linear and parabolic, respectively. In contrast to pedaling, these relationships
+describe here the mechanical capabilities of both lower limbs acting together (bi-
+lateral movement) and require several distinct movements performed against sev-
+eral loads or external resistances: each load/resistance is associated to a movement
+velocity, a force and a power produced, and so correspond to one point of the F-v
+and P-v relationships (Fig. 4.2).
+Different devices exist to measure the force and power output produced by lower
+limbs, as well as their extension velocity, during a vertical push-off phase. In the
+late XIXth century, Etienne-Jules Marey and George Demeny studied vertical
+jumps combining kinematic and dynamic analyses, notably using chronophotog-
+raphy and dynamograph, ancestors of optoelectronic and force plate systems,
+respectively (Marey and Demeny 1885). Since these ﬁrst experimentations, force
+plates have remained the lab device the most used to measure forces applied onto
+the ground, but also to determine continuously the body center of mass acceleration,
+velocity and displacement during the push-off phase of a vertical jump (Fig. 4.6,
+Bosco and Komi 1979; Harman et al. 1991; Driss et al. 2001; Ferretti et al. 1987;
+Rahmani et al. 2001; Davies and Rennie 1968) or a contact phase during walking or
+running (Cavagna 1975). Note that the center of mass velocity during vertical jump
+has been often used to estimate lower limb extension velocity since feet do not
+move during push-off. The product of force and velocity data at each instant gives
+lower limb power output. Since a value of force, power and velocity can be
+obtained at each push-off phase, and so at each jump, F-v and P-v relationships can
+be determined from several jumps with different loads. In contrast to pedaling or
+sprint running movements, the force (vertical component) measured by force plate
+during vertical jumping corresponds to the quasi-total external force developed by
+lower limbs (horizontal force components are very low and negligible).
+Other devices, less expensive than force plates and easier to use with strength
+training systems in weights room, were then developed to measure force, velocity
+and power during squat or jumps. In 1995, Bosco proposed to measure these
+parameters from only the displacement of the moving mass (body mass and
+additional mass) obtained from an optical sensor. This kinematic method, validated
+few years later by Rahmani in comparison to force plate measurements (Rahmani
+et al. 1998, 2000) consists in deriving twice over time the displacement signal to
+obtain center of mass velocity and acceleration, and then net external force
+developed. Based on this methodology, several systems have then been proposed
+using linear position transducers or accelerometers to measure directly the accel-
+eration (Cormie et al. 2007a, b; Harris et al. 2007; Giroux et al. 2015; McMaster
+et al. 2014; Comstock et al. 2011; Cronin et al. 2004). Other lower limb extension
+movements have been also used to evaluate mechanical muscle capabilities during
+76
+P. Samozino
+
+
+<!-- Page 81 -->
+inclined or horizontal push-offs with different kind of ergometers measuring force,
+velocity and power output during push-off phase (Zamparo et al. 1997; Yamauchi
+et al. 2007; Avis et al. 1985; Pearson et al. 2004; Bassey and Short 1990; Macaluso
+and De Vito 2003; Zamparo et al. 2000; Samozino et al. 2012). The non-vertical
+orientation makes possible to change the gravity magnitude against which the
+movement is performed and to vary the body conﬁguration (notably hip angle and
+range of motion (Padulo et al. 2017). Many of these devices have led to F-v and P-v
+relationship determination (e.g. Yamauchi and Ishii 2007; Samozino et al. 2012).
+The different methodologies used in laboratory to determine force, velocity and
+power muscles capabilities present very high accuracy and high reliability. The
+standard error of measurement ranges from *3 to *10% and intraclass correlation
+coefﬁcient from *0.85 to *0.99 according to the device, the protocol or the
+movement tested (Cuk et al. 2014; Giroux et al. 2015; Rahmani et al. 2001). Be it
+during vertical or horizontal movements, Pmax, v0 and F0 values are very different
+according to subject levels and vary between 700 and 3500 W (from *15 to
+Fig. 4.6 Vertical force,
+velocity and power output
+signals obtained from force
+plate measurements during a
+squat jump (push-off and
+ﬂight phases)
+4
+A Simple Method for Measuring Lower Limb Force, Velocity …
+77
+
+
+<!-- Page 82 -->
+45 W kg−1), between 1000 and 3000 N (from *20 to 50 N kg−1) et between 2 and
+8 m s−1, respectively. However, the main limit of such lab methodologies is that
+they are not compatible with the daily constraints of the main users. Indeed,
+evaluating muscle mechanical capabilities is in the center of the training process of
+many sport activities. So this is of great interest for coaches and strength and
+conditioning coaches who look for simple, cheap and quick methods which can be
+easily set up in ﬁeld conditions. This is not the case for such lab methods requiring
+very speciﬁc and expensive tools, as well as advanced skills in data acquisition and
+analysis. So, the above-mentioned laboratory methods on jumping movements have
+existed for more than 20 years, but very little used by sport practitioners. The later
+prefer performed tests convenient in ﬁeld conditions, even if less accurate.
+4.3.3
+Field Methods
+Before the few last years, no method have made possible the determination of Pmax
+and F-v relationship out of laboratory and without skilled persons. However,
+maximal power, force and velocity capabilities have been assessed directly or
+indirectly by coaches using different simple methodologies.
+Maximal strength. Out of laboratory, the maximum force the lower limb
+extensor muscles are able to produce is usually evaluated through the maximum
+load the athlete can move one time over an entire extension movement (one rep-
+etition maximum, 1RM). Different protocols exist to determine it on lower limbs
+during squat or a leg press exercises, all of them using increasing loads.
+Considering the inverse F-v relationship, the maximum muscle force can be pro-
+duced at null velocity, which corresponds to isometric contraction. Even if the
+movement is realized at a non-negligible velocity, the one maximum repetition load
+is a good index of maximal dynamic strength. This test is convenient for ﬁeld using
+and present a high reliability (McMaster et al. 2014; Seo et al. 2012; Verdijk et al.
+2009). Moreover, the maximum isometric force depends directly on the joint (hip,
+knee and ankle for lower limb) angles at which the effort is performed and requires
+dynamometers to be measured. Very recently, the 1RM strength index was com-
+pared to F0 by situating the 1RM point along the F-v relationship (Riviere et al.
+2017). On the velocity axis, the 1RM point was shown to be situated at *30% from
+F0 and *70% from the point corresponding to the SJ performed with the highest
+load. On the force axis, the 1RM point was *11% below F0 and *16% above the
+highest force obtained during loaded SJs. This suggests that 1RM performance is
+affected partly (even slightly) by velocity qualities, and so does not represent only
+pure force capacities, even if it still represents a good practical index of dynamic
+maximal strength (Riviere et al. 2017).
+Maximal extension velocity. When sport practitioners want to assess lower
+limb velocity capabilities of their athletes, they often measure a performance
+associated to high movement velocities, such a vertical jump, a sprint time or an
+agility test performance. However, beside to depend on muscular velocity qualities,
+78
+P. Samozino
+
+
+<!-- Page 83 -->
+each of these movements also require force production, and the velocity reached is
+far to be maximal. So, assessing the maximal extension velocity of lower limb
+cannot be performed measuring the performance of a movement depending on both
+force and velocity, and so on power output.
+Maximal power output. Different ﬁeld tests have been proposed to simply
+assess lower limb maximal power output, one of the most famous (but not com-
+monly used) is the Margaria stair test (Margaria et al. 1966). Vertical jumps have
+remained the most widely used tests to assess power capabilities due to its sim-
+plicity, its very short duration and very high intensity. In 1921, Dudley Allen
+Sargent proposed the ﬁrst ﬁeld method to estimate the vertical displacement of the
+center of mass during a vertical jump by the difference between the maximal height
+reached by the hand during the jump and in standing position, both with the upper
+limb extended to the top. Some years later, in 1924, the jump height associated to
+this test was proposed as a measure of muscle power by a namesake, Sargent
+(1924). Other simple methods were then proposed to estimate the center of mass
+displacement during a jump though the roll-out of a ribbon attached to the athlete’s
+waist (Abalakov’s test) or the ﬂight time of the jump (Bosco’s test). Flight time
+measurement was made possible by the use of “timer” mat (e.g. ErgojumpTM,
+Bosco 1992) or photocells placed at some millimeters above the ground (e.g.
+Optojump®), both easy to bring and use in ﬁeld conditions. Jump height can be then
+computed using Newton’s law of motion, as ﬁrstly proposed by Asmussen and
+Bonde-Petersen (1974). Several jumping modalities exist, each of them being
+associated to speciﬁc muscle mechanical properties: squat jump (starting from a
+crouching position), countermovement jump (starting from a standing upright
+position followed by a downward countermovement before jumping), drop jump
+(starting upright from an elevated place) and rebound jumps (hopping during a
+given time, see Chap. 6). Although maximal jump height was shown to be highly
+correlated to Pmax, this does not give a power values, nor force or velocity ones.
+Consequently, the jump height as an index of power capabilities can be biased by
+the subject body mass and the lower limb range of motion. Two athletes of different
+mass and jumping at the same height do not develop the same power output, the
+heavier one being more powerful. In the same way, two athletes with the same body
+mass but different vertical push-off distances (lower limb range of motion over
+which the push-off is performed) and jumping at the same height do not produce the
+same power, the athlete using the shorter push-off distance being more powerful.
+So, jump height alone cannot be an accurate index of maximal power output.
+For these reasons, different formulae have been proposed (still recently, see
+review McMaster et al. 2014) to estimate the power produced during a vertical jump
+from jump height and body mass (Table 4.1). Some of them were developed from
+fundamental principles of dynamics (Gray et al. 1962; Lewis formulae cited in Fox
+and Mathews 1974), but the biomechanical models from which they are based have
+been challenged (Harman et al. 1991). All the other formulae were statistically
+determined from regression equations obtained from experimental measurements
+(Table 4.1, Johnson and Bahamonde 1996; Canavan and Vescovi 2004; Harman
+et al. 1991; Sayers et al. 1999; Lara et al. 2006a, b; Shetty 2002; Bahamonde 2005;
+4
+A Simple Method for Measuring Lower Limb Force, Velocity …
+79
+
+
+<!-- Page 84 -->
+Wright et al. 2012). Besides the lack of theoretical background, the main limit of
+this kind of formulae is their dependence to the population from which they were
+obtained, which can lead to important error in the power estimation (from 3 to 40%,
+Lara et al. 2006a, b; McMaster et al. 2014).
+In 1983, Carmelo Bosco proposed a simple test to measure lower limb power
+output during series of rebound jumps over 15–60 s (Bosco et al. 1983). The
+mathematical formulae based on Newton laws of motion give validated power
+values. However, this power is the mean power developed over series of jumps, and
+does not correspond to the maximal power output lower limbs can produce over one
+extension.
+4.3.4
+Limitations of the Reference Methods
+On one side, laboratory methodologies present very accurate and reliable mea-
+surement of the different muscle mechanical qualities (force, velocity and power
+capabilities) but are not widely used by sport practitioners due to the need of
+expensive tools and very speciﬁc skills in data analysis. On the other side, simple
+tests used in routine in ﬁeld conditions are not very accurate and valid and do not
+allow coaches to evaluate the entire spectrum of muscle capabilities, notably the
+athlete’s F-v proﬁle. It is worth noting that the different tests and formulae fre-
+quently proposed, notably to estimate maximal power output, well show the great
+interest, past or present (from 1962 to nowadays), to evaluate muscle mechanical
+capabilities with simple methodologies easily usable out of laboratories.
+In order to answer to this need while considering the limitations of previous
+tests, we proposed a simple ﬁeld method to compute accurately force, velocity and
+power lower limb capabilities from few data inputs that are easy to obtain in typical
+training practice.
+Table 4.1 Equations previously proposed to indirectly estimate lower limb power output (from
+Lara et al 2006a)
+Authors
+Equations
+Lewis
+Power = √4.9  9.8  body mass (kg)  √(jump height (m))
+Harman et al. (1991)
+Power = 61.9  jump height (cm) + 36  body mass (kg) −1822
+Bahamonde (2005)
+Power = 78.5  jump height (cm) + 60.6  body mass
+(kg) −15.3  height (cm) −1308
+Sayers et al. (1999)
+Power = 60.7  jump height (cm) + 45.3  body mass (kg) −2055
+Shetty (2002)
+Power = 1925.7  jump height (cm) + 14.7  body mass
+(kg) −66.3
+Canavan and Vescovi
+(2004)
+Power = 65.1  jump height (cm) + 25.8  body mass
+(kg) −1413.1
+Lara et al. (2006a)
+Power = 62.5  jump height (cm) + 50.3  body mass
+(kg) −2184.7
+80
+P. Samozino
+
+
+<!-- Page 85 -->
+4.4
+A Simple Method for Measuring Force, Velocity
+and Power During Jumping
+4.4.1
+Theoretical Bases and Equations
+The simple method is based on the fundamental principles of dynamics applied to
+the body center of mass during a vertical jump and on the analyses of its mechanical
+energy (kinetic and potential) at different speciﬁc instants of the movement
+(Fig. 4.7). This gives the following equations (for detailed computations, see
+Samozino et al. 2008) to compute the mean force (F) and power output (P) produced
+by lower limbs during one vertical jump and their mean extension velocity (v):
+F ¼ m:g:
+h
+hPO
+þ 1
+
+
+ð4:1Þ
+v ¼
+ﬃﬃﬃﬃﬃﬃ
+g:h
+2
+r
+ð4:2Þ
+P ¼ m:g:
+h
+hPO
+þ 1
+
+
+
+ﬃﬃﬃﬃﬃﬃ
+g:h
+2
+r
+ð4:3Þ
+Fig. 4.7 The three key positions during a loaded vertical squat jump and the three distances used
+in the computations of the simple method
+4
+A Simple Method for Measuring Lower Limb Force, Velocity …
+81
+
+
+<!-- Page 86 -->
+These 3 equations required only three input variables to estimate force, velocity
+and power during one jump: m the athlete body mass + additional mass (if any, in
+kg), h the jump height (in m) and hPO the push-off distance which is the vertical
+distance over which the force is produced and thus corresponds to the lower limb
+length change between the starting position (hs) and the moment of takeoff
+(Fig. 4.7). These three input variables are easy to obtain out of laboratory (see
+“technologies and inputs measurements” section).
+Using these three equations for vertical jumps performed with different addi-
+tional loads gives different points of the F-v relationship: the higher the moving
+mass (body mass + additional mass), the higher the force and the lower the
+velocity. Plotting F versus v and modeling this relationship by a linear equation
+gives the F-v relationship which can be extrapolated to obtain the maximal force
+(F0) and velocity (v0) values as the intercept with the force- and velocity-axis,
+respectively (Fig. 4.2). The maximal power output (Pmax) can be computed as the
+apex of the 2nd order polynomial P-v relationship (if the number and range of the
+computed F-v points are sufﬁcient), or easier by the following validated equation
+(Samozino et al. 2012; Vandewalle et al. 1987a):
+Pmax ¼ F0  v0
+4
+ð4:4Þ
+4.4.2
+Limits of the Method
+The theoretical computations on which were developed the above-mentioned
+equations are based on fundamental principles of dynamics. However, some
+mathematical and physical simplifying assumptions have been required to express
+F, v and P from only three simple parameters.
+• The Newton’s laws were applied to a whole body considered as a system and
+represented by its center of mass (e.g. Bosco and Komi 1979; Harman et al. 1990).
+So, only the mechanical energy applied to the center of mass was considered.
+• The air resistance was neglected since it was shown to only affect very small
+animals jump height (body mass below 0.5 g, Scholz et al. 2006).
+• It was supposed that the center of mass vertical displacement during push-off
+corresponds to the lower limb length change (i.e. hPO), whereas the actual
+relative position of the center of mass within the body shifts slightly downwards
+due to the lower limb extension. This simpliﬁcation was necessary to make hPO
+measurement possible during ﬁeld testing (see “technologies and inputs mea-
+surements” section).
+• The mean power output over the push-off phase was computed as the product of
+the averaged values of force and velocity, which was mathematically wrong per
+se. Mean power is the average of instantaneous power values computed as the
+product of instantaneous force and velocity values. However, during an
+explosive movement during which the movement is only accelerated in one
+direction, the induced error is minor.
+82
+P. Samozino
+
+
+<!-- Page 87 -->
+Knowing these different simplifying assumptions, it was important to quantify
+the errors they induced on mechanical variables, as well as the errors induced by the
+measurements of the three input variables with devices usable out of laboratories.
+So, the three equations and the simple method were validated in comparison to the
+gold standard force plate measurements.
+4.4.3
+Validation of the Method
+The simple method has been the object of different validation protocols done by our
+research group, but also by others.
+The ﬁrst protocol aimed at validating the three equations to compute F, v and
+P during unloaded and loaded vertical jumps (Samozino et al. 2008). Eleven male
+physically active men performed two maximal squat jumps without and with 3
+different additional loads (25, 50 and 75% of body weight). During each trial, F,
+v and P were calculated during push-off from both force plate measurements
+(Kistler type 9861A, Winterthur, Switzerland, 2000 Hz) and the proposed com-
+putations. For the latter, jump height was obtained from ﬂight time and hPO mea-
+sured a priori as the difference between the great trochanter height in the crouch
+starting position (hs, Fig. 4.7) and the extended lower limb length with maximal
+foot plantar ﬂexion (great trochanter to tiptoe distance, see “technologies and inputs
+measurements”). The systematic bias between the two methods were not signiﬁcant
+and lower than 2% for force, and lower than 8% for velocity and power whatever
+the load. The random errors ranged between 1 and 9% (Table 4.2). The concurrent
+validity of the computation method was also highlighted by high correlation and
+linear regressions close to the identity line (for full details and statistics, see
+Samozino et al. 2008). The low changes in the mean, low standard error of mea-
+surements and high intraclass coefﬁcient between the two trials demonstrated the
+good reliability of the simple method whatever the additional load (Table 4.3). This
+reliability is in line with (and even better than) the reliability obtained with the
+reference method, which shows that the difference between both trials is due to the
+intra-individual variability in a jumping task (biological error, Hopkins et al. 2001).
+These results supported that the errors induced by the simplifying assumptions on
+which equations were developed are very low. The proposed method, solely based
+on three simple parameters easily obtained in ﬁeld conditions (body mass, jump
+height and push-off distance), is valid and reliable to compute force, velocity and
+power developed by lower limb extensor muscles during loaded and unloaded squat
+jumps.
+In 2014, an Italian research group tested the validity of the simple method to
+quantify power output during jumping comparing it to a method based on a
+multibody model that simulates the jumps processing the data obtained by a
+three-dimensional (3D) motion capture system and the dynamometric measure-
+ments obtained by the force platforms (Palmieri et al. 2015). The comparison gave
+4
+A Simple Method for Measuring Lower Limb Force, Velocity …
+83
+
+
+<!-- Page 88 -->
+Table 4.2 Mean ± SD of force, velocity and power output obtained with force plate and simple
+methods, systematic bias and random error between the two methods and characteristics of
+correlations between the two methods
+Load
+(% body
+mass)
+Force plate
+Simple
+method
+Systematic
+Bias (%)
+Random
+error (%)
+Pearson
+correlation
+coefﬁcient
+(r)
+Force
+(N)
+0
+1294 ± 132
+1282 ± 133
+−0.88
+1.94
+0.98
+***
+25
+1451 ± 143
+1433 ± 141
+−1.20
+1.70
+0.99
+***
+50
+1554 ± 151
+1557 ± 153
+0.21
+2.21
+0.97
+***
+75
+1675 ± 175
+1654 ± 170
+1.20
+1.43
+0.99
+***
+All
+conditions
+−0.77
+1.90
+0.99
+***
+Velocity
+(m s−1)
+0
+1.08 ± 0.12
+1.10 ± 0.12
+1.62
+3.15
+0.96
+***
+25
+0.96 ± 0.11
+0.95 ± 0.10
+−1.30
+4.63
+0.92
+***
+50
+0.81 ± 0.11
+0.80 ± 0.10
+−0.18
+6.17
+0.87
+***
+75
+0.72 ± 0.07
+0.66 ± 0.09
+−7.93
+8.84
+0.72
+***
+All
+conditions
+0.05
+4.89
+0.96
+***
+Power
+output
+(W)
+0
+1412 ± 221
+1411 ± 224
+−0.14
+3.04
+0.98
+***
+25
+1389 ± 198
+1357 ± 186
+−2.13
+4.49
+0.95
+***
+50
+1253 ± 198
+1246 ± 187
+−0.30
+6.64
+0.88
+***
+75
+1182 ± 142
+1085 ± 152
+−8.07
+8.41
+0.76
+***
+All
+conditions
+−0.86
+4.96
+0.92
+***
+***P < 0.001
+Table 4.3 Inter-trial reliability parameters for the simple method
+Load
+(% body
+mass)
+Change in the
+mean (%)
+Standard error of
+measurement (%)
+Intraclass
+coefﬁcient
+Force
+plate
+Simple
+method
+Force
+plate
+Simple
+method
+Force
+plate
+Simple
+method
+Force
+(N)
+0
+0.32
+0.64
+2.52
+2.56
+0.94
+0.94
+25
+0.68
+−0.30
+1.47
+1.57
+0.98
+0.98
+50
+−1.37
+0.30
+2.24
+1.46
+0.95
+0.98
+75
+0.18
+0.07
+1.70
+1.82
+0.97
+0.97
+Velocity
+(m s−1)
+0
+2.22
+2.32
+6.23
+3.84
+0.70
+0.89
+25
+0.06
+−0.60
+5.70
+3.27
+0.78
+0.91
+50
+−3.79
+0.21
+7.93
+3.60
+0.66
+0.93
+75
+−0.15
+−1.28
+7.47
+5.91
+0.50
+0.82
+Power
+(W)
+0
+2.55
+2.96
+7.24
+6.35
+0.79
+0.85
+25
+0.79
+−0.89
+5.72
+4.66
+0.85
+0.89
+50
+−4.36
+0.51
+9.22
+5.13
+0.67
+0.89
+75
+−0.19
+−1.21
+8.55
+7.89
+0.52
+0.70
+84
+P. Samozino
+
+
+<!-- Page 89 -->
+errors lower than 6% on mean power output and mechanical work over the
+push-off, that “can be accepted for the beneﬁt of a very simple procedure which
+requires very few data as input”. The same year, Caroline Giroux and the research
+team of the French National Institute of Sport determined the concurrent validity
+and reliability of force, velocity and power capabilities measurements provided by
+the simple method (jump height obtained from ﬂight time using an optical mea-
+surement system, OptojumpNext®, Mircogate, Bolzano-Bozen, Italy), force plate
+(Kistler, Wintertur, Switzerland), accelerometer (Myotest Pro®, Myotest SA, Sion,
+Switzerland) and linear position transducer (GymAware®, Kinetic Performance,
+Mitchell, Australia) during loaded squats jumps (Giroux et al. 2015). Values
+obtained by the simple method showed very good agreement with force plate
+measurements, similar to accelerometer or linear position transducer (low bias
+between 2.6 and 3.2%, narrow conﬁdence intervals ranging from 6.2 to 12.7%). All
+methods were shown to be reliable, especially the simple method (ICC = 0.97–
+0.99; SEM = 2.7–8.6%). The authors concluded from their results and the ease of
+use of the simple method that “this method is suitable for monitoring power
+training sessions under ﬁeld conditions”.
+Very recently, we validated the simple method computations and their validity to
+determine F-v relationships during countermovement jumps (CMJ) representing
+more commonly used movements in all sport activities (Jimenez-Reyes et al. 2016).
+The mechanical capabilities derived from F-v relationships (F0, v0, Pmax and F-v
+proﬁle) were obtained with both the simple method and force plate measurements
+(Bertec, Type 4060-15, Bertec Corporation, Columbus, OH, USA). Results showed
+high agreement between values obtained by both methods (mean absolute bias
+values between 0.9 and 3.7%) and high reliability of the simple method when
+applied during CMJ (ICC > 0.98). This supports the accuracy of the simple
+method, not only to compute F, v and P during one vertical jump, but also to
+determine F-v relationships from several loaded SJ or CMJ.
+4.5
+Technologies and Input Measurements
+The accuracy and reliability of the simple method depends on both validity of
+equations (see previous section for details) and accuracy of the devices and tech-
+nologies used to obtain the mechanical inputs of the models (m, h and hPO), notably
+jump height and push-off distance.
+4.5.1
+Jump Height
+Jump height (h) can be easily measured out of laboratories using different
+methodologies and devices (see Sect. 4.3.3). Most of them are based on the ﬂight
+time and laws of motion to determine the center of mass elevation after take-off
+4
+A Simple Method for Measuring Lower Limb Force, Velocity …
+85
+
+
+<!-- Page 90 -->
+(Bosco and Komi 1979). Even if the ﬂight time method was very accurate and
+reliable, it requires ﬁeld equipment detecting contact and no contact with the
+ground, and forces subjects to land in the same leg position as they take off. Such
+devices detect ground contact from optical measurement system just above the
+ground (e.g., OptojumpNextTM, Glatthorn et al. 2011), contact pressure on the
+ground (e.g., Ergojump™), accelerometry (e.g. MyotestTM, Casartelli et al. 2010)
+or video analysis (e.g. MyJump, Balsalobre-Fernandez et al. 2015). The main
+advantage of ﬂight time methods is that the upper limb are free, which allows them
+to hold additional loads on shoulders. This is not the case for the well-known
+Sargent test (or similar) during which the athlete has to touch a wall (or other
+devices, e.g. VertecTM) the highest as possible with the hand. Video analysis can
+also be used to measure directly the vertical displacement of one point of the body
+which does not move relatively to the center of mass after take-off (e.g. a point at
+the hip or shoulders).
+Whatever the methodology, the accuracy and the resolution of the jump height
+measurement directly affect the accuracy of force, velocity and power computations.
+For instance, for a device measuring ﬂight time with a resolution of 30 data per
+second (as a standard video camera at 30 fps), the potential error on power values is
+between 7 and 19%. Increasing the resolution leads to lower errors: from 4 to 10%
+for 60 fps, from 2 to 6% for 120 fps, and from 1.3 to 3.5% for 180 fps. Recently,
+smartphones present cameras that allow for slow motion modes with up to 240 fps
+(e.g. Apple iPhone 6 and subsequent models). The ﬂight time determination can be
+made with a resolution of *4 ms, which gives errors lower than 3% on jump
+height and power. This is the basis of the app named MyJump which allow users to
+measure accurately jumping performance in a few seconds by ﬁlming the feet on
+the ground during a jump and then by just clicking on the screen to select the frames
+corresponding to foot ground contact and take-off (Fig. 4.8). Besides to be vali-
+dated to measure jump height (validation against force plate measurements,
+Balsalobre-Fernandez et al. 2015), this app also compute force, velocity and power
+variables to determine F-v relationship on the basis of the simple method presented
+here.
+4.5.2
+Push-off Distance
+The distance covered by the center of mass during the push off (hPO) can be easily
+estimated (with the slight overestimation discussed in the method limit section) in
+ﬁeld conditions through the hip vertical elevation corresponding to the leg length
+change. The later can be determined before testing by the difference between the hip
+(great trochanter or superior iliac crest) height in the crouch starting position
+(Fig. 4.9) and the extended lower limb length with maximal foot plantar ﬂexion
+(great trochanter/superior iliac crest to tiptoe distance, measured lying down on the
+back, Fig. 4.10) which is the conﬁguration of lower limbs at take-off (Fig. 4.7).
+This is a very convenient and simple method requiring only a measuring tape. The
+86
+P. Samozino
+
+
+<!-- Page 91 -->
+crouch starting position can be set at a given knee angle for all athletes (e.g. 90°, as
+done during the validation protocol, Samozino et al. 2008) or letting athletes free to
+choose their preferred starting position in order to maximize jump height. Then, the
+starting position as to be standardized for all jumps to ensure that hPO corresponds
+to the values determined a priori (Fig. 4.9). Note that the hPO was measured in this
+way in the ﬁrst validation protocol of the simple method, and results showed very
+low bias. Other techniques may be found to increase the precision of this parameter
+and/or the easiness of use, as what we proposed for bench press in Chap. 7 which
+could be adapted for jumping.
+4.6
+Practical Applications
+The interest of such a simple method to determine F-v relationship is to be used
+directly in typical training practice as a relatively simple routine test of the force,
+velocity and power generating capacities of lower limb muscles. After a warm-up, a
+Fig. 4.8 The iPhone app “Myjump” uses the high-speed video slow motion mode to measure the
+aerial time of the jump, and thus compute jump height and all Force-velocity proﬁle variables
+(some of whom will be presented in the next chapter)
+4
+A Simple Method for Measuring Lower Limb Force, Velocity …
+87
+
+
+<!-- Page 92 -->
+good processing of the simple method makes possible to test 3 or 4 athletes in 30–
+40 min. Here we will detail the different practical points of a typical testing session
+using the simple method that contributes to the accuracy and the relevance of the
+obtained data.
+Warm-up. After 5–10 min of a typical general warm-up (e.g. running, cycling
+or rowing), a speciﬁc warm-up has to include vertical jumps with a progressive
+increase in the intensity and loaded jumps. Besides to complete warm-up, the latter
+also aim at avoiding any apprehension of this kind of exercise and taking advantage
+of a potential potentiation effect from the beginning of the tests. Note that if athletes
+are not accustomed to loaded SJ and CMJ and/or to loaded squat exercises, an
+accustomed session should be done some days before. The speciﬁc warm-up should
+be used to check that athletes (i) perform vertical jumps without countermovement
+if the tests focus on SJ and (ii) contact the ground at landing with an ankle plantar
+ﬂexion if jump height is measured from ﬂight time.
+Push-off distance measurement. Before, during or after warm-up, a mark has to
+be put on great trochanter or superior iliac crest. In a practical point of view, a mark
+on the superior iliac crest is easier to see during the testing session to standardize
+the starting position. The extended lower limb length with maximal foot plantar
+ﬂexion can be measured lying down on the back (Fig. 4.10). At the end of the
+warm-up, the vertical height of the mark is measured when athlete is in the crouch
+starting position for SJ or the crouch position corresponding to the beginning of the
+ascendant phase for CMJ (Fig. 4.9). As previously mentioned, this position can be
+ﬁxed or let free to the athletes (recommended). In the latter case, the choice of the
+Fig. 4.9 Measurement of the starting height (hs) after warm-up and before jumping test for each
+athlete (a) and using of this value to position each athlete in his own starting position before each
+jumping trial (b)
+88
+P. Samozino
+
+
+<!-- Page 93 -->
+starting position can be done through different trials with and without loads. Note
+that this choice is more relevant when performed after the warm-up than before.
+Number and choice of loads. To determine a F-v relationship, several jumps
+with different loads are required. A minimum of two different loads is necessary
+(the two-load model recently proposed by Jaric 2016a), the maximum of loads
+depending on fatigue occurrence. The lower the number of loads, the higher the
+sensibility of the mechanical outputs to the potential measurement errors. So, we
+recommended, notably during ﬁeld testing, to test 5 or 6 different loads including
+the condition without load. The loads can be determined at given values relative to
+body mass (Samozino et al. 2008), at given values relative to the one maximum
+repetition in squat (Giroux et al. 2015) or at absolute values (Samozino et al. 2014).
+Note that if several athletes are tested together in the same session, absolute values
+of loads are easier to set up. The exact values of the load is not so important, the
+idea is that the several loads cover the highest range of values as possible, the
+lowest load being without additional load and the highest load being the highest
+load with which the athlete can jump. For security and quality of movement exe-
+cution, we advise to not test loads with which the athlete cannot jump higher than
+*8 to 10 cm. In practice, the highest load is from *75% of body mass for athlete
+non-accustomed to heavy strength training to *100% of body mass for others. The
+number and choice of loads can be changed during testing considering the actual
+jumping performance realized, for instance by adding a supplementary loading
+condition if the athlete jump largely higher than 10 cm with the highest load or
+slightly decreasing the highest load if an athlete does not feel to jump with it. The
+different loads can be randomized.
+Jumping tests. Each athlete has to perform at least two trials at each load, only
+the best performance being considered for analysis. If performances are too much
+different between the two trials, athlete should do another one to conﬁrm or inﬁrm
+the best jump previously performed. An overestimation of the performance can be
+due to a non-respect of the instructions: incorrect countermovement, feet too much
+dorsiﬂexed at landing (if using ﬂight time) or important trunk extension during
+push-off. All these criteria have to be carefully checked at each jump to be vali-
+dated. The different trials at each load can be performed successively with 20–30 s
+of rest between them. The different loading conditions can be separated by a 5-min
+rest, period during which other athletes can be tested. For each trial, athlete set up
+for the squat jump in a standing position while holding a barbell across their
+shoulders for additional loads conditions or with arms crossed on torso for the
+Fig. 4.10 Measurement of the lower limb length with maximal foot plantar ﬂexion, which
+corresponds to the height of the hip at the instant of take-off during a vertical jump
+4
+A Simple Method for Measuring Lower Limb Force, Velocity …
+89
+
+
+<!-- Page 94 -->
+no-load jump. For SJ, athlete are asked to bend their legs and reach the a priori
+deﬁned starting height carefully checked thanks to a ruler and the mark on athlete
+hip (Fig. 4.9). After having maintained this crouch position for about 2 s, they were
+asked to apply force as fast as possible and to jump for maximum height. For CMJ,
+athletes initiate a downward movement until the a priori deﬁned squatting position
+followed immediately by a jump to maximum height. To control if the degree of
+crouching squatting achieved is good, an elastic band can be extended just under
+the athlete buttock at the height corresponding to the a priori deﬁned position. If the
+athlete is too far from the elastic or if he/she touches too much it, the trial cannot be
+validated.
+Live feedback and adjustment quality of the F-v relationship. The accuracy
+and reliability of the mechanical outputs (F0, v0, Pmax and F-v proﬁle) depend
+directly on the adjustment quality of the F-v linear regression. If the different points
+corresponding to the different loading conditions (best trials) are not well aligned as
+expected, the obtained outputs make less sense. A good objective index of the
+adjustment quality of the F-v relationship is the determination coefﬁcient (r2) which
+should be higher than *0.95 when 5 or 6 loads (i.e. points on the F-v curve) are
+used. In practice, it is interesting to have a feedback of the F-v relationship and its
+adjustment quality in live during testing in order to ask athlete to do again a
+condition in case of doubts (a point strangely above or below the linear F-v curve)
+(Fig. 4.2). A simple spreadsheet including the different computations and F-v
+relationship diagram allows athletes or coaches, after entering the individual inputs
+data (hPO, and h and m for each condition), to have this kind of feedback and to
+know the individual muscle capabilities directly at the end of the test.1 The
+MyJump App makes also possible this kind of direct feedback.
+4.7
+Conclusion
+This chapter present the F-v relationship as an interesting tool to evaluate the
+different lower limb muscle mechanical capabilities during ballistic push-off:
+maximal power and F-v proﬁle. This chapter also present an accurate and reliable
+simple ﬁeld method to determine these muscle capabilities with a precision similar
+to that obtained with speciﬁc laboratory ergometers, while being convenient for
+ﬁeld use because the computations only require loaded jumps (accurately stan-
+dardized and performed) and three parameters rather easily measurable out of
+laboratory: body mass, jump height and push-off distance.
+The use of this simple method as routine test gives interesting information to
+coaches or physiotherapists: individual maximal power output and F-v proﬁle. This
+1A typical spreadsheet and a tutorial to use it (home-made by Morin and Samozino) can be
+downloaded/viewed
+here:
+https://www.researchgate.net/publication/320146284_JUMP_FVP_
+proﬁle_spreadsheet
+90
+P. Samozino
+
+
+<!-- Page 95 -->
+makes possible the follow-up of athlete muscle capabilities during a season or over
+several years, but also the comparison between athletes, which can help to optimize
+training and individualize loads and exercise modalities in strength training.
+As for all kind of tests, determining the strengths and the weaknesses of an
+athlete based on the comparison with other athletes or with indexes thresholds
+computed from other athlete data is limited, yet interesting if no other way to
+interpret them. In order to optimize and individualize strength training, the idea
+would be rather to compare each athlete data to the data he/she should present to
+reach the best ballistic performance as possible. This will be addressed in the next
+chapter.
+References
+Andrews GC (1983) Biomechanical measures of muscular effort. Med Sci Sports Exerc 15(3):
+199–207
+Argus CK, Gill ND, Keogh JW, Blazevich AJ, Hopkins WG (2011) Kinetic and training
+comparisons between assisted, resisted, and free countermovement jumps. J Strength
+Conditioning Res 25(8):2219–2227. https://doi.org/10.1519/JSC.0b013e3181f6b0f4
+Arsac LM, Belli A, Lacour JR (1996) Muscle function during brief maximal exercise: accurate
+measurements on a friction-loaded cycle ergometer. Eur J Appl Physiol 74(1–2):100–106
+Asmussen E, Bonde-Petersen F (1974) Storage of elastic energy in skeletal muscles in man. Acta
+Physiol Scand 91(3):385–392
+Avis FJ, Hoving A, Toussaint HM (1985) A dynamometer for the measurement of force, velocity,
+work and power during an explosive leg extension. Eur J Appl Physiol Occup Physiol 54(2):
+210–215
+Bahamonde RE (2005) Power prediction equations. Med Sci Sports Exerc 37(3):521; discussion
+521-522
+Balsalobre-Fernandez C, Glaister M, Lockey RA (2015) The validity and reliability of an iPhone
+app for measuring vertical jump performance. J Sports Sci 33(15):1574–1579. https://doi.org/
+10.1080/02640414.2014.996184
+Bassey EJ, Short AH (1990) A new method for measuring power output in a single leg extension:
+feasibility, reliability and validity. Eur J Appl Physiol Occup Physiol 60(5):385–390
+Bobbert MF (2012) Why is the force-velocity relationship in leg press tasks quasi-linear rather
+than hyperbolic? J Appl Physiol 112(12):1975–1983. https://doi.org/10.1152/japplphysiol.
+00787.2011
+Bosco C (1992) La valutazione della forza con il test di Bosco [Strength assessment with the
+Bosco’s Test]. In: Societa Sampa Sportiva, Roma, pp 56–57
+Bosco C, Belli A, Astrua M, Tihanyi J, Pozzo R, Kellis S, Tsarpela O, Foti C, Manno R,
+Tranquilli C (1995) A dynamometer for evaluation of dynamic muscle work. Eur J Appl
+Physiol Occup Physiol 70(5):379–386
+Bosco C, Komi PV (1979) Potentiation of the mechanical behavior of the human skeletal muscle
+through prestretching. Acta Physiol Scand 106(4):467–472
+Bosco C, Luhtanen P, Komi PV (1983) A simple method for measurement of mechanical power in
+jumping. Eur J Appl Physiol Occup Physiol 50(2):273–282
+Canavan PK, Vescovi JD (2004) Evaluation of power prediction equations: peak vertical jumping
+power in women. Med Sci Sports Exerc 36(9):1589–1593
+Casartelli N, Muller R, Mafﬁuletti NA (2010) Validity and reliability of the Myotest
+accelerometric system for the assessment of vertical jump height. J Strength Conditioning
+Res 24(11):3186–3193. https://doi.org/10.1519/JSC.0b013e3181d8595c
+4
+A Simple Method for Measuring Lower Limb Force, Velocity …
+91
+
+
+<!-- Page 96 -->
+Cavagna GA (1975) Force platforms as ergometers. J Appl Physiol 39(1):174–179
+Comstock BA, Solomon-Hill G, Flanagan SD, Earp JE, Luk HY, Dobbins KA, Dunn-Lewis C,
+Fragala MS, Ho JY, Hatﬁeld DL, Vingren JL, Denegar CR, Volek JS, Kupchak BR,
+Maresh CM, Kraemer WJ (2011) Validity of the Myotest® in measuring force and power
+production in the squat and bench press. J Strength Conditioning Res 25(8):2293–2297. https://
+doi.org/10.1519/JSC.0b013e318200b78c
+Corcos DM, Chen CM, Quinn NP, McAuley J, Rothwell JC (1996) Strength in Parkinson’s
+disease: relationship to rate of force generation and clinical status. Ann Neurol 39(1):79–88.
+https://doi.org/10.1002/ana.410390112
+Cormie P, Deane R, McBride JM (2007a) Methodological concerns for determining power output
+in the jump squat. J Strength Conditioning Res 21(2):424–430
+Cormie P, McBride JM, McCaulley GO (2007b) Validation of power measurement techniques in
+dynamic lower body resistance exercises. J Appl Biomech 23(2):103–118
+Cormie P, McCaulley GO, McBride JM (2007c) Power versus strength-power jump squat training:
+inﬂuence on the load-power relationship. Med Sci Sports Exerc 39(6):996–1003
+Cormie P, McCaulley GO, Triplett NT, McBride JM (2007d) Optimal loading for maximal power
+output during lower-body resistance exercises. Med Sci Sports Exerc 39(2):340–349
+Cormie P, McGuigan MR, Newton RU (2010a) Adaptations in athletic performance after ballistic
+power versus strength training. Med Sci Sports Exerc 42(8):1582–1598
+Cormie P, McGuigan MR, Newton RU (2010b) Inﬂuence of strength on magnitude and
+mechanisms of adaptation to power training. Med Sci Sports Exerc 42(8):1566–1581
+Cormie P, McGuigan MR, Newton RU (2011a) Developing maximal neuromuscular power: part 1
+—biological basis of maximal power production. Sports Med 41(1):17–38
+Cormie P, McGuigan MR, Newton RU (2011b) Developing maximal neuromuscular power: part 2
+—training considerations for improving maximal power production. Sports Med 41(2):
+125–146
+Cronin J, McNair PJ, Marshall RN (2001) Velocity speciﬁcity, combination training and sport
+speciﬁc tasks. J Sci Med Sport 4(2):168–178
+Cronin JB, Hing RD, McNair PJ (2004) Reliability and validity of a linear position transducer for
+measuring jump performance. J Strength Conditioning Res 18(3):590–593. https://doi.org/10.
+1519/1533-4287(2004)18<590:RAVOAL>2.0.CO;2
+Cuk I, Markovic M, Nedeljkovic A, Ugarkovic D, Kukolj M, Jaric S (2014) Force-velocity
+relationship of leg extensors obtained from loaded and unloaded vertical jumps. Eur J Appl
+Physiol 114(8):1703–1714. https://doi.org/10.1007/s00421-014-2901-2
+Davies CT, Rennie R (1968) Human power output. Nature 217(5130):770–771
+Davies CT, Young K (1984) Effects of external loading on short term power output in children and
+young male adults. Eur J Appl Physiol Occup Physiol 52(3):351–354
+Dorel S, Couturier A, Lacour JR, Vandewalle H, Hautier C, Hug F (2010) Force-velocity
+relationship in cycling revisited: beneﬁt of two-dimensional pedal forces analysis. Med Sci
+Sports Exerc 42(6):1174–1183. https://doi.org/10.1249/MSS.0b013e3181c91f35
+Dorel S, Guilhem G, Couturier A, Hug F (2012) Adjustment of muscle coordination during an
+all-out sprint cycling task. Med Sci Sports Exerc 44(11):2154–2164. https://doi.org/10.1249/
+MSS.0b013e3182625423
+Driss T, Vandewalle H, Quièvre J, Miller C, Monod H (2001) Effects of external loading on power
+output in a squat jump on a force platform: a comparison between strength and power athletes
+and sedentary individuals. J Sports Sci 19(2):99–105
+Dugan EL, Doyle TLA, Humphries B, Hasson CJ, Newton RU (2004) Determining the optimal
+load for jump squats: a review of methods and calculations. J Strength Conditioning Res 18
+(3):668–674
+Ferretti G, Gussoni M, Di Prampero PE, Cerretelli P (1987) Effects of exercise on maximal
+instantaneous muscular power of humans. J Appl Physiol 62(6):2288–2294
+Fox EL, Mathews DK (1974) Interval training: conditioning for sports and general ﬁtness. In:
+Saunders WB (eds) Philadelphia, pp 257–258
+92
+P. Samozino
+
+
+<!-- Page 97 -->
+Giroux C, Rabita G, Chollet D, Guilhem G (2015) What is the best method for assessing lower
+limb force-velocity relationship? Int J Sports Med 36(2):143–149. https://doi.org/10.1055/s-
+0034-1385886
+Giroux C, Rabita G, Chollet D, Guilhem G (2016) Optimal balance between force and velocity
+differs among world-class athletes. J Appl Biomech 32(1):59–68. https://doi.org/10.1123/jab.
+2015-0070
+Glatthorn JF, Gouge S, Nussbaumer S, Stauffacher S, Impellizzeri FM, Mafﬁuletti NA (2011)
+Validity and reliability of Optojump photoelectric cells for estimating vertical jump height.
+J Strength Conditioning Res 25(2):556–560. https://doi.org/10.1519/JSC.0b013e3181ccb18d
+Gray R, Start K, Glenross D (1962) A test of leg power. Res Q 33:44–50
+Gülch RW (1994) Force-velocity relations in human skeletal muscle. Int J Sports Med 15(Suppl
+1):S2–S10
+Harman EA, Rosenstein MT, Frykman PN, Rosenstein RM (1990) The effects of arms and
+countermovement on vertical jumping. Med Sci Sports Exerc 22(6):825–833
+Harman EA, Rosenstein MT, Frykman PN, Rosenstein RM, Kraemer WJ (1991) Estimation of
+human power output from vertical jump. J Appl Sport Sci Res 5(3):116–120
+Harris NK, Cronin JB, Hopkins WG (2007) Power outputs of a machine squat-jump across a
+spectrum of loads. J Strength Conditioning Res 21(4):1260–1264
+Hill AV (1938) The heat of shortening and the dynamic constants of muscle. Proc R Soc Lond B
+Biol Sci 126B:136–195
+Hintzy F, Belli A, Grappe F, Rouillon JD (1999) Optimal pedalling velocity characteristics during
+maximal and submaximal cycling in humans. Eur J Appl Physiol Occup Physiol 79(5):
+426–432
+Hopkins WG, Schabort EJ, Hawley JA (2001) Reliability of power in physical performance tests.
+Sports Med 31(3):211–234
+James RS, Navas CA, Herrel A (2007) How important are skeletal muscle mechanics in setting
+limits on jumping performance? J Exp Biol 210(Pt 6):923–933
+Janssen WG, Bussmann HB, Stam HJ (2002) Determinants of the sit-to-stand movement: a review.
+Phys Ther 82(9):866–879
+Jaric S (2015) Force-velocity relationship of muscles performing multi-joint maximum perfor-
+mance tasks. Int J Sports Med 36(9):699–704. https://doi.org/10.1055/s-0035-1547283
+Jaric S (2016a) Two-load method for distinguishing between muscle force, velocity, and
+power-producing capacities. Sports Med. https://doi.org/10.1007/s40279-016-0531-z
+Jaric S (2016b) Two-load method for distinguishing between muscle force, velocity, and
+power-producing capacities. Sports Med 46(11):1585–1589. https://doi.org/10.1007/s40279-
+016-0531-z
+Jaric S, Markovic G (2009) Leg muscles design: the maximum dynamic output hypothesis. Med
+Sci Sports Exerc 41(4):780–787
+Jimenez-Reyes
+P,
+Samozino
+P,
+Pareja-Blanco
+F,
+Conceicao
+F,
+Cuadrado-Penaﬁel
+V,
+Gonzalez-Badillo JJ, Morin JB (2016) Validity of a simple method for measuring
+force-velocity-power proﬁle in countermovement jump. Int J Sports Physiol Perform. https://
+doi.org/10.1123/ijspp.2015-0484
+Johnson DL, Bahamonde R (1996) Power output estimate in university athletes. J Strength
+Conditioning Res 10(3):161–166
+Kaneko M, Fuchimoto T, Toji H, Suei K (1983) Training effect of different loads on the
+force-velocity relationship and mechanical power output in human muscle. Scand J Sports Sci
+5(2):50–55
+Kannus P (1994) Isokinetic evaluation of muscular performance: implications for muscle testing
+and rehabilitation. Int J Sports Med 15(Suppl 1):S11–S18
+Kawamori N, Rossi SJ, Justice BD, Haff EE, Pistilli EE, O’Bryant HS, Stone MH, Haff GG (2006)
+Peak force and rate of force development during isometric and dynamic mid-thigh clean pulls
+performed at various intensities. J Strength Conditioning Res 20(3):483–491. https://doi.org/
+10.1519/18025.1
+4
+A Simple Method for Measuring Lower Limb Force, Velocity …
+93
+
+
+<!-- Page 98 -->
+Lara AJ, Abian J, Alegre LM, Jimenez L, Aguado X (2006a) Assessment of power output in jump
+tests for applicants to a sports sciences degree. J Sports Med Phys Fitness 46(3):419–424
+Lara AJ, Alegre LM, Abian J, Jimenez L, Urena A, Aguado X (2006b) The selection of a method
+for estimating power output from jump performance. J Hum Mov Stud 50:399–410
+Lutz GJ, Rome LC (1994) Built for jumping: the design of the frog muscular system. Science
+263(5145):370–372
+Macaluso A, De Vito G (2003) Comparison between young and older women in explosive power
+output and its determinants during a single leg-press action after optimisation of load. Eur J
+Appl Physiol 90(5–6):458–463
+Mak MK, Levin O, Mizrahi J, Hui-Chan CW (2003) Joint torques during sit-to-stand in healthy
+subjects and people with Parkinson’s disease. Clin Biomech (Bristol, Avon) 18(3):197–206.
+doi:S0268003302001912 [pii]
+Marey JE, Demeny G (1885) Locomotion humaine, mécanisme du saut. Comptes rendus des
+séances de l’Académies des Sciences; séance du 24 août 1885, vol 101. Institut de France,
+Académies des Sciences, Paris
+Margaria R, Aghemo P, Rovelli E (1966) Measurement of muscular power (anaerobic) in man.
+J Appl Physiol 21(5):1662–1664
+Markovic G, Vuk S, Jaric S (2011) Effects of jump training with negative versus positive loading
+on jumping mechanics. Int J Sports Med 32:1–8
+Marsh RL (1994) Jumping ability of anuran amphibians. Adv Vet Sci Comp Med 38B:51–111
+Martin JC, Wagner BM, Coyle EF (1997) Inertial-load method determines maximal cycling power
+in a single exercise bout. Med Sci Sports Exerc 29(11):1505–1512
+McBride JM, Triplett-McBride T, Davie A, Newton RU (2002) The effect of heavy- vs. light-load
+jump squats on the development of strength, power, and speed. J Strength Conditioning Res
+16(1):75–82
+McCartney N, Heigenhauser GJ, Sargeant AJ, Jones NL (1983) A constant-velocity cycle
+ergometer for the study of dynamic muscle function. J Appl Physiol 55(1 Pt 1):212–217
+McCartney N, Obminski G, Heigenhauser GJ (1985) Torque-velocity relationship in isokinetic
+cycling exercise. J Appl Physiol 58(5):1459–1462
+McMaster DT, Gill N, Cronin J, McGuigan M (2014) A brief review of strength and ballistic
+assessment methodologies in sport. Sports Med 44(5):603–623. https://doi.org/10.1007/
+s40279-014-0145-2
+Morin JB, Samozino P, Bonnefoy R, Edouard P, Belli A (2010) Direct measurement of power
+during one single sprint on treadmill. J Biomech 43(10):1970–1975
+Morin JB, Samozino P (2016) Interpreting power-force-velocity proﬁles for individualized and
+speciﬁc training. Int J Sports Physiol Perform 11(2):267–272
+Padulo J, Migliaccio GM, Ardigo LP, Leban B, Cosso M, Samozino P (2017) Lower limb force,
+velocity, power capabilities during leg press and squat movements. Int J Sports Med. http://doi.
+org/10.1055/s-0043-118341
+Palmieri G, Callegari M, Fioretti S (2015) Analytical and multibody modeling for the power
+analysis of standing jumps. Comput Methods Biomech Biomed Engin 18(14):1564–1573.
+https://doi.org/10.1080/10255842.2014.930135
+Pearson SJ, Cobbold M, Harridge SD (2004) Power output of the lower limb during variable
+inertial loading: a comparison between methods using single and repeated contractions. Eur J
+Appl Physiol 92(1–2):176–181
+Rabita G, Dorel S, Slawinski J, Saez de villarreal E, Couturier A, Samozino P, Morin JB (2015)
+Sprint mechanics in world-class athletes: a new insight into the limits of human locomotion.
+Scand J Med Sci Sports. doi:https://doi.org/10.1111/sms.12389
+Rahmani A, Dalleau G, Viale F, Belli A, Lacour JR (1998) Mesure de la force dynamique par un
+test ballistique. Science et Sports 13:241–242
+Rahmani A, Dalleau G, Viale F, Hautier CA, Lacour JR (2000) Validity and reliability of a
+kinematic device for measuring the force developed during squatting. J Appl Biomech 16:
+26–35
+94
+P. Samozino
+
+
+<!-- Page 99 -->
+Rahmani A, Locatelli E, Lacour JR (2004) Differences in morphology and force/velocity
+relationship between Senegalese and Italian sprinters. Eur J Appl Physiol 91(4):399–405
+Rahmani A, Viale F, Dalleau G, Lacour JR (2001) Force/velocity and power/velocity relationships
+in squat exercise. Eur J Appl Physiol 84(3):227–232
+Riviere JR, Rossi J, Jimenez-Reyes P, Morin JB, Samozino P (2017) Where does the
+one-repetition maximum exist on the force-velocity relationship in squat? Int J Sports Med.
+http://doi.org/10.1055/s-0043-116670
+Samozino P, Edouard P, Sangnier S, Brughelli M, Gimenez P, Morin JB (2014) Force-velocity
+proﬁle: imbalance determination and effect on lower limb ballistic performance. Int J Sports
+Med 35(6):505–510. https://doi.org/10.1055/s-0033-1354382
+Samozino P, Horvais N, Hintzy F (2007) Why does power output decrease at high pedaling rates
+during sprint cycling? Med Sci Sports Exerc 39(4):680–687
+Samozino P, Morin JB, Hintzy F, Belli A (2008) A simple method for measuring force, velocity
+and power output during squat jump. J Biomech 41(14):2940–2945
+Samozino P, Rejc E, Di Prampero PE, Belli A, Morin JB (2012) Optimal force-velocity proﬁle in
+ballistic movements. Altius: citius or fortius? Med Sci Sports Exerc 44(2):313–322
+Sargeant AJ, Hoinville E, Young A (1981) Maximum leg force and power output during
+short-term dynamic exercise. J Appl Physiol 51(5):1175–1182
+Sargent LW (1924) Some observations on the Sargent test of neuromuscular efﬁciency. Am Phys
+Educ Rev 29:47–56
+Sayers SP, Harackiewicz DV, Harman EA, Frykman PN, Rosenstein MT (1999) Cross-validation
+of three jump power equations. Med Sci Sports Exerc 31(4):572–577
+Scholz MN, Bobbert MF, Knoek van Soest AJ (2006) Scaling and jumping: gravity loses grip on
+small jumpers. J Theor Biol 240(4):554–561
+Seck D, Vandewalle H, Decrops N, Monod H (1995) Maximal power and torque-velocity
+relationship on a cycle ergometer during the acceleration phase of a single all-out exercise.
+Eur J Appl Physiol Occup Physiol 70(2):161–168
+Seo DI, Kim E, Fahs CA, Rossow L, Young K, Ferguson SL, Thiebaud R, Sherk VD,
+Loenneke JP, Kim D, Lee MK, Choi KH, Bemben DA, Bemben MG, So WY (2012)
+Reliability of the one-repetition maximum test based on muscle group and gender. J Sports Sci
+Med 11(2):221–225
+Shetty AB (2002) Estimation of leg power: a two-variable model. Sports Biomech 1(2):147–155
+Suzuki S, Watanabe S, Homma S (1982) EMG activity and kinematics of human cycling
+movements at different constant velocities. Brain Res 240(2):245–258
+Thorstensson A, Grimby G, Karlsson J (1976) Force-velocity relations and ﬁber composition in
+human knee extensor muscles. J Appl Physiol 40(1):12–16
+Van Soest AJ, Bobbert MF, Van Ingen Schenau GJ (1994) A control strategy for the execution of
+explosive movements from varying starting positions. J Neurophysiol 71(4):1390–1402
+van Soest O, Casius LJ (2000) Which factors determine the optimal pedaling rate in sprint cycling?
+Med Sci Sports Exerc 32(11):1927–1934
+Vandewalle H, Peres G, Heller J, Panel J, Monod H (1987a) Force-velocity relationship and
+maximal power on a cycle ergometer. Correlation with the height of a vertical jump. Eur J Appl
+Physiol Occup Physiol 56(6):650–656
+Vandewalle H, Peres G, Monod H (1987b) Standard anaerobic exercise tests. Sports Med 4(4):
+268–289
+Verdijk LB, van Loon L, Meijer K, Savelberg HH (2009) One-repetition maximum strength test
+represents a valid means to assess leg strength in vivo in humans. J Sports Sci 27(1):59–68.
+https://doi.org/10.1080/02640410802428089
+Wilson GJ, Walshe AD, Fisher MR (1997) The development of an isokinetic squat device:
+reliability and relationship to functional performance. Eur J Appl Physiol Occup Physiol
+75(5):455–461
+Wright GA, Pustina AA, Mikat RP, Kernozek TW (2012) Predicting lower body power from
+vertical jump prediction equations for loaded jump squats at different intensities in men and
+4
+A Simple Method for Measuring Lower Limb Force, Velocity …
+95
+
+
+<!-- Page 100 -->
+women. J Strength Conditioning Res 26(3):648–655. https://doi.org/10.1519/JSC.0b013
+e3182443125
+Yamauchi J, Ishii N (2007) Relations between force-velocity characteristics of the knee-hip
+extension movement and vertical jump performance. J Strength Conditioning Res 21(3):
+703–709
+Yamauchi J, Mishima C, Fujiwara M, Nakayama S, Ishii N (2007) Steady-state force-velocity
+relation in human multi-joint movement determined with force clamp analysis. J Biomech
+40(7):1433–1442
+Yamauchi J, Mishima C, Nakayama S, Ishii N (2005) Torque-velocity relation of pedaling
+movement against stepwise increase in load. Int J Sport Health Sci 3:110–115
+Zamparo P, Antonutto G, Capelli C, di Prampero PE (2000) Effects of different after-loads and
+knee angles on maximal explosive power of the lower limbs in humans. Eur J Appl Physiol
+82(5–6):381–390
+Zamparo P, Antonutto G, Capelli C, Girardis M, Sepulcri L, di Prampero PE (1997) Effects of
+elastic recoil on maximal explosive power of the lower limbs. Eur J Appl Physiol Occup
+Physiol 75(4):289–297
+96
+P. Samozino
+

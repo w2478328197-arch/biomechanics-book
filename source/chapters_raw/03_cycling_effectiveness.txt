@@ -1,0 +1,1225 @@
+# Chapter 3: Mechanical Effectiveness and Coordination in Sprint Cycling
+
+
+<!-- Page 38 -->
+Chapter 3
+Mechanical Effectiveness
+and Coordination: New Insights
+into Sprint Cycling Performance
+Sylvain Dorel
+Abstract The pedaling task remains a multijoint task with biomechanical con-
+straints (e.g., circular trajectory of the pedal) requiring speciﬁc coordination of the
+lower-limb muscles. This chapter attempts to provide an overview of how aspects
+related to pedaling technique and muscle coordination partly account for maximal
+cycling power capability (i.e., sprint exercise). Our aim in this chapter is (i) to
+deﬁne the typical concepts involved, (ii) discuss the practical information provided
+(with some examples) and (iii) highlight the main messages for optimizing coor-
+dination and sprint performance. Provided that the dynamometer used is capable of
+dissociating the force produced by each leg with sufﬁcient temporal resolution and
+measuring the orientation of force, it is possible to analyze the pedal force proﬁle
+throughout the cycle and the capacity of the athlete to effectively orientate this
+force. Using inverse dynamics (including calculation of both muscular and non-
+muscular components) and measuring EMG activity our interpretation can clearly
+be taken to a new level by better characterizing the involvement of each muscle
+group. Despite their inherent limitations, these data represent useful information
+about the force-generating capacity of big muscle groups (extensors and ﬂexors) as
+well as about pedaling technique, especially for exercise performed at low and
+intermediate pedaling rates around which maximal power output is produced. It is
+possible in practice to identify any potential weakness in the contribution of speciﬁc
+muscle groups (extensor and ﬂexors of the hip, knee and ankle) and ﬁnally to
+characterize muscle coordination and its key role as a limiting factor of maximal
+power.
+S. Dorel (&)
+Faculty of Sport Sciences Laboratory “Movement, Interactions,
+Performance” (EA 4334), University of Nantes, Nantes, France
+e-mail: Sylvain.Dorel@univ-nantes.fr
+© Springer International Publishing AG 2018
+J.-B. Morin and P. Samozino (eds.), Biomechanics of Training and Testing,
+https://doi.org/10.1007/978-3-319-05633-3_3
+33
+
+
+<!-- Page 39 -->
+3.1
+Introduction
+As mentioned in the previous chapter, pedaling could be considered intuitive and
+hence not really dependent on complex control by the central nervous system. On the
+other hand, this remains a multijoint task with biomechanical constraints (e.g., cir-
+cular trajectory of the pedal) requiring speciﬁc coordination of the lower-limb
+muscles. The torque generated over a full crank revolution is therefore not homo-
+geneous and analysis of the torque proﬁle may indirectly give some important
+insights into the role of the main functional phases and associated muscle groups.
+Additionally, it is important to remember that the effective force (i.e., that acts
+perpendicular to the bicycle crank and thus produces a torque driving the pedal
+around in its circle) represents only one component of the total force produced at the
+shoe–pedal interface. The pedaling technique can then be characterized by the ability
+to effectively orientate the total force on the pedal. This technical aspect of pedaling
+is often evaluated using an index of mechanical effectiveness (IE), deﬁned as the
+ratio of the effective force to the total force exerted at the shoe–pedal interface during
+a complete cycle (LaFortune and Cavanagh 1983; Sanderson 1991). It is often
+suggested here that substantial differences exist between subjects regarding their
+power generation techniques. Among coaches, specialists or scientists many still
+believe and propose that this “pedaling effectiveness” would be improved by using
+some innovative training “methods.” Actually, there is no experimental evidence of
+a clear link between this parameter and endurance-cycling performance (i.e., level of
+expertise, training status, muscular efﬁciency or metabolic demand; Bini et al. 2013;
+Korff et al. 2007). Nevertheless, when power output increases up to a very high level,
+the potential relationship between mechanical effectiveness and performance
+becomes patently clear and some recent information is now available regarding the
+signiﬁcance of this index during explosive cycling exercise.
+Additionally, direct measurement of the electromyographic (EMG) activity of the
+main muscles (see, for a review, Hug and Dorel 2009) and estimation of the torque
+produced at the level of the three main joints (Hull and Jorge 1985) can provide some
+deeper understanding of the involvement and functional role of each muscle
+group. Until recently, the literature has been concerned with submaximal exercise,
+but in the last decade some signiﬁcant ﬁndings have been reported regarding sprint
+cycling. As a whole they offer a better understanding of the force, velocity and power
+indexes derived from the force–velocity cycling test. This chapter attempts to provide
+an overview of how aspects related to pedaling technique and muscle coordination
+also partly account for maximal cycling power capability (i.e., sprint exercise). We
+will propose an approach which to our mind provides a deeper understanding of the
+neuromechanical construction of sprint cycling by combining three types of analysis:
+2D pedal force, joint-speciﬁc power and EMG activity measurements. Our aim in this
+chapter is (i) to deﬁne the typical concepts involved, (ii) discuss the practical
+34
+S. Dorel
+
+
+<!-- Page 40 -->
+information provided (with some examples) and (iii) highlight the main messages
+for optimizing coordination and sprint performance.
+3.2
+Torque Proﬁle and Concept of Mechanical
+Effectiveness
+3.2.1
+Production of Power over the Pedaling Cycle
+Interpretation of the force–velocity test considering the different phases.
+Compared to submaximal exercise, the increase in mean total force produced during
+sprint cycling (i.e., over a complete crank cycle) leads to an increase in pedal force
+not only during the downstroke phase but also during the upstroke phase. Then,
+whereas a slight negative contribution is commonly observed during this second
+phase for submaximal exercise, the torque proﬁle during sprint is characterized by a
+positive impulse (Beelen et al. 1994; Dorel et al. 2010). This means that the
+contribution of the ﬂexor muscles involved in the pull-up action may largely
+increase under sprint conditions. As a consequence, although the force–velocity test
+presented in the previous chapter is classically used to assess the muscle function of
+the extensor muscles (and particularly the quadriceps), the actual participation of
+these muscle groups compared with the ﬂexor muscles has to be fully evaluated.
+To investigate the contribution of each functional cycle phase, we focused on the
+force produced in different parts of the pedaling cycle during a classical force–
+velocity test performed on a speciﬁc cycle ergometer (Lode Excalibur SportTM;
+Dorel et al. 2010). Mean values of force and power corresponding to four functional
+angular sectors of the pedaling cycle were calculated: sector 1, 330°–30° (top);
+sector 2, 30°–150° (downstroke); sector 3, 150°–210° (bottom); and sector 4, 210°–
+330° (upstroke), with 0° corresponding to the highest position of the pedal. From a
+functional standpoint, sectors 1 and 2 correspond to the sectors around the top dead
+center (TDC: ﬂexion-to-extension transition) and the main propulsive downstroke
+phases, and sectors 3 and 4 correspond to the sectors around bottom dead center
+(BDC:
+extension-to-ﬂexion
+transition)
+and
+the
+propulsive
+upstroke
+phases
+(Fig. 3.1). The results conﬁrmed that force–velocity and power–velocity charac-
+teristics in cycling mainly reﬂect the function of muscles responsible for pushing on
+the pedal during the extension phase (sectors 1 + 2, hip and knee extensors).
+Moreover, they showed an important positive contribution from the upstroke phase
+especially at low and moderate pedaling rates (Fig. 3.1). Indeed, when pedaling at
+maximal power (Pmax), almost 19% of the total power on the entire cycle is pro-
+duced during the ﬂexion phase of the lower limb (almost corresponding to sectors
+3 + 4). Additionally, signiﬁcant relationships also exist between the indexes of
+maximal force and power produced in the upstroke phase and those obtained on the
+complete revolution. Overall, these ﬁndings clearly indicate that data from all-out
+3
+Mechanical Effectiveness and Coordination: New Insights …
+35
+
+
+<!-- Page 41 -->
+cycling exercise also reﬂect the muscular capability of ﬂexor muscles involved
+during the pedal upstroke (i.e., knee and hip ﬂexors).
+Practical implications for interpreting and monitoring the force–velocity
+characteristics. In line with the previous paragraph, measurement of the contri-
+butions of both the ﬂexion and extension phases appears really pertinent to be
+included in cycling force–velocity testing procedures. Moreover, pedaling is an
+alternative cyclic task characterized by an antiphase action of both lower limbs,
+meaning that when one is pushing on the pedal (i.e., downstroke), the other is
+recovering or pulling up on the second pedal (i.e., upstroke). Due to the mechanical
+coupling between both cranks at the bottom bracket, the net crank torque results
+from these simultaneous actions on the two pedals. Consequently, it should be kept
+in mind that it is necessary to measure the torque/force with dissociated sensors on
+each crank or pedal to be able to estimate the contribution of each lower limb and
+the possible imbalance between both (Fig. 3.2). The opportunity to measure the
+mechanical output for each lower limb separately allows not only (i) evaluation of
+the global contribution of each leg but also (ii) interpretation of potential asymmetry
+by isolating the part of the cycle where this difference occurs. In the typical example
+depicted in Fig. 3.2b, we can conclude that during this submaximal exercise the
+right leg produces more force than the left and that concerns both the downstroke
+and the upstroke phases.
+From the practical point of view of training, it is interesting to describe this
+information during a classical force–velocity (F–V) test. Measuring the torque with
+sensors placed either in both pedals or both cranks the global F–V relationship can
+be expanded into two subrelationships which provide additional information on
+muscle capabilities. First, by simplifying the cycle to two main phases,
+Fig. 3.1 Left Representation of the 2D forces applied on the pedal (sagittal plan), and the four
+angular sectors considered to decompose the pedaling cycle. Total force (Ftot) produced at the
+shoe–pedal interface ant its two components: the effective force (Feff) acting perpendicularly to the
+crank and FI, acting along the crank. Right Relative contribution to the total power output (in %)
+produced during each of the four functional sectors in three pedaling conditions of the force–
+velocity relationship (below, around and above the optimal pedaling rate: Vopt, respectively).
+Adapted from Dorel et al. (2010)
+36
+S. Dorel
+
+
+<!-- Page 42 -->
+force–velocity relationships on the downstroke and upstroke can be determined to
+better identify the force and velocity capabilities of the extensor and the ﬂexor
+muscles, respectively. Second, a global force–velocity relationship can be deter-
+mined individually for each leg and ultimately expressed in its two components: the
+downstroke and upstroke phases. A typical report of F–V testing session on an elite
+sprint track cyclist describing these results is presented in Fig. 3.3. In addition to the
+global force–velocity indexes (Panel a), we can rapidly observe for this example:
+(i) a maximal force produced during the upstroke amounting to 21% of the total
+force (Panel b), (ii) global asymmetry with the left leg exhibiting higher force and
+velocity capacities resulting in higher power produced by this leg of almost 10%
+(Panel c) and ﬁnally (iii) the explanation that this asymmetry mainly results from
+the higher force, velocity and hence power produced by this leg in the upstroke
+(Panel d), meaning that it is primarily related to the properties of the ﬂexor muscles
+such as the psoas and the hamstrings. As a whole, there is a greater likelihood that
+this approach would be very useful for monitoring performance in sprint cycling
+and orienting a strength training program.
+Fig. 3.2 Two theoretical examples of the effective force proﬁles produced on each pedal and the
+corresponding net (total) effective force (i.e., crank torque equivalent) during a submaximal
+cycling exercise. Note the similarity in the shape and peak values obtained during each stroke for
+total effective force proﬁles in both examples, which does not imply that a signiﬁcant imbalance
+cannot appear between each lower limb in their relative contribution to the power in the two main
+phases of the cycle (downstroke and upstroke)
+3
+Mechanical Effectiveness and Coordination: New Insights …
+37
+
+
+<!-- Page 43 -->
+38
+S. Dorel
+
+
+<!-- Page 44 -->
+3.2.2
+Mechanical Effectiveness: The Orientation
+of Pedal Force
+The concept of mechanical effectiveness in cycling. One characteristic of the
+biomechanics of force application during cycling is that the propulsive crank torque
+is proportional to the effective force, which represents only one component of the
+total force produced at the shoe–pedal interface. Throughout a pedaling cycle, not
+only the magnitude but also the orientation of the force vector on the pedal is
+altered. Thus, in order to account for this ability to effectively orient the force on the
+pedal (i.e., so that more of the resultant force participates in the propulsive action),
+the concept of mechanical effectiveness was introduced and an index of mechanical
+effectiveness (IE) proposed almost 30 years ago (Ericson and Nisell 1988;
+Sanderson 1991). As far as the sagittal plan is concerned, it is deﬁned as the ratio
+(expressed from 0 to 1 or in %) between the magnitude of the effective force
+component (Feff) produced perpendicularly to the crank and the magnitude of the
+resultant total force (Ftot): IE(%) = (Feff  Ftot
+−1)  100 (Fig. 3.4). Note that this
+index is sometimes called the index of mechanical efﬁciency, which is not really
+appropriate because of the risk of confusing muscular efﬁciency corresponding to
+the ratio between mechanical output and metabolic demand (energy consumption).
+Note that different pedal dynamometers have been described in the literature as
+historically restricted to laboratory use (Davis and Hull 1981), but recently some
+speciﬁc prototypes (Drouet et al. 2008) or commercial devices (I-Crankset-2,
+SensixTM, Poitiers) allow both a research and training application on the ﬁeld.
+Brieﬂy, a series of strain gauges and optical encoders to record both the pedal angle
+to the crank and the crank to the vertical allow by means of trigonometry to
+calculate Ftot as well as its orientation and hence to determine Feff and IE (Fig. 3.4).
+Hence, IE has been logically proposed as an indicator of cycling skill (see detailed
+review of Bini et al. 2013), which leads us to discuss its signiﬁcance regarding
+force–velocity and power–velocity capabilities in the following sections.
+Force–velocity
+relationship
+and
+mechanical
+effectiveness.
+Regarding
+explosive sprint cycling, information on the index of mechanical effectiveness has
+JFig. 3.3 Typical detailed report of a force–velocity test performed on a cycle ergometer equipped
+with strain gauges in both cranks for an elite sprint cyclist. a Classical force–velocity and power–
+velocity relationships and the associated force, power and velocity indexes: Vmax, maximal
+pedaling rate (rpm); Vopt, optimal pedaling rate (rpm); Fmax, maximal force (N and N kg−1 of body
+mass); Pmax, maximal power (W and W kg−1 of body mass); and Pmax PIC, peak power
+corresponding to the mean of the three cycles with the highest values. b Relative contribution of
+the downstroke (0–180°) and the upstroke (180–360°) represented as two distinct global force–
+velocity relationships (ant their Fmax and Vmax) expressed in percentage of the value obtained on
+the full cycle. c force–velocity relationships and Fmax, Vmax and Pmax measured on each leg and the
+consequence in terms of asymmetry. d Analysis of the contribution of each leg referring to the two
+functional phases (expressed as force–velocity relationships also) to better evaluate the potential
+imbalance between both legs in terms of pushing action in the downstroke and pulling action in the
+upstroke
+3
+Mechanical Effectiveness and Coordination: New Insights …
+39
+
+
+<!-- Page 45 -->
+been scarce until recently. However, during submaximal exercise, it was demon-
+strated that it increases with the level of power output (Bini et al. 2013; Patterson
+and Moreno 1990; Rossato et al. 2008) and decreases with increased pedaling rate
+(Neptune and Herzog 1999; Sanderson et al. 2000). Based on these ﬁndings, IE
+may be of particular interest under sprint conditions and valuable to interpret the
+force and power changes associated with the increase in pedaling rate during force–
+velocity tests. One key question is whether the force–velocity characteristics also
+reﬂect the ability of the muscle to effectively orient the total force on the pedal. In
+the study mentioned in the previous section (Dorel et al. 2010), which speciﬁcally
+investigated this in a population of active males, we observed three important
+insights regarding the role of IE (Fig. 3.5):
+Fig. 3.4 a Picture of the instrumented force pedal equipped with the Look Keo platform and a
+retention safety strap (VélUS group, Sherbrooke University, Canada). b Exploded view of the
+pedal base assembly showing the different components measuring forces and angular displace-
+ment. c Representation of the tangential (FT) and normal (FN) components of the total force (Ftot)
+in the sagittal plane directly measured by the strain gauges. Associated with the measurement of
+pedal angle relative to the crank (b), both the effective force (Feff) and the index of mechanical
+effectiveness (IE = (Feff ∙Ftot
+−1)  100) can be calculated and expressed as a function of the crank
+angle (h measured by a second encoder). Adapted from Drouet et al. (2008); Hug et al. (2008)
+40
+S. Dorel
+
+
+<!-- Page 46 -->
+• IE values for the complete revolution (between 76 ± 4 and 73 ± 5% from 30 to
+50% of Vmax: 70–120 rpm) were very high compared with endurance cycling
+conﬁrming the idea that maximization of power output is associated with
+optimization of the total force orientation at the pedals.
+• The great reduction in IE to 35% observed at high velocities (around 190 rpm)
+highlights the difﬁculty of efﬁciently orienting the force on the pedals at these
+Fig. 3.5 Power output (a),
+total force (b, open circles),
+effective force (b, ﬁlled
+circles) and index of
+effectiveness (c) as a function
+of the pedaling rate during a
+force–velocity cycling test.
+A second-order polynomial
+was used for modeling the
+power–pedaling, total
+force–pedaling and index of
+effectiveness–pedaling rate
+relationships and linear
+regression for effective
+force–pedaling rate
+relationship. Gray lines
+(individual models, with the
+mean of individuals R2) and
+black lines (mean trend
+curves) are shown for
+information and clarity
+purposes. Power, force and
+pedaling rate are normalized
+to their maximal value
+extracted from the model
+3
+Mechanical Effectiveness and Coordination: New Insights …
+41
+
+
+<!-- Page 47 -->
+cadences, especially during the upstroke, BDC and TDC phases. Hence, this
+decrease of IE could explain, at least partially, the descending portion of the
+power–velocity relationship for high pedaling rates.
+• In line with these results, the IE–velocity relationship exhibited a high
+between-subject variability. Hence, IE appears to be a signiﬁcant explanatory
+factor for differences in power production during the upstroke and around the
+TDC at low pedaling rates (i.e., below Vopt) and during all phases at higher
+cadences.
+3.3
+Joint-Speciﬁc Power and Interest in Inverse Dynamics
+3.3.1
+Approach and Principle
+From a mechanical standpoint, the primary aim to be successful in sprint cycling is
+to produce a maximal torque at the crank level. However, it requires moving the
+lower-limb segments in such a way that the foot moves on the circular trajectory of
+the pedal. The work produced by the muscles (indirectly reﬂected by the EMG
+activity level) is then primarily used to move the segments (the thigh, the shank and
+the foot) and is ultimately transformed into mechanical work at the crank level
+(Driss and Vandewalle 2013; Hull and Jorge 1985; Kautz et al. 1994). Therefore, it
+is important to keep in mind that pedal force can be decomposed into a muscular
+component directly related to intersegmental net joint torques and a nonmuscular
+component due to gravitational and inertial effects (i.e., linked to change in
+mechanical energy of the segments; Fregly and Zajac 1996).
+A classical approach to better estimate muscular power is to evaluate the net
+muscle torque or power at each joint using the well-known inverse dynamics
+approach. This technique entails three steps: (i) choosing a biomechanical model
+and the inertial parameters of the segments, (ii) recording the joint/segment kine-
+matics and (iii) measuring the external forces applied on the lower limb of the
+cyclist (at the shoe–pedal interface). Since the pioneer studies (Gregor et al. 1985;
+Hull and Jorge 1985; van Ingen Schenau et al. 1990) important technological and
+methodological improvements in data recording and processing have been made,
+especially in the last decade, which allow assessing these parameters accurately,
+relatively quickly and easily. Modeling includes deﬁnition of the segments and the
+location of axes of rotation (joint centers). Classically, the model of the lower limb
+in cycling considers four rigid body segments (pelvis, thigh, shank and feet) linked
+by three joints (hip, knee and ankle). Because cycling movement is considered to
+mainly occur in the sagittal plane, it is reasonable to apply a 2D inverse dynamic
+procedure focusing on the efforts of joints around the transverse axis. Finally, the
+power produced at each joint is estimated by the dot product of net joint torque and
+joint angular velocity.
+42
+S. Dorel
+
+
+<!-- Page 48 -->
+3.3.2
+Information Regarding Force and Power Capabilities
+in Cycling
+The main knowledge about joint-speciﬁc power distribution during maximal
+cycling is now well established and provides a better insight into muscle coordi-
+nation (contribution of the main muscle groups), which is not apparent when only
+observing overall power/force at the pedal (Barratt et al. 2011; Elmer et al. 2011;
+Korff et al. 2009; Martin and Brown 2009; McDaniel et al. 2014). Classically, the
+power produced at the hip, knee and ankle is calculated. Ultimately, a last com-
+ponent corresponding to the effect of the power transferred across the hip joint by
+upper-body muscles can be estimated (by the dot product of the hip joint reaction
+force and linear velocity). Total muscular power is then evaluated by adding up all
+these power components, which allows observing the difference between the curves
+corresponding to pedal power and muscular power in order to appreciate the
+inﬂuence of nonmuscular variables (Fig. 3.6). A ﬁrst practical message is that the
+power measured at the pedal necessarily represents an overestimation of the mus-
+cular power really produced during the downstroke and an underestimation of the
+muscular power produced during the upstroke. Indeed, the gravitational effect
+causes the weight of the limb to always act downward, providing additional power
+to the pedal during extension but consuming power during ﬂexion. Moreover,
+depending on both the inertia of the segments and kinematics, this discrepancy may
+be also inﬂuenced by both the pedaling rate the anthropometric characteristics of
+each individual (Driss and Vandewalle 2013).
+Furthermore, the main interest is to plot the proﬁle of each joint-speciﬁc power
+in order the estimate the contribution of each action (hip, knee, ankle extension and
+ﬂexion) to total muscular power produced and to put forward in which part of the
+cycle it occurs. Using this methodology on trained endurance cyclists, Martin and
+Brown (2009) and Elmer et al. (2011) demonstrated that maximal cycling power (at
+around 120 rpm) is produced mainly by the muscles involved in hip extension and
+to a lesser extent by those involved in knee extension, knee ﬂexion and plantar
+ﬂexion (Fig. 3.6). Two main items of information should be highlighted: (i) the
+main power producers are the hip extensors with more than 40% of the power
+produced over the entire cycle, and (ii) the total power produced during the ﬂexion
+phase (i.e., upstroke) represents almost 21% of the total power, conﬁrming this
+phase as a signiﬁcant contributor (see Sect. 3.2.1). Interestingly, the knee ﬂexion
+power produced during the upstroke is almost the same as the knee extension power
+produced during the extension (*22%). Note that a small portion of power is also
+produced due to power transfer at the hip joint (5–6%), suggesting that the upper
+body may play a small role even in the seating position.
+Considering the power–velocity relationship in cycling, one main interesting
+question is to determine how the pedaling rate inﬂuences the contribution of the
+action of each joint in such a way that can explain the ascending and descending
+part of the power–velocity curve. In other words, we can wonder whether Pmax and
+the corresponding optimal velocity (Vopt) may actually match the situation where all
+3
+Mechanical Effectiveness and Coordination: New Insights …
+43
+
+
+<!-- Page 49 -->
+the power at each joint is also at its maximal level. In fact, this question is very
+complex and further studies are needed to elucidate exactly the force–velocity
+condition of each muscle group during sprint cycling. However, it is highly unlikely
+that all the muscles would be in optimal condition to produce their maximal power
+when pedaling at Vopt (Driss and Vandewalle 2013; van Soest and Casius 2000).
+Fig. 3.6 a Mean proﬁles of pedal, muscular and each joint-speciﬁc power over the crank cycle
+during the ﬁrst 3 s of isokinetic maximal cycling performed at 120 rpm. The sum of the power
+produced at all the joints plus the power transferred across the hip corresponds to total muscular
+power (adapted from Martin and Brown 2009). Note that pedal power is signiﬁcantly higher than
+muscular power during the downstroke (0–180°) and inversely during the upstroke due to the
+change in mechanical energy of the lower limb (i.e., potential and kinetic energies). b Schematic
+representation of the relative contribution (in %) of each joint action (ﬂexion and extension at the
+hip, knee and ankle) to total muscular power produced to generate maximal pedal power.
+Additional power is produced across the hip due to the involvement of upper-body musculature
+44
+S. Dorel
+
+
+<!-- Page 50 -->
+A recent study in this area (McDaniel et al. 2014) supports this after evaluating
+joint-speciﬁc power at the ankle, knee and hip during a maximal force–velocity test
+in cycling (i.e., ﬁve isokinetic exercises performed over a range of pedaling rates
+from 60 to 180 rpm). The results clearly showed that the contribution of each joint
+action to total cycling power is dependent on pedaling rate and that ankle, knee and
+hip joint power–pedaling rate relationships are very different both in their amplitude
+and shape (Fig. 3.7c). The key ﬁndings summarized in the ﬁgure are as follows:
+• as the ankle’s range of motion decreases its angular velocity is almost constant
+with the increased pedaling rate from 90 to 180 rpm (Panel A), resulting in a
+decrease in plantar ﬂexion power (Panels B and C) but a maintenance of high
+torque;
+Fig. 3.7 a Mean power produced by each joint action (extension and ﬂexion at the ankle, knee
+and hip) in relation to the pedaling rate during ﬁve isokinetic sprint cycling exercises (60–
+180 rpm). Black lines: mean trend curves (quadratic regression) are shown for information and
+clarity purposes. b Joint angular velocity under the ﬁve pedaling rate conditions. Knee and hip
+angular velocity increased with pedaling rate. (*Signiﬁcant linear relationship. a, b, c, d and e
+Signiﬁcantly different from 60, 90, 120, 150 and 180 rpm, respectively. #Signiﬁcant difference
+from all other pedaling rates.) c Relation between the power produced by individual joint actions
+and joint angular velocities during the ﬁve sprints. Mean trend curves (quadratic model) are shown
+for information. Adapted from McDaniel et al. (2014)
+3
+Mechanical Effectiveness and Coordination: New Insights …
+45
+
+
+<!-- Page 51 -->
+• the main power producers, the hip extensors, continue to increase their power
+even above 120 rpm (*Vopt of pedal power), reaching a maximal value at 150–
+180 rpm, and then signiﬁcantly increases their relative contribution under these
+power–velocity conditions;
+• the same tendency is observed for knee ﬂexion power leading to a slight
+increased contribution at the higher pedaling rate whereas knee extension power
+decreases above 120 rpm which explains that its contribution to total power
+remains nearly constant.
+The discrepancy in power–velocity relationships between the actions of joints is
+very useful to understanding how the pedaling rate induces different force–velocity
+and power–velocity constraints across the main muscle groups. It is particularly
+valuable when using sprint cycling as a muscular training or rehabilitation modality.
+Inversely, it is also interesting to adapt the modalities of the local strength training
+program (i.e., isolated single-joint exercises) when the goal is to improve cycling
+power in a speciﬁc part of the power–velocity relationship. Nevertheless, these
+joint-speciﬁc power characteristics necessarily also reﬂect the effect of pedaling rate
+on activation dynamics and muscle coordination, which are discussed in the next
+section.
+3.4
+Muscle Activity and Muscle Coordination
+Muscle coordination can be deﬁned as the distribution of activations or forces among
+individual muscles to produce a given combination of joint moments (Prilutsky
+2000) or more generally to perform a given task (Kautz et al. 2000). While the
+inverse dynamics approach provides information about this coordination, it is lim-
+ited as it does not give a direct measure of muscle force, which would represent the
+ultimate factor to understanding the muscle coordination. Indeed, the net torque
+estimated at a given joint can result from very different combinations of simulta-
+neous extension and ﬂexion torques generated by angonist and antagonist muscles.
+EMG activity is interesting here as it can be recorded on a speciﬁc muscle. EMG
+signal amplitude is mainly related to neural output from the spinal cord and, thus, to
+the number of activated motor units and their discharge rates. So, it is a means to
+have a good overview of the involvement of the main lower-limb muscles, espe-
+cially how (level of activity) and when (timing of activity) they mostly contribute.
+As a lower-extremity multijoint cyclic movement, cycling requires a speciﬁc
+muscle coordination (Hug and Dorel 2009). EMG analyses have demonstrated that
+most of the lower-limb muscle groups are involved during pedaling, each with their
+own function(s) regarding the six basic joint movements: hip extension and ﬂexion,
+knee extension and ﬂexion, and ankle plantar ﬂexion and dorsiﬂexion (Fig. 3.8).
+The coordination strategy illustrated by the sequence of muscle activations partly
+underlies the joint-speciﬁc torque and pedal effective force proﬁles presented
+previously. As a consequence, recording EMG activity can provide interesting
+46
+S. Dorel
+
+
+<!-- Page 52 -->
+information about the involvement of the different muscles and, hence, interpre-
+tation of the macroscopic cycling force and power capacities.
+3.4.1
+The Speciﬁcity of Muscle Coordination in Sprint
+Cycling
+Both EMG activity level and activation patterns of the different muscles over the
+pedaling cycle can be used to describe muscle coordination. While these data are
+well documented during submaximal cycling exercises (for a review see Hug and
+Dorel 2009), the literature regarding all-out sprint conditions is much poorer.
+Conceptually, contrary to endurance cycling during which muscles are involved at a
+submaximal level, during sprinting all the agonist muscles need to be very highly
+recruited in order to maximize total mechanical output. However, does this mean
+that all the muscles are maximally activated and produce a maximal level of force to
+produce a maximal pedal force? Studies performed in the last decade showed that it
+is not exactly the case and suggest that muscle coordination plays a key role in high
+Fig. 3.8 Schematic representation of the main lower-limb muscles involved in pedaling and their
+functions. These include the single-joint monofunctional muscles such as the gluteus maximus
+(GMax), vastus medialis (VM) and vastus lateralis (VL), psoas iliacus (PI), biceps femoris short
+head (BFs), popliteus (Pop), soleus (SOL) and tibialis anterior (TA); as well as two-joint
+bifunctional muscles such as the rectus Rectus femoris (RF), semimembranosus (SM),
+semitendinosus (ST), biceps femoris long head (BFl), gastrocnemius medialis (GM) and lateralis
+(GL). Muscles that are possibly recorded with surface EMG are GMax, TFL, VM, VL, RF, SM,
+ST, BFl, GM, GL, SOL and TA
+3
+Mechanical Effectiveness and Coordination: New Insights …
+47
+
+
+<!-- Page 53 -->
+power production and has some speciﬁcities in sprint cycling (Dorel et al. 2012;
+Wakeling et al. 2010; O’Bryan et al. 2014).
+Recent studies nicely demonstrated that increases in power during cycling from
+very low to high levels are achieved that are not matched by similar increases in
+EMG amplitude, whereas they are associated with signiﬁcant changes in timings of
+activation (Blake and Wakeling 2015). As regards sprint cycling in particular, our
+group investigated changes in the EMG amplitude and the timing of activity during
+all-out sprint pedaling by elite sprint cyclists (Dorel et al. 2012). To speciﬁcally
+answer the aforementioned questions, comparisons were made with both submaxi-
+mal exercises and maximal voluntary contractions (MVCs) performed during
+single-joint tasks (Fig. 3.9). Results showed that muscle coordination during all-out
+Fig. 3.9 a Mean (±SD) EMG patterns of the 11 lower-limb muscles and crank torque proﬁle
+(bottom right panel) for the two lots of endurance cycling (performed at 150 W, Sub150 W in red,
+and at the secondary ventilator threshold, SubVT2 in black) and one lot of all-out sprint cycling
+(Sprint in blue). The patterns correspond to an average 30 consecutive pedaling cycles (for
+Sub150 W and SubVT2) and 6–7 (for Sprint) and are expressed as a function of the crank position
+(highest pedal position: TDC = 0°). b Activity level (mean peak value of EMG pattern) of each
+muscle under the three conditions, expressed as a percentage of maximal activity recorded during
+the MVC procedure (RMSMVC). Only the statistics regarding a signiﬁcant difference between
+values measured during Sprint and RMSMVC for each muscle (on the right) are presented.
+(#P < 0.05, ##P < 0.01, ###P < 0.001.) See Fig. 3.8 for nomenclature of muscles. Adapted from
+Dorel et al. (2012) (n = 15, elite sprint cyclists: 5 women, 10 men) (Colour in online)
+48
+S. Dorel
+
+
+<!-- Page 54 -->
+sprinting is characterized by a very large increase in EMG activity level for the hip
+ﬂexors (a factor of 7–9 from 150 W submaximal condition to the sprint condition)
+and the knee ﬂexors and hip extensors (a factor of 5–7), whereas plantar ﬂexors and
+knee extensors demonstrate a lower increase (a factor of 2–3). Second, although all
+muscles greatly increase their activity during sprint cycling, the activity level failed
+to reach a maximal value for some muscles, especially for hamstrings and the gluteus
+maximus (i.e., 70–80% of peak EMG activity during MVCs), Finally, an increase in
+the duration of activity was reported for almost all of the muscle groups suggesting
+that muscle coordination represent an interesting coordination strategy during all-out
+sprinting to enhance the work generated by each muscle.
+As a whole EMG analysis in sprint cycling gives four important insights or
+conﬁrmations regarding the participation of the different muscle groups and the role
+of coordination and pedaling technique in maximal power capability:
+• the maximal level of activity observed for the quadriceps and triceps surae
+suggests that the intrinsic force-generating capacities of these muscles remain
+likely one of the most relevant factors in performance during the extension phase;
+• in addition, the greater increased activity of hip extensors and knee ﬂexors under
+sprint conditions compared with the other muscles conﬁrms the previous
+statement (Sects. 3.2 and 3.3), whereby maximal power in cycling also reﬂects
+the large contribution of both the most powerful hip extensors in the downstroke
+phase and the knee ﬂexors in the upstroke phase;
+• associated with the longer period of activation of all the muscles, these changes
+in coordination are overall a good explanation of the very high mechanical
+effectiveness reported during sprinting;
+• however, non-maximal activity level of hamstrings coupled with the important
+interindividual variability observed while they were active (and of the tibialis
+anterior and gastrocnemii) are in good agreement with the interindividual
+variability also observed in the mechanical effectiveness during the same phases
+(i.e., BDC and upstroke), suggesting a link between these variables.
+3.4.2
+Coordination of Monoarticular and Biarticular
+Muscles
+As aforementioned, the activation pattern of muscles during sprinting should
+maximize the pedal effective force, meaning that both the magnitude of the force
+vector and its orientation on the pedals should be optimized. It is important to
+understand that this is not simply achieved by increasing the activity level of the
+different agonist muscle groups. Some main points have to be underscored here to
+characterize muscle coordination in cycling and to account for the function of each
+muscle group. One important point is the fact that both monoarticular and biar-
+ticular muscles are involved, leading to some complexity. By deﬁnition biarticular
+muscles have two functions and generate a torque simultaneously on both joints
+3
+Mechanical Effectiveness and Coordination: New Insights …
+49
+
+
+<!-- Page 55 -->
+they cross. If one function corresponds to an agonist powerful action at one joint
+(e.g., hip extension during the downstroke phase for BF and SM, in addition to
+GMax), the other function generally corresponds to an antagonist action producing
+negative power at the other joint (i.e., a knee ﬂexion for BF and SM at the same
+time as knee extension occurs in this phase). A similar observation can be made for
+other biarticular muscles: the gastrocnemii and the rectus femoris.
+Interestingly, using different simulation and modeling approaches, studies have
+demonstrated that these periods of coactivation of biarticular muscles (as antago-
+nists of monoarticular muscle) are not detrimental to power production. Indeed, it is
+now widely accepted that they serve two main goals: (i) ensuring transfer of
+mechanical energy between joints and (ii) participating to effectively orient the
+force on the pedal (Fregly and Zajac 1996; Prilutsky 2000; Prilutsky and Gregory
+2000; Raasch and Zajac 1999; van Ingen Schenau et al. 1992; Zajac 2002). As an
+illustration, for the ﬁrst principle, the coactivation of calf muscles with the
+quadriceps during the downstroke phase participates in transferring a part of
+extension power at the knee to plantar ﬂexion power at the ankle. For the directional
+constraint principle, the co-activation of hamstrings with the quadriceps in the
+second part of the downstroke allows limiting the forward component of the
+resultant force on the pedal (due to knee extension torque) and then participates in
+orienting it more downward and backward (after the 90° position of the pedal),
+representing a means of enhancing effective pedal force here (i.e., better effec-
+tiveness). Accordingly, it is often considered that monoarticular muscles have an
+invariant role as primary force/power producers while biarticular muscles act pri-
+marily to transfer energy between the hip, knee and ankle in critical phases of the
+cycle and to control the direction of force production at the shoe–pedal endpoint.
+Other simulation approaches (Fregly and Zajac 1996; Kautz and Neptune 2002;
+Zajac 2002), estimating mechanical energy generation and transfer between the
+muscle, limb and crank, also highlighted the important role of the synergistic
+actions of agonist muscles crossing different joints, irrespective of whether they are
+monoarticular or biarticular muscles (i.e., coactivation of the gluteus and triceps
+surae during the downstroke phase). As the hip and knee are responsible for large
+energy transfer by accelerating the lower limb during this extension phase, the
+activation in synergy of the triceps surae allows this energy to be transferred from
+the leg to the crank. That is, much of the energy produced by the knee and hip
+extensors is delivered to the crank to produce cycling power. Some authors propose
+an interesting simpliﬁed model of muscle coordination during pedaling here, con-
+sisting of four functional muscle group controls or synergies (Hug et al. 2010;
+Raasch and Zajac 1999): (1) extensor group (hip, knee and ankle monoarticular
+extensors), (2) extension to ﬂexion transition group (hamstrings, triceps surae),
+(3) ﬂexor group (hip, knee monoarticular ﬂexors) and (4) ﬂexion to extension
+transition group (rectus femoris and tibialis anterior). Interestingly, these groups are
+almost chronologically activated in the same four functional sectors presented in
+Sect. 3.2.1 (sectors 2, 3, 4 and 1, respectively, Fig. 3.1).
+50
+S. Dorel
+
+
+<!-- Page 56 -->
+3.4.3
+Muscle Coordination and Torque–Velocity
+Relationship
+Based on the maximal force–velocity model of isolated muscle, it can be theoret-
+ically assumed that the amplitude of neural excitation arriving at the muscle
+(represented by EMG activity) should always be maximal notwithstanding the
+force–velocity condition. As for the inverse dynamic, identifying potential changes
+in the level and the timing of activity of the main muscles at different points of the
+maximal torque–velocity relationship may provide insights into how their contri-
+bution may alter and/or potential adjustments of muscle coordination. One study
+has already pointed out a modiﬁcation of muscle coordination of thigh muscles at
+high pedaling rates during sprint cycling (Samozino et al. 2007). Although they
+observed an earlier activation as a result of an increased pedaling rate which was
+suggested to compensate for the effect of electromechanical delay, they hypothe-
+sized that was not sufﬁcient to maintain an appropriate effective force proﬁle at
+pedaling rates beyond Vopt. Hence, this means that the descending part of the
+power–velocity relationship may be, at least partially, explained by a difﬁculty to
+maintain proper coordination.
+To investigate this question more precisely, we analyzed both the level and
+timing of muscle activity for 11 muscles during all-out sprinting performed at
+different points of the maximal torque–velocity relationship (from 60 to 140% of
+Vopt; Dorel et al. 2011). The results indicated that the mean activity level decreased
+with increased pedaling rate for knee ﬂexors, plantar ﬂexors and/or hip extensors
+(SOL, GM, GL, BF, SM and GMax) while there was no change for knee extensors
+(VL, VM) or dorsiﬂexors (TA). There was an increase for hip ﬂexors (RF and
+TFL). However, these ﬁndings were not accompanied by alteration of the peak
+activity level, suggesting that pedaling rate primarily inﬂuences the timing of
+activation of the muscles. Indeed, analysis of the EMG patterns showed the fol-
+lowing speciﬁc adjustments (Fig. 3.10):
+• some leg and thigh muscles (GL, GM, BF, SM, GMax) are recruited for longer
+period at lower pedaling rates than higher, reﬂecting a strategy to enhance
+mechanical output during the downstroke for the gluteus maximus, and active
+knee ﬂexion torque around the bottom dead center and the upstroke for the
+hamstrings and the gastrocnemii;
+• earlier activation of all the thigh muscles is found as the pedaling rate increases
+conﬁrming previous ﬁndings (Neptune et al. 1997; Samozino et al. 2007) but no
+change is shown for the soleus and tibial anterior and slightly later activation is
+even observed for the gastrocnemii.
+To further explore the limits to neuromuscular adaptations, we carried out an addi-
+tional experiment to investigate whether coordination changes even more when
+reaching the fastest possible pedaling movement (*Vmax). The same population of elite
+sprint cyclists performed an all-out sprint at their optimal pedaling rate (Vopt: *120 to
+130 rpm) and another close to their maximal pedaling rate (*Vmax: *210 to 240 rpm).
+3
+Mechanical Effectiveness and Coordination: New Insights …
+51
+
+
+<!-- Page 57 -->
+Again, we demonstrated the ability to maintain almost the same peak activity levels
+under Vmax conditions. Moreover, a large muscle excitation phase advance during
+Vmax was observed for all the thigh muscles (−30 to −40° of the crank cycle) but once
+again not for the leg muscles. Overall, this conﬁrms that earlier activation seems to be
+an interesting adjustment of coordination to address the growing effects of elec-
+tromechanical delay at the very high pedaling rate. Nevertheless, opposite changes in
+the timing of leg muscles compared with thigh muscles can decrease their period of
+coactivation during the downstroke phase. Since the leg muscles transmit a part of the
+knee and hip extensors’ power and energy of the segments to the crank thanks to these
+periods of coactivation (Neptune and Kautz 2001; O’Bryan et al. 2014; Raasch and
+Zajac 1999; Zajac 2002), this ﬁnding might be interpreted as a limiting factor for Vmax.
+Interestingly, the extreme decrease of the index of effectiveness (IE = Feff/Ftot) from
+66.2 ± 10% at Vopt to 11 ± 4.8% at Vmax partly reﬂects this difﬁculty at extreme
+velocities to maintain (i) proper muscle coordination and hence (ii) a substantial
+effective force in all parts of the crank cycle even though the important total force is
+still applied on the pedals (especially around BDC).
+Fig. 3.10 Mean RMS EMG envelopes (averaged over four to six consecutive cycles) for 11
+lower-limb muscles during cycling sprints performed at three extreme pedaling rates: low (60%
+Vopt * 75 rpm), optimal (100%Vopt * 130 rpm) and high (140%Vopt * 180 rpm). For ease of
+comparison the pattern of each muscle is expressed as a percentage of the peak activity recorded
+under Vopt conditions (peakRMS100%Vopt). See Fig. 3.8 for nomenclature of muscles (n = 17, elite
+sprint cyclists: 6 women, 11 men)
+52
+S. Dorel
+
+
+<!-- Page 58 -->
+In fact, the cyclical nature of movement during pedaling imposes a crucial
+constraint on the control of muscle coordination. Indeed, the higher the pedaling
+rate, the lower the time for activating and deactivating the muscles. This activation–
+deactivation dynamics becomes an issue at extreme pedaling rates because these
+processes are not instantaneous. As the relative sector during which power can be
+produced is reduced, it is now well acknowledged that this frequency constraint is
+one of the principal factors in the power decrease for pedaling rates beyond Vopt
+(Martin 2007; Neptune and Kautz 2001; van Soest and Casius 2000).
+3.5
+Practical Implications and Perspectives for Testing
+and Performance
+3.5.1
+Pedaling Effectiveness, Muscle Coordination
+and Performance: What’s the Link?
+A key challenge is to express the inﬂuence the distribution of force throughout the
+pedaling cycle, the inﬂuence mechanical effectiveness, and the inﬂuence muscle
+coordination have on the global pedaling power capability. This is quite complex
+but some recent outcomes on the ﬁeld suggest that coordination and technical
+aspects should account for a signiﬁcant part of maximal cycling performance.
+The complex case of submaximal cycling. During endurance cycling, although
+researchers and coaches commonly suggest that substantial differences exist
+between subjects regarding their power generation techniques, it appears that, for a
+given intensity–pedaling rate combination, the effective force (or torque) as well as
+IE proﬁle as a function of the crank angle are relatively stereotypical (Sanderson
+et al. 2000; van Ingen Schenau et al. 1990) and with low interindividual variability
+even between novices and experts (Hug et al. 2008; Mornieux et al. 2008;
+Sanderson 1991). At the same time, due to the concept of redundancy (Bernstein
+1967), EMG activity of the lower-limb muscles shows some between-subject
+variability, especially for the muscles involved in the critical phases of the cycle
+(TDC and upstroke phase) and those that have two functions (i.e., biarticular
+muscles; Hug et al. 2008). From the motor control point of view, muscle coordi-
+nation is suggested to depend on different cost functions such as effort (e.g.,
+metabolic demand, fatigue), neural activity and/or error variability (Prilutsky 2000).
+As a consequence, during submaximal cycling, minimization of these cost functions
+is very complex: (i) no single factor can be considered as the governing mechanism
+in muscle coordination (Kautz et al. 2000), (ii) a trade-off between these cost
+functions may exist and interactions with the biomechanical constraints of the task
+may occur (Brochner Nielsen et al. 2016) and (iii) a part of the interindividual
+variability observed could indicate that many good-enough solutions are available
+for the central nervous system to select (de Rugy et al. 2012). As a consequence, it
+3
+Mechanical Effectiveness and Coordination: New Insights …
+53
+
+
+<!-- Page 59 -->
+remains very difﬁcult though attractive to express the exact link between muscle
+coordination, torque/effectiveness proﬁles and in ﬁne cycling performance during
+submaximal cycling. In other words, it is reasonable for an expert to advocate a
+speciﬁc but slightly different coordination strategy than another (expert or
+non-expert), associated with some subtle differences in the application of pedal
+force while cycling, but as yet there is practically no means of identifying clearly
+whether this coordination strategy (and associated pedaling technique) is better than
+another or whether it may be optimized. However, this does not mean that coaches
+and athletes should have no interest in analyzing pedaling technique and coordi-
+nation during this type of exercise. What matters is to isolate some factors of
+optimization and to monitor whether a potential change in pedaling technique
+would be responsible for improving this factor (e.g., (i) a signiﬁcant increase in
+muscular efﬁciency at a given level of power, (ii) lower or delayed fatigue at a given
+power allowing maintaining the task for a longer period; (iii) a reduction of a great
+bilateral imbalance to limit the risk of musculoskeletal injuries, etc.).
+Valuable inputs for sprint cycling performance. During sprint cycling, as the
+effort is maximal most of the cost functions previously mentioned may be
+insigniﬁcant, particularly if the effort is short lived and performed in the absence of
+fatigue. Interestingly, this means the motor control “challenge” can be reduced to
+simply maximizing total pedal power. The question here is whether the coordina-
+tion strategy and pedaling technique are related to improvement of the overall
+mechanical output, independently of the intrinsic mechanical properties of muscles.
+The ﬁrst evidence of this is now emerging thanks to EMG and/or pedal force
+measurements in elite athletes and under ﬁeld conditions.
+One issue when investigating this question is that commercial portable power-
+meter systems (cited in the previous chapter) do not currently allow the measure-
+ment of total pedal force and, hence, neither the index of effectiveness nor the
+contribution of each leg in net mechanical output. In this context, our group in
+collaboration with the VélUS Group from the Laboratory of Mechanical
+Engineering at Sherbrooke University in Canada used speciﬁc instrumented pedals
+to quantify for the ﬁrst time 2D pedal forces during sprint cycling performed under
+ecological conditions (on the track). Some preliminary results have been reported in
+the literature (Dorel et al. 2008, 2015; Drouet et al. 2008). The purpose of this work
+was to investigate the possible relationship between maximal force and mechanical
+effectiveness, and to analyze the potential link with chronometric performance.
+Fifteen world-class track sprint cyclists (11 men and 4 women) performed a 125 m
+all-out exercise on the track (without initial velocity- from a standing position).
+Mechanical data from instrumented pedals (i.e., forces applied on the pedals, and
+pedal and crank angular positions) allowed the effective force (Feff) and the index of
+effectiveness (IE) to be calculated. A typical record is depicted in Fig. 3.11. During
+this exercise, we demonstrated that performance over the ﬁrst 50 m was signiﬁ-
+cantly related to effective force relative to body mass produced at the beginning of
+the effort. That is, there is a signiﬁcant relationship between the 50-m time and
+maximal effective force produced during the ﬁrst cycle (Fmax) in Nkg−1;
+54
+S. Dorel
+
+
+<!-- Page 60 -->
+P < 0.001, R2 = 0.661). Regarding the biomechanics of force application, two main
+results were observed. First, the positive contribution of the upstroke phase
+amounted to 18.9 ± 2.1% (range: 14.9–21.3) of the force produced over the entire
+cycle and was signiﬁcantly related to Fmax (P < 0.001, R2 = 0.686) and to 50-m
+performance (P < 0.001, R2 = 0.782). Second, the values of IE during this ﬁrst
+cycle are extremely high (87.0 ± 1.6%; range: 83.9–89.2) and, despite a moderate
+interindividual variability, a signiﬁcant relationship was obtained between IE and
+Fmax (P < 0.001, R2 = 0.642) and to a lower extent between IE and 50-m perfor-
+mance (P < 0.05, R2 = 0.348). These ﬁndings again conﬁrm the role played by the
+ﬂexion phase in producing high force (Dorel et al. 2010; Martin and Brown 2009).
+They provided the ﬁrst scientiﬁc evidence that IE, the ability to effectively orient
+the pedal force throughout the entire crank cycle (especially during the transition
+and upstroke phases) is an important parameter affecting maximal crank torque and,
+hence, could be considered an interesting factor in 50-m performance on the ﬁeld,
+and in sprint cycling as a whole.
+Although EMG activity was not recorded during this experiment, we can rea-
+sonably argue that a large part of the variability in pedaling effectiveness observed
+between the athletes may result from signiﬁcant differences in muscle coordination.
+Indeed, even in the expert population tested on stationary ergometers in a previous
+study (Dorel et al. 2012), we already observed signiﬁcant between-subject
+Fig. 3.11 Typical evolution of total and effective forces on the left pedal (top panel) and the
+pedaling rate and total power output (i.e., sum of both pedals, bottom panel) during a speciﬁc
+125-m all-out effort from a standing start performed on the track by a world-class sprinter. The
+rectangle made up of dashed lines represents the ﬁrst stroke from a starting crank position of
+almost 60–65° up to 180° (corresponding to the downstroke) for the left pedal and the concomitant
+upstroke of the right pedal (not presented here)
+3
+Mechanical Effectiveness and Coordination: New Insights …
+55
+
+
+<!-- Page 61 -->
+variability in both the level and the duration of EMG activity, especially for the
+biarticular muscles involved during the extension–ﬂexion transition (hamstring,
+gastrocnemii) and also those acting during the upstroke. Moreover, we can assume
+that the potential difference in coordination between the athletes is certainly even
+more pronounced under speciﬁc track standing start conditions for which the ability
+to activate these muscles as high a rate as possible for as long as possible during the
+upstroke phase (i.e., to pull up the pedal more effectively) should be a key factor of
+performance.
+At the same time, the difference in force-generating capacities necessarily
+inﬂuences the amount of force produced by these muscles and then may affect
+mechanical effectiveness and total pedal effective force. Nevertheless, the link
+between the amplitude of pedal effective force and (i) the cyclist’s ability to orient
+the pedal force (represented by IE), (ii) muscle coordination and ﬁnally (iii) the
+intrinsic mechanical properties of all the activated muscles remains very complex
+and the relative contribution of each component to the overall performance is not
+fully established. In a previous study (Dorel et al. 2012), the additional MVC
+procedure performed on hip, knee and ankle joints in both ﬂexion and extension
+came up with some preliminary insights. Indeed, we observed a signiﬁcant rela-
+tionship between crank torque (in Nmkg−1) produced during a sprint performed at
+80% of Vopt and the sum of the six maximal isometric torques (in Nmkg−1)
+performed on a single-joint ergometer (ContrexTM, P < 0.01, R2 = 0.458).
+Interestingly, relationships were also obtained regarding more speciﬁc phases and
+muscle groups; for instance, between the torque produced during the upstroke phase
+and the sum of the three ﬂexor maximal torques (P < 0.01, R2 = 0.504). So, even in
+an elite population of sprint cyclists, force-generating capacity remains a key factor
+of pedal force and, hence, maximal power capability. On the other hand, the values
+of the coefﬁcient of determination emphasize that almost 50% of variance in force
+during cycling is not related to intrinsic muscle properties. Although this link would
+be higher using a more speciﬁc procedure to test maximal muscle force (i.e.,
+dynamic contraction with better speciﬁcity in terms of velocity and change in
+muscle length), this clearly supports muscle coordination as the other main can-
+didate explaining much of the variance in maximal pedal force/power.
+On this point, the analysis of individual results can already give us some
+interesting information and conﬁrmation. For example, they demonstrated that the
+athlete with lower ability to generate pedal force in upstroke phase during sprint
+cycling (*12% of total force over the full cycle) was (i) among the three athletes
+with the lowest torque-generating capacities of the hip, knee and ankle ﬂexors, but
+also (ii) one who exhibited some “weakness” in the muscle coordination such as
+lower (for hamstring) or absence (for gastrocnemii) of activity at the beginning of
+the upstroke phase. As a whole, further studies are now necessary to determine
+more precisely the contribution not only of the mechanical properties of each
+muscle group but also to elucidate the general rules governing the optimization of
+muscle coordination during sprint cycling.
+56
+S. Dorel
+
+
+<!-- Page 62 -->
+3.5.2
+Outcomes Regarding the Meaning of Force–Velocity
+and Power–Velocity Relationships in Cycling
+and Perspectives for Testing and Training
+Overall, the different sections of this chapter have described the main aspects of the
+neuromechanics of multijoint sprint cycling. They provide interesting new insights
+into interpretation of the macroscopic force–velocity and power–velocity models
+detailed in Chap. 2, which makes it possible to propose new practical ways of
+improving the different qualities (i.e., Fmax, Pmax and Vmax).
+Cycling Fmax and Pmax. The maximal power capability (Pmax) is strongly cor-
+related with the maximal theoretical effective force (Fmax, see Sect. 2.3.2). First, in
+light of the above, this quality is largely dependent on the force-generating capacity
+of the lower-limb muscles and more precisely we can highlight the speciﬁc roles of:
+• The main monoarticular muscles involved during the extension phase because
+they are the main power producers: the hip extensors which contribute heavily
+and the quadriceps which are maximally activated during the most important
+powerful extension phase. The goal of improving neuromuscular capacities and
+volume by speciﬁc strength-training programs remains of major importance for
+both.
+• The plantar ﬂexors, which are mostly activated during the extension phase,
+directly produce a nonnegligible part of total muscle power at the ankle (*15%)
+and, more importantly, also ensure energy transfer between joints. These
+muscles have to be very strong to be able to transfer the heavy work generated
+by the hip and knee extensors at the shoe–pedal interface and to avoid being the
+“weakest link of the chain.”
+• All the ﬂexor muscles involved during the upstroke phase, the mechanical
+output of which can reach up to 25% of total output. Interesting opportunities to
+enhance sprint performance exist by optimizing the muscular capacity of these
+muscles (especially the knee ﬂexors, hamstrings and to a lower extent the hip
+ﬂexors and psoas iliacus by means of strength-training programs).
+Second, it is clear that intermuscular coordination is a key factor in limiting
+global power output and explaining differences that are not related to the maximum
+power from any one muscle itself. On this point we can state that:
+• All the monoarticular muscles involved have to be recruited at the highest level
+possible to enhance total muscular power and its transfer to the pedal.
+• The skill to effectively orient the pedal force (expressed by IE) especially in
+critical parts of the cycle (BDC and TDC) can help enhance effective pedal force
+in sprint cycling.
+• Pedaling effectiveness is associated with the ability to highly recruit the muscles
+responsible for the extension–ﬂexion transition (gastrocnemii and hamstrings),
+ﬂexion (hamstrings and psoas iliacus) and the ﬂexion–extension transition
+(rectus femoris, psoas iliacus and tibialis anterior).
+3
+Mechanical Effectiveness and Coordination: New Insights …
+57
+
+
+<!-- Page 63 -->
+• Despite its inherent limitations, IE is a very useful index for sprints performed at
+low cadence and high level of force (from 0 rpm to Vopt) and, hence, will
+become a very interesting tool to monitor the progress in pedaling technique
+made by an athlete and the potential beneﬁts on its force and power capabilities.
+• The power generation technique and muscle coordination should be optimized
+using speciﬁc methods such as online or postsession visual feedback of force
+production or new training devices (e.g., independent cranks that constrain the
+cyclist to activate targeted muscles; Hug et al. 2013). There is no doubt that new
+technologies and portable systems to reliably measure the orientation of pedal
+force will emerge in the near future and may have the potential to assist athletes
+and coaches in training. Such devices would provide promising perspectives to
+improve mechanical effectiveness and, hence, performance, at least for sprint
+cycling.
+Cycling Vopt or Vmax. A high value of these indexes represent the capacity to
+maintain a high level of power even at high pedaling rates. They have been
+demonstrated to be related, at least partly, to ﬁber-type distribution (see Sect. 2.3.2)
+and, speciﬁcally, the percentage of fast-twitch muscle ﬁbers in the quadriceps
+muscle (Hautier et al. 1996; McCartney et al. 1983). Based on the additional
+information described here we can propose further explanations to interpret these
+indexes and the shape of the power–velocity relationship:
+• Although the peak activity level of the different muscles is not dramatically
+altered, EMG activity patterns are clearly modiﬁed for cadences higher than Vopt
+with different changes in timing of activation for thigh and leg muscles.
+• While the pedaling rate is often considered a simple variable reﬂecting velocity
+capability, it is important to keep in mind the cyclic characteristic of the task.
+Consequently, the aforementioned adjustments in muscle coordination are lar-
+gely governed by the excitation–relaxation kinetics of the muscles involved.
+This confounding factor (called activation dynamics) necessarily limits the
+capacity of the neuromuscular system to reach pedaling rates higher than
+300 rpm in humans. Then, some of the challenge here may be reﬂected in the
+Vmax or Vopt index.
+• As pedaling rate increases, the non-muscular component due to variations in leg
+mechanical energy within one revolution also increases (especially, kinetic
+energy; Capmal and Vandewalle 2010; Driss and Vandewalle 2013). This
+necessarily results in a higher contribution of non-muscle forces to pedal
+effective force and an explanation of the alteration of its proﬁle over the com-
+plete cycle (e.g., higher torque at the end of the downstroke and very low torque
+during the upstroke). One practical consequence is that IE at a high pedaling rate
+remains difﬁcult to interpret and should be carried out with care regarding the
+optimization of coordination and, hence, performance.
+58
+S. Dorel
+
+
+<!-- Page 64 -->
+• Finally, all these factors lead to the fact that the global force–velocity rela-
+tionship in cycling cannot be considered simply as a perfect picture of
+force-velocity caracteristics of each muscle. Indeed, ankle joint velocity does not
+increase above Vopt and the associated muscles (especially, the biarticular gas-
+trocnemii) can be fully recruited without increasing their shortening velocity
+(i.e., quasiisometric contraction). At the same time, the power produced by other
+muscles like the hip extensors continues to increase for pedaling rates *150 to
+180 rpm (i.e., much higher than Vopt), while others seem to be in better
+agreement with the decreased power observed in the global cycling power–
+velocity relationship (e.g., knee extensors).
+As a whole, we can conclude that Vopt or Vmax extracted from this relationship
+and the shape of the power–velocity curve result from the complex interaction
+between the (i) force–velocity properties of the different muscles, (ii) adjustments in
+the muscle coordination of these muscles to attempt to maintain the highest
+mechanical output despite the increase in pedaling rate (by optimizing the pedal
+force orientation), and ﬁnally (iii) growing inﬂuence of two fundamental issues with
+increased pedaling rate: activation dynamics and increased variation in segmental
+energy. Even though it is of great interest from the motor control point of view, the
+possibility to optimize these neuromuscular capabilities remains to be deeply
+explored before being able to investigate the potential effect of speciﬁc training (see
+Sect. 2.3.2 and the paragraph “What about the improvement possibilities by
+training?” in Chap. 2).
+3.6
+Conclusion
+Besides assessment of the global force–velocity and power–velocity relationships in
+cycling (and associated Fmax, Vmax and Pmax) presented in Chap. 2, here it was
+described whether these qualities can be examined in more detail by (i) measuring
+mechanical output at the pedal more precisely, (ii) estimating the power produced at
+each joint and (iii) determining the level and timing of activity of the different
+muscles involved (i.e., both reﬂecting intermuscular coordination). Depending on
+the accessibility of tools and level of understanding targeted, each approach can
+give very useful outcomes with practical implications for training and testing in
+explosive cycling performance. Provided that the dynamometer is capable of dis-
+sociating the force produced by each leg with sufﬁcient temporal resolution, it is
+possible to analyze the pedal force proﬁle throughout the cycle. If the dynamometer
+allows the orientation of force to be measured, it will add interesting information
+regarding the capacity of the athlete to effectively orient the total pedal force (i.e.,
+the index of effectiveness). Despite their inherent limitations, these data greatly help
+in understanding the force-generating capacity of big muscle groups (extensors and
+ﬂexors) as well as pedaling technique, especially for exercise performed at low and
+intermediate pedaling rates (below and around Vopt). Using inverse dynamics
+3
+Mechanical Effectiveness and Coordination: New Insights …
+59
+
+
+<!-- Page 65 -->
+(including calculation of both muscular and nonmuscular components) and mea-
+suring EMG activity clearly take our interpretation to a new level by better char-
+acterizing the involvement of each muscle group. It is in practice possible to
+identify potential weaknesses in the contribution of speciﬁc muscle groups (ex-
+tensor and ﬂexors of the hip, knee and ankle) and to characterize muscle coordi-
+nation and its key role as a limiting factor of maximal power. As a whole, the
+question of optimizing muscular capacities (i.e., intrinsic mechanical properties) as
+well as muscle coordination by training procedures still remains a challenge for the
+future. For now, some of useful data presented here remain not readily available for
+all coaches and athletes. However, given the speed of technological progress and
+market developments, it is important for sport scientists, coaches and strength
+trainers interested in cycling to take ownership of these questions now. Ultimate
+objective is to be ready and able to use the data provided by these devices in a near
+future with clear objectives in terms of performance improvement.
+References
+Barratt PR, Korff T, Elmer SJ, Martin JC (2011) The effect of crank length on joint-speciﬁc power
+during maximal cycling. Med Sci Sports Exerc 43:1689–1697. https://doi.org/10.1249/MSS.
+0b013e3182125e96
+Beelen A, Sargeant AJ, Wijkhuizen F (1994) Measurement of directional force and power during
+human submaximal and maximal isokinetic exercise. Eur J Appl Physiol Occup Physiol 68
+(2):177–181
+Bernstein N (1967) Coordination and regulation of movements. Pergamon, Oxford
+Bini RR, Hume PA, Croft J, Kilding AE (2013) Pedal force effectiveness in cycling: a review of
+constraints and training effects. 2(1)
+Blake OM, Wakeling JM (2015) Muscle coordination limits efﬁciency and power output of human
+limb movement under a wide range of mechanical demands. J Neurophysiol 114(6):
+3283–3295. https://doi.org/10.1152/jn.00765.2015
+Brochner Nielsen NP, Hug F, Guével A, Fohanno V, Lardy J, Dorel S (2016) Motor adaptations to
+unilateral quadriceps fatigue during a bilateral pedaling task. Scand J Med Sci Sports. https://
+doi.org/10.1111/sms.12811
+Capmal S, Vandewalle H (2010) Interpretation of crank torque during an all-out cycling exercise at
+high pedal rate. Sports Eng 13(1):31–38. https://doi.org/10.1007/s12283-010-0051-2
+Davis RR, Hull ML (1981) Measurement of pedal loading in bicycling: II. Analysis and results.
+J Biomech 14(12):857–872
+de Rugy A, Loeb GE, Carroll TJ (2012) Muscle coordination is habitual rather than optimal.
+J Neurosci 32(21):7384–7391. https://doi.org/10.1523/jneurosci.5792-11.2012
+Dorel S, Boucher M, Fohanno V, Rao G (2015) Neuromechanics of cycling: opportunities for
+optimizing performance. In: Conference proceedings archive (33 international conference of
+biomechanics in sports), pp 1368–1373
+Dorel S, Couturier A, Lacour JR, Vandewalle H, Hautier C, Hug F (2010) Force-velocity
+relationship in cycling revisited: beneﬁt of two-dimensional pedal forces analysis. Med Sci
+Sports Exerc 42(6):1174–1183. https://doi.org/10.1249/MSS.0b013e3181c91f35
+Dorel S, Drouet JM, Hug F, Lepretre PM, Champoux Y (2008) New instrumented pedals to
+quantify 2D forces at the shoe-pedal interface in ecological conditions: preliminary study in
+elite track cyclists. Comput Methods Biomech Biomed Eng 11(S1):89–90. https://doi.org/10.
+1080/10255840802297275
+60
+S. Dorel
+
+
+<!-- Page 66 -->
+Dorel S, Guilhem G, Couturier A, Hug F (2012) Adjustment of muscle coordination during an
+all-out sprint cycling task. Med Sci Sports Exerc 44(11):2154–2164. https://doi.org/10.1249/
+MSS.0b013e3182625423
+Dorel S, Hug F, Couturier A, Guilhem G (2011) Are EMG patterns and activity levels modiﬁed at
+different points of the cycling torque-velocity relationship? In: XXIII congress of the
+international society of biomechanics, Brussels
+Driss T, Vandewalle H (2013) The measurement of maximal (anaerobic) power output on a cycle
+ergometer: a critical review. Biomed Res Int 2013:589361. https://doi.org/10.1155/2013/
+589361
+Drouet JM, Champoux Y, Dorel S (2008) Development of multi-platform instrumented force
+pedals for track cycling. In: Estivalet M, Brisson P (eds) The Engineering of Sport 7, vol 1.
+Springer, Paris, pp 263–271
+Elmer SJ, Barratt PR, Korff T, Martin JC (2011) Joint-speciﬁc power production during
+submaximal and maximal cycling. Med Sci Sports Exerc 43(10):1940–1947. https://doi.org/10.
+1249/MSS.0b013e31821b00c5
+Ericson MO, Nisell R (1988) Efﬁciency of pedal forces during ergometer cycling. Int J Sports Med
+9(2):118–122. https://doi.org/10.1055/s-2007-1024991
+Fregly BJ, Zajac FE (1996) A state-space analysis of mechanical energy generation, absorption,
+and transfer during pedaling. J Biomech 29(1):81–90
+Gregor RJ, Cavanagh PR, LaFortune M (1985) Knee ﬂexor moments during propulsion in cycling
+—a creative solution to Lombard’s Paradox. J Biomech 18(5):307–316
+Hautier CA, Linossier MT, Belli A, Lacour JR, Arsac LM (1996) Optimal velocity for maximal
+power production in non-isokinetic cycling is related to muscle ﬁbre type composition. Eur J
+Appl Physiol Occup Physiol 74(1–2):114–118
+Hug F, Boumier F, Dorel S (2013) Altered muscle coordination when pedaling with independent
+cranks. Front Physiol 4:232. https://doi.org/10.3389/fphys.2013.00232
+Hug F, Dorel S (2009) Electromyographic analysis of pedaling: a review. J Electromyogr Kinesiol
+19
+(2):182–198.
+doi:
+https://doi.org/10.1016/j.jelekin.2007.10.010 [pii]
+S1050-6411(07)
+00181-2
+Hug F, Drouet JM, Champoux Y, Couturier A, Dorel S (2008) Interindividual variability of
+electromyographic patterns and pedal force proﬁles in trained cyclists. Eur J Appl Physiol 104
+(4):667–678. https://doi.org/10.1007/s00421-008-0810-y
+Hug F, Turpin NA, Guével A, Dorel S (2010) Is interindividual variability of EMG patterns in
+trained cyclists related to different muscle synergies? J Appl Physiol 108(6):1727–1736.
+https://doi.org/10.1152/japplphysiol.01305.2009 01305.2009 [pii]
+Hull ML, Jorge M (1985) A method for biomechanical analysis of bicycle pedalling. J Biomech 18
+(9):631–644
+Kautz SA, Hull ML, Neptune RR (1994) A comparison of muscular mechanical energy
+expenditure and internal work in cycling. J Biomech 27(12):1459–1467
+Kautz SA, Neptune RR (2002) Biomechanical determinants of pedaling energetics: internal and
+external work are not independent. Exerc Sport Sci Rev 30(4):159–165
+Kautz SA, Neptune RR, Zajac FE (2000) General coordination principles elucidated by forward
+dynamics: minimum fatigue does not explain muscle excitation in dynamic tasks. Motor
+Control 4(1):75–80; discussion 97-116
+Korff T, Hunter EL, Martin JC (2009) Muscular and non-muscular contributions to maximum
+power cycling in children and adults: implications for developmental motor control. J Exp Biol
+212(Pt 5):599–603
+Korff T, Romer LM, Mayhew I, Martin JC (2007) Effect of pedaling technique on mechanical
+effectiveness and efﬁciency in cyclists. Med Sci Sports Exerc 39(6):991–995. https://doi.org/
+10.1249/mss.0b013e318043a235
+LaFortune M, Cavanagh PR (1983) Effectiveness and efﬁciency during bicycle riding. In:
+Matsui H, Kobayashi K (eds) Biomechanics VIIB: international series on biomechanics 4B.
+Human Kinetics, Champaign, IL, pp 928–936
+3
+Mechanical Effectiveness and Coordination: New Insights …
+61
+
+
+<!-- Page 67 -->
+Martin JC (2007) Muscle power: the interaction of cycle frequency and shortening velocity. Exerc
+Sport Sci Rev 35(2):74–81. https://doi.org/10.1097/jes.0b013e31803eb0a0
+Martin JC, Brown NA (2009) Joint-speciﬁc power production and fatigue during maximal cycling.
+J Biomech 42(4):474–479. doi: https://doi.org/10.1016/j.jbiomech.2008.11.015 [pii] S0021-
+9290(08)00601-5
+McCartney N, Heigenhauser GJ, Jones NL (1983) Power output and fatigue of human muscle in
+maximal cycling exercise. J Appl Physiol Respir Environ Exerc Physiol 55(1 Pt 1):218–224
+McDaniel J, Behjani NS, Elmer SJ, Brown NA, Martin JC (2014) Joint-speciﬁc power-pedaling
+rate relationships during maximal cycling. J Appl Biomech. https://doi.org/10.1123/jab.2013-
+0246
+Mornieux G, Stapelfeldt B, Gollhofer A, Belli A (2008) Effects of pedal type and pull-up action
+during cycling. Int J Sports Med 29(10):817–822
+Neptune RR, Herzog W (1999) The association between negative muscle work and pedaling rate.
+J Biomech 32(10):1021–1026
+Neptune RR, Kautz SA (2001) Muscle activation and deactivation dynamics: the governing
+properties in fast cyclical human movement performance? Exerc Sport Sci Rev 29(2):76–80
+Neptune RR, Kautz SA, Hull ML (1997) The effect of pedaling rate on coordination in cycling.
+J Biomech 30(10):1051–1058
+O’Bryan SJ, Brown NA, Billaut F, Rouffet DM (2014) Changes in muscle coordination and power
+output during sprint cycling. Neurosci Lett 576:11–16. https://doi.org/10.1016/j.neulet.2014.
+05.023
+Patterson RP, Moreno MI (1990) Bicycle pedalling forces as a function of pedalling rate and
+power output. Med Sci Sports Exerc 22(4):512–516
+Prilutsky BI (2000) Coordination of two- and one-joint muscles: functional consequences and
+implications for motor control. Mot Control 4(1):1–44
+Prilutsky BI, Gregory RJ (2000) Analysis of muscle coordination strategies in cycling. IEEE Trans
+Rehabil Eng 8(3):362–370
+Raasch CC, Zajac FE (1999) Locomotor strategy for pedaling: muscle groups and biomechanical
+functions. J Neurophysiol 82(2):515–525
+Rossato M, Bini RR, Carpes FP, Diefenthaeler F, Moro AR (2008) Cadence and workload effects
+on pedaling technique of well-trained cyclists. Int J Sports Med 29(9):746–752
+Samozino P, Horvais N, Hintzy F (2007) Why does power output decrease at high pedaling rates
+during sprint cycling? Med Sci Sports Exerc 39(4):680–687. https://doi.org/10.1249/MSS.
+0b013e3180315246
+Sanderson DJ (1991) The inﬂuence of cadence and power output on the biomechanics of force
+application during steady-rate cycling in competitive and recreational cyclists. J Sports Sci 9
+(2):191–203
+Sanderson DJ, Hennig EM, Black AH (2000) The inﬂuence of cadence and power output on force
+application and in-shoe pressure distribution during cycling by competitive and recreational
+cyclists. J Sports Sci 18(3):173–181
+van Ingen Schenau GJ, Boots PJ, de Groot G, Snackers RJ, van Woensel WW (1992) The
+constrained control offorce and position in multi-joint movements. Neuroscience 46(1):197–207
+van Ingen Schenau GJ, van Woensel WW, Boots PJ, Snackers RW, de Groot G (1990)
+Determination and interpretation of mechanical power in human movement: application to
+ergometer cycling. Eur J Appl Physiol Occup Physiol 61(1–2):11–19
+van Soest O, Casius LJ (2000) Which factors determine the optimal pedaling rate in sprint cycling?
+Med Sci Sports Exerc 32(11):1927–1934
+Wakeling JM, Blake OM, Chan HK (2010) Muscle coordination is key to the power output and
+mechanical efﬁciency of limb movements. J Exp Biol 213(3):487–492
+Zajac FE (2002) Understanding muscle coordination of the human leg with dynamical simulations.
+J Biomech 35(8):1011–1018
+62
+S. Dorel
+

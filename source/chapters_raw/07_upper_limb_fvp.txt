@@ -1,0 +1,1002 @@
+# Chapter 7: A Simple Method for Measuring Force, Velocity, Power and FV Profile of Upper Limbs
+
+
+<!-- Page 142 -->
+Chapter 7
+A Simple Method for Measuring Force,
+Velocity, Power and Force-Velocity Proﬁle
+of Upper Limbs
+Abderrahmane Rahmani, Baptiste Morel and Pierre Samozino
+Abstract Upper limb abilities can be assessed from different kinds of exercises
+(e.g., cranking, push-up, and medicine ball put test). Since the bench press is a very
+common exercise used in training routines by most athletes in many sports, its
+interest in the scientiﬁc literature raised in the past two decades. As presented in
+previous chapters during jumping or cycling, from several bench presses performed
+against different loads, coaches and athletes can simply and accurately deﬁne their
+upper limb force-velocity (F-v) proﬁle. They can estimate their theoretical maximal
+force (F0), velocity (V0) and power (Pmax). The aim of this chapter is to present the
+important points that must be taken into account to optimize the use of the bench
+press as a routine testing. In a ﬁrst part, this chapter will focus on the importance of
+taking into consideration all the mechanical inertia involved in the bench press
+exercise. Not considering the upper limb mass in the calculation of the force pro-
+duced during the exercise implies an underestimation in the F-v proﬁle that can
+reach 30% for Pmax. This could conduct to incorrect choices in the optimal load
+during training and thus limit the performance improvement. In the second part of
+this chapter, we present a simple mechanical model of the bench press to study the
+importance of the upper limb acceleration in the estimation of the force produced.
+The moving system (i.e., lifted mass and upper limbs) is modeled from rigid
+segments and the force can be determined thanks to four simple measurements: the
+vertical displacement of the lifted load, the elbow angle measured using a
+goniometer, the arm and forearm lengths and the constant horizontal position of the
+A. Rahmani (&)  B. Morel
+Laboratory “Movement, Interactions, Performance”, Department of Sport Sciences,
+Faculty of Sciences and Technologies, Le Mans University, EA 8 4334, Le Mans, France
+e-mail: abdel.rahmani@univ-lemans.fr
+P. Samozino
+Laboratoire Inter-universitaire de Biologie de la Motricité, Université de Savoie Mont Blanc,
+Campus Scientiﬁque, 73000 Le Bourget du Lac, Chambéry, France
+e-mail: pierre.samozino@univ-smb.fr
+© Springer International Publishing AG 2018
+J.-B. Morin and P. Samozino (eds.), Biomechanics of Training and Testing,
+https://doi.org/10.1007/978-3-319-05633-3_7
+139
+
+
+<!-- Page 143 -->
+hand on the barbell. The validity of this model has been conﬁrmed through
+experimental data obtained from a force platform. An important point is that the
+kinematics and kinetics of this model allow demonstrating that the acceleration of
+the moving system is similar to the one of the barbell. Finally, based on the
+previous statement, the last part of this chapter presents a simple method for
+assessing force, velocity and power during a ballistic bench press performed on a
+traditional guided barbell, based on the Newtonian laws and only three simple
+parameters: (i) upper limb mass estimated as 10% of the body mass; (ii) barbell
+ﬂight height recorded with a nylon cable tie and (iii) push-off distance measured
+with a measuring tape. Consequently, coaches and athletes could accurately
+determine their F-v proﬁle and extrapolate reliable mechanical parameters (F0, v0,
+Sfv and Pmax) in order to maximize upper limbs performance and manage training
+programs in ﬁeld conditions.
+7.1
+Introduction
+The previous chapters present various simple methods to evaluate muscle power
+capabilities and F-v proﬁle of lower limbs during ballistic push-off. The majority of
+studies focusing on lower limbs have been conducted using jumping exercises.
+While these exercises represent key movements for many sporting activities, upper
+limbs also have their importance in many activities (e.g., throwing, hitting, and
+rowing). Different methods have been proposed to assess the upper limb anaerobic
+abilities including all-out cranking exercises (Vanderthommen et al. 1997; Driss
+et al. 1998), medicine ball put test (Stockbrugger and Haennel 2001, 2003) and arm
+jump (Laffaye et al. 2014). While the validity and reliability of these tests have been
+attested, the bench press has the advantage to be one of the most common exercises
+used in training routines by most athletes in many sports. Indeed, bench press is an
+optimal training movement to increase the anterior trunk (pectoralis major and
+minor), arms (triceps brachii) and shoulders (anterior and medial deltoid) (Wilson
+et al. 1989; Barnett et al. 1995). An increasing interest to the use of the bench press
+exercise as a simple test for assessing upper limb strength is also observed in the
+scientiﬁc literature (Pearson et al. 2007; Padulo et al. 2012; Buitrago et al. 2013;
+Sreckovic et al. 2015; García-Ramos et al. 2016).
+Two sub-types of bench press exist: the traditional bench press during which the
+barbell must remain in the hands of the athlete at the end of the propulsive phase of
+the movement (i.e., the barbell is voluntarily decelerated in order to not throw it),
+and the ballistic bench press (also called ballistic bench throw) during which the
+barbell is accelerated during the whole push-off phase inducing a ﬂight phase, as
+during jumping. Whatever the considered bench press, the muscular parameters of
+the upper limbs are usually determined using force platforms (Rahmani et al. 2009;
+Young et al. 2015) or kinematic systems, such as optical encoders (Rambaud et al.
+2008; Jandaĉka and Vaverka 2009) or linear transducers (Garnacho-Castaño et al.
+2014; Sreckovic et al. 2015; García-Ramos et al. 2016).
+140
+A. Rahmani et al.
+
+
+<!-- Page 144 -->
+Considering similar loads, the ballistic bench press allows the development of
+higher values of force, velocity, power and muscle activation in comparison to the
+traditional one (Newton et al. 1996). The deceleration phase occurring during the
+traditional bench press exercise seems to be responsible for these results (Cormie
+et al. 2011). Indeed, Sánchez-Medina et al. (2010) reported that when light and
+medium loads are lifted during a traditional bench press, the deceleration at the end
+of the movement is greater than what would be expected with the unique effect of
+gravity. The net force applied to the barbell (which is the mechanical output
+measured) may so underestimate the force produced by the agonist muscles due to
+the activation of antagonist muscles, which apply force in the opposite direction to
+the load motion in order to stop the movement (Jarić et al. 1995). However, the
+ballistic bench press becomes inadequate when performed with high loads. In this
+case, the movement is not ballistic anymore and the barbell cannot be thrown.
+Despite these differences, the force-velocity proﬁles of both traditional and ballistic
+bench press are linear, allowing the determination of the parameters evoked in the
+previous chapters (the theoretical maximal force, velocity and power, and a fortiori
+the individual Sfv). Then, the choice of the type of bench press used for training or
+testing depends on the goal to achieve. Ballistic bench press is preferred during
+power training as athletes are able to generate higher values of velocity, force and
+then power with light to moderate loads. Ballistic bench press can also be con-
+sidered as more representative of ecological ballistic movements. The traditional
+bench press is by deﬁnition the only one that can be used for high loads and so to
+evaluate the one repetition maximum (1-RM).
+This chapter will focus on the upper limb evaluation from the bench press
+exercise. First, we will discuss from previous experimental data the importance of
+taking the upper limb mass into account. Then, a mechanical model of the bench
+press exercise will be presented to highlight the importance of considering the
+involved limb segment (i.e., arm and forearm). Finally, a simple method will be
+detailed to assess the upper limb abilities thanks to only three simple parameters
+(upper limb mass, barbell ﬂight height and push-off distance) that are easy to
+measure outside a laboratory and without speciﬁc devices.
+7.2
+The Force, Velocity, Power Mechanical Proﬁle
+7.2.1
+Importance of the Upper Limb Inertia During
+the Bench Press
+As previously mentioned, whatever the considered bench press exercise (i.e., tra-
+ditional vs. ballistic), the force-velocity (F-v) and power-velocity (P-v) proﬁles ﬁt
+linear and second polynomial models, respectively (Fig. 7.1; Rambaud et al. 2008;
+Sreckovic et al. 2015; García-Ramos et al. 2016). The F-v relationship and
+explosive maximal power are widely used parameters when studying the
+7
+A Simple Method for Measuring Force, Velocity, Power …
+141
+
+
+<!-- Page 145 -->
+mechanical characteristics of muscles or muscle groups. In explosive events like
+throwing, lower and upper-limb force and maximal power have been evidenced to
+contribute to the ﬁnal performance (Bourdin et al. 2010). Determining precisely the
+maximal power is then important to organize the athlete’s training.
+It should be kept in mind that mostly all studies used kinematic systems to
+investigate the muscular power. These systems enable muscular power assessment
+in terms of lifted load displacement during an exercise. From an external load, and
+Fig. 7.1 Mean force–velocity (a) and power–velocity (b) relationships taking (open circles) or
+not taking (ﬁlled circles) upper-limb mass into account
+142
+A. Rahmani et al.
+
+
+<!-- Page 146 -->
+once known its displacement and the time to reach it, mean power is estimated
+using the Newtonian laws. In order to assess kinematic parameters, the whole
+mechanical system inertia (i.e., mass of the lifted load plus the inertia of the levers
+or involved body segments) must be carefully determined to precisely calculate the
+load at which the power training is optimized (Rambaud et al. 2008). Several
+authors have shown that the force produced during single-joint extension of the
+lower limbs is underestimated if lever arm and leg inertia are not taken into account
+(Winter et al. 1981; Nelson and Duncan 1983; Rahmani et al. 1999). This can lead
+to an underestimation of the maximal power, maximal force, and maximal velocity
+extrapolated from the F-v and P-v relationships (Rahmani et al. 1999).
+In several bench press studies (Cronin et al. 2000; Shim et al. 2001; Izquierdo
+et al. 2002; Cronin and Henderson 2004; Sánchez-Medina
+et al. 2014;
+García-Ramos et al. 2016), the force was calculated on the basis of load only (i.e.,
+without taking into account the total inertia of the system load plus upper limb
+mass). This was done “to evaluate the simplest possible approach that can be used
+for routine testing” (García-Ramos et al. 2016). However, this implies that the
+upper limb mass and the effort required to accelerate it were neglected, which can,
+as discussed above, lead to an underestimation of maximal power production. This
+methodological bias would explain why mean maximal force values obtained in
+team sport players using kinematic devices (Izquierdo et al. 2002; Cronin et al.
+2003) are lower than those measured with a force platform (Wilson et al. 1991a, b,
+1994; Murphy et al. 1994).
+In order to illustrate this fact, a previous study (Rambaud et al. 2008) aimed at
+comparing the force calculated from a kinematic encoder to that simultaneously
+measured with a force platform ﬁxed under the bench (Fig. 7.2). The traditional
+bench press exercise was done under a guided horizontal barbell. Then, we
+hypothesized that forces produced on the anterioposterior and mediolateral axis
+could be neglected. The instantaneous velocity and acceleration of the barbell were
+calculated
+from
+successive
+displacement
+time-derivatives
+for
+each
+lift.
+Instantaneous force (F, in N) was calculated as follows:
+F ¼ M a þ g
+ð
+Þ þ Ff
+ð7:1Þ
+where M is the considered moving mass, g is the gravitational acceleration
+(9.81 m s−2), a is the calculated acceleration (m s−2), and Ff is the friction force
+determined by a freefall test added to the concentric phase. F was determined by
+taking only the lifted load into account (Fpeakb) or the total moving mass (lifted load
+plus upper limb mass estimated from Winter’s anthropometric tables (Winter 2009)
+(Fpeakt). The instantaneous power (in W) was calculated as the product of force and
+velocity at any given time.
+The mean mass of the upper limbs represented about 10% of the total body mass
+of the subject. Since the lifted masses ranged from 7 to 74 kg, neglecting the upper
+limb mass has obviously an impact on the force calculation. When the upper limb
+mass was ignored, the force calculated with the kinematic device, regardless the
+lifted load, was signiﬁcantly lower than the one measured with the force platform
+7
+A Simple Method for Measuring Force, Velocity, Power …
+143
+
+
+<!-- Page 147 -->
+(Fig. 7.3). This underestimation was greater for lighter loads because the relative
+contribution of the upper limb mass to the total inertia decreased as the lifted load
+increased (from 54 to 10% at 7 and 74 kg, respectively). Considering the upper
+limb mass in the force calculation, there was no difference between the forces
+directly measured with the force platform and those calculated from the Newtonian
+laws. Forces were signiﬁcantly correlated (r = 0.91; p < 0.001), close to the
+identity line (Fig. 7.4).
+7.2.2
+Consequence of the Upper Limb Inertia
+on the Force-Velocity Proﬁle
+Considering or not the upper limb mass, the F-v is signiﬁcantly linear (Fig. 7.1a,
+r = 0.75–0.98, p < 0.05), and the P-v is signiﬁcantly described by a second order
+polynomial regression (Fig. 7.1b, r = 0.88–0.99, p < 0.05). Neglecting the upper
+limb mass has an impact on the extrapolated force-velocity parameters. The
+underestimation of F0, V0, Pmax and Vopt when the upper limb is neglected is equal
+to 6, 41, 32 and 35%, respectively. Even if the difference is signiﬁcant, the
+underestimation concerning F0 is weak. This is due to the relative lower contri-
+bution of the upper limb inertia to the total inertia for the heavy lifted loads. The
+underestimation of Pmax is more problematic since this parameter is obtained at
+light lifted loads. The theoretical optimal loads corresponded to a lifted load of
+36 kg when the upper limb is considered, whereas this optimal load was about
+twice lower (15 kg) when the upper limb mass is neglected. This may have
+Fig. 7.2 A picture of the
+guided horizontal barbell used
+during the bench press
+exercise
+144
+A. Rahmani et al.
+
+
+<!-- Page 148 -->
+important consequences in explosive training since this kind of training are based
+on the optimal load at which the maximal power should be addressed (Caiozzo et al.
+1981; Kanehisa and Miyashita 1983; Kaneko et al. 1983).
+Fig. 7.3 Peak force values calculated from the kinematic sensor taking (Fpeakt; in black) and not
+taking (Fpeakb in grey) upper limb mass into account and expressed in percentage of the peak force
+values measured by the force platform, (FpeakP, reference method). Asterisk: Signiﬁcantly different
+from 100% Fpeakp (P < 0.001); Hash: Fpeakb signiﬁcantly different from Fpeakt (P < 0.001)
+Fig. 7.4 Relationship between force peak values measured with the force platform (Fpeakp) and
+peak force values calculated from data obtained with the kinematic device taking upper limb
+inertia into account (Fpeakt). The dotted line represents the identity line
+7
+A Simple Method for Measuring Force, Velocity, Power …
+145
+
+
+<!-- Page 149 -->
+7.3
+A Simple Model of the Bench Press Exercise
+7.3.1
+Importance of the Shoulder During the Bench Press
+In the context of the evaluation, the previous section insists on the importance of the
+upper limb inertia. However, the model used in the previous study considered the
+upper limb as a punctual mass, moving only vertically. Rambaud et al. (2008) did
+not give any information on the upper limb acceleration, and its importance in the
+force estimation. The bench press exercise involved two joints (the elbow and the
+shoulder) and several muscular groups (pectoralis major and minor, triceps brachii,
+anterior and medial deltoid) which are progressively involved. To dissociate each
+segment participating in the movement (i.e., arm and forearm) is thus capital to
+appreciate their respective impact in the whole movement kinematics and dynam-
+ics. A ﬁrst approach was to consider a model of the bench press including only the
+elbow joint (i.e., the shoulder and the wrist were supposed still) (Fig. 7.5). The
+force could be determined thanks to four simple measurements: the vertical dis-
+placement of the lifted load recorded by using a kinematic device, the elbow angle
+measured using a goniometer, the arm and forearm lengths estimated with the
+Winter’s table (Winter 2009) and the constant horizontal position of the hand on the
+barbell measured with a tape. However, the computer simulation of the movement
+evidenced that the sum of the arm and forearm lengths does not reach the maximal
+height at which le load is lifted (personal data). This implies that the shoulder must
+be included in the upper limb model (Fig. 7.5c).
+Fig. 7.5 Mechanical model of the upper limb: a start position. With the shoulder S supposed still,
+b the bar cannot reach the maximal height experimentally measured. A shoulder vertical
+displacement must be introduced to the model (c). E: elbow, W: wrist
+146
+A. Rahmani et al.
+
+
+<!-- Page 150 -->
+7.3.2
+A Simple Model Based on Three Segments: Shoulder,
+Arm and Forearm
+Description of the model. Since the bench press exercise was performed with a
+guided horizontal barbell, actions of the two upper limbs are assumed to be sym-
+metrical. The model had three degrees of freedom. Two revolute joints were used to
+model the shoulder and elbow rotations, and the vertical shoulder displacement (ZS)
+was represented by introducing a prismatic joint (Fig. 7.6a). The position of the
+subject’s hands was noted (x0, Z). The coordinate x0 represented the horizontal
+position of the hand, which was constant because the movement was performed
+under a vertically guided barbell. Z was the vertical displacement of the barbell and
+Z0 was the vertical position of the hand at rest relative to the horizontal axis.
+The absolute angles of the upper arm (ha) and forearm (ha + hf) were expressed
+relatively to the horizontal axis. hf was calculated from the angle measured between
+the upper arm and the forearm as hf = 180 −h, where the anatomic angle of the
+elbow h was measured by goniometry.
+Inverse kinematic model. An inverse kinematic model q was used to calculate
+the joint coordinates ha (in rad) and ZS (in m) derived from the vertical displacement
+Z and the elbow angle hf:
+q ¼
+ha
+hf
+ZS
+2
+4
+3
+5
+ð7:2Þ
+Fig. 7.6 a Mechanical model of the upper limb during the bench press exercise with 3 limb
+segments linked by 2 revolute joints and a prismatic joint: x0, horizontal position of the wrist; Z0,
+initial vertical position of the wrist relative to the horizontal axis; Z, vertical displacement of the
+lifted mass; La, upper arm length; Lf, forearm length; h: elbow angle; ha, absolute upper arm angle;
+hf, forearm angle relative to the arm position. b. Initial position of the subject: S, shoulder; E,
+elbow; W, wrist; A, orthogonal projection of the wrist on the horizontal axis; h0, initial elbow
+angle
+7
+A Simple Method for Measuring Force, Velocity, Power …
+147
+
+
+<!-- Page 151 -->
+ha and ZS were calculated from the hand coordinates which was written as
+followed:
+x0 ¼ La cos ha þ Lf cosðha þ hf Þ
+ð7:3Þ
+Z þ Z0  ZS ¼ La sin ha þ Lf sinðha þ hf Þ
+ð7:4Þ
+where La is the length of the upper arm (in m) and Lf is the length of the forearm (in
+m), both estimated from Winter’s table (Winter 2009), Z0 is the initial vertical
+position of the hand.
+The absolute angle of the arm ha (in rad) is derived from Eq. 7.3:
+ha ¼ tan1
+Bx0 þ A
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+C  x2
+0
+p
+Ax0 þ B
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+C  x2
+0
+p
+ 
+!
+ð7:5Þ
+where A ¼ La þ Lf cos hf , B ¼ Lf sin hf , C ¼ A2 þ B2.
+The vertical displacement of the shoulder is derived from Eq. 7.4. Firstly, we
+need to calculate Z0. This can be done geometrically from the rest position
+(Fig. 7.6b). Applying the Pythagoras’ theorem in the triangle SAW (A is a virtual
+point allowing to express the distance SW from the known distance), we can write:
+x2
+0 þ Z2
+0 ¼ SW2
+ð7:6Þ
+The SW side of the triangle SEW can then be expressed as:
+SW2 ¼ L2
+a þ L2
+f  2LaLf cos h0
+From Eqs. 8.4 and 8.6, Z0 can be written as:
+Z0 ¼
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+L2
+a þ L2
+f  2LaLf cos h0  x2
+0
+q
+ð7:7Þ
+ZS is then equal to:
+ZS ¼ Z þ Z0 
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+C  x2
+0
+q
+ð7:8Þ
+For details see Appendix A in (Rahmani et al. 2009).
+Acceleration of the combined center of mass. In this model, the human body is
+considered as two distinct mechanical rigid systems: (i) the moving system com-
+posed of the lifted mass M, the upper limbs (arms and forearms, the hand is not
+considered) and the shoulders (the mass of the shoulders is neglected); (ii) the
+resting system composed of the trunk, the head and the lower limbs, which are
+considered to remain ﬁxed during the bench press exercise. This latter system is not
+considered in the force calculation.
+148
+A. Rahmani et al.
+
+
+<!-- Page 152 -->
+To determine the vertical position ZG of the combined center of mass of the lifted
+mass, arms and forearms, it is necessary to calculate the vertical position of each
+center of mass of the element of the moving system (i.e., ZGM, ZGa and ZGf the
+vertical position of the lifted mass, the arm and the forearm, respectively)
+(Fig. 7.7a). ZGM, ZGa and ZGf can be written as:
+ZGM ¼ ZS þ Z0
+ð7:9Þ
+ZGa ¼ ZS þ aa sin ha
+ð7:10Þ
+ZGf ¼ ZS þ La sin ha þ af sin ha þ hf
+
+
+ð7:11Þ
+where aa and af are the position of the center of mass of the arm and the forearm
+relatively to the proximal joint, respectively. aa and af were estimated from
+Winter’s table (Winter 2009).
+Then, ZG is expressed as:
+ZG ¼ M Z þ Z0
+ð
+Þ þ 2maZGa þ 2mf ZGf
+m þ 2ma þ 2mf
+ð7:12Þ
+where ma and mf are the arm and forearm masses, respectively, determined from the
+Winter’s anthropometric tables (Winter 2009). ZG is twice derivated to calculate the
+acceleration of the combined center of mass acceleration €ZG.
+Fig. 7.7 a Diagram of the vertical position of centre of mass of the arm (ZGa), forearm (ZGf) and
+the barbell (ZGM); b Diagram of the external forces applied to the limbs and barbell system in one
+hand during the bench press exercise. FM, force produced by the subject; f, friction forces; mag,
+mfg and Mg, weights of the upper arm, forearm and lifted mass, respectively; ha, absolute angle
+relative to the horizontal axis; ha + hf, absolute angle between the upper arm and the forearm
+7
+A Simple Method for Measuring Force, Velocity, Power …
+149
+
+
+<!-- Page 153 -->
+Force calculations. The force FM produced at the shoulder during the bench
+press is then determined from the mechanical model (Fig. 7.7b) and expressed as:
+FM ¼ M€Z þ 2ma€ZGa þ 2mf €ZGf þ M þ 2ma þ 2mf
+
+
+g þ Ff
+ð7:13Þ
+where €Z; €ZGa and €ZGf are the accelerations of the lifted mass M, the arm and
+forearm segments, respectively and Ff the friction forces. ma and mf were multiplied
+by 2 to take the two upper limbs into account, assuming that the movement was
+symmetric. ZGM, ZGa and ZGf were twice derivated to determine the accelerations €Z;
+€ZGa and €ZGf , respectively.
+7.3.3
+Kinematic Parameters
+The displacement-time courses of the lifted mass Z, the moving system center of
+mass ZG, the center of mass of the arm ZGa and forearm ZGf and the shoulder ZS
+were identical but not equal to Z (Fig. 7.8). For a given lifted mass, the vertical
+difference between Z and ZG was constant throughout the bench press exercise.
+Consequently, the vertical velocity and acceleration of the combined center of mass
+and the lifted mass were identical during the bench press exercise (Fig. 7.9). The
+acceleration determined from the model followed the one measured with the force
+platform, as it is the case during squat exercise performed under a guided barbell
+(Rahmani et al. 2000). The difference at the end of the curve is mainly due to the
+software treatment (see Rahmani et al. 2009 for details). However, this part of the
+curve corresponds to the end of the vertical displacement, when upper limbs are
+Fig. 7.8 Typical vertical displacement-time curves for the lifted mass (Z + Z0), the global centre
+of mass ZG, the forearm centre of mass ZGf, the upper arm centre of mass ZGa, and the shoulder
+(ZS) during a bench press exercise with a weight of 44 kg
+150
+A. Rahmani et al.
+
+
+<!-- Page 154 -->
+stretched and decelerate the barbell. This part is out of the pushing phase and is not
+considered in the force calculation. In addition, the difference between Z and ZG
+decreases with the increase of the lifted mass. The heavier the lifted mass, the
+shorter the distance between the centers of mass of the system and of the lifted
+mass. This is due to the position of the center of mass of the moving system, which
+is always located close to the greatest mass (i.e., the lifted mass). We can assume
+that for lifted loads heavier than 74 kg, the vertical displacement of Z and ZG would
+be superimposed.
+Regarding the vertical displacement Z and ZGf, the difference between them is
+constant (0.016 ± 0.01 m) for the whole displacement-time curve, whatever the
+subject or the lifted mass. This result indicates that the elbow extension, mainly
+performed by the triceps brachii at the end of the movement, is too short to
+inﬂuence the centre of mass displacement. The movement of the forearm can then
+be considered as essentially a translation movement.
+The major part of the bench press exercise is due to the arm rotation, performed
+by the pectoralis major and the anterior deltoid. This is illustrated by the vertical
+displacement of the arm (ZGa) and the shoulder (ZS). Differences between Z and
+both ZS and ZGa followed the same proﬁle whatever the subject or the lifted mass.
+These differences increase progressively during 65% of the total displacement,
+describing the removal of the lifted mass with both arm and shoulder. After that,
+these differences remain constant until the end of the exercise. This instant of the
+movement corresponds to the alignment of the arms with the forearms. This result
+was observed for all subjects, whatever the lifted mass.
+Fig. 7.9 Typical acceleration-time curves measured by the kinematic device (€ZG) and the force
+platform (€ZP)
+7
+A Simple Method for Measuring Force, Velocity, Power …
+151
+
+
+<!-- Page 155 -->
+7.3.4
+Kinetic Parameters—Validation of the Model
+As mentioned above, the acceleration of the moving system and the one computed
+from the force platform are identical (Fig. 7.9). Consequently, there is no signiﬁcant
+difference between the force calculated from the model (FM) and the one directly
+measured with the force platform (FP). The absolute difference between the two
+values was less than 2.5% considering all the measurements for each lifted mass.
+The validity of the model is also supported by a coefﬁcient of variation lower than
+1% between the two methods. In addition, whatever the lifted mass, FM is signif-
+icantly correlated to FP (r = 0.99, p < 0.001), with a regression slope not different
+from unity, and the y-intercept of the linear regression not statistically different
+from 0 (Fig. 7.10).
+In order to be complete, FM is not statistically different from the force estimated
+by Rambaud et al. (2008) using a kinematic device (see Sect. 7.2; Table 7.1). An
+inverse dynamical model is easily constructed using the present model with the
+experimental results, allowing the determination of joint forces and torques. For
+this, determination of the acceleration of the arm and forearm is necessary. This
+kind of model could easily be used by sport scientists to identify the relative
+importance of each muscle group during bench press exercise, improving the
+understanding of upper limb injury occurrence and allowing assessing actual
+rehabilitation program efﬁciency.
+Fig. 7.10 Relationship between the force calculated from the model (FM) and the force directly
+measured with the force platform (FP). The dotted line represents the identity line
+152
+A. Rahmani et al.
+
+
+<!-- Page 156 -->
+7.4
+A Simple Method for Measuring Force, Velocity
+and Power During the Bench Press Exercise
+7.4.1
+Theoretical Bases and Equations
+This method (Rahmani et al. 2017) is based on the simple method developed by
+Samozino et al. 2008 during squat jump (see Chap. 4). So, only three simple
+parameters are required for these computations: the mass of the studied system (i.e.,
+upper limbs plus lifted mass), the vertical displacement during the freefall phase
+(h) and the vertical push-off distance (hpo) extracted from a ballistic bench press
+(Fig. 7.11). The previous assumptions are applied to this method: the acceleration
+of the barbell is representative of the studied system’s acceleration and the mass of
+the upper limbs are taken into account in the calculation of the force produced.
+Table 7.1 Mean values
+(± standard deviation) of the
+force measured with the force
+platform (FPF), and those
+estimated with the bench
+press model (FM) and using a
+kinematic device (FK) (as
+presented Sect. 7.2)
+Mass (kg)
+FPF (N)
+FM (N)
+FK (N)
+24
+621 ± 99
+619 ± 97
+620 ± 95
+34
+694 ± 95
+697 ± 95
+698 ± 96
+44
+805 ± 85
+804 ± 85
+804 ± 86
+54
+829 ± 108
+829 ± 109
+827 ± 105
+64
+875 ± 102
+875 ± 103
+875 ± 101
+74
+942 ± 91
+943 ± 91
+943 ± 93
+Fig. 7.11 The three key positions during a bench press throw performed with a guided barbell
+and the two distances (h, hPO) used in the proposed computation. a Frontal view (only one upper
+limb is represented). b Sagittal view
+7
+A Simple Method for Measuring Force, Velocity, Power …
+153
+
+
+<!-- Page 157 -->
+Since the movement is performed on a guided barbell machine with a friction
+force, the acceleration during the freefall (aff) is not the gravitational acceleration.
+Assuming the friction force is constant during the freefall, aff can be estimated with
+the second law of Newton as:
+aff ¼ g:mb þ Ff
+mb
+ð7:14Þ
+Substituting g by aff in Eqs. 4 and 8 of Samozino et al. (2008) gives:
+F ¼ mul þ b  g:mb þ Ff
+mb
+
+h
+hpo
+þ 1
+
+
+ð7:15Þ
+v ¼
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+g:mb þ Ff
+mb
+ h
+2
+s
+ð7:16Þ
+In this method, h is measured with a nylon cable tie ﬁxed around the rail of the
+guided barbell machine (Fig. 7.12) which allows a reading of the highest height
+attained by the barbell. This tie is moved upwards along the rail as the barbell is
+thrown by the athletes, but stays still in its maximal height position as the barbell
+moves downwards. Finally, hpo is measured as the difference between the initial
+position of the barbell (i.e., in contact with the security catches) and the maximal
+height attained at the end of the push-off (Fig. 7.11). All the dimensions can be
+measured using a non-ﬂexible tape, with 0.1 cm accuracy.
+Fig. 7.12 Picture of the nylon cable tie ﬁxed around the rail of the guided barbell machine at the
+rest position (a) and after the ﬂight phase (b)
+154
+A. Rahmani et al.
+
+
+<!-- Page 158 -->
+Calculating force and velocity following Eqs. 7.15 and 7.16 for bench press
+performed at different additional loads gives different points of the force-velocity
+relationship: the higher the moving mass (upper limbs mass + barbell mass), the
+higher the force and the lower the velocity, as during squat jump. F-v curves were
+then extrapolated to obtain F0 and v0, which corresponds to the intercepts of the F–v
+curve with the force and the velocity axis, respectively. The slope of the F-v linear
+relationship (Sfv) was also considered for further analysis. Values of maximal
+power of the power-velocity relationship (Pmax) were calculated as previously
+validated (Vandewalle et al. 1987; Samozino et al. 2012):
+Pmax ¼ F0  v0
+4
+ð7:17Þ
+7.4.2
+Validation of the Method
+The validity of the computation method was established by comparing (i) F and v
+obtained from the computation method to those simultaneously measured with an
+accelerometer (Myotest® Pro; Myotest SA, Sion, Switzerland) ﬁxed on the barbell;
+and (ii) the mechanical parameters extrapolated from the F-v relationships (i.e., F0,
+V0, Sfv, and Pmax) obtained from these two methods. In this study, twelve healthy
+and physically active males performed two ballistic bench presses at different loads
+(30, 40, 50, 60 and 70% of body mass). Regarding the results, the validity of the
+method is supported by the almost perfect relationships observed for the force
+(r = 0.95, p < 0.001) and the velocity (r = 0.89, p < 0.001) estimated by the two
+methods. The equations of the regression lines were not different from that of the
+identity line. The magnitude of the correlation observed for the force was in line
+with those observed during squat and countermovement jumps (r from 0.95 to 1)
+(Samozino et al. 2008; Giroux et al. 2014; Jiménez-Reyes et al. 2017). For the
+velocity, the coefﬁcient of correlation is slightly lower than those obtained for the
+force, again as previously observed during squat jumps (0.87–0.94) (Giroux et al.
+2014). Nevertheless, there is no difference between the force and the velocity
+measured by the two methods (systematic bias is around 30 N for the force, and
+0.07 m s−1 for the velocity; CV% < 10%). In addition, very high between-trials
+reliability was found for a given load by the intraclass coefﬁcient of correlation
+(ICC) higher than 0.8 for force and velocity, which is in line with those reported in
+previous studies focusing on ballistic bench press (Alemany et al. 2005) and
+classical bench press exercise (Comstock et al. 2011; Garnacho-Castaño et al.
+2014). The CV% here obtained suggested adequate absolute reliability (i.e., <10%)
+for F and v (ranging from 0.8 to 1.7% and 1.4 to 6.3%, respectively), in agreement
+with previous studies mentioned above. Thus, these results evidenced high
+between-trials reliability for the computation method.
+7
+A Simple Method for Measuring Force, Velocity, Power …
+155
+
+
+<!-- Page 159 -->
+Finally, in agreement with the accelerometer method, the relation between force
+and velocity estimated by the simple method was well described by a negative
+linear relationship (Fig. 7.13), as it was previously shown for classical bench press
+(Rambaud et al. 2008; García-Ramos et al. 2015) and bench throw (Sreckovic et al.
+2015; García-Ramos et al. 2016). The validity of the simple method was supported
+by the strong correlations of the force-velocity slope (r2 = 0.99, p < 0.001), F0
+(r2 = 0.93, p < 0.001), v0 (r2 = 0.59, p < 0.05), and Pmax (r2 = 0.87, p < 0.001; all
+not different from unity).
+7.4.3
+Limits of the Method
+To validate the method, the force and velocity estimated from Eqs. 7.15 and 7.16
+was compared to the measure simultaneously obtained with an accelerometer,
+instead of a force platform (referred as the ‘gold standard’). This choice was done
+because the accelerometer directly measures the motion of the lifted barbell,
+including the ﬂight phase. The use of a force platform presents two main disad-
+vantages. Firstly, during ballistic bench throws, the moving system (upper limbs
+and lifted mass) is split in two separate systems at the release. This makes difﬁcult
+to track the true moment of release in opposition to what happened during squat
+jump (the force platform signal is null). Secondly, a force platform monitors all the
+reaction forces occurring during the movement, also those produced from “parasite
+contractions” (e.g., lower limbs movement, abdominal muscles contraction),
+Fig. 7.13 Typical traces of F-v relationships obtained from the accelerometer method (black), the
+computation method taken all the mechanical inertia into account (white) and the computation
+method neglecting the friction forces (grey)
+156
+A. Rahmani et al.
+
+
+<!-- Page 160 -->
+making difﬁcult to estimate the net force applied to the moving system. Using an
+accelerometer has the advantage to determine precisely at which time the barbell is
+thrown and to estimate only the force developed by the upper limbs to accelerate the
+system (Comstock et al. 2011).
+Another limitation concerns the necessity to estimate the friction force due to the
+guided barbell system into account. Since the bench presses were performed under
+a vertical guided barbell, it seems important to take all the mechanical parameters
+into account, and also the friction force (Ff) due to the guided barbell system. We
+acknowledge that some coaches may not be familiar with the procedure to deter-
+mine Ff but, unfortunately, by neglecting Ff, errors on the F-v parameters could
+occur, even if more modern machines present lower friction forces. The
+force-velocity proﬁles including or not Ff in the computations for a typical indi-
+vidual are depicted in Fig. 7.13. Considering the whole experimental population, V0
+is overestimated by 16 ± 6%, F0 is underestimated by 5 ± 5% and the Sfv is
+underestimated by 25 ± 10%. Such a bias is important to consider during bench
+press since the lifted mass (including the upper limb mass) is low in comparison to
+the one lifted during a loaded squat. Another way to say it is that the proportion of
+the friction force is high when considering the sum of the forces applied to the
+system during a bench press. In the present study, the ratio between Ff and the total
+lifted mass ranges between 24% (for the lightest lifted load) and 10% (for the
+heaviest one). The variation of the ratio with the lifted loads explains why the
+estimation of the slope is the most affected when Ff is neglected. In comparison, if
+the studied movement was a squat, this ratio would be ranged between 5% (for the
+heaviest one) and 6% (for the lightest lifted load) which can explain why Ff is
+generally neglected in this case. Fortunately, the acceleration of the friction losses
+(aFf) can easily be determined by measuring the time during which the barbell is
+falling on a given displacement d. It can be assumed that the friction forces are
+constant during the falling test. So, aFf could also be considered as constant and is
+equal to:
+aFf ¼ 2  d
+t2
+ð7:18Þ
+The time t can be easily measured using a smartphone, including the build-in
+camera with a 240-Hz sampling rate, which allows to measure the time with a
+sufﬁcient accuracy and d with a non-ﬂexible measuring tape.
+7.4.4
+Practical Applications
+The model used here is identical to the one previously proposed on jump (see
+Chap. 4) and present the same practical application as those discussed in these
+studies (i.e., maximizing power production). In the same way, (García-Ramos et al.
+2016) observed that the F0 is strongly correlated with the 1-RM measured during a
+7
+A Simple Method for Measuring Force, Velocity, Power …
+157
+
+
+<!-- Page 161 -->
+bench press exercise (r = 0.92–0.94). The force-velocity relationship is then useful
+to assess the upper-body maximal capabilities to generate force, velocity, and
+power.
+Warm up. As indicated in Chap. 5, after 5–10 min of a typical general warm-up
+(e.g., running or cycling), speciﬁc warm-up has to include ballistic bench throws
+with a progressive increase in the intensity (for example: 10 submaximal reps at
+20 kg, 8 at 30 kg, 6 at 40 kg, 4 at 50 kg, 3 at 60 kg, 2 at 70 kg). Throwing the
+barbell with the upper limb is not a “natural” movement, and apprehension of this
+type of movement should be eliminated to ensure the best conditions for assessing
+objectively the force and power abilities of an individual. Obviously a familiar-
+ization session should be scheduled if athletes are not accustomed to ballistic bench
+press.
+Push-off distance. A major concern should be addressed to correctly determine
+the push-off distance (hpo). Participants laid supine on the bench. The barbell was
+positioned across their chest at nipple level above the pectoralis major, supported
+by the lower mechanical stops of the measurement device (5 cm above the chest).
+Participants held the barbell choosing the most comfortable position. This handgrip
+was determined during the warm-up and must be marked on the barbell with tape to
+ensure reproducibility. hpo was measured as the difference between the initial
+position of the barbell (i.e., in contact with the security catches) and the maximal
+height attained after the push-off (Fig. 7.11). To reach this latter distance, partici-
+pants were asked to tense maximally their upper limb, including the shoulder
+antepulsion. The movement should be done as smoothly as possible and the back
+should stay in contact with the bench.
+Starting position. During the validation of the method, participants were asked
+to cross their legs to standardize the position and to avoid the inﬂuence of the
+ground reaction force resulting from lower limbs pushing on the ﬂoor. This is
+recommended during testing but is not mandatory during real training which can be
+done as desired. That being said, since the method is based on the hpo measured
+under a guided barbell, the force, velocity and power determination remains
+identical whatever the considered starting position. A practical point that should be
+taken into account may concern the starting position of the barbell. This one is
+generally positioned across the individual’s chest at nipple level above the pec-
+toralis major (5 cm above the chest). It could be preferable to start the ballistic
+bench press from a higher height (a comfortable height such as 10 or 15 cm). In this
+way, the athlete is in a more comfortable and optimal position to overcome the
+greatest inertia mainly encountered at the beginning of the movement (especially,
+for the heaviest lifted loads or for participants who are not accustomed to ballistic
+bench press).
+Individualization of training. Considering strength training programs, the simple
+method proposed here for the bench press can be used to compare athletes, to
+monitor, and to individualize training from their F-v proﬁle and the requirements of
+the task. Figure 7.14 shows very high differences in F-v relationships among young
+158
+A. Rahmani et al.
+
+
+<!-- Page 162 -->
+high-level basket-ball players of the same age with a higher variability in V0 than in
+F0 values. We can observe that players who presented the highest maximal force (F0)
+were not those who produced the highest force at high movement velocities (V0).
+When strength training aims at improving ballistic upper limb extensions (e.g., to
+improve explosive passes or long distance shots), it is more efﬁcient to focus on
+increasing V0 than F0, notably given that a basket ball weighs *600 g. So, in this
+context, players who present high F0 values need velocity based strength training.
+Conversely, players with high V0 values should follow training focusing on the entire
+F-v spectrum. This highlights the large interest for sport practitioners to determine
+F-v proﬁles for individualizing strength training of upper limbs.
+7.5
+Conclusion
+This chapter presents simple methods to evaluate the upper limb force during bench
+press exercise. A particular attention should be brought to the different inertia
+involved during the bench press exercise. To neglect the upper limb mass in the
+force calculation leads to an underestimation of the force, and a fortiori of the
+maximal power an individual can produce. This has the consequence of underes-
+timating the optimal load at which the training program should be performed.
+A simple model of the bench press exercise demonstrates that the acceleration of
+the moving system (lifted mass plus upper limb mass) is similar to the acceleration
+of the barbell. Consequently, the inverse kinetic model demonstrated a great
+validity in the force estimation thanks to four simple measurements: the vertical
+Fig. 7.14 Force-velocity relationships obtained using the simple method on young high level
+French basket-ball players who performed bench throws at different loads. The grey areas highlight
+the high inter-individual variability in maximal force (F0) and velocity (V0) capabilities
+7
+A Simple Method for Measuring Force, Velocity, Power …
+159
+
+
+<!-- Page 163 -->
+displacement of the lifted load, the elbow angle, the lengths of the arm and forearm
+and the horizontal position of the hand. The comparison of the force calculated
+from this model and the one measured with a force platform shows no signiﬁcant
+difference between the two scores.
+This leads to evaluate a simple method to assess the force, velocity and power
+produced during a ballistic bench press performed outside a laboratory, thanks to
+the Newtonian laws and only three simple parameters: (i) the upper limb mass
+estimated as 10% of the body mass, (ii) the barbell ﬂight height recorded thanks to a
+nylon cable tie and (iii) the push-off distance measured with a measuring tape. The
+method developed for jumping exercise is also valid to estimate the mechanical
+properties of the upper limb with only slight adaptations (i.e., taking into account
+the upper limb mass and friction forces). Consequently, coaches and athletes could
+accurately determine their F-v proﬁles, extrapolate reliable mechanical parameters
+(F0, V0, Sfv and Pmax) in order to maximize upper limbs performance and manage
+and individualize training programs in ﬁeld conditions.
+References
+Alemany JA, Pandorf CE, Montain SJ, Castellani JW, Tuckow AP, Nindl BC (2005) Reliability
+assessment of ballistic jump squats and bench throws. J Strength Cond Res 19:33–38. https://
+doi.org/10.1519/14783.1
+Barnett C, Kippers V, Turner P (1995) Effects of variations of the bench press exercise on the
+EMG activity of ﬁve shoulder muscles. J Strength Cond Res 9:222–227. https://doi.org/10.
+1519/00124278-199511000-00003
+Bourdin M, Rambaud O, Dorel S, Lacour JR, Moyen B, Rahmani A (2010) Throwing
+performance is associated with muscular power. Int J Sports Med 31:505–510. https://doi.org/
+10.1055/s-0030-1249622
+Buitrago S, Wirtz N, Yue Z, Klienider H, Mester J (2013) Mechanical load and physiological
+responses of four different resistance training methods in bench press exercise. J Strength Cond
+Res 27:1091–1100
+Caiozzo VJ, Perrine JJ, Edgerton VR (1981) Training-induced alterations of the in vivo
+force-velocity relationship of human muscle. J Appl Physiol 51:750–754
+Comstock BA, Solomon-Hill G, Flanagan SD, Earp JE, Luk HY, Dobbins KA, Dunn-Lewis C,
+Fragala MS, Ho J-Y, Hatﬁeld DL, Vingren JK, Denegar CR, Volek JS, Kupchak BR,
+Maresh CM, Kraemer WJ (2011) Validity of the Myotest in measuring force and power
+production in the squat and bench press. J Strength Cond Res 25:2293–2297
+Cormie P, McGuigan MR, Newton RU (2011) Developing maximal neuromuscular power: Part 2
+training considerations for improving maximal power production. Sport Med 41:125–146.
+https://doi.org/10.2165/11538500-000000000-00000
+Cronin JB, Henderson ME (2004) Maximal strength and power assessment in novice weight
+trainers. J Strength Cond Res 18:48–52
+Cronin JB, McNair PJ, Marshall RN (2000) The role of maximal strength and load on initial power
+production.
+Med
+Sci
+Sports
+Exerc
+32:1763–1769.
+https://doi.org/10.1097/00005768-
+200010000-00016
+Cronin JB, McNair PJ, Marshall RN (2003) Force-velocity analysis of strength-training techniques
+and load: implications for training strategy and research. J Strength Cond Res 17:148. https://
+doi.org/10.1519/1533-4287(2003)017<0148:FVAOST>2.0.CO;2
+160
+A. Rahmani et al.
+
+
+<!-- Page 164 -->
+Driss T, Vandewalle H, Monod H (1998) Maximal power and force-velocity relationships during
+cycling and cranking exercises in volleyball players: correlation with the vertical jump test.
+J Sports Med Phys Fitness 38:286–293
+García-Ramos A, Jaric S, Padial P, Feriche B (2015) Force-velocity relationship of upper-body
+muscles: traditional vs. ballistic bench press. J Appl Biomech 1–44. doi:https://doi.org/10.
+1123/jab.2015-0162
+García-Ramos A, Jaric S, Padial P, Feriche B (2016) Force-velocity relationship of upper body
+muscles: traditional versus ballistic bench press. J Appl Biomech 32:178–185. doi:https://doi.
+org/10.1123/jab.2015-0162
+Garnacho-Castaño MV, López-Lastra S, Maté-Muñoz JL (2014) Reliability and validity
+assessment of a linear position transducer. J Sport Sci Med 14:128–136
+Giroux C, Rabita G, Chollet D, Guilhem G (2014) What is the best method for assessing lower
+limb force-velocity relationship? Int J Sports Med 36:143–149. https://doi.org/10.1055/s-0034-
+1385886
+Izquierdo M, Häkkinen K, Gonzalez-Badillo JJ, Ibanez J, Gorostiaga EM (2002) Effects of
+long-term training speciﬁcity on maximal strength and power of the upper and lower
+extremities in athletes from different sports. Eur J Appl Physiol 87:264–271. https://doi.org/10.
+1007/s00421-002-0628-y
+Jandaĉka D, Vaverka F (2009) Validity of mechanical power output measurement at bench press
+exercise. J Hum Kinet 21:33–40. https://doi.org/10.2478/v10078
+Jarić S, Ropret R, Kukolj M, Ilić DB (1995) Role of agonist and antagonist muscle strength in
+performance of rapid movements. Eur J Appl Physiol Occup Physiol 71:464–468. https://doi.
+org/10.1007/BF00635882
+Jiménez-Reyes
+P,
+Samozino
+P,
+Pareja-Blanco
+F,
+Conceiçao
+F,
+Cuadrado-Penaﬁel
+V,
+Gonzales-Badillo JJ, Morin JB (2017) Validity of a simple method for measuring
+force-velocity-power proﬁle in countermovement jump. Int J Sports Physiol Perform 12:36–
+43. https://doi.org/10.1123/IJSPP.2015-0484
+Kanehisa H, Miyashita M (1983) Speciﬁcity of velocity in strength training. Eur J Appl Physiol
+Occup Physiol 52:104–106. https://doi.org/10.1007/BF00429034
+Kaneko M, Fuchimoto T, Toji H, Suei K (1983) Training effect of different loads on the
+force-velocity relationship and mechanical power output in human muscle. Scand J Sport Sci
+5:50–55
+Laffaye G, Collin JM, Levernier G, Padulo J (2014) Upper-limb power test in rock-climbing. Int J
+Sports Med 35:670–675. https://doi.org/10.1055/s-0033-1358473
+Murphy AJ, Wilson GJ, Pryor JF (1994) Use of the iso-inertial force mass relationship in the
+prediction of dynamic human performance. Eur J Appl Physiol Occup Physiol 69:250–257.
+https://doi.org/10.1007/BF01094797
+Nelson SG, Duncan PW (1983) Correction of isokinetic and isometric torque recordings for the
+effects of gravity. A clinical report. Phys Ther 63:674–676
+Newton RU, Kraemer WJ, Hakkinen K, Humphries BJ, Murphy AJ (1996) Kinematics, kinetics,
+and muscle activation during explosive upper body movements. J Appl Biomech 12:37–43
+Padulo J, Mignogna P, Mignardi S, Tonni F, D’Ottavio S (2012) Effect of different pushing speeds
+on bench press. Int J Sports Med 33:376–380. https://doi.org/10.1055/s-0031-1299702
+Pearson S, Cronin J, Hume P, Slyﬁeld D (2007) Kinematic and kinetics of the bech press and bench
+pull exerises in a strength trained sporting population. Symp A Q J Mod Foreign Lit, 27–30
+Rahmani A, Belli A, Kostka T, Dalleau G, Bonnefoy M, Lacour J-R (1999) Evaluation of knee
+extensor muscles under non-isokinetic conditions in elderly subjects. J Appl Biomech 15:337–
+344. https://doi.org/10.1123/jab.15.3.337
+Rahmani A, Dalleau G, Viale F, Hautier CA, Lacour J-R (2000) Validity and reliability of a
+kinematic device for measuring the force developed during squatting. J Appl Biomech 16:26–35
+Rahmani A, Rambaud O, Bourdin M, Mariot JP (2009) A virtual model of the bench press
+exercise. J Biomech 42:1610–1615. https://doi.org/10.1016/j.jbiomech.2009.04.036
+7
+A Simple Method for Measuring Force, Velocity, Power …
+161
+
+
+<!-- Page 165 -->
+Rahmani A, Samozino P, Morin J-B, Morel B (2017) A simple method for assessing upper limb
+force-velocity proﬁle in bench press. Int J Sports Physiol Perform 1–23. doi:https://doi.org/10.
+1123/ijspp.2016-0814
+Rambaud O, Rahmani A, Moyen B, Bourdin M (2008) Importance of upper-limb inertia in
+calculating concentric bench press force. J Strength Cond Res 22:383–389. https://doi.org/10.
+1519/JSC.0b013e31816193e7
+Samozino P, Morin JB, Hintzy F, Belli A (2008) A simple method for measuring force, velocity
+and power output during squat jump. J Biomech 41:2940–2945. https://doi.org/10.1016/j.
+jbiomech.2008.07.028
+Samozino P, Rejc E, Di Prampero PE, Belli A, Morin JB (2012) Optimal force-velocity proﬁle in
+ballistic movements-Altius: Citius or Fortius? Med Sci Sports Exerc 44:313–322. https://doi.
+org/10.1249/MSS.0b013e31822d757a
+Sánchez-Medina L, Perez CE, Gonzalez-Badillo JJ (2010) Importance of the propulsive phase in
+strength assessment. Int J Sports Med 31:123–129. https://doi.org/10.1055/s-0029-1242815
+Sánchez-Medina L, González-Badillo JJ, Pérez CE, Pallarés JG (2014) Velocity- and power-load
+relationships of the bench pull vs bench press exercises. Int J Sports Med 35:209–216. https://
+doi.org/10.1055/s-0033-1351252
+Shim a L, Bailey ML, Westings SH (2001) Development of a ﬁeld test for upper-body power.
+J Strength Cond Res 15:192–197. doi:https://doi.org/10.1519/1533-4287(2001)015<0192:
+DOAFTF>2.0.CO;2
+Sreckovic S, Cuk I, Djuric S, Nedeljkovic A, Mirkov D, Jaric S (2015) Evaluation of force–
+velocity and power–velocity relationship of arm muscles. Eur J Appl Physiol 115:1779–1787.
+https://doi.org/10.1007/s00421-015-3165-1
+Stockbrugger B, Haennel RG (2001) Validity and reliability of a medicine ball explosive power
+test. J Strength Cond Res 15:431–438. https://doi.org/10.1519/1533-4287(2001)015<0431:
+VAROAM>2.0.CO;2
+Stockbrugger B, Haennel R (2003) Contributing factors to performance of a medicine ball
+explosive power test: a comparison between jump and nonjump athletes. J Strength Cond Res
+17:768–774. https://doi.org/10.1519/1533-4287(2003)017<0768:CFTPOA>2.0.CO;2
+Vanderthommen M, Francaux M, Johnson D, Dewan M, Lewyckyj Y, Sturbois X (1997)
+Measurement of the power output during the acceleration phase of all-out arm cranking
+exercise. Int J Sports Med 18:600–606
+Vandewalle H, Peres G, Heller J, Panel J, Monod H (1987) Force-velocity relationship and
+maximal power on a cycle ergometer - Correlation with the height of a vertical jump. Eur J
+Appl Physiol Occup Physiol 56:650–656. doi:https://doi.org/10.1007/BF00424805
+Wilson G, Elliott BC, Kerr GK (1989) Bar path and force proﬁle characteristics for maximal and
+submaximal loads in the bench press. Int J Sport Biomech 21:450–462. https://doi.org/10.1123/
+ijsb.5.4.390
+Wilson GJ, Elliott BC, Wood GA (1991a) The effect on performance of imposing a delay during a
+stretch-shorten cycle movement. Med Sci Sport Exerc 23:364–370. https://doi.org/10.1249/
+00005768-199103000-00016
+Wilson GJ, Wood G a, Elliott BC (1991b) Optimal stiffness of series elastic component in a
+stretch-shorten cycle activity. J Appl Physiol 70:825–833
+Wilson GJ, Murphy AJ, Pryor JF (1994) Musculotendinous stiffness: its relationship to eccentric,
+isometric, and concentric performance. J Appl Physiol 76:2714–2719
+Winter DA (2009) Biomechanics and motor control of human movement. Wiley, New York
+Winter DA, Wells RP, Orr GW (1981) Errors in the use of isokinetic dynamometers. Eur J Appl
+Physiol Occup Physiol 46:397–408. https://doi.org/10.1007/BF00422127
+Young KP, Haff GG, Newton RU, Gabbett TJ, Sheppard JM (2015) Assessment and monitoring of
+ballistic and maximal upper-body strength qualities in athletes. Int J Sports Physiol Perform
+10:232–237. https://doi.org/10.1123/ijspp.2014-0073
+162
+A. Rahmani et al.
+
